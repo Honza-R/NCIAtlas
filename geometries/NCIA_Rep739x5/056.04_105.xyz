@@ -1,0 +1,5 @@
+3
+charge=0 charge_a=0 charge_b=0 selection_a=1-2 selection_b=3 scaling=1.05 benchmark_Eint=1.763 benchmark_unit=kcal/mol group=NobleGases contact=He-H
+  F    0.655496934  -0.274524357   1.568710612
+  H    0.304496934  -0.127524357   0.728710612
+ He   -0.269784283   0.112986580  -0.645637602

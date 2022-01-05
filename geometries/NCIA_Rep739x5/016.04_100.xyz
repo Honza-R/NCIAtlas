@@ -1,0 +1,7 @@
+5
+charge=0 charge_a=0 charge_b=0 selection_a=1-3 selection_b=4-5 scaling=1.00 benchmark_Eint=3.230 benchmark_unit=kcal/mol group=PS contact=S-H
+  H    0.880172729  -2.754189816   0.122632441
+  H    0.117172729  -2.395189816  -1.621367559
+  S    0.329172729  -1.699189816  -0.494367559
+  F   -0.183805804   0.948805667   0.276048466
+  H   -0.015163890   0.078276011   0.022773866

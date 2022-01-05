@@ -1,0 +1,6 @@
+4
+charge=0 charge_a=0 charge_b=0 selection_a=1 selection_b=2-4 scaling=1.00 benchmark_Eint=1.934 benchmark_unit=kcal/mol group=NobleGases contact=Xe-N
+ Xe   -2.100000000   0.000000000   0.000000000
+  C    2.183026767  -0.000000000   0.000000000
+  H    3.248773056   0.000823658  -0.000411829
+  N    1.037970000  -0.000000000   0.000000000

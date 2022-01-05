@@ -1,0 +1,7 @@
+5
+charge=0 charge_a=0 charge_b=0 selection_a=1 selection_b=2-5 scaling=1.15 benchmark_Eint=-0.201 benchmark_unit=kcal/mol group=NobleGases contact=Kr-N
+ Kr   -1.930000000   0.000000000   0.000000000
+  N    1.585527000  -0.000000000   0.000000000
+  H    1.958713697  -0.081860999  -0.938042891
+  H    1.958422159  -0.770760850   0.539279995
+  H    1.957980271   0.852264289   0.397741301

@@ -1,0 +1,6 @@
+4
+charge=0 charge_a=0 charge_b=0 selection_a=1-2 selection_b=3-4 scaling=1.1 benchmark_Eint=-1.662 benchmark_unit=kcal/mol group=XH-Cl
+  H   -0.206302610   0.021839009   0.188682247
+ Br   -0.088763291  -0.089821309  -1.231551412
+  H    1.467617096   0.154569547   2.758466700
+ Cl    0.202175285   0.215763760   2.952992265

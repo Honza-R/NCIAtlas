@@ -1,0 +1,7 @@
+5
+charge=0 charge_a=0 charge_b=0 selection_a=1-2 selection_b=3-5 scaling=1.15 benchmark_Eint=1.796 benchmark_unit=kcal/mol group=Halogens contact=F-H
+  F    0.655496934  -0.274524357   1.568710612
+  H    0.304496934  -0.127524357   0.728710612
+  C   -1.736572575  -0.143826495  -1.045891667
+  F   -0.605469316   0.253572619  -1.448986398
+  N   -2.765726514  -0.504647421  -0.678996005

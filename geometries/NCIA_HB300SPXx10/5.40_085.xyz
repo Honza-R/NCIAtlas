@@ -1,0 +1,6 @@
+4
+charge=0 charge_a=0 charge_b=0 selection_a=1-2 selection_b=3-4 scaling=0.85 benchmark_Eint=-0.726 benchmark_unit=kcal/mol group=XH-F
+  H   -0.201340452  -0.015288357  -0.867920736
+  I    0.292571396  -0.069479531  -2.405652362
+  H    0.832433100   0.201496438   1.265353458
+  F   -0.059447343   0.109487062   1.045912754

@@ -1,0 +1,8 @@
+6
+charge=0 charge_a=0 charge_b=0 selection_a=1 selection_b=2-6 scaling=1.10 benchmark_Eint=0.404 benchmark_unit=kcal/mol group=NobleGases contact=Ne-Br
+ Ne   -1.400000000   0.000000000   0.000000000
+  C    1.761730000   0.000031630  -1.959087032
+ Br    1.761730000  -0.000000000  -0.000000000
+  H    1.761730000   1.032090397  -2.287508560
+  H    2.654768547  -0.515702488  -2.286927654
+  H    0.867662392  -0.516419539  -2.287207899

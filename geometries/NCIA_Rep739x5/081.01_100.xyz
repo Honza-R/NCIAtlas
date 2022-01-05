@@ -1,0 +1,7 @@
+5
+charge=0 charge_a=0 charge_b=0 selection_a=1 selection_b=2-5 scaling=1.00 benchmark_Eint=1.946 benchmark_unit=kcal/mol group=NobleGases contact=Ar-N
+ Ar   -1.800000000   0.000000000   0.000000000
+  N    1.147120000  -0.000000000   0.000000000
+  H    1.520306697  -0.122885092  -0.933555003
+  H    1.520015159  -0.746390659   0.572534876
+  H    1.519573270   0.868873772   0.360015180

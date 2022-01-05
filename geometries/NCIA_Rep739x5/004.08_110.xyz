@@ -1,0 +1,7 @@
+5
+charge=0 charge_a=0 charge_b=0 selection_a=1-2 selection_b=3-5 scaling=1.10 benchmark_Eint=-3.597 benchmark_unit=kcal/mol group=HCNO contact=N-H
+  F    0.655496934  -0.274524357   1.568710612
+  H    0.304496934  -0.127524357   0.728710612
+  C   -0.705556227   0.295489360  -1.688510631
+  H   -1.112025381   0.465085966  -2.658992892
+  N   -0.269723384   0.112961075  -0.645491860
