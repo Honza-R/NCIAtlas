@@ -1,6 +1,6 @@
 # Non-Covalent Interactions Atlas
 
-Non-Covalent Interactions Atlas is a collection of computational chemistry data sets of accurate interaction energies in non-covalent complexes covering different classes of non-covalent interactions in an extended chemical space.
+Non-Covalent Interactions Atlas is a collection of computational chemistry data sets of accurate interaction energies in non-covalent complexes covering different classes of interactions in an extended chemical space.
 
 More information is available at the [NCIAtlas website](http://www.nciatlas.org).
 
