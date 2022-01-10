@@ -1,9 +1,18 @@
 # Non-Covalent Interactions Atlas
 
-## Documentation
+Non-Covalent Interactions Atlas is a collection of computational chemistry data sets of accurate interaction energies in non-covalent complexes covering different classes of non-covalent interactions in an extended chemical space.
+
 More information is available at the [NCIAtlas website](http://www.nciatlas.org).
 
-## Data sets
+## Repository oganization
+
+The core part are the geometries of the systems, in the widespread .xyz format. Each geometry also includes a header with all the information necessary for performing the calculations and the benchmark interaction energy. For many applications, these files are all what is needed. The geometries for each data set are in subdirectories of the [geometries directory](https://github.com/Honza-R/NCIAtlas/tree/main/geometries).
+
+Additional data including components of the benchmark interaction energy and results of other calculations featured in the publications are provided as plain text tables in the [tables directory](https://github.com/Honza-R/NCIAtlas/tree/main/tables).
+
+All these data are also provided in a structured YAML file used by the [Cuby framework](http://cuby4.molecular.cz/). These files are located in the [dataset_definition_files directory](https://github.com/Honza-R/NCIAtlas/tree/main/dataset_definition_files).
+
+## References
 
 ### R739×5 - Repulsive contacts in an extended chemical space
 [K. Kříž, M. Nováček, J. Řezáč, J. Chem. Theory Comput., 2021, 17, 1548–1561.](https://pubs.acs.org/doi/full/10.1021/acs.jctc.0c01341)
