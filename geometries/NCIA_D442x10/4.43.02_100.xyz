@@ -1,0 +1,5 @@
+3
+charge=0 charge_a=0 charge_b=0 selection_a=1-2 selection_b=3 scaling=1.00 benchmark_Eint=-0.629 benchmark_unit=kcal/mol group=NobleGases
+ Cl    0.374913191   0.147872480  -1.624660810
+ Cl   -1.460882444   0.196896048  -0.811294454
+ Ar    0.932257993  -0.302485086   2.151359510

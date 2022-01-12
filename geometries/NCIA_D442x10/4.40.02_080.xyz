@@ -1,0 +1,5 @@
+3
+charge=0 charge_a=0 charge_b=0 selection_a=1-1 selection_b=2-3 scaling=0.80 benchmark_Eint=1.689 benchmark_unit=kcal/mol group=NobleGases
+ Xe    0.003415212   0.008928212  -2.255445780
+  F   -0.776001398  -0.087920638   0.763771799
+  F    0.568716782  -0.462730609   0.793930858

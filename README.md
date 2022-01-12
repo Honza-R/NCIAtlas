@@ -14,6 +14,12 @@ All these data are also provided in a structured YAML file used by the [Cuby fra
 
 ## References
 
+### D1200 - London dispersion in an extended chemical space
+[J. Řezáč, ChemRxiv preprint, 2022](https://doi.org/10.26434/chemrxiv-2022-pl3r8)
+
+### D442x10 - London dispersion in an extended chemical space, 10-point dissociation curves
+[J. Řezáč, ChemRxiv preprint, 2022](https://doi.org/10.26434/chemrxiv-2022-pl3r8)
+
 ### R739×5 - Repulsive contacts in an extended chemical space
 [K. Kříž, M. Nováček, J. Řezáč, J. Chem. Theory Comput., 2021, 17, 1548–1561.](https://pubs.acs.org/doi/full/10.1021/acs.jctc.0c01341)
 

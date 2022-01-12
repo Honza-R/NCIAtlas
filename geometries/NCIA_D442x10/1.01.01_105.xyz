@@ -1,0 +1,6 @@
+4
+charge=0 charge_a=0 charge_b=0 selection_a=1-2 selection_b=3-4 scaling=1.05 benchmark_Eint=-0.087 benchmark_unit=kcal/mol group=HBCNO
+  H    0.294609617   0.812273020  -1.852328373
+  H    0.056084218   0.417807318  -1.271262175
+  H   -0.406839797  -0.969501699   1.700440051
+  H    0.025778937  -0.367092857   1.693626168

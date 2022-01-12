@@ -1,0 +1,7 @@
+5
+charge=0 charge_a=0 charge_b=0 selection_a=1-3 selection_b=4-5 scaling=1.00 benchmark_Eint=-1.517 benchmark_unit=kcal/mol group=Halogens
+  O   -0.054593044  -0.155158397  -1.711761436
+  C   -1.188755007   0.023220580  -1.557723313
+  O   -2.324576398   0.202194681  -1.412011946
+ Br   -0.766575391  -0.157595479   1.897154970
+ Br    1.512076572  -0.535761322   1.812350210
