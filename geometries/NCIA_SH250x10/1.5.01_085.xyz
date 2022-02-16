@@ -1,0 +1,6 @@
+4
+charge=0 charge_a=0 charge_b=0 selection_a=1-2 selection_b=3-4 scaling=0.85 benchmark_Eint=0.394 benchmark_unit=kcal/mol group=Cl
+  F   -0.044000000   0.000000000  -1.311000000
+  F   -1.394000000   0.000000000  -1.668000000
+ Cl   -0.038900000   0.000000000   1.308700000
+ Cl    0.077100000   0.000000000   3.315700000
