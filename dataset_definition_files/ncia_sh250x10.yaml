@@ -6,7 +6,7 @@
 description: !ruby/object:ProtocolDataset::DataSetDescription 
   name: NCIA_SH250x10
   references:
-    "": ""
+    "10.26434/chemrxiv-2022-x72mz": "K. Kriz, J. Rezac, ChemRxiv preprint, 2022"
   text: "Sigma-hole interactions, 10-point dissociation curves"
   method_geometry: B3LYP-D3(BJ)/def2-QZVP minimum + scaling of closest contact distance along interaction coordinate
   method_energy: |
