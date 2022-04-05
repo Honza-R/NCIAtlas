@@ -12,6 +12,10 @@ Additional data including components of the benchmark interaction energy and res
 
 All these data are also provided in a structured YAML file used by the [Cuby framework](http://cuby4.molecular.cz/). These files are located in the [dataset_definition_files directory](https://github.com/Honza-R/NCIAtlas/tree/main/dataset_definition_files).
 
+## Data versions
+
+The data provided here are available also at the [NCIAtlas website](http://www.nciatlas.org) and as a supporting information of the individual papers. The data (molecular geometries, computed results) should be the same, but their organization, file names, etc. may differ. This repository aims to provide the data in a structure as consistent as possible across all the data sets.
+
 ## References
 
 ### D1200 - London dispersion in an extended chemical space
