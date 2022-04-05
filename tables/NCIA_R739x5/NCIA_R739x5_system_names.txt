@@ -1,0 +1,3696 @@
+# system names
+001.01_100	borane(H) ... borane(H)
+001.01_105	borane(H) ... borane(H)
+001.01_110	borane(H) ... borane(H)
+001.01_115	borane(H) ... borane(H)
+001.01_125	borane(H) ... borane(H)
+001.02_100	dihydrogen ... borane(H)
+001.02_105	dihydrogen ... borane(H)
+001.02_110	dihydrogen ... borane(H)
+001.02_115	dihydrogen ... borane(H)
+001.02_125	dihydrogen ... borane(H)
+001.03_100	dihydrogen ... dihydrogen
+001.03_105	dihydrogen ... dihydrogen
+001.03_110	dihydrogen ... dihydrogen
+001.03_115	dihydrogen ... dihydrogen
+001.03_125	dihydrogen ... dihydrogen
+001.04_100	ethyne(H) ... borane(H)
+001.04_105	ethyne(H) ... borane(H)
+001.04_110	ethyne(H) ... borane(H)
+001.04_115	ethyne(H) ... borane(H)
+001.04_125	ethyne(H) ... borane(H)
+001.05_100	ethyne(H) ... dihydrogen
+001.05_105	ethyne(H) ... dihydrogen
+001.05_110	ethyne(H) ... dihydrogen
+001.05_115	ethyne(H) ... dihydrogen
+001.05_125	ethyne(H) ... dihydrogen
+001.06_100	ethyne(H) ... ethyne(H)
+001.06_105	ethyne(H) ... ethyne(H)
+001.06_110	ethyne(H) ... ethyne(H)
+001.06_115	ethyne(H) ... ethyne(H)
+001.06_125	ethyne(H) ... ethyne(H)
+001.07_100	hydrogen fluoride ... borane(H)
+001.07_105	hydrogen fluoride ... borane(H)
+001.07_110	hydrogen fluoride ... borane(H)
+001.07_115	hydrogen fluoride ... borane(H)
+001.07_125	hydrogen fluoride ... borane(H)
+001.08_100	hydrogen fluoride ... dihydrogen
+001.08_105	hydrogen fluoride ... dihydrogen
+001.08_110	hydrogen fluoride ... dihydrogen
+001.08_115	hydrogen fluoride ... dihydrogen
+001.08_125	hydrogen fluoride ... dihydrogen
+001.09_100	hydrogen fluoride ... ethyne(H)
+001.09_105	hydrogen fluoride ... ethyne(H)
+001.09_110	hydrogen fluoride ... ethyne(H)
+001.09_115	hydrogen fluoride ... ethyne(H)
+001.09_125	hydrogen fluoride ... ethyne(H)
+001.10_100	hydrogen fluoride ... hydrogen fluoride
+001.10_105	hydrogen fluoride ... hydrogen fluoride
+001.10_110	hydrogen fluoride ... hydrogen fluoride
+001.10_115	hydrogen fluoride ... hydrogen fluoride
+001.10_125	hydrogen fluoride ... hydrogen fluoride
+001.11_100	methane(H) ... borane(H)
+001.11_105	methane(H) ... borane(H)
+001.11_110	methane(H) ... borane(H)
+001.11_115	methane(H) ... borane(H)
+001.11_125	methane(H) ... borane(H)
+001.12_100	methane(H) ... dihydrogen
+001.12_105	methane(H) ... dihydrogen
+001.12_110	methane(H) ... dihydrogen
+001.12_115	methane(H) ... dihydrogen
+001.12_125	methane(H) ... dihydrogen
+001.13_100	methane(H) ... ethyne(H)
+001.13_105	methane(H) ... ethyne(H)
+001.13_110	methane(H) ... ethyne(H)
+001.13_115	methane(H) ... ethyne(H)
+001.13_125	methane(H) ... ethyne(H)
+001.14_100	methane(H) ... hydrogen fluoride
+001.14_105	methane(H) ... hydrogen fluoride
+001.14_110	methane(H) ... hydrogen fluoride
+001.14_115	methane(H) ... hydrogen fluoride
+001.14_125	methane(H) ... hydrogen fluoride
+001.15_100	methane(H) ... methane(H)
+001.15_105	methane(H) ... methane(H)
+001.15_110	methane(H) ... methane(H)
+001.15_115	methane(H) ... methane(H)
+001.15_125	methane(H) ... methane(H)
+002.01_100	borane(H) ... benzene
+002.01_105	borane(H) ... benzene
+002.01_110	borane(H) ... benzene
+002.01_115	borane(H) ... benzene
+002.01_125	borane(H) ... benzene
+002.02_100	dihydrogen ... benzene
+002.02_105	dihydrogen ... benzene
+002.02_110	dihydrogen ... benzene
+002.02_115	dihydrogen ... benzene
+002.02_125	dihydrogen ... benzene
+002.03_100	ethene ... borane(H)
+002.03_105	ethene ... borane(H)
+002.03_110	ethene ... borane(H)
+002.03_115	ethene ... borane(H)
+002.03_125	ethene ... borane(H)
+002.04_100	ethene ... dihydrogen
+002.04_105	ethene ... dihydrogen
+002.04_110	ethene ... dihydrogen
+002.04_115	ethene ... dihydrogen
+002.04_125	ethene ... dihydrogen
+002.05_100	ethyne(C) ... borane(H)
+002.05_105	ethyne(C) ... borane(H)
+002.05_110	ethyne(C) ... borane(H)
+002.05_115	ethyne(C) ... borane(H)
+002.05_125	ethyne(C) ... borane(H)
+002.06_100	ethyne(C) ... dihydrogen
+002.06_105	ethyne(C) ... dihydrogen
+002.06_110	ethyne(C) ... dihydrogen
+002.06_115	ethyne(C) ... dihydrogen
+002.06_125	ethyne(C) ... dihydrogen
+002.07_100	ethyne(H) ... benzene
+002.07_105	ethyne(H) ... benzene
+002.07_110	ethyne(H) ... benzene
+002.07_115	ethyne(H) ... benzene
+002.07_125	ethyne(H) ... benzene
+002.08_100	ethyne(H) ... ethene
+002.08_105	ethyne(H) ... ethene
+002.08_110	ethyne(H) ... ethene
+002.08_115	ethyne(H) ... ethene
+002.08_125	ethyne(H) ... ethene
+002.09_100	ethyne(H) ... ethyne(C)
+002.09_105	ethyne(H) ... ethyne(C)
+002.09_110	ethyne(H) ... ethyne(C)
+002.09_115	ethyne(H) ... ethyne(C)
+002.09_125	ethyne(H) ... ethyne(C)
+002.10_100	hydrogen fluoride ... benzene
+002.10_105	hydrogen fluoride ... benzene
+002.10_110	hydrogen fluoride ... benzene
+002.10_115	hydrogen fluoride ... benzene
+002.10_125	hydrogen fluoride ... benzene
+002.11_100	hydrogen fluoride ... ethene
+002.11_105	hydrogen fluoride ... ethene
+002.11_110	hydrogen fluoride ... ethene
+002.11_115	hydrogen fluoride ... ethene
+002.11_125	hydrogen fluoride ... ethene
+002.12_100	hydrogen fluoride ... ethyne(C)
+002.12_105	hydrogen fluoride ... ethyne(C)
+002.12_110	hydrogen fluoride ... ethyne(C)
+002.12_115	hydrogen fluoride ... ethyne(C)
+002.12_125	hydrogen fluoride ... ethyne(C)
+002.13_100	methane(C) ... borane(H)
+002.13_105	methane(C) ... borane(H)
+002.13_110	methane(C) ... borane(H)
+002.13_115	methane(C) ... borane(H)
+002.13_125	methane(C) ... borane(H)
+002.14_100	methane(C) ... dihydrogen
+002.14_105	methane(C) ... dihydrogen
+002.14_110	methane(C) ... dihydrogen
+002.14_115	methane(C) ... dihydrogen
+002.14_125	methane(C) ... dihydrogen
+002.15_100	methane(C) ... ethyne(H)
+002.15_105	methane(C) ... ethyne(H)
+002.15_110	methane(C) ... ethyne(H)
+002.15_115	methane(C) ... ethyne(H)
+002.15_125	methane(C) ... ethyne(H)
+002.16_100	methane(C) ... hydrogen fluoride
+002.16_105	methane(C) ... hydrogen fluoride
+002.16_110	methane(C) ... hydrogen fluoride
+002.16_115	methane(C) ... hydrogen fluoride
+002.16_125	methane(C) ... hydrogen fluoride
+002.17_100	methane(H) ... benzene
+002.17_105	methane(H) ... benzene
+002.17_110	methane(H) ... benzene
+002.17_115	methane(H) ... benzene
+002.17_125	methane(H) ... benzene
+002.18_100	methane(H) ... ethene
+002.18_105	methane(H) ... ethene
+002.18_110	methane(H) ... ethene
+002.18_115	methane(H) ... ethene
+002.18_125	methane(H) ... ethene
+002.19_100	methane(H) ... ethyne(C)
+002.19_105	methane(H) ... ethyne(C)
+002.19_110	methane(H) ... ethyne(C)
+002.19_115	methane(H) ... ethyne(C)
+002.19_125	methane(H) ... ethyne(C)
+002.20_100	methane(H) ... methane(C)
+002.20_105	methane(H) ... methane(C)
+002.20_110	methane(H) ... methane(C)
+002.20_115	methane(H) ... methane(C)
+002.20_125	methane(H) ... methane(C)
+003.01_100	benzene ... benzene
+003.01_105	benzene ... benzene
+003.01_110	benzene ... benzene
+003.01_115	benzene ... benzene
+003.01_125	benzene ... benzene
+003.02_100	ethene ... benzene
+003.02_105	ethene ... benzene
+003.02_110	ethene ... benzene
+003.02_115	ethene ... benzene
+003.02_125	ethene ... benzene
+003.03_100	ethene ... ethene
+003.03_105	ethene ... ethene
+003.03_110	ethene ... ethene
+003.03_115	ethene ... ethene
+003.03_125	ethene ... ethene
+003.04_100	ethyne(C) ... benzene
+003.04_105	ethyne(C) ... benzene
+003.04_110	ethyne(C) ... benzene
+003.04_115	ethyne(C) ... benzene
+003.04_125	ethyne(C) ... benzene
+003.05_100	ethyne(C) ... ethene
+003.05_105	ethyne(C) ... ethene
+003.05_110	ethyne(C) ... ethene
+003.05_115	ethyne(C) ... ethene
+003.05_125	ethyne(C) ... ethene
+003.06_100	ethyne(C) ... ethyne(C)
+003.06_105	ethyne(C) ... ethyne(C)
+003.06_110	ethyne(C) ... ethyne(C)
+003.06_115	ethyne(C) ... ethyne(C)
+003.06_125	ethyne(C) ... ethyne(C)
+003.07_100	methane(C) ... benzene
+003.07_105	methane(C) ... benzene
+003.07_110	methane(C) ... benzene
+003.07_115	methane(C) ... benzene
+003.07_125	methane(C) ... benzene
+003.08_100	methane(C) ... ethene
+003.08_105	methane(C) ... ethene
+003.08_110	methane(C) ... ethene
+003.08_115	methane(C) ... ethene
+003.08_125	methane(C) ... ethene
+003.09_100	methane(C) ... ethyne(C)
+003.09_105	methane(C) ... ethyne(C)
+003.09_110	methane(C) ... ethyne(C)
+003.09_115	methane(C) ... ethyne(C)
+003.09_125	methane(C) ... ethyne(C)
+003.10_100	methane(C) ... methane(C)
+003.10_105	methane(C) ... methane(C)
+003.10_110	methane(C) ... methane(C)
+003.10_115	methane(C) ... methane(C)
+003.10_125	methane(C) ... methane(C)
+004.01_100	borane(H) ... ammonia
+004.01_105	borane(H) ... ammonia
+004.01_110	borane(H) ... ammonia
+004.01_115	borane(H) ... ammonia
+004.01_125	borane(H) ... ammonia
+004.02_100	dihydrogen ... ammonia
+004.02_105	dihydrogen ... ammonia
+004.02_110	dihydrogen ... ammonia
+004.02_115	dihydrogen ... ammonia
+004.02_125	dihydrogen ... ammonia
+004.03_100	ethyne(H) ... ammonia
+004.03_105	ethyne(H) ... ammonia
+004.03_110	ethyne(H) ... ammonia
+004.03_115	ethyne(H) ... ammonia
+004.03_125	ethyne(H) ... ammonia
+004.04_100	hydrogen cyanide ... borane(H)
+004.04_105	hydrogen cyanide ... borane(H)
+004.04_110	hydrogen cyanide ... borane(H)
+004.04_115	hydrogen cyanide ... borane(H)
+004.04_125	hydrogen cyanide ... borane(H)
+004.05_100	hydrogen cyanide ... dihydrogen
+004.05_105	hydrogen cyanide ... dihydrogen
+004.05_110	hydrogen cyanide ... dihydrogen
+004.05_115	hydrogen cyanide ... dihydrogen
+004.05_125	hydrogen cyanide ... dihydrogen
+004.06_100	hydrogen cyanide ... ethyne(H)
+004.06_105	hydrogen cyanide ... ethyne(H)
+004.06_110	hydrogen cyanide ... ethyne(H)
+004.06_115	hydrogen cyanide ... ethyne(H)
+004.06_125	hydrogen cyanide ... ethyne(H)
+004.07_100	hydrogen fluoride ... ammonia
+004.07_105	hydrogen fluoride ... ammonia
+004.07_110	hydrogen fluoride ... ammonia
+004.07_115	hydrogen fluoride ... ammonia
+004.07_125	hydrogen fluoride ... ammonia
+004.08_100	hydrogen fluoride ... hydrogen cyanide
+004.08_105	hydrogen fluoride ... hydrogen cyanide
+004.08_110	hydrogen fluoride ... hydrogen cyanide
+004.08_115	hydrogen fluoride ... hydrogen cyanide
+004.08_125	hydrogen fluoride ... hydrogen cyanide
+004.09_100	methane(H) ... ammonia
+004.09_105	methane(H) ... ammonia
+004.09_110	methane(H) ... ammonia
+004.09_115	methane(H) ... ammonia
+004.09_125	methane(H) ... ammonia
+004.10_100	methane(H) ... hydrogen cyanide
+004.10_105	methane(H) ... hydrogen cyanide
+004.10_110	methane(H) ... hydrogen cyanide
+004.10_115	methane(H) ... hydrogen cyanide
+004.10_125	methane(H) ... hydrogen cyanide
+004.11_100	methylamine ... borane(H)
+004.11_105	methylamine ... borane(H)
+004.11_110	methylamine ... borane(H)
+004.11_115	methylamine ... borane(H)
+004.11_125	methylamine ... borane(H)
+004.12_100	methylamine ... dihydrogen
+004.12_105	methylamine ... dihydrogen
+004.12_110	methylamine ... dihydrogen
+004.12_115	methylamine ... dihydrogen
+004.12_125	methylamine ... dihydrogen
+004.13_100	methylamine ... ethyne(H)
+004.13_105	methylamine ... ethyne(H)
+004.13_110	methylamine ... ethyne(H)
+004.13_115	methylamine ... ethyne(H)
+004.13_125	methylamine ... ethyne(H)
+004.14_100	methylamine ... hydrogen fluoride
+004.14_105	methylamine ... hydrogen fluoride
+004.14_110	methylamine ... hydrogen fluoride
+004.14_115	methylamine ... hydrogen fluoride
+004.14_125	methylamine ... hydrogen fluoride
+004.15_100	methylamine ... methane(H)
+004.15_105	methylamine ... methane(H)
+004.15_110	methylamine ... methane(H)
+004.15_115	methylamine ... methane(H)
+004.15_125	methylamine ... methane(H)
+004.16_100	nitromethane ... borane(H)
+004.16_105	nitromethane ... borane(H)
+004.16_110	nitromethane ... borane(H)
+004.16_115	nitromethane ... borane(H)
+004.16_125	nitromethane ... borane(H)
+004.17_100	nitromethane ... dihydrogen
+004.17_105	nitromethane ... dihydrogen
+004.17_110	nitromethane ... dihydrogen
+004.17_115	nitromethane ... dihydrogen
+004.17_125	nitromethane ... dihydrogen
+004.18_100	nitromethane ... ethyne(H)
+004.18_105	nitromethane ... ethyne(H)
+004.18_110	nitromethane ... ethyne(H)
+004.18_115	nitromethane ... ethyne(H)
+004.18_125	nitromethane ... ethyne(H)
+004.19_100	nitromethane ... hydrogen fluoride
+004.19_105	nitromethane ... hydrogen fluoride
+004.19_110	nitromethane ... hydrogen fluoride
+004.19_115	nitromethane ... hydrogen fluoride
+004.19_125	nitromethane ... hydrogen fluoride
+004.20_100	nitromethane ... methane(H)
+004.20_105	nitromethane ... methane(H)
+004.20_110	nitromethane ... methane(H)
+004.20_115	nitromethane ... methane(H)
+004.20_125	nitromethane ... methane(H)
+004.21_100	pyridine ... borane(H)
+004.21_105	pyridine ... borane(H)
+004.21_110	pyridine ... borane(H)
+004.21_115	pyridine ... borane(H)
+004.21_125	pyridine ... borane(H)
+004.22_100	pyridine ... dihydrogen
+004.22_105	pyridine ... dihydrogen
+004.22_110	pyridine ... dihydrogen
+004.22_115	pyridine ... dihydrogen
+004.22_125	pyridine ... dihydrogen
+004.23_100	pyridine ... ethyne(H)
+004.23_105	pyridine ... ethyne(H)
+004.23_110	pyridine ... ethyne(H)
+004.23_115	pyridine ... ethyne(H)
+004.23_125	pyridine ... ethyne(H)
+004.24_100	pyridine ... hydrogen fluoride
+004.24_105	pyridine ... hydrogen fluoride
+004.24_110	pyridine ... hydrogen fluoride
+004.24_115	pyridine ... hydrogen fluoride
+004.24_125	pyridine ... hydrogen fluoride
+004.25_100	pyridine ... methane(H)
+004.25_105	pyridine ... methane(H)
+004.25_110	pyridine ... methane(H)
+004.25_115	pyridine ... methane(H)
+004.25_125	pyridine ... methane(H)
+005.01_100	benzene ... ammonia
+005.01_105	benzene ... ammonia
+005.01_110	benzene ... ammonia
+005.01_115	benzene ... ammonia
+005.01_125	benzene ... ammonia
+005.02_100	ethene ... ammonia
+005.02_105	ethene ... ammonia
+005.02_110	ethene ... ammonia
+005.02_115	ethene ... ammonia
+005.02_125	ethene ... ammonia
+005.03_100	ethyne(C) ... ammonia
+005.03_105	ethyne(C) ... ammonia
+005.03_110	ethyne(C) ... ammonia
+005.03_115	ethyne(C) ... ammonia
+005.03_125	ethyne(C) ... ammonia
+005.04_100	hydrogen cyanide ... benzene
+005.04_105	hydrogen cyanide ... benzene
+005.04_110	hydrogen cyanide ... benzene
+005.04_115	hydrogen cyanide ... benzene
+005.04_125	hydrogen cyanide ... benzene
+005.05_100	hydrogen cyanide ... ethene
+005.05_105	hydrogen cyanide ... ethene
+005.05_110	hydrogen cyanide ... ethene
+005.05_115	hydrogen cyanide ... ethene
+005.05_125	hydrogen cyanide ... ethene
+005.06_100	hydrogen cyanide ... ethyne(C)
+005.06_105	hydrogen cyanide ... ethyne(C)
+005.06_110	hydrogen cyanide ... ethyne(C)
+005.06_115	hydrogen cyanide ... ethyne(C)
+005.06_125	hydrogen cyanide ... ethyne(C)
+005.07_100	methane(C) ... ammonia
+005.07_105	methane(C) ... ammonia
+005.07_110	methane(C) ... ammonia
+005.07_115	methane(C) ... ammonia
+005.07_125	methane(C) ... ammonia
+005.08_100	methane(C) ... hydrogen cyanide
+005.08_105	methane(C) ... hydrogen cyanide
+005.08_110	methane(C) ... hydrogen cyanide
+005.08_115	methane(C) ... hydrogen cyanide
+005.08_125	methane(C) ... hydrogen cyanide
+005.09_100	methylamine ... benzene
+005.09_105	methylamine ... benzene
+005.09_110	methylamine ... benzene
+005.09_115	methylamine ... benzene
+005.09_125	methylamine ... benzene
+005.10_100	methylamine ... ethene
+005.10_105	methylamine ... ethene
+005.10_110	methylamine ... ethene
+005.10_115	methylamine ... ethene
+005.10_125	methylamine ... ethene
+005.11_100	methylamine ... ethyne(C)
+005.11_105	methylamine ... ethyne(C)
+005.11_110	methylamine ... ethyne(C)
+005.11_115	methylamine ... ethyne(C)
+005.11_125	methylamine ... ethyne(C)
+005.12_100	methylamine ... methane(C)
+005.12_105	methylamine ... methane(C)
+005.12_110	methylamine ... methane(C)
+005.12_115	methylamine ... methane(C)
+005.12_125	methylamine ... methane(C)
+005.13_100	nitromethane ... benzene
+005.13_105	nitromethane ... benzene
+005.13_110	nitromethane ... benzene
+005.13_115	nitromethane ... benzene
+005.13_125	nitromethane ... benzene
+005.14_100	nitromethane ... ethene
+005.14_105	nitromethane ... ethene
+005.14_110	nitromethane ... ethene
+005.14_115	nitromethane ... ethene
+005.14_125	nitromethane ... ethene
+005.15_100	nitromethane ... ethyne(C)
+005.15_105	nitromethane ... ethyne(C)
+005.15_110	nitromethane ... ethyne(C)
+005.15_115	nitromethane ... ethyne(C)
+005.15_125	nitromethane ... ethyne(C)
+005.16_100	nitromethane ... methane(C)
+005.16_105	nitromethane ... methane(C)
+005.16_110	nitromethane ... methane(C)
+005.16_115	nitromethane ... methane(C)
+005.16_125	nitromethane ... methane(C)
+005.17_100	pyridine ... benzene
+005.17_105	pyridine ... benzene
+005.17_110	pyridine ... benzene
+005.17_115	pyridine ... benzene
+005.17_125	pyridine ... benzene
+005.18_100	pyridine ... ethene
+005.18_105	pyridine ... ethene
+005.18_110	pyridine ... ethene
+005.18_115	pyridine ... ethene
+005.18_125	pyridine ... ethene
+005.19_100	pyridine ... ethyne(C)
+005.19_105	pyridine ... ethyne(C)
+005.19_110	pyridine ... ethyne(C)
+005.19_115	pyridine ... ethyne(C)
+005.19_125	pyridine ... ethyne(C)
+005.20_100	pyridine ... methane(C)
+005.20_105	pyridine ... methane(C)
+005.20_110	pyridine ... methane(C)
+005.20_115	pyridine ... methane(C)
+005.20_125	pyridine ... methane(C)
+006.01_100	ammonia ... ammonia
+006.01_105	ammonia ... ammonia
+006.01_110	ammonia ... ammonia
+006.01_115	ammonia ... ammonia
+006.01_125	ammonia ... ammonia
+006.02_100	hydrogen cyanide ... ammonia
+006.02_105	hydrogen cyanide ... ammonia
+006.02_110	hydrogen cyanide ... ammonia
+006.02_115	hydrogen cyanide ... ammonia
+006.02_125	hydrogen cyanide ... ammonia
+006.03_100	hydrogen cyanide ... hydrogen cyanide
+006.03_105	hydrogen cyanide ... hydrogen cyanide
+006.03_110	hydrogen cyanide ... hydrogen cyanide
+006.03_115	hydrogen cyanide ... hydrogen cyanide
+006.03_125	hydrogen cyanide ... hydrogen cyanide
+006.04_100	methylamine ... ammonia
+006.04_105	methylamine ... ammonia
+006.04_110	methylamine ... ammonia
+006.04_115	methylamine ... ammonia
+006.04_125	methylamine ... ammonia
+006.05_100	methylamine ... hydrogen cyanide
+006.05_105	methylamine ... hydrogen cyanide
+006.05_110	methylamine ... hydrogen cyanide
+006.05_115	methylamine ... hydrogen cyanide
+006.05_125	methylamine ... hydrogen cyanide
+006.06_100	methylamine ... methylamine
+006.06_105	methylamine ... methylamine
+006.06_110	methylamine ... methylamine
+006.06_115	methylamine ... methylamine
+006.06_125	methylamine ... methylamine
+006.07_100	nitromethane ... ammonia
+006.07_105	nitromethane ... ammonia
+006.07_110	nitromethane ... ammonia
+006.07_115	nitromethane ... ammonia
+006.07_125	nitromethane ... ammonia
+006.08_100	nitromethane ... hydrogen cyanide
+006.08_105	nitromethane ... hydrogen cyanide
+006.08_110	nitromethane ... hydrogen cyanide
+006.08_115	nitromethane ... hydrogen cyanide
+006.08_125	nitromethane ... hydrogen cyanide
+006.09_100	nitromethane ... methylamine
+006.09_105	nitromethane ... methylamine
+006.09_110	nitromethane ... methylamine
+006.09_115	nitromethane ... methylamine
+006.09_125	nitromethane ... methylamine
+006.10_100	pyridine ... ammonia
+006.10_105	pyridine ... ammonia
+006.10_110	pyridine ... ammonia
+006.10_115	pyridine ... ammonia
+006.10_125	pyridine ... ammonia
+006.11_100	pyridine ... hydrogen cyanide
+006.11_105	pyridine ... hydrogen cyanide
+006.11_110	pyridine ... hydrogen cyanide
+006.11_115	pyridine ... hydrogen cyanide
+006.11_125	pyridine ... hydrogen cyanide
+006.12_100	pyridine ... methylamine
+006.12_105	pyridine ... methylamine
+006.12_110	pyridine ... methylamine
+006.12_115	pyridine ... methylamine
+006.12_125	pyridine ... methylamine
+006.13_100	pyridine ... nitromethane
+006.13_105	pyridine ... nitromethane
+006.13_110	pyridine ... nitromethane
+006.13_115	pyridine ... nitromethane
+006.13_125	pyridine ... nitromethane
+006.14_100	pyridine ... pyridine
+006.14_105	pyridine ... pyridine
+006.14_110	pyridine ... pyridine
+006.14_115	pyridine ... pyridine
+006.14_125	pyridine ... pyridine
+007.01_100	borane(H) ... acetone
+007.01_105	borane(H) ... acetone
+007.01_110	borane(H) ... acetone
+007.01_115	borane(H) ... acetone
+007.01_125	borane(H) ... acetone
+007.02_100	dihydrogen ... acetone
+007.02_105	dihydrogen ... acetone
+007.02_110	dihydrogen ... acetone
+007.02_115	dihydrogen ... acetone
+007.02_125	dihydrogen ... acetone
+007.03_100	ethyne(H) ... acetone
+007.03_105	ethyne(H) ... acetone
+007.03_110	ethyne(H) ... acetone
+007.03_115	ethyne(H) ... acetone
+007.03_125	ethyne(H) ... acetone
+007.04_100	furan ... borane(H)
+007.04_105	furan ... borane(H)
+007.04_110	furan ... borane(H)
+007.04_115	furan ... borane(H)
+007.04_125	furan ... borane(H)
+007.05_100	furan ... dihydrogen
+007.05_105	furan ... dihydrogen
+007.05_110	furan ... dihydrogen
+007.05_115	furan ... dihydrogen
+007.05_125	furan ... dihydrogen
+007.06_100	furan ... ethyne(H)
+007.06_105	furan ... ethyne(H)
+007.06_110	furan ... ethyne(H)
+007.06_115	furan ... ethyne(H)
+007.06_125	furan ... ethyne(H)
+007.07_100	hydrogen fluoride ... acetone
+007.07_105	hydrogen fluoride ... acetone
+007.07_110	hydrogen fluoride ... acetone
+007.07_115	hydrogen fluoride ... acetone
+007.07_125	hydrogen fluoride ... acetone
+007.08_100	hydrogen fluoride ... furan
+007.08_105	hydrogen fluoride ... furan
+007.08_110	hydrogen fluoride ... furan
+007.08_115	hydrogen fluoride ... furan
+007.08_125	hydrogen fluoride ... furan
+007.09_100	methane(H) ... acetone
+007.09_105	methane(H) ... acetone
+007.09_110	methane(H) ... acetone
+007.09_115	methane(H) ... acetone
+007.09_125	methane(H) ... acetone
+007.10_100	methane(H) ... furan
+007.10_105	methane(H) ... furan
+007.10_110	methane(H) ... furan
+007.10_115	methane(H) ... furan
+007.10_125	methane(H) ... furan
+007.11_100	methanol ... borane(H)
+007.11_105	methanol ... borane(H)
+007.11_110	methanol ... borane(H)
+007.11_115	methanol ... borane(H)
+007.11_125	methanol ... borane(H)
+007.12_100	methanol ... dihydrogen
+007.12_105	methanol ... dihydrogen
+007.12_110	methanol ... dihydrogen
+007.12_115	methanol ... dihydrogen
+007.12_125	methanol ... dihydrogen
+007.13_100	methanol ... ethyne(H)
+007.13_105	methanol ... ethyne(H)
+007.13_110	methanol ... ethyne(H)
+007.13_115	methanol ... ethyne(H)
+007.13_125	methanol ... ethyne(H)
+007.14_100	methanol ... hydrogen fluoride
+007.14_105	methanol ... hydrogen fluoride
+007.14_110	methanol ... hydrogen fluoride
+007.14_115	methanol ... hydrogen fluoride
+007.14_125	methanol ... hydrogen fluoride
+007.15_100	methanol ... methane(H)
+007.15_105	methanol ... methane(H)
+007.15_110	methanol ... methane(H)
+007.15_115	methanol ... methane(H)
+007.15_125	methanol ... methane(H)
+007.16_100	water ... borane(H)
+007.16_105	water ... borane(H)
+007.16_110	water ... borane(H)
+007.16_115	water ... borane(H)
+007.16_125	water ... borane(H)
+007.17_100	water ... dihydrogen
+007.17_105	water ... dihydrogen
+007.17_110	water ... dihydrogen
+007.17_115	water ... dihydrogen
+007.17_125	water ... dihydrogen
+007.18_100	water ... ethyne(H)
+007.18_105	water ... ethyne(H)
+007.18_110	water ... ethyne(H)
+007.18_115	water ... ethyne(H)
+007.18_125	water ... ethyne(H)
+007.19_100	water ... hydrogen fluoride
+007.19_105	water ... hydrogen fluoride
+007.19_110	water ... hydrogen fluoride
+007.19_115	water ... hydrogen fluoride
+007.19_125	water ... hydrogen fluoride
+007.20_100	water ... methane(H)
+007.20_105	water ... methane(H)
+007.20_110	water ... methane(H)
+007.20_115	water ... methane(H)
+007.20_125	water ... methane(H)
+008.01_100	benzene ... acetone
+008.01_105	benzene ... acetone
+008.01_110	benzene ... acetone
+008.01_115	benzene ... acetone
+008.01_125	benzene ... acetone
+008.02_100	ethene ... acetone
+008.02_105	ethene ... acetone
+008.02_110	ethene ... acetone
+008.02_115	ethene ... acetone
+008.02_125	ethene ... acetone
+008.03_100	ethyne(C) ... acetone
+008.03_105	ethyne(C) ... acetone
+008.03_110	ethyne(C) ... acetone
+008.03_115	ethyne(C) ... acetone
+008.03_125	ethyne(C) ... acetone
+008.04_100	furan ... benzene
+008.04_105	furan ... benzene
+008.04_110	furan ... benzene
+008.04_115	furan ... benzene
+008.04_125	furan ... benzene
+008.05_100	furan ... ethene
+008.05_105	furan ... ethene
+008.05_110	furan ... ethene
+008.05_115	furan ... ethene
+008.05_125	furan ... ethene
+008.06_100	furan ... ethyne(C)
+008.06_105	furan ... ethyne(C)
+008.06_110	furan ... ethyne(C)
+008.06_115	furan ... ethyne(C)
+008.06_125	furan ... ethyne(C)
+008.07_100	methane(C) ... acetone
+008.07_105	methane(C) ... acetone
+008.07_110	methane(C) ... acetone
+008.07_115	methane(C) ... acetone
+008.07_125	methane(C) ... acetone
+008.08_100	methane(C) ... furan
+008.08_105	methane(C) ... furan
+008.08_110	methane(C) ... furan
+008.08_115	methane(C) ... furan
+008.08_125	methane(C) ... furan
+008.09_100	methanol ... benzene
+008.09_105	methanol ... benzene
+008.09_110	methanol ... benzene
+008.09_115	methanol ... benzene
+008.09_125	methanol ... benzene
+008.10_100	methanol ... ethene
+008.10_105	methanol ... ethene
+008.10_110	methanol ... ethene
+008.10_115	methanol ... ethene
+008.10_125	methanol ... ethene
+008.11_100	methanol ... ethyne(C)
+008.11_105	methanol ... ethyne(C)
+008.11_110	methanol ... ethyne(C)
+008.11_115	methanol ... ethyne(C)
+008.11_125	methanol ... ethyne(C)
+008.12_100	methanol ... methane(C)
+008.12_105	methanol ... methane(C)
+008.12_110	methanol ... methane(C)
+008.12_115	methanol ... methane(C)
+008.12_125	methanol ... methane(C)
+008.13_100	water ... benzene
+008.13_105	water ... benzene
+008.13_110	water ... benzene
+008.13_115	water ... benzene
+008.13_125	water ... benzene
+008.14_100	water ... ethene
+008.14_105	water ... ethene
+008.14_110	water ... ethene
+008.14_115	water ... ethene
+008.14_125	water ... ethene
+008.15_100	water ... ethyne(C)
+008.15_105	water ... ethyne(C)
+008.15_110	water ... ethyne(C)
+008.15_115	water ... ethyne(C)
+008.15_125	water ... ethyne(C)
+008.16_100	water ... methane(C)
+008.16_105	water ... methane(C)
+008.16_110	water ... methane(C)
+008.16_115	water ... methane(C)
+008.16_125	water ... methane(C)
+009.01_100	ammonia ... acetone
+009.01_105	ammonia ... acetone
+009.01_110	ammonia ... acetone
+009.01_115	ammonia ... acetone
+009.01_125	ammonia ... acetone
+009.02_100	furan ... ammonia
+009.02_105	furan ... ammonia
+009.02_110	furan ... ammonia
+009.02_115	furan ... ammonia
+009.02_125	furan ... ammonia
+009.03_100	hydrogen cyanide ... acetone
+009.03_105	hydrogen cyanide ... acetone
+009.03_110	hydrogen cyanide ... acetone
+009.03_115	hydrogen cyanide ... acetone
+009.03_125	hydrogen cyanide ... acetone
+009.04_100	hydrogen cyanide ... furan
+009.04_105	hydrogen cyanide ... furan
+009.04_110	hydrogen cyanide ... furan
+009.04_115	hydrogen cyanide ... furan
+009.04_125	hydrogen cyanide ... furan
+009.05_100	methanol ... ammonia
+009.05_105	methanol ... ammonia
+009.05_110	methanol ... ammonia
+009.05_115	methanol ... ammonia
+009.05_125	methanol ... ammonia
+009.06_100	methanol ... hydrogen cyanide
+009.06_105	methanol ... hydrogen cyanide
+009.06_110	methanol ... hydrogen cyanide
+009.06_115	methanol ... hydrogen cyanide
+009.06_125	methanol ... hydrogen cyanide
+009.07_100	methylamine ... acetone
+009.07_105	methylamine ... acetone
+009.07_110	methylamine ... acetone
+009.07_115	methylamine ... acetone
+009.07_125	methylamine ... acetone
+009.08_100	methylamine ... furan
+009.08_105	methylamine ... furan
+009.08_110	methylamine ... furan
+009.08_115	methylamine ... furan
+009.08_125	methylamine ... furan
+009.09_100	methylamine ... methanol
+009.09_105	methylamine ... methanol
+009.09_110	methylamine ... methanol
+009.09_115	methylamine ... methanol
+009.09_125	methylamine ... methanol
+009.10_100	nitromethane ... acetone
+009.10_105	nitromethane ... acetone
+009.10_110	nitromethane ... acetone
+009.10_115	nitromethane ... acetone
+009.10_125	nitromethane ... acetone
+009.11_100	nitromethane ... furan
+009.11_105	nitromethane ... furan
+009.11_110	nitromethane ... furan
+009.11_115	nitromethane ... furan
+009.11_125	nitromethane ... furan
+009.12_100	nitromethane ... methanol
+009.12_105	nitromethane ... methanol
+009.12_110	nitromethane ... methanol
+009.12_115	nitromethane ... methanol
+009.12_125	nitromethane ... methanol
+009.13_100	pyridine ... acetone
+009.13_105	pyridine ... acetone
+009.13_110	pyridine ... acetone
+009.13_115	pyridine ... acetone
+009.13_125	pyridine ... acetone
+009.14_100	pyridine ... furan
+009.14_105	pyridine ... furan
+009.14_110	pyridine ... furan
+009.14_115	pyridine ... furan
+009.14_125	pyridine ... furan
+009.15_100	pyridine ... methanol
+009.15_105	pyridine ... methanol
+009.15_110	pyridine ... methanol
+009.15_115	pyridine ... methanol
+009.15_125	pyridine ... methanol
+009.16_100	water ... ammonia
+009.16_105	water ... ammonia
+009.16_110	water ... ammonia
+009.16_115	water ... ammonia
+009.16_125	water ... ammonia
+009.17_100	water ... hydrogen cyanide
+009.17_105	water ... hydrogen cyanide
+009.17_110	water ... hydrogen cyanide
+009.17_115	water ... hydrogen cyanide
+009.17_125	water ... hydrogen cyanide
+009.18_100	water ... methylamine
+009.18_105	water ... methylamine
+009.18_110	water ... methylamine
+009.18_115	water ... methylamine
+009.18_125	water ... methylamine
+009.19_100	water ... nitromethane
+009.19_105	water ... nitromethane
+009.19_110	water ... nitromethane
+009.19_115	water ... nitromethane
+009.19_125	water ... nitromethane
+009.20_100	water ... pyridine
+009.20_105	water ... pyridine
+009.20_110	water ... pyridine
+009.20_115	water ... pyridine
+009.20_125	water ... pyridine
+010.01_100	acetone ... acetone
+010.01_105	acetone ... acetone
+010.01_110	acetone ... acetone
+010.01_115	acetone ... acetone
+010.01_125	acetone ... acetone
+010.02_100	furan ... acetone
+010.02_105	furan ... acetone
+010.02_110	furan ... acetone
+010.02_115	furan ... acetone
+010.02_125	furan ... acetone
+010.03_100	furan ... furan
+010.03_105	furan ... furan
+010.03_110	furan ... furan
+010.03_115	furan ... furan
+010.03_125	furan ... furan
+010.04_100	methanol ... acetone
+010.04_105	methanol ... acetone
+010.04_110	methanol ... acetone
+010.04_115	methanol ... acetone
+010.04_125	methanol ... acetone
+010.05_100	methanol ... furan
+010.05_105	methanol ... furan
+010.05_110	methanol ... furan
+010.05_115	methanol ... furan
+010.05_125	methanol ... furan
+010.06_100	methanol ... methanol
+010.06_105	methanol ... methanol
+010.06_110	methanol ... methanol
+010.06_115	methanol ... methanol
+010.06_125	methanol ... methanol
+010.07_100	water ... acetone
+010.07_105	water ... acetone
+010.07_110	water ... acetone
+010.07_115	water ... acetone
+010.07_125	water ... acetone
+010.08_100	water ... furan
+010.08_105	water ... furan
+010.08_110	water ... furan
+010.08_115	water ... furan
+010.08_125	water ... furan
+010.09_100	water ... methanol
+010.09_105	water ... methanol
+010.09_110	water ... methanol
+010.09_115	water ... methanol
+010.09_125	water ... methanol
+010.10_100	water ... water
+010.10_105	water ... water
+010.10_110	water ... water
+010.10_115	water ... water
+010.10_125	water ... water
+011.01_100	borane(H) ... CH3PCH2
+011.01_105	borane(H) ... CH3PCH2
+011.01_110	borane(H) ... CH3PCH2
+011.01_115	borane(H) ... CH3PCH2
+011.01_125	borane(H) ... CH3PCH2
+011.02_100	dihydrogen ... CH3PCH2
+011.02_105	dihydrogen ... CH3PCH2
+011.02_110	dihydrogen ... CH3PCH2
+011.02_115	dihydrogen ... CH3PCH2
+011.02_125	dihydrogen ... CH3PCH2
+011.03_100	ethyne(H) ... CH3PCH2
+011.03_105	ethyne(H) ... CH3PCH2
+011.03_110	ethyne(H) ... CH3PCH2
+011.03_115	ethyne(H) ... CH3PCH2
+011.03_125	ethyne(H) ... CH3PCH2
+011.04_100	hydrogen fluoride ... CH3PCH2
+011.04_105	hydrogen fluoride ... CH3PCH2
+011.04_110	hydrogen fluoride ... CH3PCH2
+011.04_115	hydrogen fluoride ... CH3PCH2
+011.04_125	hydrogen fluoride ... CH3PCH2
+011.05_100	methane(H) ... CH3PCH2
+011.05_105	methane(H) ... CH3PCH2
+011.05_110	methane(H) ... CH3PCH2
+011.05_115	methane(H) ... CH3PCH2
+011.05_125	methane(H) ... CH3PCH2
+011.06_100	phosphine ... borane(H)
+011.06_105	phosphine ... borane(H)
+011.06_110	phosphine ... borane(H)
+011.06_115	phosphine ... borane(H)
+011.06_125	phosphine ... borane(H)
+011.07_100	phosphine ... dihydrogen
+011.07_105	phosphine ... dihydrogen
+011.07_110	phosphine ... dihydrogen
+011.07_115	phosphine ... dihydrogen
+011.07_125	phosphine ... dihydrogen
+011.08_100	phosphine ... ethyne(H)
+011.08_105	phosphine ... ethyne(H)
+011.08_110	phosphine ... ethyne(H)
+011.08_115	phosphine ... ethyne(H)
+011.08_125	phosphine ... ethyne(H)
+011.09_100	phosphine ... hydrogen fluoride
+011.09_105	phosphine ... hydrogen fluoride
+011.09_110	phosphine ... hydrogen fluoride
+011.09_115	phosphine ... hydrogen fluoride
+011.09_125	phosphine ... hydrogen fluoride
+011.10_100	phosphine ... methane(H)
+011.10_105	phosphine ... methane(H)
+011.10_110	phosphine ... methane(H)
+011.10_115	phosphine ... methane(H)
+011.10_125	phosphine ... methane(H)
+011.11_100	trimethylphosphine ... borane(H)
+011.11_105	trimethylphosphine ... borane(H)
+011.11_110	trimethylphosphine ... borane(H)
+011.11_115	trimethylphosphine ... borane(H)
+011.11_125	trimethylphosphine ... borane(H)
+011.12_100	trimethylphosphine ... dihydrogen
+011.12_105	trimethylphosphine ... dihydrogen
+011.12_110	trimethylphosphine ... dihydrogen
+011.12_115	trimethylphosphine ... dihydrogen
+011.12_125	trimethylphosphine ... dihydrogen
+011.13_100	trimethylphosphine ... ethyne(H)
+011.13_105	trimethylphosphine ... ethyne(H)
+011.13_110	trimethylphosphine ... ethyne(H)
+011.13_115	trimethylphosphine ... ethyne(H)
+011.13_125	trimethylphosphine ... ethyne(H)
+011.14_100	trimethylphosphine ... hydrogen fluoride
+011.14_105	trimethylphosphine ... hydrogen fluoride
+011.14_110	trimethylphosphine ... hydrogen fluoride
+011.14_115	trimethylphosphine ... hydrogen fluoride
+011.14_125	trimethylphosphine ... hydrogen fluoride
+011.15_100	trimethylphosphine ... methane(H)
+011.15_105	trimethylphosphine ... methane(H)
+011.15_110	trimethylphosphine ... methane(H)
+011.15_115	trimethylphosphine ... methane(H)
+011.15_125	trimethylphosphine ... methane(H)
+012.01_100	benzene ... CH3PCH2
+012.01_105	benzene ... CH3PCH2
+012.01_110	benzene ... CH3PCH2
+012.01_115	benzene ... CH3PCH2
+012.01_125	benzene ... CH3PCH2
+012.02_100	ethene ... CH3PCH2
+012.02_105	ethene ... CH3PCH2
+012.02_110	ethene ... CH3PCH2
+012.02_115	ethene ... CH3PCH2
+012.02_125	ethene ... CH3PCH2
+012.03_100	ethyne(C) ... CH3PCH2
+012.03_105	ethyne(C) ... CH3PCH2
+012.03_110	ethyne(C) ... CH3PCH2
+012.03_115	ethyne(C) ... CH3PCH2
+012.03_125	ethyne(C) ... CH3PCH2
+012.04_100	methane(C) ... CH3PCH2
+012.04_105	methane(C) ... CH3PCH2
+012.04_110	methane(C) ... CH3PCH2
+012.04_115	methane(C) ... CH3PCH2
+012.04_125	methane(C) ... CH3PCH2
+012.05_100	phosphine ... benzene
+012.05_105	phosphine ... benzene
+012.05_110	phosphine ... benzene
+012.05_115	phosphine ... benzene
+012.05_125	phosphine ... benzene
+012.06_100	phosphine ... ethene
+012.06_105	phosphine ... ethene
+012.06_110	phosphine ... ethene
+012.06_115	phosphine ... ethene
+012.06_125	phosphine ... ethene
+012.07_100	phosphine ... ethyne(C)
+012.07_105	phosphine ... ethyne(C)
+012.07_110	phosphine ... ethyne(C)
+012.07_115	phosphine ... ethyne(C)
+012.07_125	phosphine ... ethyne(C)
+012.08_100	phosphine ... methane(C)
+012.08_105	phosphine ... methane(C)
+012.08_110	phosphine ... methane(C)
+012.08_115	phosphine ... methane(C)
+012.08_125	phosphine ... methane(C)
+012.09_100	trimethylphosphine ... benzene
+012.09_105	trimethylphosphine ... benzene
+012.09_110	trimethylphosphine ... benzene
+012.09_115	trimethylphosphine ... benzene
+012.09_125	trimethylphosphine ... benzene
+012.10_100	trimethylphosphine ... ethene
+012.10_105	trimethylphosphine ... ethene
+012.10_110	trimethylphosphine ... ethene
+012.10_115	trimethylphosphine ... ethene
+012.10_125	trimethylphosphine ... ethene
+012.11_100	trimethylphosphine ... ethyne(C)
+012.11_105	trimethylphosphine ... ethyne(C)
+012.11_110	trimethylphosphine ... ethyne(C)
+012.11_115	trimethylphosphine ... ethyne(C)
+012.11_125	trimethylphosphine ... ethyne(C)
+012.12_100	trimethylphosphine ... methane(C)
+012.12_105	trimethylphosphine ... methane(C)
+012.12_110	trimethylphosphine ... methane(C)
+012.12_115	trimethylphosphine ... methane(C)
+012.12_125	trimethylphosphine ... methane(C)
+013.01_100	ammonia ... CH3PCH2
+013.01_105	ammonia ... CH3PCH2
+013.01_110	ammonia ... CH3PCH2
+013.01_115	ammonia ... CH3PCH2
+013.01_125	ammonia ... CH3PCH2
+013.02_100	hydrogen cyanide ... CH3PCH2
+013.02_105	hydrogen cyanide ... CH3PCH2
+013.02_110	hydrogen cyanide ... CH3PCH2
+013.02_115	hydrogen cyanide ... CH3PCH2
+013.02_125	hydrogen cyanide ... CH3PCH2
+013.03_100	methylamine ... CH3PCH2
+013.03_105	methylamine ... CH3PCH2
+013.03_110	methylamine ... CH3PCH2
+013.03_115	methylamine ... CH3PCH2
+013.03_125	methylamine ... CH3PCH2
+013.04_100	phosphine ... ammonia
+013.04_105	phosphine ... ammonia
+013.04_110	phosphine ... ammonia
+013.04_115	phosphine ... ammonia
+013.04_125	phosphine ... ammonia
+013.05_100	phosphine ... hydrogen cyanide
+013.05_105	phosphine ... hydrogen cyanide
+013.05_110	phosphine ... hydrogen cyanide
+013.05_115	phosphine ... hydrogen cyanide
+013.05_125	phosphine ... hydrogen cyanide
+013.06_100	phosphine ... methylamine
+013.06_105	phosphine ... methylamine
+013.06_110	phosphine ... methylamine
+013.06_115	phosphine ... methylamine
+013.06_125	phosphine ... methylamine
+013.07_100	phosphine ... nitromethane
+013.07_105	phosphine ... nitromethane
+013.07_110	phosphine ... nitromethane
+013.07_115	phosphine ... nitromethane
+013.07_125	phosphine ... nitromethane
+013.08_100	pyridine ... CH3PCH2
+013.08_105	pyridine ... CH3PCH2
+013.08_110	pyridine ... CH3PCH2
+013.08_115	pyridine ... CH3PCH2
+013.08_125	pyridine ... CH3PCH2
+013.09_100	pyridine ... phosphine
+013.09_105	pyridine ... phosphine
+013.09_110	pyridine ... phosphine
+013.09_115	pyridine ... phosphine
+013.09_125	pyridine ... phosphine
+013.10_100	trimethylphosphine ... ammonia
+013.10_105	trimethylphosphine ... ammonia
+013.10_110	trimethylphosphine ... ammonia
+013.10_115	trimethylphosphine ... ammonia
+013.10_125	trimethylphosphine ... ammonia
+013.11_100	trimethylphosphine ... hydrogen cyanide
+013.11_105	trimethylphosphine ... hydrogen cyanide
+013.11_110	trimethylphosphine ... hydrogen cyanide
+013.11_115	trimethylphosphine ... hydrogen cyanide
+013.11_125	trimethylphosphine ... hydrogen cyanide
+013.12_100	trimethylphosphine ... methylamine
+013.12_105	trimethylphosphine ... methylamine
+013.12_110	trimethylphosphine ... methylamine
+013.12_115	trimethylphosphine ... methylamine
+013.12_125	trimethylphosphine ... methylamine
+013.13_100	trimethylphosphine ... nitromethane
+013.13_105	trimethylphosphine ... nitromethane
+013.13_110	trimethylphosphine ... nitromethane
+013.13_115	trimethylphosphine ... nitromethane
+013.13_125	trimethylphosphine ... nitromethane
+013.14_100	trimethylphosphine ... pyridine
+013.14_105	trimethylphosphine ... pyridine
+013.14_110	trimethylphosphine ... pyridine
+013.14_115	trimethylphosphine ... pyridine
+013.14_125	trimethylphosphine ... pyridine
+013.15_100	nitromethane ... CH3PCH2
+013.15_105	nitromethane ... CH3PCH2
+013.15_110	nitromethane ... CH3PCH2
+013.15_115	nitromethane ... CH3PCH2
+013.15_125	nitromethane ... CH3PCH2
+014.01_100	acetone ... CH3PCH2
+014.01_105	acetone ... CH3PCH2
+014.01_110	acetone ... CH3PCH2
+014.01_115	acetone ... CH3PCH2
+014.01_125	acetone ... CH3PCH2
+014.02_100	furan ... CH3PCH2
+014.02_105	furan ... CH3PCH2
+014.02_110	furan ... CH3PCH2
+014.02_115	furan ... CH3PCH2
+014.02_125	furan ... CH3PCH2
+014.03_100	methanol ... CH3PCH2
+014.03_105	methanol ... CH3PCH2
+014.03_110	methanol ... CH3PCH2
+014.03_115	methanol ... CH3PCH2
+014.03_125	methanol ... CH3PCH2
+014.04_100	phosphine ... acetone
+014.04_105	phosphine ... acetone
+014.04_110	phosphine ... acetone
+014.04_115	phosphine ... acetone
+014.04_125	phosphine ... acetone
+014.05_100	phosphine ... furan
+014.05_105	phosphine ... furan
+014.05_110	phosphine ... furan
+014.05_115	phosphine ... furan
+014.05_125	phosphine ... furan
+014.06_100	phosphine ... methanol
+014.06_105	phosphine ... methanol
+014.06_110	phosphine ... methanol
+014.06_115	phosphine ... methanol
+014.06_125	phosphine ... methanol
+014.07_100	trimethylphosphine ... acetone
+014.07_105	trimethylphosphine ... acetone
+014.07_110	trimethylphosphine ... acetone
+014.07_115	trimethylphosphine ... acetone
+014.07_125	trimethylphosphine ... acetone
+014.08_100	trimethylphosphine ... furan
+014.08_105	trimethylphosphine ... furan
+014.08_110	trimethylphosphine ... furan
+014.08_115	trimethylphosphine ... furan
+014.08_125	trimethylphosphine ... furan
+014.09_100	trimethylphosphine ... methanol
+014.09_105	trimethylphosphine ... methanol
+014.09_110	trimethylphosphine ... methanol
+014.09_115	trimethylphosphine ... methanol
+014.09_125	trimethylphosphine ... methanol
+014.10_100	water ... CH3PCH2
+014.10_105	water ... CH3PCH2
+014.10_110	water ... CH3PCH2
+014.10_115	water ... CH3PCH2
+014.10_125	water ... CH3PCH2
+014.11_100	water ... phosphine
+014.11_105	water ... phosphine
+014.11_110	water ... phosphine
+014.11_115	water ... phosphine
+014.11_125	water ... phosphine
+014.12_100	water ... trimethylphosphine
+014.12_105	water ... trimethylphosphine
+014.12_110	water ... trimethylphosphine
+014.12_115	water ... trimethylphosphine
+014.12_125	water ... trimethylphosphine
+015.01_100	CH3PCH2 ... CH3PCH2
+015.01_105	CH3PCH2 ... CH3PCH2
+015.01_110	CH3PCH2 ... CH3PCH2
+015.01_115	CH3PCH2 ... CH3PCH2
+015.01_125	CH3PCH2 ... CH3PCH2
+015.02_100	phosphine ... CH3PCH2
+015.02_105	phosphine ... CH3PCH2
+015.02_110	phosphine ... CH3PCH2
+015.02_115	phosphine ... CH3PCH2
+015.02_125	phosphine ... CH3PCH2
+015.03_100	phosphine ... phosphine
+015.03_105	phosphine ... phosphine
+015.03_110	phosphine ... phosphine
+015.03_115	phosphine ... phosphine
+015.03_125	phosphine ... phosphine
+015.04_100	trimethylphosphine ... CH3PCH2
+015.04_105	trimethylphosphine ... CH3PCH2
+015.04_110	trimethylphosphine ... CH3PCH2
+015.04_115	trimethylphosphine ... CH3PCH2
+015.04_125	trimethylphosphine ... CH3PCH2
+015.05_100	trimethylphosphine ... phosphine
+015.05_105	trimethylphosphine ... phosphine
+015.05_110	trimethylphosphine ... phosphine
+015.05_115	trimethylphosphine ... phosphine
+015.05_125	trimethylphosphine ... phosphine
+015.06_100	trimethylphosphine ... trimethylphosphine
+015.06_105	trimethylphosphine ... trimethylphosphine
+015.06_110	trimethylphosphine ... trimethylphosphine
+015.06_115	trimethylphosphine ... trimethylphosphine
+015.06_125	trimethylphosphine ... trimethylphosphine
+016.01_100	hydrogen sulfide ... borane(H)
+016.01_105	hydrogen sulfide ... borane(H)
+016.01_110	hydrogen sulfide ... borane(H)
+016.01_115	hydrogen sulfide ... borane(H)
+016.01_125	hydrogen sulfide ... borane(H)
+016.02_100	hydrogen sulfide ... dihydrogen
+016.02_105	hydrogen sulfide ... dihydrogen
+016.02_110	hydrogen sulfide ... dihydrogen
+016.02_115	hydrogen sulfide ... dihydrogen
+016.02_125	hydrogen sulfide ... dihydrogen
+016.03_100	hydrogen sulfide ... ethyne(H)
+016.03_105	hydrogen sulfide ... ethyne(H)
+016.03_110	hydrogen sulfide ... ethyne(H)
+016.03_115	hydrogen sulfide ... ethyne(H)
+016.03_125	hydrogen sulfide ... ethyne(H)
+016.04_100	hydrogen sulfide ... hydrogen fluoride
+016.04_105	hydrogen sulfide ... hydrogen fluoride
+016.04_110	hydrogen sulfide ... hydrogen fluoride
+016.04_115	hydrogen sulfide ... hydrogen fluoride
+016.04_125	hydrogen sulfide ... hydrogen fluoride
+016.05_100	methane(H) ... hydrogen sulfide
+016.05_105	methane(H) ... hydrogen sulfide
+016.05_110	methane(H) ... hydrogen sulfide
+016.05_115	methane(H) ... hydrogen sulfide
+016.05_125	methane(H) ... hydrogen sulfide
+016.06_100	methanethiol ... borane(H)
+016.06_105	methanethiol ... borane(H)
+016.06_110	methanethiol ... borane(H)
+016.06_115	methanethiol ... borane(H)
+016.06_125	methanethiol ... borane(H)
+016.07_100	methanethiol ... dihydrogen
+016.07_105	methanethiol ... dihydrogen
+016.07_110	methanethiol ... dihydrogen
+016.07_115	methanethiol ... dihydrogen
+016.07_125	methanethiol ... dihydrogen
+016.08_100	methanethiol ... ethyne(H)
+016.08_105	methanethiol ... ethyne(H)
+016.08_110	methanethiol ... ethyne(H)
+016.08_115	methanethiol ... ethyne(H)
+016.08_125	methanethiol ... ethyne(H)
+016.09_100	methanethiol ... hydrogen fluoride
+016.09_105	methanethiol ... hydrogen fluoride
+016.09_110	methanethiol ... hydrogen fluoride
+016.09_115	methanethiol ... hydrogen fluoride
+016.09_125	methanethiol ... hydrogen fluoride
+016.10_100	methanethiol ... methane(H)
+016.10_105	methanethiol ... methane(H)
+016.10_110	methanethiol ... methane(H)
+016.10_115	methanethiol ... methane(H)
+016.10_125	methanethiol ... methane(H)
+016.11_100	thioacetone ... borane(H)
+016.11_105	thioacetone ... borane(H)
+016.11_110	thioacetone ... borane(H)
+016.11_115	thioacetone ... borane(H)
+016.11_125	thioacetone ... borane(H)
+016.12_100	thioacetone ... dihydrogen
+016.12_105	thioacetone ... dihydrogen
+016.12_110	thioacetone ... dihydrogen
+016.12_115	thioacetone ... dihydrogen
+016.12_125	thioacetone ... dihydrogen
+016.13_100	thioacetone ... ethyne(H)
+016.13_105	thioacetone ... ethyne(H)
+016.13_110	thioacetone ... ethyne(H)
+016.13_115	thioacetone ... ethyne(H)
+016.13_125	thioacetone ... ethyne(H)
+016.14_100	thioacetone ... hydrogen fluoride
+016.14_105	thioacetone ... hydrogen fluoride
+016.14_110	thioacetone ... hydrogen fluoride
+016.14_115	thioacetone ... hydrogen fluoride
+016.14_125	thioacetone ... hydrogen fluoride
+016.15_100	thioacetone ... methane(H)
+016.15_105	thioacetone ... methane(H)
+016.15_110	thioacetone ... methane(H)
+016.15_115	thioacetone ... methane(H)
+016.15_125	thioacetone ... methane(H)
+016.16_100	thiophene ... borane(H)
+016.16_105	thiophene ... borane(H)
+016.16_110	thiophene ... borane(H)
+016.16_115	thiophene ... borane(H)
+016.16_125	thiophene ... borane(H)
+016.17_100	thiophene ... dihydrogen
+016.17_105	thiophene ... dihydrogen
+016.17_110	thiophene ... dihydrogen
+016.17_115	thiophene ... dihydrogen
+016.17_125	thiophene ... dihydrogen
+016.18_100	thiophene ... ethyne(H)
+016.18_105	thiophene ... ethyne(H)
+016.18_110	thiophene ... ethyne(H)
+016.18_115	thiophene ... ethyne(H)
+016.18_125	thiophene ... ethyne(H)
+016.19_100	thiophene ... hydrogen fluoride
+016.19_105	thiophene ... hydrogen fluoride
+016.19_110	thiophene ... hydrogen fluoride
+016.19_115	thiophene ... hydrogen fluoride
+016.19_125	thiophene ... hydrogen fluoride
+016.20_100	thiophene ... methane(H)
+016.20_105	thiophene ... methane(H)
+016.20_110	thiophene ... methane(H)
+016.20_115	thiophene ... methane(H)
+016.20_125	thiophene ... methane(H)
+017.01_100	hydrogen sulfide ... benzene
+017.01_105	hydrogen sulfide ... benzene
+017.01_110	hydrogen sulfide ... benzene
+017.01_115	hydrogen sulfide ... benzene
+017.01_125	hydrogen sulfide ... benzene
+017.02_100	hydrogen sulfide ... ethene
+017.02_105	hydrogen sulfide ... ethene
+017.02_110	hydrogen sulfide ... ethene
+017.02_115	hydrogen sulfide ... ethene
+017.02_125	hydrogen sulfide ... ethene
+017.03_100	hydrogen sulfide ... ethyne(C)
+017.03_105	hydrogen sulfide ... ethyne(C)
+017.03_110	hydrogen sulfide ... ethyne(C)
+017.03_115	hydrogen sulfide ... ethyne(C)
+017.03_125	hydrogen sulfide ... ethyne(C)
+017.04_100	methane(C) ... hydrogen sulfide
+017.04_105	methane(C) ... hydrogen sulfide
+017.04_110	methane(C) ... hydrogen sulfide
+017.04_115	methane(C) ... hydrogen sulfide
+017.04_125	methane(C) ... hydrogen sulfide
+017.05_100	methanethiol ... benzene
+017.05_105	methanethiol ... benzene
+017.05_110	methanethiol ... benzene
+017.05_115	methanethiol ... benzene
+017.05_125	methanethiol ... benzene
+017.06_100	methanethiol ... ethene
+017.06_105	methanethiol ... ethene
+017.06_110	methanethiol ... ethene
+017.06_115	methanethiol ... ethene
+017.06_125	methanethiol ... ethene
+017.07_100	methanethiol ... ethyne(C)
+017.07_105	methanethiol ... ethyne(C)
+017.07_110	methanethiol ... ethyne(C)
+017.07_115	methanethiol ... ethyne(C)
+017.07_125	methanethiol ... ethyne(C)
+017.08_100	methanethiol ... methane(C)
+017.08_105	methanethiol ... methane(C)
+017.08_110	methanethiol ... methane(C)
+017.08_115	methanethiol ... methane(C)
+017.08_125	methanethiol ... methane(C)
+017.09_100	thioacetone ... benzene
+017.09_105	thioacetone ... benzene
+017.09_110	thioacetone ... benzene
+017.09_115	thioacetone ... benzene
+017.09_125	thioacetone ... benzene
+017.10_100	thioacetone ... ethene
+017.10_105	thioacetone ... ethene
+017.10_110	thioacetone ... ethene
+017.10_115	thioacetone ... ethene
+017.10_125	thioacetone ... ethene
+017.11_100	thioacetone ... ethyne(C)
+017.11_105	thioacetone ... ethyne(C)
+017.11_110	thioacetone ... ethyne(C)
+017.11_115	thioacetone ... ethyne(C)
+017.11_125	thioacetone ... ethyne(C)
+017.12_100	thioacetone ... methane(C)
+017.12_105	thioacetone ... methane(C)
+017.12_110	thioacetone ... methane(C)
+017.12_115	thioacetone ... methane(C)
+017.12_125	thioacetone ... methane(C)
+017.13_100	thiophene ... benzene
+017.13_105	thiophene ... benzene
+017.13_110	thiophene ... benzene
+017.13_115	thiophene ... benzene
+017.13_125	thiophene ... benzene
+017.14_100	thiophene ... ethene
+017.14_105	thiophene ... ethene
+017.14_110	thiophene ... ethene
+017.14_115	thiophene ... ethene
+017.14_125	thiophene ... ethene
+017.15_100	thiophene ... ethyne(C)
+017.15_105	thiophene ... ethyne(C)
+017.15_110	thiophene ... ethyne(C)
+017.15_115	thiophene ... ethyne(C)
+017.15_125	thiophene ... ethyne(C)
+017.16_100	thiophene ... methane(C)
+017.16_105	thiophene ... methane(C)
+017.16_110	thiophene ... methane(C)
+017.16_115	thiophene ... methane(C)
+017.16_125	thiophene ... methane(C)
+018.01_100	hydrogen sulfide ... ammonia
+018.01_105	hydrogen sulfide ... ammonia
+018.01_110	hydrogen sulfide ... ammonia
+018.01_115	hydrogen sulfide ... ammonia
+018.01_125	hydrogen sulfide ... ammonia
+018.02_100	hydrogen sulfide ... hydrogen cyanide
+018.02_105	hydrogen sulfide ... hydrogen cyanide
+018.02_110	hydrogen sulfide ... hydrogen cyanide
+018.02_115	hydrogen sulfide ... hydrogen cyanide
+018.02_125	hydrogen sulfide ... hydrogen cyanide
+018.03_100	methanethiol ... ammonia
+018.03_105	methanethiol ... ammonia
+018.03_110	methanethiol ... ammonia
+018.03_115	methanethiol ... ammonia
+018.03_125	methanethiol ... ammonia
+018.04_100	methanethiol ... hydrogen cyanide
+018.04_105	methanethiol ... hydrogen cyanide
+018.04_110	methanethiol ... hydrogen cyanide
+018.04_115	methanethiol ... hydrogen cyanide
+018.04_125	methanethiol ... hydrogen cyanide
+018.05_100	methylamine ... hydrogen sulfide
+018.05_105	methylamine ... hydrogen sulfide
+018.05_110	methylamine ... hydrogen sulfide
+018.05_115	methylamine ... hydrogen sulfide
+018.05_125	methylamine ... hydrogen sulfide
+018.06_100	methylamine ... methanethiol
+018.06_105	methylamine ... methanethiol
+018.06_110	methylamine ... methanethiol
+018.06_115	methylamine ... methanethiol
+018.06_125	methylamine ... methanethiol
+018.07_100	nitromethane ... hydrogen sulfide
+018.07_105	nitromethane ... hydrogen sulfide
+018.07_110	nitromethane ... hydrogen sulfide
+018.07_115	nitromethane ... hydrogen sulfide
+018.07_125	nitromethane ... hydrogen sulfide
+018.08_100	nitromethane ... methanethiol
+018.08_105	nitromethane ... methanethiol
+018.08_110	nitromethane ... methanethiol
+018.08_115	nitromethane ... methanethiol
+018.08_125	nitromethane ... methanethiol
+018.09_100	pyridine ... hydrogen sulfide
+018.09_105	pyridine ... hydrogen sulfide
+018.09_110	pyridine ... hydrogen sulfide
+018.09_115	pyridine ... hydrogen sulfide
+018.09_125	pyridine ... hydrogen sulfide
+018.10_100	pyridine ... methanethiol
+018.10_105	pyridine ... methanethiol
+018.10_110	pyridine ... methanethiol
+018.10_115	pyridine ... methanethiol
+018.10_125	pyridine ... methanethiol
+018.11_100	thioacetone ... ammonia
+018.11_105	thioacetone ... ammonia
+018.11_110	thioacetone ... ammonia
+018.11_115	thioacetone ... ammonia
+018.11_125	thioacetone ... ammonia
+018.12_100	thioacetone ... hydrogen cyanide
+018.12_105	thioacetone ... hydrogen cyanide
+018.12_110	thioacetone ... hydrogen cyanide
+018.12_115	thioacetone ... hydrogen cyanide
+018.12_125	thioacetone ... hydrogen cyanide
+018.13_100	thioacetone ... methylamine
+018.13_105	thioacetone ... methylamine
+018.13_110	thioacetone ... methylamine
+018.13_115	thioacetone ... methylamine
+018.13_125	thioacetone ... methylamine
+018.14_100	thioacetone ... nitromethane
+018.14_105	thioacetone ... nitromethane
+018.14_110	thioacetone ... nitromethane
+018.14_115	thioacetone ... nitromethane
+018.14_125	thioacetone ... nitromethane
+018.15_100	thioacetone ... pyridine
+018.15_105	thioacetone ... pyridine
+018.15_110	thioacetone ... pyridine
+018.15_115	thioacetone ... pyridine
+018.15_125	thioacetone ... pyridine
+018.16_100	thiophene ... ammonia
+018.16_105	thiophene ... ammonia
+018.16_110	thiophene ... ammonia
+018.16_115	thiophene ... ammonia
+018.16_125	thiophene ... ammonia
+018.17_100	thiophene ... hydrogen cyanide
+018.17_105	thiophene ... hydrogen cyanide
+018.17_110	thiophene ... hydrogen cyanide
+018.17_115	thiophene ... hydrogen cyanide
+018.17_125	thiophene ... hydrogen cyanide
+018.18_100	thiophene ... methylamine
+018.18_105	thiophene ... methylamine
+018.18_110	thiophene ... methylamine
+018.18_115	thiophene ... methylamine
+018.18_125	thiophene ... methylamine
+018.19_100	thiophene ... nitromethane
+018.19_105	thiophene ... nitromethane
+018.19_110	thiophene ... nitromethane
+018.19_115	thiophene ... nitromethane
+018.19_125	thiophene ... nitromethane
+018.20_100	thiophene ... pyridine
+018.20_105	thiophene ... pyridine
+018.20_110	thiophene ... pyridine
+018.20_115	thiophene ... pyridine
+018.20_125	thiophene ... pyridine
+019.01_100	hydrogen sulfide ... acetone
+019.01_105	hydrogen sulfide ... acetone
+019.01_110	hydrogen sulfide ... acetone
+019.01_115	hydrogen sulfide ... acetone
+019.01_125	hydrogen sulfide ... acetone
+019.02_100	hydrogen sulfide ... furan
+019.02_105	hydrogen sulfide ... furan
+019.02_110	hydrogen sulfide ... furan
+019.02_115	hydrogen sulfide ... furan
+019.02_125	hydrogen sulfide ... furan
+019.03_100	methanethiol ... acetone
+019.03_105	methanethiol ... acetone
+019.03_110	methanethiol ... acetone
+019.03_115	methanethiol ... acetone
+019.03_125	methanethiol ... acetone
+019.04_100	methanethiol ... furan
+019.04_105	methanethiol ... furan
+019.04_110	methanethiol ... furan
+019.04_115	methanethiol ... furan
+019.04_125	methanethiol ... furan
+019.05_100	methanol ... hydrogen sulfide
+019.05_105	methanol ... hydrogen sulfide
+019.05_110	methanol ... hydrogen sulfide
+019.05_115	methanol ... hydrogen sulfide
+019.05_125	methanol ... hydrogen sulfide
+019.06_100	methanol ... methanethiol
+019.06_105	methanol ... methanethiol
+019.06_110	methanol ... methanethiol
+019.06_115	methanol ... methanethiol
+019.06_125	methanol ... methanethiol
+019.07_100	thioacetone ... acetone
+019.07_105	thioacetone ... acetone
+019.07_110	thioacetone ... acetone
+019.07_115	thioacetone ... acetone
+019.07_125	thioacetone ... acetone
+019.08_100	thioacetone ... furan
+019.08_105	thioacetone ... furan
+019.08_110	thioacetone ... furan
+019.08_115	thioacetone ... furan
+019.08_125	thioacetone ... furan
+019.09_100	thioacetone ... methanol
+019.09_105	thioacetone ... methanol
+019.09_110	thioacetone ... methanol
+019.09_115	thioacetone ... methanol
+019.09_125	thioacetone ... methanol
+019.10_100	thiophene ... acetone
+019.10_105	thiophene ... acetone
+019.10_110	thiophene ... acetone
+019.10_115	thiophene ... acetone
+019.10_125	thiophene ... acetone
+019.11_100	thiophene ... furan
+019.11_105	thiophene ... furan
+019.11_110	thiophene ... furan
+019.11_115	thiophene ... furan
+019.11_125	thiophene ... furan
+019.12_100	thiophene ... methanol
+019.12_105	thiophene ... methanol
+019.12_110	thiophene ... methanol
+019.12_115	thiophene ... methanol
+019.12_125	thiophene ... methanol
+019.13_100	water ... hydrogen sulfide
+019.13_105	water ... hydrogen sulfide
+019.13_110	water ... hydrogen sulfide
+019.13_115	water ... hydrogen sulfide
+019.13_125	water ... hydrogen sulfide
+019.14_100	water ... methanethiol
+019.14_105	water ... methanethiol
+019.14_110	water ... methanethiol
+019.14_115	water ... methanethiol
+019.14_125	water ... methanethiol
+019.15_100	water ... thioacetone
+019.15_105	water ... thioacetone
+019.15_110	water ... thioacetone
+019.15_115	water ... thioacetone
+019.15_125	water ... thioacetone
+019.16_100	water ... thiophene
+019.16_105	water ... thiophene
+019.16_110	water ... thiophene
+019.16_115	water ... thiophene
+019.16_125	water ... thiophene
+020.01_100	hydrogen sulfide ... CH3PCH2
+020.01_105	hydrogen sulfide ... CH3PCH2
+020.01_110	hydrogen sulfide ... CH3PCH2
+020.01_115	hydrogen sulfide ... CH3PCH2
+020.01_125	hydrogen sulfide ... CH3PCH2
+020.02_100	methanethiol ... CH3PCH2
+020.02_105	methanethiol ... CH3PCH2
+020.02_110	methanethiol ... CH3PCH2
+020.02_115	methanethiol ... CH3PCH2
+020.02_125	methanethiol ... CH3PCH2
+020.03_100	phosphine ... hydrogen sulfide
+020.03_105	phosphine ... hydrogen sulfide
+020.03_110	phosphine ... hydrogen sulfide
+020.03_115	phosphine ... hydrogen sulfide
+020.03_125	phosphine ... hydrogen sulfide
+020.04_100	phosphine ... methanethiol
+020.04_105	phosphine ... methanethiol
+020.04_110	phosphine ... methanethiol
+020.04_115	phosphine ... methanethiol
+020.04_125	phosphine ... methanethiol
+020.05_100	thioacetone ... CH3PCH2
+020.05_105	thioacetone ... CH3PCH2
+020.05_110	thioacetone ... CH3PCH2
+020.05_115	thioacetone ... CH3PCH2
+020.05_125	thioacetone ... CH3PCH2
+020.06_100	thioacetone ... phosphine
+020.06_105	thioacetone ... phosphine
+020.06_110	thioacetone ... phosphine
+020.06_115	thioacetone ... phosphine
+020.06_125	thioacetone ... phosphine
+020.07_100	thiophene ... CH3PCH2
+020.07_105	thiophene ... CH3PCH2
+020.07_110	thiophene ... CH3PCH2
+020.07_115	thiophene ... CH3PCH2
+020.07_125	thiophene ... CH3PCH2
+020.08_100	thiophene ... phosphine
+020.08_105	thiophene ... phosphine
+020.08_110	thiophene ... phosphine
+020.08_115	thiophene ... phosphine
+020.08_125	thiophene ... phosphine
+020.09_100	trimethylphosphine ... hydrogen sulfide
+020.09_105	trimethylphosphine ... hydrogen sulfide
+020.09_110	trimethylphosphine ... hydrogen sulfide
+020.09_115	trimethylphosphine ... hydrogen sulfide
+020.09_125	trimethylphosphine ... hydrogen sulfide
+020.10_100	trimethylphosphine ... methanethiol
+020.10_105	trimethylphosphine ... methanethiol
+020.10_110	trimethylphosphine ... methanethiol
+020.10_115	trimethylphosphine ... methanethiol
+020.10_125	trimethylphosphine ... methanethiol
+020.11_100	trimethylphosphine ... thioacetone
+020.11_105	trimethylphosphine ... thioacetone
+020.11_110	trimethylphosphine ... thioacetone
+020.11_115	trimethylphosphine ... thioacetone
+020.11_125	trimethylphosphine ... thioacetone
+020.12_100	trimethylphosphine ... thiophene
+020.12_105	trimethylphosphine ... thiophene
+020.12_110	trimethylphosphine ... thiophene
+020.12_115	trimethylphosphine ... thiophene
+020.12_125	trimethylphosphine ... thiophene
+021.01_100	hydrogen sulfide ... hydrogen sulfide
+021.01_105	hydrogen sulfide ... hydrogen sulfide
+021.01_110	hydrogen sulfide ... hydrogen sulfide
+021.01_115	hydrogen sulfide ... hydrogen sulfide
+021.01_125	hydrogen sulfide ... hydrogen sulfide
+021.02_100	methanethiol ... hydrogen sulfide
+021.02_105	methanethiol ... hydrogen sulfide
+021.02_110	methanethiol ... hydrogen sulfide
+021.02_115	methanethiol ... hydrogen sulfide
+021.02_125	methanethiol ... hydrogen sulfide
+021.03_100	methanethiol ... methanethiol
+021.03_105	methanethiol ... methanethiol
+021.03_110	methanethiol ... methanethiol
+021.03_115	methanethiol ... methanethiol
+021.03_125	methanethiol ... methanethiol
+021.04_100	thioacetone ... hydrogen sulfide
+021.04_105	thioacetone ... hydrogen sulfide
+021.04_110	thioacetone ... hydrogen sulfide
+021.04_115	thioacetone ... hydrogen sulfide
+021.04_125	thioacetone ... hydrogen sulfide
+021.05_100	thioacetone ... methanethiol
+021.05_105	thioacetone ... methanethiol
+021.05_110	thioacetone ... methanethiol
+021.05_115	thioacetone ... methanethiol
+021.05_125	thioacetone ... methanethiol
+021.06_100	thioacetone ... thioacetone
+021.06_105	thioacetone ... thioacetone
+021.06_110	thioacetone ... thioacetone
+021.06_115	thioacetone ... thioacetone
+021.06_125	thioacetone ... thioacetone
+021.07_100	thiophene ... hydrogen sulfide
+021.07_105	thiophene ... hydrogen sulfide
+021.07_110	thiophene ... hydrogen sulfide
+021.07_115	thiophene ... hydrogen sulfide
+021.07_125	thiophene ... hydrogen sulfide
+021.08_100	thiophene ... methanethiol
+021.08_105	thiophene ... methanethiol
+021.08_110	thiophene ... methanethiol
+021.08_115	thiophene ... methanethiol
+021.08_125	thiophene ... methanethiol
+021.09_100	thiophene ... thioacetone
+021.09_105	thiophene ... thioacetone
+021.09_110	thiophene ... thioacetone
+021.09_115	thiophene ... thioacetone
+021.09_125	thiophene ... thioacetone
+021.10_100	thiophene ... thiophene
+021.10_105	thiophene ... thiophene
+021.10_110	thiophene ... thiophene
+021.10_115	thiophene ... thiophene
+021.10_125	thiophene ... thiophene
+022.01_100	cyanogen fluoride ... borane(H)
+022.01_105	cyanogen fluoride ... borane(H)
+022.01_110	cyanogen fluoride ... borane(H)
+022.01_115	cyanogen fluoride ... borane(H)
+022.01_125	cyanogen fluoride ... borane(H)
+022.02_100	dihydrogen ... cyanogen fluoride
+022.02_105	dihydrogen ... cyanogen fluoride
+022.02_110	dihydrogen ... cyanogen fluoride
+022.02_115	dihydrogen ... cyanogen fluoride
+022.02_125	dihydrogen ... cyanogen fluoride
+022.03_100	ethyne(H) ... cyanogen fluoride
+022.03_105	ethyne(H) ... cyanogen fluoride
+022.03_110	ethyne(H) ... cyanogen fluoride
+022.03_115	ethyne(H) ... cyanogen fluoride
+022.03_125	ethyne(H) ... cyanogen fluoride
+022.04_100	hydrogen fluoride ... cyanogen fluoride
+022.04_105	hydrogen fluoride ... cyanogen fluoride
+022.04_110	hydrogen fluoride ... cyanogen fluoride
+022.04_115	hydrogen fluoride ... cyanogen fluoride
+022.04_125	hydrogen fluoride ... cyanogen fluoride
+022.05_100	methane(H) ... cyanogen fluoride
+022.05_105	methane(H) ... cyanogen fluoride
+022.05_110	methane(H) ... cyanogen fluoride
+022.05_115	methane(H) ... cyanogen fluoride
+022.05_125	methane(H) ... cyanogen fluoride
+022.06_100	methylfluoride ... borane(H)
+022.06_105	methylfluoride ... borane(H)
+022.06_110	methylfluoride ... borane(H)
+022.06_115	methylfluoride ... borane(H)
+022.06_125	methylfluoride ... borane(H)
+022.07_100	methylfluoride ... dihydrogen
+022.07_105	methylfluoride ... dihydrogen
+022.07_110	methylfluoride ... dihydrogen
+022.07_115	methylfluoride ... dihydrogen
+022.07_125	methylfluoride ... dihydrogen
+022.08_100	methylfluoride ... ethyne(H)
+022.08_105	methylfluoride ... ethyne(H)
+022.08_110	methylfluoride ... ethyne(H)
+022.08_115	methylfluoride ... ethyne(H)
+022.08_125	methylfluoride ... ethyne(H)
+022.09_100	methylfluoride ... hydrogen fluoride
+022.09_105	methylfluoride ... hydrogen fluoride
+022.09_110	methylfluoride ... hydrogen fluoride
+022.09_115	methylfluoride ... hydrogen fluoride
+022.09_125	methylfluoride ... hydrogen fluoride
+022.10_100	methylfluoride ... methane(H)
+022.10_105	methylfluoride ... methane(H)
+022.10_110	methylfluoride ... methane(H)
+022.10_115	methylfluoride ... methane(H)
+022.10_125	methylfluoride ... methane(H)
+023.01_100	cyanogen fluoride ... benzene
+023.01_105	cyanogen fluoride ... benzene
+023.01_110	cyanogen fluoride ... benzene
+023.01_115	cyanogen fluoride ... benzene
+023.01_125	cyanogen fluoride ... benzene
+023.02_100	ethene ... cyanogen fluoride
+023.02_105	ethene ... cyanogen fluoride
+023.02_110	ethene ... cyanogen fluoride
+023.02_115	ethene ... cyanogen fluoride
+023.02_125	ethene ... cyanogen fluoride
+023.03_100	ethyne(C) ... cyanogen fluoride
+023.03_105	ethyne(C) ... cyanogen fluoride
+023.03_110	ethyne(C) ... cyanogen fluoride
+023.03_115	ethyne(C) ... cyanogen fluoride
+023.03_125	ethyne(C) ... cyanogen fluoride
+023.04_100	methane(C) ... cyanogen fluoride
+023.04_105	methane(C) ... cyanogen fluoride
+023.04_110	methane(C) ... cyanogen fluoride
+023.04_115	methane(C) ... cyanogen fluoride
+023.04_125	methane(C) ... cyanogen fluoride
+023.05_100	methylfluoride ... benzene
+023.05_105	methylfluoride ... benzene
+023.05_110	methylfluoride ... benzene
+023.05_115	methylfluoride ... benzene
+023.05_125	methylfluoride ... benzene
+023.06_100	methylfluoride ... ethene
+023.06_105	methylfluoride ... ethene
+023.06_110	methylfluoride ... ethene
+023.06_115	methylfluoride ... ethene
+023.06_125	methylfluoride ... ethene
+023.07_100	methylfluoride ... ethyne(C)
+023.07_105	methylfluoride ... ethyne(C)
+023.07_110	methylfluoride ... ethyne(C)
+023.07_115	methylfluoride ... ethyne(C)
+023.07_125	methylfluoride ... ethyne(C)
+023.08_100	methylfluoride ... methane(C)
+023.08_105	methylfluoride ... methane(C)
+023.08_110	methylfluoride ... methane(C)
+023.08_115	methylfluoride ... methane(C)
+023.08_125	methylfluoride ... methane(C)
+024.01_100	cyanogen fluoride ... ammonia
+024.01_105	cyanogen fluoride ... ammonia
+024.01_110	cyanogen fluoride ... ammonia
+024.01_115	cyanogen fluoride ... ammonia
+024.01_125	cyanogen fluoride ... ammonia
+024.02_100	hydrogen cyanide ... cyanogen fluoride
+024.02_105	hydrogen cyanide ... cyanogen fluoride
+024.02_110	hydrogen cyanide ... cyanogen fluoride
+024.02_115	hydrogen cyanide ... cyanogen fluoride
+024.02_125	hydrogen cyanide ... cyanogen fluoride
+024.03_100	methylamine ... cyanogen fluoride
+024.03_105	methylamine ... cyanogen fluoride
+024.03_110	methylamine ... cyanogen fluoride
+024.03_115	methylamine ... cyanogen fluoride
+024.03_125	methylamine ... cyanogen fluoride
+024.04_100	methylfluoride ... ammonia
+024.04_105	methylfluoride ... ammonia
+024.04_110	methylfluoride ... ammonia
+024.04_115	methylfluoride ... ammonia
+024.04_125	methylfluoride ... ammonia
+024.05_100	methylfluoride ... hydrogen cyanide
+024.05_105	methylfluoride ... hydrogen cyanide
+024.05_110	methylfluoride ... hydrogen cyanide
+024.05_115	methylfluoride ... hydrogen cyanide
+024.05_125	methylfluoride ... hydrogen cyanide
+024.06_100	methylfluoride ... methylamine
+024.06_105	methylfluoride ... methylamine
+024.06_110	methylfluoride ... methylamine
+024.06_115	methylfluoride ... methylamine
+024.06_125	methylfluoride ... methylamine
+024.07_100	nitromethane ... cyanogen fluoride
+024.07_105	nitromethane ... cyanogen fluoride
+024.07_110	nitromethane ... cyanogen fluoride
+024.07_115	nitromethane ... cyanogen fluoride
+024.07_125	nitromethane ... cyanogen fluoride
+024.08_100	pyridine ... cyanogen fluoride
+024.08_105	pyridine ... cyanogen fluoride
+024.08_110	pyridine ... cyanogen fluoride
+024.08_115	pyridine ... cyanogen fluoride
+024.08_125	pyridine ... cyanogen fluoride
+024.09_100	pyridine ... methylfluoride
+024.09_105	pyridine ... methylfluoride
+024.09_110	pyridine ... methylfluoride
+024.09_115	pyridine ... methylfluoride
+024.09_125	pyridine ... methylfluoride
+025.01_100	cyanogen fluoride ... acetone
+025.01_105	cyanogen fluoride ... acetone
+025.01_110	cyanogen fluoride ... acetone
+025.01_115	cyanogen fluoride ... acetone
+025.01_125	cyanogen fluoride ... acetone
+025.02_100	furan ... cyanogen fluoride
+025.02_105	furan ... cyanogen fluoride
+025.02_110	furan ... cyanogen fluoride
+025.02_115	furan ... cyanogen fluoride
+025.02_125	furan ... cyanogen fluoride
+025.03_100	methanol ... cyanogen fluoride
+025.03_105	methanol ... cyanogen fluoride
+025.03_110	methanol ... cyanogen fluoride
+025.03_115	methanol ... cyanogen fluoride
+025.03_125	methanol ... cyanogen fluoride
+025.04_100	methylfluoride ... acetone
+025.04_105	methylfluoride ... acetone
+025.04_110	methylfluoride ... acetone
+025.04_115	methylfluoride ... acetone
+025.04_125	methylfluoride ... acetone
+025.05_100	methylfluoride ... furan
+025.05_105	methylfluoride ... furan
+025.05_110	methylfluoride ... furan
+025.05_115	methylfluoride ... furan
+025.05_125	methylfluoride ... furan
+025.06_100	methylfluoride ... methanol
+025.06_105	methylfluoride ... methanol
+025.06_110	methylfluoride ... methanol
+025.06_115	methylfluoride ... methanol
+025.06_125	methylfluoride ... methanol
+025.07_100	water ... cyanogen fluoride
+025.07_105	water ... cyanogen fluoride
+025.07_110	water ... cyanogen fluoride
+025.07_115	water ... cyanogen fluoride
+025.07_125	water ... cyanogen fluoride
+025.08_100	water ... methylfluoride
+025.08_105	water ... methylfluoride
+025.08_110	water ... methylfluoride
+025.08_115	water ... methylfluoride
+025.08_125	water ... methylfluoride
+026.01_100	cyanogen fluoride ... CH3PCH2
+026.01_105	cyanogen fluoride ... CH3PCH2
+026.01_110	cyanogen fluoride ... CH3PCH2
+026.01_115	cyanogen fluoride ... CH3PCH2
+026.01_125	cyanogen fluoride ... CH3PCH2
+026.02_100	methylfluoride ... CH3PCH2
+026.02_105	methylfluoride ... CH3PCH2
+026.02_110	methylfluoride ... CH3PCH2
+026.02_115	methylfluoride ... CH3PCH2
+026.02_125	methylfluoride ... CH3PCH2
+026.03_100	phosphine ... cyanogen fluoride
+026.03_105	phosphine ... cyanogen fluoride
+026.03_110	phosphine ... cyanogen fluoride
+026.03_115	phosphine ... cyanogen fluoride
+026.03_125	phosphine ... cyanogen fluoride
+026.04_100	phosphine ... methylfluoride
+026.04_105	phosphine ... methylfluoride
+026.04_110	phosphine ... methylfluoride
+026.04_115	phosphine ... methylfluoride
+026.04_125	phosphine ... methylfluoride
+026.05_100	trimethylphosphine ... cyanogen fluoride
+026.05_105	trimethylphosphine ... cyanogen fluoride
+026.05_110	trimethylphosphine ... cyanogen fluoride
+026.05_115	trimethylphosphine ... cyanogen fluoride
+026.05_125	trimethylphosphine ... cyanogen fluoride
+026.06_100	trimethylphosphine ... methylfluoride
+026.06_105	trimethylphosphine ... methylfluoride
+026.06_110	trimethylphosphine ... methylfluoride
+026.06_115	trimethylphosphine ... methylfluoride
+026.06_125	trimethylphosphine ... methylfluoride
+027.01_100	hydrogen sulfide ... cyanogen fluoride
+027.01_105	hydrogen sulfide ... cyanogen fluoride
+027.01_110	hydrogen sulfide ... cyanogen fluoride
+027.01_115	hydrogen sulfide ... cyanogen fluoride
+027.01_125	hydrogen sulfide ... cyanogen fluoride
+027.02_100	methanethiol ... cyanogen fluoride
+027.02_105	methanethiol ... cyanogen fluoride
+027.02_110	methanethiol ... cyanogen fluoride
+027.02_115	methanethiol ... cyanogen fluoride
+027.02_125	methanethiol ... cyanogen fluoride
+027.03_100	methylfluoride ... hydrogen sulfide
+027.03_105	methylfluoride ... hydrogen sulfide
+027.03_110	methylfluoride ... hydrogen sulfide
+027.03_115	methylfluoride ... hydrogen sulfide
+027.03_125	methylfluoride ... hydrogen sulfide
+027.04_100	methylfluoride ... methanethiol
+027.04_105	methylfluoride ... methanethiol
+027.04_110	methylfluoride ... methanethiol
+027.04_115	methylfluoride ... methanethiol
+027.04_125	methylfluoride ... methanethiol
+027.05_100	thioacetone ... cyanogen fluoride
+027.05_105	thioacetone ... cyanogen fluoride
+027.05_110	thioacetone ... cyanogen fluoride
+027.05_115	thioacetone ... cyanogen fluoride
+027.05_125	thioacetone ... cyanogen fluoride
+027.06_100	thioacetone ... methylfluoride
+027.06_105	thioacetone ... methylfluoride
+027.06_110	thioacetone ... methylfluoride
+027.06_115	thioacetone ... methylfluoride
+027.06_125	thioacetone ... methylfluoride
+027.07_100	thiophene ... cyanogen fluoride
+027.07_105	thiophene ... cyanogen fluoride
+027.07_110	thiophene ... cyanogen fluoride
+027.07_115	thiophene ... cyanogen fluoride
+027.07_125	thiophene ... cyanogen fluoride
+027.08_100	thiophene ... methylfluoride
+027.08_105	thiophene ... methylfluoride
+027.08_110	thiophene ... methylfluoride
+027.08_115	thiophene ... methylfluoride
+027.08_125	thiophene ... methylfluoride
+028.01_100	cyanogen fluoride ... cyanogen fluoride
+028.01_105	cyanogen fluoride ... cyanogen fluoride
+028.01_110	cyanogen fluoride ... cyanogen fluoride
+028.01_115	cyanogen fluoride ... cyanogen fluoride
+028.01_125	cyanogen fluoride ... cyanogen fluoride
+028.02_100	methylfluoride ... cyanogen fluoride
+028.02_105	methylfluoride ... cyanogen fluoride
+028.02_110	methylfluoride ... cyanogen fluoride
+028.02_115	methylfluoride ... cyanogen fluoride
+028.02_125	methylfluoride ... cyanogen fluoride
+028.03_100	methylfluoride ... methylfluoride
+028.03_105	methylfluoride ... methylfluoride
+028.03_110	methylfluoride ... methylfluoride
+028.03_115	methylfluoride ... methylfluoride
+028.03_125	methylfluoride ... methylfluoride
+029.01_100	cyanogen chloride ... borane(H)
+029.01_105	cyanogen chloride ... borane(H)
+029.01_110	cyanogen chloride ... borane(H)
+029.01_115	cyanogen chloride ... borane(H)
+029.01_125	cyanogen chloride ... borane(H)
+029.02_100	dihydrogen ... cyanogen chloride
+029.02_105	dihydrogen ... cyanogen chloride
+029.02_110	dihydrogen ... cyanogen chloride
+029.02_115	dihydrogen ... cyanogen chloride
+029.02_125	dihydrogen ... cyanogen chloride
+029.03_100	ethyne(H) ... cyanogen chloride
+029.03_105	ethyne(H) ... cyanogen chloride
+029.03_110	ethyne(H) ... cyanogen chloride
+029.03_115	ethyne(H) ... cyanogen chloride
+029.03_125	ethyne(H) ... cyanogen chloride
+029.04_100	hydrogen fluoride ... cyanogen chloride
+029.04_105	hydrogen fluoride ... cyanogen chloride
+029.04_110	hydrogen fluoride ... cyanogen chloride
+029.04_115	hydrogen fluoride ... cyanogen chloride
+029.04_125	hydrogen fluoride ... cyanogen chloride
+029.05_100	methane(H) ... cyanogen chloride
+029.05_105	methane(H) ... cyanogen chloride
+029.05_110	methane(H) ... cyanogen chloride
+029.05_115	methane(H) ... cyanogen chloride
+029.05_125	methane(H) ... cyanogen chloride
+029.06_100	methylchloride ... borane(H)
+029.06_105	methylchloride ... borane(H)
+029.06_110	methylchloride ... borane(H)
+029.06_115	methylchloride ... borane(H)
+029.06_125	methylchloride ... borane(H)
+029.07_100	methylchloride ... dihydrogen
+029.07_105	methylchloride ... dihydrogen
+029.07_110	methylchloride ... dihydrogen
+029.07_115	methylchloride ... dihydrogen
+029.07_125	methylchloride ... dihydrogen
+029.08_100	methylchloride ... ethyne(H)
+029.08_105	methylchloride ... ethyne(H)
+029.08_110	methylchloride ... ethyne(H)
+029.08_115	methylchloride ... ethyne(H)
+029.08_125	methylchloride ... ethyne(H)
+029.09_100	methylchloride ... hydrogen fluoride
+029.09_105	methylchloride ... hydrogen fluoride
+029.09_110	methylchloride ... hydrogen fluoride
+029.09_115	methylchloride ... hydrogen fluoride
+029.09_125	methylchloride ... hydrogen fluoride
+029.10_100	methylchloride ... methane(H)
+029.10_105	methylchloride ... methane(H)
+029.10_110	methylchloride ... methane(H)
+029.10_115	methylchloride ... methane(H)
+029.10_125	methylchloride ... methane(H)
+030.01_100	cyanogen chloride ... benzene
+030.01_105	cyanogen chloride ... benzene
+030.01_110	cyanogen chloride ... benzene
+030.01_115	cyanogen chloride ... benzene
+030.01_125	cyanogen chloride ... benzene
+030.02_100	ethene ... cyanogen chloride
+030.02_105	ethene ... cyanogen chloride
+030.02_110	ethene ... cyanogen chloride
+030.02_115	ethene ... cyanogen chloride
+030.02_125	ethene ... cyanogen chloride
+030.03_100	ethyne(C) ... cyanogen chloride
+030.03_105	ethyne(C) ... cyanogen chloride
+030.03_110	ethyne(C) ... cyanogen chloride
+030.03_115	ethyne(C) ... cyanogen chloride
+030.03_125	ethyne(C) ... cyanogen chloride
+030.04_100	methane(C) ... cyanogen chloride
+030.04_105	methane(C) ... cyanogen chloride
+030.04_110	methane(C) ... cyanogen chloride
+030.04_115	methane(C) ... cyanogen chloride
+030.04_125	methane(C) ... cyanogen chloride
+030.05_100	methylchloride ... benzene
+030.05_105	methylchloride ... benzene
+030.05_110	methylchloride ... benzene
+030.05_115	methylchloride ... benzene
+030.05_125	methylchloride ... benzene
+030.06_100	methylchloride ... ethene
+030.06_105	methylchloride ... ethene
+030.06_110	methylchloride ... ethene
+030.06_115	methylchloride ... ethene
+030.06_125	methylchloride ... ethene
+030.07_100	methylchloride ... ethyne(C)
+030.07_105	methylchloride ... ethyne(C)
+030.07_110	methylchloride ... ethyne(C)
+030.07_115	methylchloride ... ethyne(C)
+030.07_125	methylchloride ... ethyne(C)
+030.08_100	methylchloride ... methane(C)
+030.08_105	methylchloride ... methane(C)
+030.08_110	methylchloride ... methane(C)
+030.08_115	methylchloride ... methane(C)
+030.08_125	methylchloride ... methane(C)
+031.01_100	cyanogen chloride ... ammonia
+031.01_105	cyanogen chloride ... ammonia
+031.01_110	cyanogen chloride ... ammonia
+031.01_115	cyanogen chloride ... ammonia
+031.01_125	cyanogen chloride ... ammonia
+031.02_100	hydrogen cyanide ... cyanogen chloride
+031.02_105	hydrogen cyanide ... cyanogen chloride
+031.02_110	hydrogen cyanide ... cyanogen chloride
+031.02_115	hydrogen cyanide ... cyanogen chloride
+031.02_125	hydrogen cyanide ... cyanogen chloride
+031.03_100	methylamine ... cyanogen chloride
+031.03_105	methylamine ... cyanogen chloride
+031.03_110	methylamine ... cyanogen chloride
+031.03_115	methylamine ... cyanogen chloride
+031.03_125	methylamine ... cyanogen chloride
+031.04_100	methylchloride ... ammonia
+031.04_105	methylchloride ... ammonia
+031.04_110	methylchloride ... ammonia
+031.04_115	methylchloride ... ammonia
+031.04_125	methylchloride ... ammonia
+031.05_100	methylchloride ... hydrogen cyanide
+031.05_105	methylchloride ... hydrogen cyanide
+031.05_110	methylchloride ... hydrogen cyanide
+031.05_115	methylchloride ... hydrogen cyanide
+031.05_125	methylchloride ... hydrogen cyanide
+031.06_100	methylchloride ... methylamine
+031.06_105	methylchloride ... methylamine
+031.06_110	methylchloride ... methylamine
+031.06_115	methylchloride ... methylamine
+031.06_125	methylchloride ... methylamine
+031.07_100	nitromethane ... cyanogen chloride
+031.07_105	nitromethane ... cyanogen chloride
+031.07_110	nitromethane ... cyanogen chloride
+031.07_115	nitromethane ... cyanogen chloride
+031.07_125	nitromethane ... cyanogen chloride
+031.08_100	nitromethane ... methylchloride
+031.08_105	nitromethane ... methylchloride
+031.08_110	nitromethane ... methylchloride
+031.08_115	nitromethane ... methylchloride
+031.08_125	nitromethane ... methylchloride
+031.09_100	pyridine ... cyanogen chloride
+031.09_105	pyridine ... cyanogen chloride
+031.09_110	pyridine ... cyanogen chloride
+031.09_115	pyridine ... cyanogen chloride
+031.09_125	pyridine ... cyanogen chloride
+031.10_100	pyridine ... methylchloride
+031.10_105	pyridine ... methylchloride
+031.10_110	pyridine ... methylchloride
+031.10_115	pyridine ... methylchloride
+031.10_125	pyridine ... methylchloride
+032.01_100	cyanogen chloride ... acetone
+032.01_105	cyanogen chloride ... acetone
+032.01_110	cyanogen chloride ... acetone
+032.01_115	cyanogen chloride ... acetone
+032.01_125	cyanogen chloride ... acetone
+032.02_100	furan ... cyanogen chloride
+032.02_105	furan ... cyanogen chloride
+032.02_110	furan ... cyanogen chloride
+032.02_115	furan ... cyanogen chloride
+032.02_125	furan ... cyanogen chloride
+032.03_100	methanol ... cyanogen chloride
+032.03_105	methanol ... cyanogen chloride
+032.03_110	methanol ... cyanogen chloride
+032.03_115	methanol ... cyanogen chloride
+032.03_125	methanol ... cyanogen chloride
+032.04_100	methylchloride ... acetone
+032.04_105	methylchloride ... acetone
+032.04_110	methylchloride ... acetone
+032.04_115	methylchloride ... acetone
+032.04_125	methylchloride ... acetone
+032.05_100	methylchloride ... furan
+032.05_105	methylchloride ... furan
+032.05_110	methylchloride ... furan
+032.05_115	methylchloride ... furan
+032.05_125	methylchloride ... furan
+032.06_100	methylchloride ... methanol
+032.06_105	methylchloride ... methanol
+032.06_110	methylchloride ... methanol
+032.06_115	methylchloride ... methanol
+032.06_125	methylchloride ... methanol
+032.07_100	water ... cyanogen chloride
+032.07_105	water ... cyanogen chloride
+032.07_110	water ... cyanogen chloride
+032.07_115	water ... cyanogen chloride
+032.07_125	water ... cyanogen chloride
+032.08_100	water ... methylchloride
+032.08_105	water ... methylchloride
+032.08_110	water ... methylchloride
+032.08_115	water ... methylchloride
+032.08_125	water ... methylchloride
+033.01_100	cyanogen chloride ... CH3PCH2
+033.01_105	cyanogen chloride ... CH3PCH2
+033.01_110	cyanogen chloride ... CH3PCH2
+033.01_115	cyanogen chloride ... CH3PCH2
+033.01_125	cyanogen chloride ... CH3PCH2
+033.02_100	methylchloride ... CH3PCH2
+033.02_105	methylchloride ... CH3PCH2
+033.02_110	methylchloride ... CH3PCH2
+033.02_115	methylchloride ... CH3PCH2
+033.02_125	methylchloride ... CH3PCH2
+033.03_100	phosphine ... cyanogen chloride
+033.03_105	phosphine ... cyanogen chloride
+033.03_110	phosphine ... cyanogen chloride
+033.03_115	phosphine ... cyanogen chloride
+033.03_125	phosphine ... cyanogen chloride
+033.04_100	phosphine ... methylchloride
+033.04_105	phosphine ... methylchloride
+033.04_110	phosphine ... methylchloride
+033.04_115	phosphine ... methylchloride
+033.04_125	phosphine ... methylchloride
+033.05_100	trimethylphosphine ... cyanogen chloride
+033.05_105	trimethylphosphine ... cyanogen chloride
+033.05_110	trimethylphosphine ... cyanogen chloride
+033.05_115	trimethylphosphine ... cyanogen chloride
+033.05_125	trimethylphosphine ... cyanogen chloride
+033.06_100	trimethylphosphine ... methylchloride
+033.06_105	trimethylphosphine ... methylchloride
+033.06_110	trimethylphosphine ... methylchloride
+033.06_115	trimethylphosphine ... methylchloride
+033.06_125	trimethylphosphine ... methylchloride
+034.01_100	hydrogen sulfide ... cyanogen chloride
+034.01_105	hydrogen sulfide ... cyanogen chloride
+034.01_110	hydrogen sulfide ... cyanogen chloride
+034.01_115	hydrogen sulfide ... cyanogen chloride
+034.01_125	hydrogen sulfide ... cyanogen chloride
+034.02_100	methanethiol ... cyanogen chloride
+034.02_105	methanethiol ... cyanogen chloride
+034.02_110	methanethiol ... cyanogen chloride
+034.02_115	methanethiol ... cyanogen chloride
+034.02_125	methanethiol ... cyanogen chloride
+034.03_100	methylchloride ... hydrogen sulfide
+034.03_105	methylchloride ... hydrogen sulfide
+034.03_110	methylchloride ... hydrogen sulfide
+034.03_115	methylchloride ... hydrogen sulfide
+034.03_125	methylchloride ... hydrogen sulfide
+034.04_100	methylchloride ... methanethiol
+034.04_105	methylchloride ... methanethiol
+034.04_110	methylchloride ... methanethiol
+034.04_115	methylchloride ... methanethiol
+034.04_125	methylchloride ... methanethiol
+034.05_100	thioacetone ... cyanogen chloride
+034.05_105	thioacetone ... cyanogen chloride
+034.05_110	thioacetone ... cyanogen chloride
+034.05_115	thioacetone ... cyanogen chloride
+034.05_125	thioacetone ... cyanogen chloride
+034.06_100	thioacetone ... methylchloride
+034.06_105	thioacetone ... methylchloride
+034.06_110	thioacetone ... methylchloride
+034.06_115	thioacetone ... methylchloride
+034.06_125	thioacetone ... methylchloride
+034.07_100	thiophene ... cyanogen chloride
+034.07_105	thiophene ... cyanogen chloride
+034.07_110	thiophene ... cyanogen chloride
+034.07_115	thiophene ... cyanogen chloride
+034.07_125	thiophene ... cyanogen chloride
+034.08_100	thiophene ... methylchloride
+034.08_105	thiophene ... methylchloride
+034.08_110	thiophene ... methylchloride
+034.08_115	thiophene ... methylchloride
+034.08_125	thiophene ... methylchloride
+035.01_100	cyanogen fluoride ... cyanogen chloride
+035.01_105	cyanogen fluoride ... cyanogen chloride
+035.01_110	cyanogen fluoride ... cyanogen chloride
+035.01_115	cyanogen fluoride ... cyanogen chloride
+035.01_125	cyanogen fluoride ... cyanogen chloride
+035.02_100	methylchloride ... cyanogen fluoride
+035.02_105	methylchloride ... cyanogen fluoride
+035.02_110	methylchloride ... cyanogen fluoride
+035.02_115	methylchloride ... cyanogen fluoride
+035.02_125	methylchloride ... cyanogen fluoride
+035.03_100	methylfluoride ... cyanogen chloride
+035.03_105	methylfluoride ... cyanogen chloride
+035.03_110	methylfluoride ... cyanogen chloride
+035.03_115	methylfluoride ... cyanogen chloride
+035.03_125	methylfluoride ... cyanogen chloride
+035.04_100	methylfluoride ... methylchloride
+035.04_105	methylfluoride ... methylchloride
+035.04_110	methylfluoride ... methylchloride
+035.04_115	methylfluoride ... methylchloride
+035.04_125	methylfluoride ... methylchloride
+036.01_100	cyanogen chloride ... cyanogen chloride
+036.01_105	cyanogen chloride ... cyanogen chloride
+036.01_110	cyanogen chloride ... cyanogen chloride
+036.01_115	cyanogen chloride ... cyanogen chloride
+036.01_125	cyanogen chloride ... cyanogen chloride
+036.02_100	methylchloride ... cyanogen chloride
+036.02_105	methylchloride ... cyanogen chloride
+036.02_110	methylchloride ... cyanogen chloride
+036.02_115	methylchloride ... cyanogen chloride
+036.02_125	methylchloride ... cyanogen chloride
+036.03_100	methylchloride ... methylchloride
+036.03_105	methylchloride ... methylchloride
+036.03_110	methylchloride ... methylchloride
+036.03_115	methylchloride ... methylchloride
+036.03_125	methylchloride ... methylchloride
+037.01_100	cyanogen bromide ... borane(H)
+037.01_105	cyanogen bromide ... borane(H)
+037.01_110	cyanogen bromide ... borane(H)
+037.01_115	cyanogen bromide ... borane(H)
+037.01_125	cyanogen bromide ... borane(H)
+037.02_100	dihydrogen ... cyanogen bromide
+037.02_105	dihydrogen ... cyanogen bromide
+037.02_110	dihydrogen ... cyanogen bromide
+037.02_115	dihydrogen ... cyanogen bromide
+037.02_125	dihydrogen ... cyanogen bromide
+037.03_100	ethyne(H) ... cyanogen bromide
+037.03_105	ethyne(H) ... cyanogen bromide
+037.03_110	ethyne(H) ... cyanogen bromide
+037.03_115	ethyne(H) ... cyanogen bromide
+037.03_125	ethyne(H) ... cyanogen bromide
+037.04_100	hydrogen fluoride ... cyanogen bromide
+037.04_105	hydrogen fluoride ... cyanogen bromide
+037.04_110	hydrogen fluoride ... cyanogen bromide
+037.04_115	hydrogen fluoride ... cyanogen bromide
+037.04_125	hydrogen fluoride ... cyanogen bromide
+037.05_100	methane(H) ... cyanogen bromide
+037.05_105	methane(H) ... cyanogen bromide
+037.05_110	methane(H) ... cyanogen bromide
+037.05_115	methane(H) ... cyanogen bromide
+037.05_125	methane(H) ... cyanogen bromide
+037.06_100	methylbromide ... borane(H)
+037.06_105	methylbromide ... borane(H)
+037.06_110	methylbromide ... borane(H)
+037.06_115	methylbromide ... borane(H)
+037.06_125	methylbromide ... borane(H)
+037.07_100	methylbromide ... dihydrogen
+037.07_105	methylbromide ... dihydrogen
+037.07_110	methylbromide ... dihydrogen
+037.07_115	methylbromide ... dihydrogen
+037.07_125	methylbromide ... dihydrogen
+037.08_100	methylbromide ... ethyne(H)
+037.08_105	methylbromide ... ethyne(H)
+037.08_110	methylbromide ... ethyne(H)
+037.08_115	methylbromide ... ethyne(H)
+037.08_125	methylbromide ... ethyne(H)
+037.09_100	methylbromide ... hydrogen fluoride
+037.09_105	methylbromide ... hydrogen fluoride
+037.09_110	methylbromide ... hydrogen fluoride
+037.09_115	methylbromide ... hydrogen fluoride
+037.09_125	methylbromide ... hydrogen fluoride
+037.10_100	methylbromide ... methane(H)
+037.10_105	methylbromide ... methane(H)
+037.10_110	methylbromide ... methane(H)
+037.10_115	methylbromide ... methane(H)
+037.10_125	methylbromide ... methane(H)
+038.01_100	cyanogen bromide ... benzene
+038.01_105	cyanogen bromide ... benzene
+038.01_110	cyanogen bromide ... benzene
+038.01_115	cyanogen bromide ... benzene
+038.01_125	cyanogen bromide ... benzene
+038.02_100	ethene ... cyanogen bromide
+038.02_105	ethene ... cyanogen bromide
+038.02_110	ethene ... cyanogen bromide
+038.02_115	ethene ... cyanogen bromide
+038.02_125	ethene ... cyanogen bromide
+038.03_100	ethyne(C) ... cyanogen bromide
+038.03_105	ethyne(C) ... cyanogen bromide
+038.03_110	ethyne(C) ... cyanogen bromide
+038.03_115	ethyne(C) ... cyanogen bromide
+038.03_125	ethyne(C) ... cyanogen bromide
+038.04_100	methane(C) ... cyanogen bromide
+038.04_105	methane(C) ... cyanogen bromide
+038.04_110	methane(C) ... cyanogen bromide
+038.04_115	methane(C) ... cyanogen bromide
+038.04_125	methane(C) ... cyanogen bromide
+038.05_100	methylbromide ... benzene
+038.05_105	methylbromide ... benzene
+038.05_110	methylbromide ... benzene
+038.05_115	methylbromide ... benzene
+038.05_125	methylbromide ... benzene
+038.06_100	methylbromide ... ethene
+038.06_105	methylbromide ... ethene
+038.06_110	methylbromide ... ethene
+038.06_115	methylbromide ... ethene
+038.06_125	methylbromide ... ethene
+038.07_100	methylbromide ... ethyne(C)
+038.07_105	methylbromide ... ethyne(C)
+038.07_110	methylbromide ... ethyne(C)
+038.07_115	methylbromide ... ethyne(C)
+038.07_125	methylbromide ... ethyne(C)
+038.08_100	methylbromide ... methane(C)
+038.08_105	methylbromide ... methane(C)
+038.08_110	methylbromide ... methane(C)
+038.08_115	methylbromide ... methane(C)
+038.08_125	methylbromide ... methane(C)
+039.01_100	cyanogen bromide ... ammonia
+039.01_105	cyanogen bromide ... ammonia
+039.01_110	cyanogen bromide ... ammonia
+039.01_115	cyanogen bromide ... ammonia
+039.01_125	cyanogen bromide ... ammonia
+039.02_100	hydrogen cyanide ... cyanogen bromide
+039.02_105	hydrogen cyanide ... cyanogen bromide
+039.02_110	hydrogen cyanide ... cyanogen bromide
+039.02_115	hydrogen cyanide ... cyanogen bromide
+039.02_125	hydrogen cyanide ... cyanogen bromide
+039.03_100	methylamine ... cyanogen bromide
+039.03_105	methylamine ... cyanogen bromide
+039.03_110	methylamine ... cyanogen bromide
+039.03_115	methylamine ... cyanogen bromide
+039.03_125	methylamine ... cyanogen bromide
+039.04_100	methylbromide ... ammonia
+039.04_105	methylbromide ... ammonia
+039.04_110	methylbromide ... ammonia
+039.04_115	methylbromide ... ammonia
+039.04_125	methylbromide ... ammonia
+039.05_100	methylbromide ... hydrogen cyanide
+039.05_105	methylbromide ... hydrogen cyanide
+039.05_110	methylbromide ... hydrogen cyanide
+039.05_115	methylbromide ... hydrogen cyanide
+039.05_125	methylbromide ... hydrogen cyanide
+039.06_100	methylbromide ... methylamine
+039.06_105	methylbromide ... methylamine
+039.06_110	methylbromide ... methylamine
+039.06_115	methylbromide ... methylamine
+039.06_125	methylbromide ... methylamine
+039.07_100	nitromethane ... cyanogen bromide
+039.07_105	nitromethane ... cyanogen bromide
+039.07_110	nitromethane ... cyanogen bromide
+039.07_115	nitromethane ... cyanogen bromide
+039.07_125	nitromethane ... cyanogen bromide
+039.08_100	nitromethane ... methylbromide
+039.08_105	nitromethane ... methylbromide
+039.08_110	nitromethane ... methylbromide
+039.08_115	nitromethane ... methylbromide
+039.08_125	nitromethane ... methylbromide
+039.09_100	pyridine ... cyanogen bromide
+039.09_105	pyridine ... cyanogen bromide
+039.09_110	pyridine ... cyanogen bromide
+039.09_115	pyridine ... cyanogen bromide
+039.09_125	pyridine ... cyanogen bromide
+039.10_100	pyridine ... methylbromide
+039.10_105	pyridine ... methylbromide
+039.10_110	pyridine ... methylbromide
+039.10_115	pyridine ... methylbromide
+039.10_125	pyridine ... methylbromide
+040.01_100	cyanogen bromide ... acetone
+040.01_105	cyanogen bromide ... acetone
+040.01_110	cyanogen bromide ... acetone
+040.01_115	cyanogen bromide ... acetone
+040.01_125	cyanogen bromide ... acetone
+040.02_100	furan ... cyanogen bromide
+040.02_105	furan ... cyanogen bromide
+040.02_110	furan ... cyanogen bromide
+040.02_115	furan ... cyanogen bromide
+040.02_125	furan ... cyanogen bromide
+040.03_100	methanol ... cyanogen bromide
+040.03_105	methanol ... cyanogen bromide
+040.03_110	methanol ... cyanogen bromide
+040.03_115	methanol ... cyanogen bromide
+040.03_125	methanol ... cyanogen bromide
+040.04_100	methylbromide ... acetone
+040.04_105	methylbromide ... acetone
+040.04_110	methylbromide ... acetone
+040.04_115	methylbromide ... acetone
+040.04_125	methylbromide ... acetone
+040.05_100	methylbromide ... furan
+040.05_105	methylbromide ... furan
+040.05_110	methylbromide ... furan
+040.05_115	methylbromide ... furan
+040.05_125	methylbromide ... furan
+040.06_100	methylbromide ... methanol
+040.06_105	methylbromide ... methanol
+040.06_110	methylbromide ... methanol
+040.06_115	methylbromide ... methanol
+040.06_125	methylbromide ... methanol
+040.07_100	water ... cyanogen bromide
+040.07_105	water ... cyanogen bromide
+040.07_110	water ... cyanogen bromide
+040.07_115	water ... cyanogen bromide
+040.07_125	water ... cyanogen bromide
+040.08_100	water ... methylbromide
+040.08_105	water ... methylbromide
+040.08_110	water ... methylbromide
+040.08_115	water ... methylbromide
+040.08_125	water ... methylbromide
+041.01_100	cyanogen bromide ... CH3PCH2
+041.01_105	cyanogen bromide ... CH3PCH2
+041.01_110	cyanogen bromide ... CH3PCH2
+041.01_115	cyanogen bromide ... CH3PCH2
+041.01_125	cyanogen bromide ... CH3PCH2
+041.02_100	methylbromide ... CH3PCH2
+041.02_105	methylbromide ... CH3PCH2
+041.02_110	methylbromide ... CH3PCH2
+041.02_115	methylbromide ... CH3PCH2
+041.02_125	methylbromide ... CH3PCH2
+041.03_100	phosphine ... cyanogen bromide
+041.03_105	phosphine ... cyanogen bromide
+041.03_110	phosphine ... cyanogen bromide
+041.03_115	phosphine ... cyanogen bromide
+041.03_125	phosphine ... cyanogen bromide
+041.04_100	phosphine ... methylbromide
+041.04_105	phosphine ... methylbromide
+041.04_110	phosphine ... methylbromide
+041.04_115	phosphine ... methylbromide
+041.04_125	phosphine ... methylbromide
+041.05_100	trimethylphosphine ... cyanogen bromide
+041.05_105	trimethylphosphine ... cyanogen bromide
+041.05_110	trimethylphosphine ... cyanogen bromide
+041.05_115	trimethylphosphine ... cyanogen bromide
+041.05_125	trimethylphosphine ... cyanogen bromide
+041.06_100	trimethylphosphine ... methylbromide
+041.06_105	trimethylphosphine ... methylbromide
+041.06_110	trimethylphosphine ... methylbromide
+041.06_115	trimethylphosphine ... methylbromide
+041.06_125	trimethylphosphine ... methylbromide
+042.01_100	hydrogen sulfide ... cyanogen bromide
+042.01_105	hydrogen sulfide ... cyanogen bromide
+042.01_110	hydrogen sulfide ... cyanogen bromide
+042.01_115	hydrogen sulfide ... cyanogen bromide
+042.01_125	hydrogen sulfide ... cyanogen bromide
+042.02_100	methanethiol ... cyanogen bromide
+042.02_105	methanethiol ... cyanogen bromide
+042.02_110	methanethiol ... cyanogen bromide
+042.02_115	methanethiol ... cyanogen bromide
+042.02_125	methanethiol ... cyanogen bromide
+042.03_100	methylbromide ... hydrogen sulfide
+042.03_105	methylbromide ... hydrogen sulfide
+042.03_110	methylbromide ... hydrogen sulfide
+042.03_115	methylbromide ... hydrogen sulfide
+042.03_125	methylbromide ... hydrogen sulfide
+042.04_100	methylbromide ... methanethiol
+042.04_105	methylbromide ... methanethiol
+042.04_110	methylbromide ... methanethiol
+042.04_115	methylbromide ... methanethiol
+042.04_125	methylbromide ... methanethiol
+042.05_100	thioacetone ... cyanogen bromide
+042.05_105	thioacetone ... cyanogen bromide
+042.05_110	thioacetone ... cyanogen bromide
+042.05_115	thioacetone ... cyanogen bromide
+042.05_125	thioacetone ... cyanogen bromide
+042.06_100	thioacetone ... methylbromide
+042.06_105	thioacetone ... methylbromide
+042.06_110	thioacetone ... methylbromide
+042.06_115	thioacetone ... methylbromide
+042.06_125	thioacetone ... methylbromide
+042.07_100	thiophene ... cyanogen bromide
+042.07_105	thiophene ... cyanogen bromide
+042.07_110	thiophene ... cyanogen bromide
+042.07_115	thiophene ... cyanogen bromide
+042.07_125	thiophene ... cyanogen bromide
+042.08_100	thiophene ... methylbromide
+042.08_105	thiophene ... methylbromide
+042.08_110	thiophene ... methylbromide
+042.08_115	thiophene ... methylbromide
+042.08_125	thiophene ... methylbromide
+043.01_100	cyanogen fluoride ... cyanogen bromide
+043.01_105	cyanogen fluoride ... cyanogen bromide
+043.01_110	cyanogen fluoride ... cyanogen bromide
+043.01_115	cyanogen fluoride ... cyanogen bromide
+043.01_125	cyanogen fluoride ... cyanogen bromide
+043.02_100	methylbromide ... cyanogen fluoride
+043.02_105	methylbromide ... cyanogen fluoride
+043.02_110	methylbromide ... cyanogen fluoride
+043.02_115	methylbromide ... cyanogen fluoride
+043.02_125	methylbromide ... cyanogen fluoride
+043.03_100	methylfluoride ... cyanogen bromide
+043.03_105	methylfluoride ... cyanogen bromide
+043.03_110	methylfluoride ... cyanogen bromide
+043.03_115	methylfluoride ... cyanogen bromide
+043.03_125	methylfluoride ... cyanogen bromide
+043.04_100	methylfluoride ... methylbromide
+043.04_105	methylfluoride ... methylbromide
+043.04_110	methylfluoride ... methylbromide
+043.04_115	methylfluoride ... methylbromide
+043.04_125	methylfluoride ... methylbromide
+044.01_100	cyanogen chloride ... cyanogen bromide
+044.01_105	cyanogen chloride ... cyanogen bromide
+044.01_110	cyanogen chloride ... cyanogen bromide
+044.01_115	cyanogen chloride ... cyanogen bromide
+044.01_125	cyanogen chloride ... cyanogen bromide
+044.02_100	methylbromide ... cyanogen chloride
+044.02_105	methylbromide ... cyanogen chloride
+044.02_110	methylbromide ... cyanogen chloride
+044.02_115	methylbromide ... cyanogen chloride
+044.02_125	methylbromide ... cyanogen chloride
+044.03_100	methylchloride ... cyanogen bromide
+044.03_105	methylchloride ... cyanogen bromide
+044.03_110	methylchloride ... cyanogen bromide
+044.03_115	methylchloride ... cyanogen bromide
+044.03_125	methylchloride ... cyanogen bromide
+044.04_100	methylchloride ... methylbromide
+044.04_105	methylchloride ... methylbromide
+044.04_110	methylchloride ... methylbromide
+044.04_115	methylchloride ... methylbromide
+044.04_125	methylchloride ... methylbromide
+045.01_100	cyanogen bromide ... cyanogen bromide
+045.01_105	cyanogen bromide ... cyanogen bromide
+045.01_110	cyanogen bromide ... cyanogen bromide
+045.01_115	cyanogen bromide ... cyanogen bromide
+045.01_125	cyanogen bromide ... cyanogen bromide
+045.02_100	methylbromide ... cyanogen bromide
+045.02_105	methylbromide ... cyanogen bromide
+045.02_110	methylbromide ... cyanogen bromide
+045.02_115	methylbromide ... cyanogen bromide
+045.02_125	methylbromide ... cyanogen bromide
+045.03_100	methylbromide ... methylbromide
+045.03_105	methylbromide ... methylbromide
+045.03_110	methylbromide ... methylbromide
+045.03_115	methylbromide ... methylbromide
+045.03_125	methylbromide ... methylbromide
+046.01_100	cyanogen iodide ... borane(H)
+046.01_105	cyanogen iodide ... borane(H)
+046.01_110	cyanogen iodide ... borane(H)
+046.01_115	cyanogen iodide ... borane(H)
+046.01_125	cyanogen iodide ... borane(H)
+046.02_100	dihydrogen ... cyanogen iodide
+046.02_105	dihydrogen ... cyanogen iodide
+046.02_110	dihydrogen ... cyanogen iodide
+046.02_115	dihydrogen ... cyanogen iodide
+046.02_125	dihydrogen ... cyanogen iodide
+046.03_100	ethyne(H) ... cyanogen iodide
+046.03_105	ethyne(H) ... cyanogen iodide
+046.03_110	ethyne(H) ... cyanogen iodide
+046.03_115	ethyne(H) ... cyanogen iodide
+046.03_125	ethyne(H) ... cyanogen iodide
+046.04_100	hydrogen fluoride ... cyanogen iodide
+046.04_105	hydrogen fluoride ... cyanogen iodide
+046.04_110	hydrogen fluoride ... cyanogen iodide
+046.04_115	hydrogen fluoride ... cyanogen iodide
+046.04_125	hydrogen fluoride ... cyanogen iodide
+046.05_100	methane(H) ... cyanogen iodide
+046.05_105	methane(H) ... cyanogen iodide
+046.05_110	methane(H) ... cyanogen iodide
+046.05_115	methane(H) ... cyanogen iodide
+046.05_125	methane(H) ... cyanogen iodide
+046.06_100	methyliodide ... borane(H)
+046.06_105	methyliodide ... borane(H)
+046.06_110	methyliodide ... borane(H)
+046.06_115	methyliodide ... borane(H)
+046.06_125	methyliodide ... borane(H)
+046.07_100	methyliodide ... dihydrogen
+046.07_105	methyliodide ... dihydrogen
+046.07_110	methyliodide ... dihydrogen
+046.07_115	methyliodide ... dihydrogen
+046.07_125	methyliodide ... dihydrogen
+046.08_100	methyliodide ... ethyne(H)
+046.08_105	methyliodide ... ethyne(H)
+046.08_110	methyliodide ... ethyne(H)
+046.08_115	methyliodide ... ethyne(H)
+046.08_125	methyliodide ... ethyne(H)
+046.09_100	methyliodide ... hydrogen fluoride
+046.09_105	methyliodide ... hydrogen fluoride
+046.09_110	methyliodide ... hydrogen fluoride
+046.09_115	methyliodide ... hydrogen fluoride
+046.09_125	methyliodide ... hydrogen fluoride
+046.10_100	methyliodide ... methane(H)
+046.10_105	methyliodide ... methane(H)
+046.10_110	methyliodide ... methane(H)
+046.10_115	methyliodide ... methane(H)
+046.10_125	methyliodide ... methane(H)
+047.01_100	cyanogen iodide ... benzene
+047.01_105	cyanogen iodide ... benzene
+047.01_110	cyanogen iodide ... benzene
+047.01_115	cyanogen iodide ... benzene
+047.01_125	cyanogen iodide ... benzene
+047.02_100	ethene ... cyanogen iodide
+047.02_105	ethene ... cyanogen iodide
+047.02_110	ethene ... cyanogen iodide
+047.02_115	ethene ... cyanogen iodide
+047.02_125	ethene ... cyanogen iodide
+047.03_100	ethyne(C) ... cyanogen iodide
+047.03_105	ethyne(C) ... cyanogen iodide
+047.03_110	ethyne(C) ... cyanogen iodide
+047.03_115	ethyne(C) ... cyanogen iodide
+047.03_125	ethyne(C) ... cyanogen iodide
+047.04_100	methane(C) ... cyanogen iodide
+047.04_105	methane(C) ... cyanogen iodide
+047.04_110	methane(C) ... cyanogen iodide
+047.04_115	methane(C) ... cyanogen iodide
+047.04_125	methane(C) ... cyanogen iodide
+047.05_100	methyliodide ... benzene
+047.05_105	methyliodide ... benzene
+047.05_110	methyliodide ... benzene
+047.05_115	methyliodide ... benzene
+047.05_125	methyliodide ... benzene
+047.06_100	methyliodide ... ethene
+047.06_105	methyliodide ... ethene
+047.06_110	methyliodide ... ethene
+047.06_115	methyliodide ... ethene
+047.06_125	methyliodide ... ethene
+047.07_100	methyliodide ... ethyne(C)
+047.07_105	methyliodide ... ethyne(C)
+047.07_110	methyliodide ... ethyne(C)
+047.07_115	methyliodide ... ethyne(C)
+047.07_125	methyliodide ... ethyne(C)
+047.08_100	methyliodide ... methane(C)
+047.08_105	methyliodide ... methane(C)
+047.08_110	methyliodide ... methane(C)
+047.08_115	methyliodide ... methane(C)
+047.08_125	methyliodide ... methane(C)
+048.01_100	cyanogen iodide ... ammonia
+048.01_105	cyanogen iodide ... ammonia
+048.01_110	cyanogen iodide ... ammonia
+048.01_115	cyanogen iodide ... ammonia
+048.01_125	cyanogen iodide ... ammonia
+048.02_100	hydrogen cyanide ... cyanogen iodide
+048.02_105	hydrogen cyanide ... cyanogen iodide
+048.02_110	hydrogen cyanide ... cyanogen iodide
+048.02_115	hydrogen cyanide ... cyanogen iodide
+048.02_125	hydrogen cyanide ... cyanogen iodide
+048.03_100	methylamine ... cyanogen iodide
+048.03_105	methylamine ... cyanogen iodide
+048.03_110	methylamine ... cyanogen iodide
+048.03_115	methylamine ... cyanogen iodide
+048.03_125	methylamine ... cyanogen iodide
+048.04_100	methyliodide ... ammonia
+048.04_105	methyliodide ... ammonia
+048.04_110	methyliodide ... ammonia
+048.04_115	methyliodide ... ammonia
+048.04_125	methyliodide ... ammonia
+048.05_100	methyliodide ... hydrogen cyanide
+048.05_105	methyliodide ... hydrogen cyanide
+048.05_110	methyliodide ... hydrogen cyanide
+048.05_115	methyliodide ... hydrogen cyanide
+048.05_125	methyliodide ... hydrogen cyanide
+048.06_100	methyliodide ... methylamine
+048.06_105	methyliodide ... methylamine
+048.06_110	methyliodide ... methylamine
+048.06_115	methyliodide ... methylamine
+048.06_125	methyliodide ... methylamine
+048.07_100	nitromethane ... cyanogen iodide
+048.07_105	nitromethane ... cyanogen iodide
+048.07_110	nitromethane ... cyanogen iodide
+048.07_115	nitromethane ... cyanogen iodide
+048.07_125	nitromethane ... cyanogen iodide
+048.08_100	nitromethane ... methyliodide
+048.08_105	nitromethane ... methyliodide
+048.08_110	nitromethane ... methyliodide
+048.08_115	nitromethane ... methyliodide
+048.08_125	nitromethane ... methyliodide
+048.09_100	pyridine ... cyanogen iodide
+048.09_105	pyridine ... cyanogen iodide
+048.09_110	pyridine ... cyanogen iodide
+048.09_115	pyridine ... cyanogen iodide
+048.09_125	pyridine ... cyanogen iodide
+048.10_100	pyridine ... methyliodide
+048.10_105	pyridine ... methyliodide
+048.10_110	pyridine ... methyliodide
+048.10_115	pyridine ... methyliodide
+048.10_125	pyridine ... methyliodide
+049.01_100	cyanogen iodide ... acetone
+049.01_105	cyanogen iodide ... acetone
+049.01_110	cyanogen iodide ... acetone
+049.01_115	cyanogen iodide ... acetone
+049.01_125	cyanogen iodide ... acetone
+049.02_100	furan ... cyanogen iodide
+049.02_105	furan ... cyanogen iodide
+049.02_110	furan ... cyanogen iodide
+049.02_115	furan ... cyanogen iodide
+049.02_125	furan ... cyanogen iodide
+049.03_100	methanol ... cyanogen iodide
+049.03_105	methanol ... cyanogen iodide
+049.03_110	methanol ... cyanogen iodide
+049.03_115	methanol ... cyanogen iodide
+049.03_125	methanol ... cyanogen iodide
+049.04_100	methyliodide ... acetone
+049.04_105	methyliodide ... acetone
+049.04_110	methyliodide ... acetone
+049.04_115	methyliodide ... acetone
+049.04_125	methyliodide ... acetone
+049.05_100	methyliodide ... furan
+049.05_105	methyliodide ... furan
+049.05_110	methyliodide ... furan
+049.05_115	methyliodide ... furan
+049.05_125	methyliodide ... furan
+049.06_100	methyliodide ... methanol
+049.06_105	methyliodide ... methanol
+049.06_110	methyliodide ... methanol
+049.06_115	methyliodide ... methanol
+049.06_125	methyliodide ... methanol
+049.07_100	water ... cyanogen iodide
+049.07_105	water ... cyanogen iodide
+049.07_110	water ... cyanogen iodide
+049.07_115	water ... cyanogen iodide
+049.07_125	water ... cyanogen iodide
+049.08_100	water ... methyliodide
+049.08_105	water ... methyliodide
+049.08_110	water ... methyliodide
+049.08_115	water ... methyliodide
+049.08_125	water ... methyliodide
+050.01_100	cyanogen iodide ... CH3PCH2
+050.01_105	cyanogen iodide ... CH3PCH2
+050.01_110	cyanogen iodide ... CH3PCH2
+050.01_115	cyanogen iodide ... CH3PCH2
+050.01_125	cyanogen iodide ... CH3PCH2
+050.02_100	methyliodide ... CH3PCH2
+050.02_105	methyliodide ... CH3PCH2
+050.02_110	methyliodide ... CH3PCH2
+050.02_115	methyliodide ... CH3PCH2
+050.02_125	methyliodide ... CH3PCH2
+050.03_100	phosphine ... cyanogen iodide
+050.03_105	phosphine ... cyanogen iodide
+050.03_110	phosphine ... cyanogen iodide
+050.03_115	phosphine ... cyanogen iodide
+050.03_125	phosphine ... cyanogen iodide
+050.04_100	phosphine ... methyliodide
+050.04_105	phosphine ... methyliodide
+050.04_110	phosphine ... methyliodide
+050.04_115	phosphine ... methyliodide
+050.04_125	phosphine ... methyliodide
+050.05_100	trimethylphosphine ... cyanogen iodide
+050.05_105	trimethylphosphine ... cyanogen iodide
+050.05_110	trimethylphosphine ... cyanogen iodide
+050.05_115	trimethylphosphine ... cyanogen iodide
+050.05_125	trimethylphosphine ... cyanogen iodide
+050.06_100	trimethylphosphine ... methyliodide
+050.06_105	trimethylphosphine ... methyliodide
+050.06_110	trimethylphosphine ... methyliodide
+050.06_115	trimethylphosphine ... methyliodide
+050.06_125	trimethylphosphine ... methyliodide
+051.01_100	hydrogen sulfide ... cyanogen iodide
+051.01_105	hydrogen sulfide ... cyanogen iodide
+051.01_110	hydrogen sulfide ... cyanogen iodide
+051.01_115	hydrogen sulfide ... cyanogen iodide
+051.01_125	hydrogen sulfide ... cyanogen iodide
+051.02_100	methanethiol ... cyanogen iodide
+051.02_105	methanethiol ... cyanogen iodide
+051.02_110	methanethiol ... cyanogen iodide
+051.02_115	methanethiol ... cyanogen iodide
+051.02_125	methanethiol ... cyanogen iodide
+051.03_100	methyliodide ... hydrogen sulfide
+051.03_105	methyliodide ... hydrogen sulfide
+051.03_110	methyliodide ... hydrogen sulfide
+051.03_115	methyliodide ... hydrogen sulfide
+051.03_125	methyliodide ... hydrogen sulfide
+051.04_100	methyliodide ... methanethiol
+051.04_105	methyliodide ... methanethiol
+051.04_110	methyliodide ... methanethiol
+051.04_115	methyliodide ... methanethiol
+051.04_125	methyliodide ... methanethiol
+051.05_100	thioacetone ... cyanogen iodide
+051.05_105	thioacetone ... cyanogen iodide
+051.05_110	thioacetone ... cyanogen iodide
+051.05_115	thioacetone ... cyanogen iodide
+051.05_125	thioacetone ... cyanogen iodide
+051.06_100	thioacetone ... methyliodide
+051.06_105	thioacetone ... methyliodide
+051.06_110	thioacetone ... methyliodide
+051.06_115	thioacetone ... methyliodide
+051.06_125	thioacetone ... methyliodide
+051.07_100	thiophene ... cyanogen iodide
+051.07_105	thiophene ... cyanogen iodide
+051.07_110	thiophene ... cyanogen iodide
+051.07_115	thiophene ... cyanogen iodide
+051.07_125	thiophene ... cyanogen iodide
+051.08_100	thiophene ... methyliodide
+051.08_105	thiophene ... methyliodide
+051.08_110	thiophene ... methyliodide
+051.08_115	thiophene ... methyliodide
+051.08_125	thiophene ... methyliodide
+052.01_100	cyanogen iodide ... cyanogen fluoride
+052.01_105	cyanogen iodide ... cyanogen fluoride
+052.01_110	cyanogen iodide ... cyanogen fluoride
+052.01_115	cyanogen iodide ... cyanogen fluoride
+052.01_125	cyanogen iodide ... cyanogen fluoride
+052.02_100	methylfluoride ... cyanogen iodide
+052.02_105	methylfluoride ... cyanogen iodide
+052.02_110	methylfluoride ... cyanogen iodide
+052.02_115	methylfluoride ... cyanogen iodide
+052.02_125	methylfluoride ... cyanogen iodide
+052.03_100	methyliodide ... cyanogen fluoride
+052.03_105	methyliodide ... cyanogen fluoride
+052.03_110	methyliodide ... cyanogen fluoride
+052.03_115	methyliodide ... cyanogen fluoride
+052.03_125	methyliodide ... cyanogen fluoride
+052.04_100	methyliodide ... methylfluoride
+052.04_105	methyliodide ... methylfluoride
+052.04_110	methyliodide ... methylfluoride
+052.04_115	methyliodide ... methylfluoride
+052.04_125	methyliodide ... methylfluoride
+053.01_100	cyanogen iodide ... cyanogen chloride
+053.01_105	cyanogen iodide ... cyanogen chloride
+053.01_110	cyanogen iodide ... cyanogen chloride
+053.01_115	cyanogen iodide ... cyanogen chloride
+053.01_125	cyanogen iodide ... cyanogen chloride
+053.02_100	methylchloride ... cyanogen iodide
+053.02_105	methylchloride ... cyanogen iodide
+053.02_110	methylchloride ... cyanogen iodide
+053.02_115	methylchloride ... cyanogen iodide
+053.02_125	methylchloride ... cyanogen iodide
+053.03_100	methyliodide ... cyanogen chloride
+053.03_105	methyliodide ... cyanogen chloride
+053.03_110	methyliodide ... cyanogen chloride
+053.03_115	methyliodide ... cyanogen chloride
+053.03_125	methyliodide ... cyanogen chloride
+053.04_100	methyliodide ... methylchloride
+053.04_105	methyliodide ... methylchloride
+053.04_110	methyliodide ... methylchloride
+053.04_115	methyliodide ... methylchloride
+053.04_125	methyliodide ... methylchloride
+054.01_100	cyanogen iodide ... cyanogen bromide
+054.01_105	cyanogen iodide ... cyanogen bromide
+054.01_110	cyanogen iodide ... cyanogen bromide
+054.01_115	cyanogen iodide ... cyanogen bromide
+054.01_125	cyanogen iodide ... cyanogen bromide
+054.02_100	methylbromide ... cyanogen iodide
+054.02_105	methylbromide ... cyanogen iodide
+054.02_110	methylbromide ... cyanogen iodide
+054.02_115	methylbromide ... cyanogen iodide
+054.02_125	methylbromide ... cyanogen iodide
+054.03_100	methyliodide ... cyanogen bromide
+054.03_105	methyliodide ... cyanogen bromide
+054.03_110	methyliodide ... cyanogen bromide
+054.03_115	methyliodide ... cyanogen bromide
+054.03_125	methyliodide ... cyanogen bromide
+054.04_100	methyliodide ... methylbromide
+054.04_105	methyliodide ... methylbromide
+054.04_110	methyliodide ... methylbromide
+054.04_115	methyliodide ... methylbromide
+054.04_125	methyliodide ... methylbromide
+055.01_100	cyanogen iodide ... cyanogen iodide
+055.01_105	cyanogen iodide ... cyanogen iodide
+055.01_110	cyanogen iodide ... cyanogen iodide
+055.01_115	cyanogen iodide ... cyanogen iodide
+055.01_125	cyanogen iodide ... cyanogen iodide
+055.02_100	methyliodide ... cyanogen iodide
+055.02_105	methyliodide ... cyanogen iodide
+055.02_110	methyliodide ... cyanogen iodide
+055.02_115	methyliodide ... cyanogen iodide
+055.02_125	methyliodide ... cyanogen iodide
+055.03_100	methyliodide ... methyliodide
+055.03_105	methyliodide ... methyliodide
+055.03_110	methyliodide ... methyliodide
+055.03_115	methyliodide ... methyliodide
+055.03_125	methyliodide ... methyliodide
+056.01_100	helium ... borane(H)
+056.01_105	helium ... borane(H)
+056.01_110	helium ... borane(H)
+056.01_115	helium ... borane(H)
+056.01_125	helium ... borane(H)
+056.02_100	helium ... dihydrogen
+056.02_105	helium ... dihydrogen
+056.02_110	helium ... dihydrogen
+056.02_115	helium ... dihydrogen
+056.02_125	helium ... dihydrogen
+056.03_100	helium ... ethyne(H)
+056.03_105	helium ... ethyne(H)
+056.03_110	helium ... ethyne(H)
+056.03_115	helium ... ethyne(H)
+056.03_125	helium ... ethyne(H)
+056.04_100	hydrogen fluoride ... helium
+056.04_105	hydrogen fluoride ... helium
+056.04_110	hydrogen fluoride ... helium
+056.04_115	hydrogen fluoride ... helium
+056.04_125	hydrogen fluoride ... helium
+056.05_100	methane(H) ... helium
+056.05_105	methane(H) ... helium
+056.05_110	methane(H) ... helium
+056.05_115	methane(H) ... helium
+056.05_125	methane(H) ... helium
+057.01_100	methane(C) ... helium
+057.01_105	methane(C) ... helium
+057.01_110	methane(C) ... helium
+057.01_115	methane(C) ... helium
+057.01_125	methane(C) ... helium
+057.02_100	helium ... benzene
+057.02_105	helium ... benzene
+057.02_110	helium ... benzene
+057.02_115	helium ... benzene
+057.02_125	helium ... benzene
+057.03_100	helium ... ethene
+057.03_105	helium ... ethene
+057.03_110	helium ... ethene
+057.03_115	helium ... ethene
+057.03_125	helium ... ethene
+057.04_100	helium ... ethyne(C)
+057.04_105	helium ... ethyne(C)
+057.04_110	helium ... ethyne(C)
+057.04_115	helium ... ethyne(C)
+057.04_125	helium ... ethyne(C)
+058.01_100	helium ... ammonia
+058.01_105	helium ... ammonia
+058.01_110	helium ... ammonia
+058.01_115	helium ... ammonia
+058.01_125	helium ... ammonia
+058.02_100	hydrogen cyanide ... helium
+058.02_105	hydrogen cyanide ... helium
+058.02_110	hydrogen cyanide ... helium
+058.02_115	hydrogen cyanide ... helium
+058.02_125	hydrogen cyanide ... helium
+058.03_100	methylamine ... helium
+058.03_105	methylamine ... helium
+058.03_110	methylamine ... helium
+058.03_115	methylamine ... helium
+058.03_125	methylamine ... helium
+058.04_100	nitromethane ... helium
+058.04_105	nitromethane ... helium
+058.04_110	nitromethane ... helium
+058.04_115	nitromethane ... helium
+058.04_125	nitromethane ... helium
+058.05_100	pyridine ... helium
+058.05_105	pyridine ... helium
+058.05_110	pyridine ... helium
+058.05_115	pyridine ... helium
+058.05_125	pyridine ... helium
+059.01_100	helium ... acetone
+059.01_105	helium ... acetone
+059.01_110	helium ... acetone
+059.01_115	helium ... acetone
+059.01_125	helium ... acetone
+059.02_100	helium ... furan
+059.02_105	helium ... furan
+059.02_110	helium ... furan
+059.02_115	helium ... furan
+059.02_125	helium ... furan
+059.03_100	methanol ... helium
+059.03_105	methanol ... helium
+059.03_110	methanol ... helium
+059.03_115	methanol ... helium
+059.03_125	methanol ... helium
+059.04_100	water ... helium
+059.04_105	water ... helium
+059.04_110	water ... helium
+059.04_115	water ... helium
+059.04_125	water ... helium
+060.01_100	helium ... CH3PCH2
+060.01_105	helium ... CH3PCH2
+060.01_110	helium ... CH3PCH2
+060.01_115	helium ... CH3PCH2
+060.01_125	helium ... CH3PCH2
+060.02_100	phosphine ... helium
+060.02_105	phosphine ... helium
+060.02_110	phosphine ... helium
+060.02_115	phosphine ... helium
+060.02_125	phosphine ... helium
+060.03_100	trimethylphosphine ... helium
+060.03_105	trimethylphosphine ... helium
+060.03_110	trimethylphosphine ... helium
+060.03_115	trimethylphosphine ... helium
+060.03_125	trimethylphosphine ... helium
+061.01_100	hydrogen sulfide ... helium
+061.01_105	hydrogen sulfide ... helium
+061.01_110	hydrogen sulfide ... helium
+061.01_115	hydrogen sulfide ... helium
+061.01_125	hydrogen sulfide ... helium
+061.02_100	methanethiol ... helium
+061.02_105	methanethiol ... helium
+061.02_110	methanethiol ... helium
+061.02_115	methanethiol ... helium
+061.02_125	methanethiol ... helium
+061.03_100	thioacetone ... helium
+061.03_105	thioacetone ... helium
+061.03_110	thioacetone ... helium
+061.03_115	thioacetone ... helium
+061.03_125	thioacetone ... helium
+061.04_100	thiophene ... helium
+061.04_105	thiophene ... helium
+061.04_110	thiophene ... helium
+061.04_115	thiophene ... helium
+061.04_125	thiophene ... helium
+062.01_100	helium ... cyanogen fluoride
+062.01_105	helium ... cyanogen fluoride
+062.01_110	helium ... cyanogen fluoride
+062.01_115	helium ... cyanogen fluoride
+062.01_125	helium ... cyanogen fluoride
+062.02_100	methylfluoride ... helium
+062.02_105	methylfluoride ... helium
+062.02_110	methylfluoride ... helium
+062.02_115	methylfluoride ... helium
+062.02_125	methylfluoride ... helium
+063.01_100	methylchloride ... helium
+063.01_105	methylchloride ... helium
+063.01_110	methylchloride ... helium
+063.01_115	methylchloride ... helium
+063.01_125	methylchloride ... helium
+063.02_100	helium ... cyanogen chloride
+063.02_105	helium ... cyanogen chloride
+063.02_110	helium ... cyanogen chloride
+063.02_115	helium ... cyanogen chloride
+063.02_125	helium ... cyanogen chloride
+064.01_100	helium ... cyanogen bromide
+064.01_105	helium ... cyanogen bromide
+064.01_110	helium ... cyanogen bromide
+064.01_115	helium ... cyanogen bromide
+064.01_125	helium ... cyanogen bromide
+064.02_100	methylbromide ... helium
+064.02_105	methylbromide ... helium
+064.02_110	methylbromide ... helium
+064.02_115	methylbromide ... helium
+064.02_125	methylbromide ... helium
+065.01_100	helium ... cyanogen iodide
+065.01_105	helium ... cyanogen iodide
+065.01_110	helium ... cyanogen iodide
+065.01_115	helium ... cyanogen iodide
+065.01_125	helium ... cyanogen iodide
+065.02_100	methyliodide ... helium
+065.02_105	methyliodide ... helium
+065.02_110	methyliodide ... helium
+065.02_115	methyliodide ... helium
+065.02_125	methyliodide ... helium
+066.01_100	helium ... helium
+066.01_105	helium ... helium
+066.01_110	helium ... helium
+066.01_115	helium ... helium
+066.01_125	helium ... helium
+067.01_100	neon ... borane(H)
+067.01_105	neon ... borane(H)
+067.01_110	neon ... borane(H)
+067.01_115	neon ... borane(H)
+067.01_125	neon ... borane(H)
+067.02_100	neon ... dihydrogen
+067.02_105	neon ... dihydrogen
+067.02_110	neon ... dihydrogen
+067.02_115	neon ... dihydrogen
+067.02_125	neon ... dihydrogen
+067.03_100	neon ... ethyne(H)
+067.03_105	neon ... ethyne(H)
+067.03_110	neon ... ethyne(H)
+067.03_115	neon ... ethyne(H)
+067.03_125	neon ... ethyne(H)
+067.04_100	neon ... hydrogen fluoride
+067.04_105	neon ... hydrogen fluoride
+067.04_110	neon ... hydrogen fluoride
+067.04_115	neon ... hydrogen fluoride
+067.04_125	neon ... hydrogen fluoride
+067.05_100	neon ... methane(H)
+067.05_105	neon ... methane(H)
+067.05_110	neon ... methane(H)
+067.05_115	neon ... methane(H)
+067.05_125	neon ... methane(H)
+068.01_100	neon ... benzene
+068.01_105	neon ... benzene
+068.01_110	neon ... benzene
+068.01_115	neon ... benzene
+068.01_125	neon ... benzene
+068.02_100	neon ... ethene
+068.02_105	neon ... ethene
+068.02_110	neon ... ethene
+068.02_115	neon ... ethene
+068.02_125	neon ... ethene
+068.03_100	neon ... ethyne(C)
+068.03_105	neon ... ethyne(C)
+068.03_110	neon ... ethyne(C)
+068.03_115	neon ... ethyne(C)
+068.03_125	neon ... ethyne(C)
+068.04_100	neon ... methane(C)
+068.04_105	neon ... methane(C)
+068.04_110	neon ... methane(C)
+068.04_115	neon ... methane(C)
+068.04_125	neon ... methane(C)
+069.01_100	neon ... ammonia
+069.01_105	neon ... ammonia
+069.01_110	neon ... ammonia
+069.01_115	neon ... ammonia
+069.01_125	neon ... ammonia
+069.02_100	neon ... hydrogen cyanide
+069.02_105	neon ... hydrogen cyanide
+069.02_110	neon ... hydrogen cyanide
+069.02_115	neon ... hydrogen cyanide
+069.02_125	neon ... hydrogen cyanide
+069.03_100	neon ... methylamine
+069.03_105	neon ... methylamine
+069.03_110	neon ... methylamine
+069.03_115	neon ... methylamine
+069.03_125	neon ... methylamine
+069.04_100	nitromethane ... neon
+069.04_105	nitromethane ... neon
+069.04_110	nitromethane ... neon
+069.04_115	nitromethane ... neon
+069.04_125	nitromethane ... neon
+069.05_100	pyridine ... neon
+069.05_105	pyridine ... neon
+069.05_110	pyridine ... neon
+069.05_115	pyridine ... neon
+069.05_125	pyridine ... neon
+070.01_100	neon ... acetone
+070.01_105	neon ... acetone
+070.01_110	neon ... acetone
+070.01_115	neon ... acetone
+070.01_125	neon ... acetone
+070.02_100	neon ... furan
+070.02_105	neon ... furan
+070.02_110	neon ... furan
+070.02_115	neon ... furan
+070.02_125	neon ... furan
+070.03_100	neon ... methanol
+070.03_105	neon ... methanol
+070.03_110	neon ... methanol
+070.03_115	neon ... methanol
+070.03_125	neon ... methanol
+070.04_100	water ... neon
+070.04_105	water ... neon
+070.04_110	water ... neon
+070.04_115	water ... neon
+070.04_125	water ... neon
+071.01_100	neon ... CH3PCH2
+071.01_105	neon ... CH3PCH2
+071.01_110	neon ... CH3PCH2
+071.01_115	neon ... CH3PCH2
+071.01_125	neon ... CH3PCH2
+071.02_100	phosphine ... neon
+071.02_105	phosphine ... neon
+071.02_110	phosphine ... neon
+071.02_115	phosphine ... neon
+071.02_125	phosphine ... neon
+071.03_100	trimethylphosphine ... neon
+071.03_105	trimethylphosphine ... neon
+071.03_110	trimethylphosphine ... neon
+071.03_115	trimethylphosphine ... neon
+071.03_125	trimethylphosphine ... neon
+072.01_100	neon ... hydrogen sulfide
+072.01_105	neon ... hydrogen sulfide
+072.01_110	neon ... hydrogen sulfide
+072.01_115	neon ... hydrogen sulfide
+072.01_125	neon ... hydrogen sulfide
+072.02_100	neon ... methanethiol
+072.02_105	neon ... methanethiol
+072.02_110	neon ... methanethiol
+072.02_115	neon ... methanethiol
+072.02_125	neon ... methanethiol
+072.03_100	thioacetone ... neon
+072.03_105	thioacetone ... neon
+072.03_110	thioacetone ... neon
+072.03_115	thioacetone ... neon
+072.03_125	thioacetone ... neon
+072.04_100	thiophene ... neon
+072.04_105	thiophene ... neon
+072.04_110	thiophene ... neon
+072.04_115	thiophene ... neon
+072.04_125	thiophene ... neon
+073.01_100	neon ... cyanogen fluoride
+073.01_105	neon ... cyanogen fluoride
+073.01_110	neon ... cyanogen fluoride
+073.01_115	neon ... cyanogen fluoride
+073.01_125	neon ... cyanogen fluoride
+073.02_100	neon ... methylfluoride
+073.02_105	neon ... methylfluoride
+073.02_110	neon ... methylfluoride
+073.02_115	neon ... methylfluoride
+073.02_125	neon ... methylfluoride
+074.01_100	neon ... cyanogen chloride
+074.01_105	neon ... cyanogen chloride
+074.01_110	neon ... cyanogen chloride
+074.01_115	neon ... cyanogen chloride
+074.01_125	neon ... cyanogen chloride
+074.02_100	neon ... methylchloride
+074.02_105	neon ... methylchloride
+074.02_110	neon ... methylchloride
+074.02_115	neon ... methylchloride
+074.02_125	neon ... methylchloride
+075.01_100	neon ... cyanogen bromide
+075.01_105	neon ... cyanogen bromide
+075.01_110	neon ... cyanogen bromide
+075.01_115	neon ... cyanogen bromide
+075.01_125	neon ... cyanogen bromide
+075.02_100	neon ... methylbromide
+075.02_105	neon ... methylbromide
+075.02_110	neon ... methylbromide
+075.02_115	neon ... methylbromide
+075.02_125	neon ... methylbromide
+076.01_100	neon ... cyanogen iodide
+076.01_105	neon ... cyanogen iodide
+076.01_110	neon ... cyanogen iodide
+076.01_115	neon ... cyanogen iodide
+076.01_125	neon ... cyanogen iodide
+076.02_100	neon ... methyliodide
+076.02_105	neon ... methyliodide
+076.02_110	neon ... methyliodide
+076.02_115	neon ... methyliodide
+076.02_125	neon ... methyliodide
+077.01_100	neon ... helium
+077.01_105	neon ... helium
+077.01_110	neon ... helium
+077.01_115	neon ... helium
+077.01_125	neon ... helium
+078.01_100	neon ... neon
+078.01_105	neon ... neon
+078.01_110	neon ... neon
+078.01_115	neon ... neon
+078.01_125	neon ... neon
+079.01_100	borane(H) ... argon
+079.01_105	borane(H) ... argon
+079.01_110	borane(H) ... argon
+079.01_115	borane(H) ... argon
+079.01_125	borane(H) ... argon
+079.02_100	dihydrogen ... argon
+079.02_105	dihydrogen ... argon
+079.02_110	dihydrogen ... argon
+079.02_115	dihydrogen ... argon
+079.02_125	dihydrogen ... argon
+079.03_100	ethyne(H) ... argon
+079.03_105	ethyne(H) ... argon
+079.03_110	ethyne(H) ... argon
+079.03_115	ethyne(H) ... argon
+079.03_125	ethyne(H) ... argon
+079.04_100	hydrogen fluoride ... argon
+079.04_105	hydrogen fluoride ... argon
+079.04_110	hydrogen fluoride ... argon
+079.04_115	hydrogen fluoride ... argon
+079.04_125	hydrogen fluoride ... argon
+079.05_100	methane(H) ... argon
+079.05_105	methane(H) ... argon
+079.05_110	methane(H) ... argon
+079.05_115	methane(H) ... argon
+079.05_125	methane(H) ... argon
+080.01_100	benzene ... argon
+080.01_105	benzene ... argon
+080.01_110	benzene ... argon
+080.01_115	benzene ... argon
+080.01_125	benzene ... argon
+080.02_100	ethene ... argon
+080.02_105	ethene ... argon
+080.02_110	ethene ... argon
+080.02_115	ethene ... argon
+080.02_125	ethene ... argon
+080.03_100	ethyne(C) ... argon
+080.03_105	ethyne(C) ... argon
+080.03_110	ethyne(C) ... argon
+080.03_115	ethyne(C) ... argon
+080.03_125	ethyne(C) ... argon
+080.04_100	methane(C) ... argon
+080.04_105	methane(C) ... argon
+080.04_110	methane(C) ... argon
+080.04_115	methane(C) ... argon
+080.04_125	methane(C) ... argon
+081.01_100	argon ... ammonia
+081.01_105	argon ... ammonia
+081.01_110	argon ... ammonia
+081.01_115	argon ... ammonia
+081.01_125	argon ... ammonia
+081.02_100	hydrogen cyanide ... argon
+081.02_105	hydrogen cyanide ... argon
+081.02_110	hydrogen cyanide ... argon
+081.02_115	hydrogen cyanide ... argon
+081.02_125	hydrogen cyanide ... argon
+081.03_100	methylamine ... argon
+081.03_105	methylamine ... argon
+081.03_110	methylamine ... argon
+081.03_115	methylamine ... argon
+081.03_125	methylamine ... argon
+081.04_100	nitromethane ... argon
+081.04_105	nitromethane ... argon
+081.04_110	nitromethane ... argon
+081.04_115	nitromethane ... argon
+081.04_125	nitromethane ... argon
+081.05_100	pyridine ... argon
+081.05_105	pyridine ... argon
+081.05_110	pyridine ... argon
+081.05_115	pyridine ... argon
+081.05_125	pyridine ... argon
+082.01_100	argon ... acetone
+082.01_105	argon ... acetone
+082.01_110	argon ... acetone
+082.01_115	argon ... acetone
+082.01_125	argon ... acetone
+082.02_100	furan ... argon
+082.02_105	furan ... argon
+082.02_110	furan ... argon
+082.02_115	furan ... argon
+082.02_125	furan ... argon
+082.03_100	methanol ... argon
+082.03_105	methanol ... argon
+082.03_110	methanol ... argon
+082.03_115	methanol ... argon
+082.03_125	methanol ... argon
+082.04_100	water ... argon
+082.04_105	water ... argon
+082.04_110	water ... argon
+082.04_115	water ... argon
+082.04_125	water ... argon
+083.01_100	argon ... CH3PCH2
+083.01_105	argon ... CH3PCH2
+083.01_110	argon ... CH3PCH2
+083.01_115	argon ... CH3PCH2
+083.01_125	argon ... CH3PCH2
+083.02_100	phosphine ... argon
+083.02_105	phosphine ... argon
+083.02_110	phosphine ... argon
+083.02_115	phosphine ... argon
+083.02_125	phosphine ... argon
+083.03_100	trimethylphosphine ... argon
+083.03_105	trimethylphosphine ... argon
+083.03_110	trimethylphosphine ... argon
+083.03_115	trimethylphosphine ... argon
+083.03_125	trimethylphosphine ... argon
+084.01_100	hydrogen sulfide ... argon
+084.01_105	hydrogen sulfide ... argon
+084.01_110	hydrogen sulfide ... argon
+084.01_115	hydrogen sulfide ... argon
+084.01_125	hydrogen sulfide ... argon
+084.02_100	methanethiol ... argon
+084.02_105	methanethiol ... argon
+084.02_110	methanethiol ... argon
+084.02_115	methanethiol ... argon
+084.02_125	methanethiol ... argon
+084.03_100	thioacetone ... argon
+084.03_105	thioacetone ... argon
+084.03_110	thioacetone ... argon
+084.03_115	thioacetone ... argon
+084.03_125	thioacetone ... argon
+084.04_100	thiophene ... argon
+084.04_105	thiophene ... argon
+084.04_110	thiophene ... argon
+084.04_115	thiophene ... argon
+084.04_125	thiophene ... argon
+085.01_100	cyanogen fluoride ... argon
+085.01_105	cyanogen fluoride ... argon
+085.01_110	cyanogen fluoride ... argon
+085.01_115	cyanogen fluoride ... argon
+085.01_125	cyanogen fluoride ... argon
+085.02_100	methylfluoride ... argon
+085.02_105	methylfluoride ... argon
+085.02_110	methylfluoride ... argon
+085.02_115	methylfluoride ... argon
+085.02_125	methylfluoride ... argon
+086.01_100	cyanogen chloride ... argon
+086.01_105	cyanogen chloride ... argon
+086.01_110	cyanogen chloride ... argon
+086.01_115	cyanogen chloride ... argon
+086.01_125	cyanogen chloride ... argon
+086.02_100	methylchloride ... argon
+086.02_105	methylchloride ... argon
+086.02_110	methylchloride ... argon
+086.02_115	methylchloride ... argon
+086.02_125	methylchloride ... argon
+087.01_100	cyanogen bromide ... argon
+087.01_105	cyanogen bromide ... argon
+087.01_110	cyanogen bromide ... argon
+087.01_115	cyanogen bromide ... argon
+087.01_125	cyanogen bromide ... argon
+087.02_100	methylbromide ... argon
+087.02_105	methylbromide ... argon
+087.02_110	methylbromide ... argon
+087.02_115	methylbromide ... argon
+087.02_125	methylbromide ... argon
+088.01_100	cyanogen iodide ... argon
+088.01_105	cyanogen iodide ... argon
+088.01_110	cyanogen iodide ... argon
+088.01_115	cyanogen iodide ... argon
+088.01_125	cyanogen iodide ... argon
+088.02_100	methyliodide ... argon
+088.02_105	methyliodide ... argon
+088.02_110	methyliodide ... argon
+088.02_115	methyliodide ... argon
+088.02_125	methyliodide ... argon
+089.01_100	helium ... argon
+089.01_105	helium ... argon
+089.01_110	helium ... argon
+089.01_115	helium ... argon
+089.01_125	helium ... argon
+090.01_100	neon ... argon
+090.01_105	neon ... argon
+090.01_110	neon ... argon
+090.01_115	neon ... argon
+090.01_125	neon ... argon
+091.01_100	argon ... argon
+091.01_105	argon ... argon
+091.01_110	argon ... argon
+091.01_115	argon ... argon
+091.01_125	argon ... argon
+092.01_100	krypton ... borane(H)
+092.01_105	krypton ... borane(H)
+092.01_110	krypton ... borane(H)
+092.01_115	krypton ... borane(H)
+092.01_125	krypton ... borane(H)
+092.02_100	krypton ... dihydrogen
+092.02_105	krypton ... dihydrogen
+092.02_110	krypton ... dihydrogen
+092.02_115	krypton ... dihydrogen
+092.02_125	krypton ... dihydrogen
+092.03_100	krypton ... ethyne(H)
+092.03_105	krypton ... ethyne(H)
+092.03_110	krypton ... ethyne(H)
+092.03_115	krypton ... ethyne(H)
+092.03_125	krypton ... ethyne(H)
+092.04_100	krypton ... hydrogen fluoride
+092.04_105	krypton ... hydrogen fluoride
+092.04_110	krypton ... hydrogen fluoride
+092.04_115	krypton ... hydrogen fluoride
+092.04_125	krypton ... hydrogen fluoride
+092.05_100	methane(H) ... krypton
+092.05_105	methane(H) ... krypton
+092.05_110	methane(H) ... krypton
+092.05_115	methane(H) ... krypton
+092.05_125	methane(H) ... krypton
+093.01_100	krypton ... benzene
+093.01_105	krypton ... benzene
+093.01_110	krypton ... benzene
+093.01_115	krypton ... benzene
+093.01_125	krypton ... benzene
+093.02_100	krypton ... ethene
+093.02_105	krypton ... ethene
+093.02_110	krypton ... ethene
+093.02_115	krypton ... ethene
+093.02_125	krypton ... ethene
+093.03_100	krypton ... ethyne(C)
+093.03_105	krypton ... ethyne(C)
+093.03_110	krypton ... ethyne(C)
+093.03_115	krypton ... ethyne(C)
+093.03_125	krypton ... ethyne(C)
+093.04_100	methane(C) ... krypton
+093.04_105	methane(C) ... krypton
+093.04_110	methane(C) ... krypton
+093.04_115	methane(C) ... krypton
+093.04_125	methane(C) ... krypton
+094.01_100	krypton ... ammonia
+094.01_105	krypton ... ammonia
+094.01_110	krypton ... ammonia
+094.01_115	krypton ... ammonia
+094.01_125	krypton ... ammonia
+094.02_100	krypton ... hydrogen cyanide
+094.02_105	krypton ... hydrogen cyanide
+094.02_110	krypton ... hydrogen cyanide
+094.02_115	krypton ... hydrogen cyanide
+094.02_125	krypton ... hydrogen cyanide
+094.03_100	methylamine ... krypton
+094.03_105	methylamine ... krypton
+094.03_110	methylamine ... krypton
+094.03_115	methylamine ... krypton
+094.03_125	methylamine ... krypton
+094.04_100	nitromethane ... krypton
+094.04_105	nitromethane ... krypton
+094.04_110	nitromethane ... krypton
+094.04_115	nitromethane ... krypton
+094.04_125	nitromethane ... krypton
+094.05_100	pyridine ... krypton
+094.05_105	pyridine ... krypton
+094.05_110	pyridine ... krypton
+094.05_115	pyridine ... krypton
+094.05_125	pyridine ... krypton
+095.01_100	krypton ... acetone
+095.01_105	krypton ... acetone
+095.01_110	krypton ... acetone
+095.01_115	krypton ... acetone
+095.01_125	krypton ... acetone
+095.02_100	krypton ... furan
+095.02_105	krypton ... furan
+095.02_110	krypton ... furan
+095.02_115	krypton ... furan
+095.02_125	krypton ... furan
+095.03_100	methanol ... krypton
+095.03_105	methanol ... krypton
+095.03_110	methanol ... krypton
+095.03_115	methanol ... krypton
+095.03_125	methanol ... krypton
+095.04_100	water ... krypton
+095.04_105	water ... krypton
+095.04_110	water ... krypton
+095.04_115	water ... krypton
+095.04_125	water ... krypton
+096.01_100	krypton ... CH3PCH2
+096.01_105	krypton ... CH3PCH2
+096.01_110	krypton ... CH3PCH2
+096.01_115	krypton ... CH3PCH2
+096.01_125	krypton ... CH3PCH2
+096.02_100	phosphine ... krypton
+096.02_105	phosphine ... krypton
+096.02_110	phosphine ... krypton
+096.02_115	phosphine ... krypton
+096.02_125	phosphine ... krypton
+096.03_100	trimethylphosphine ... krypton
+096.03_105	trimethylphosphine ... krypton
+096.03_110	trimethylphosphine ... krypton
+096.03_115	trimethylphosphine ... krypton
+096.03_125	trimethylphosphine ... krypton
+097.01_100	krypton ... hydrogen sulfide
+097.01_105	krypton ... hydrogen sulfide
+097.01_110	krypton ... hydrogen sulfide
+097.01_115	krypton ... hydrogen sulfide
+097.01_125	krypton ... hydrogen sulfide
+097.02_100	methanethiol ... krypton
+097.02_105	methanethiol ... krypton
+097.02_110	methanethiol ... krypton
+097.02_115	methanethiol ... krypton
+097.02_125	methanethiol ... krypton
+097.03_100	thioacetone ... krypton
+097.03_105	thioacetone ... krypton
+097.03_110	thioacetone ... krypton
+097.03_115	thioacetone ... krypton
+097.03_125	thioacetone ... krypton
+097.04_100	thiophene ... krypton
+097.04_105	thiophene ... krypton
+097.04_110	thiophene ... krypton
+097.04_115	thiophene ... krypton
+097.04_125	thiophene ... krypton
+098.01_100	krypton ... cyanogen fluoride
+098.01_105	krypton ... cyanogen fluoride
+098.01_110	krypton ... cyanogen fluoride
+098.01_115	krypton ... cyanogen fluoride
+098.01_125	krypton ... cyanogen fluoride
+098.02_100	methylfluoride ... krypton
+098.02_105	methylfluoride ... krypton
+098.02_110	methylfluoride ... krypton
+098.02_115	methylfluoride ... krypton
+098.02_125	methylfluoride ... krypton
+099.01_100	methylchloride ... krypton
+099.01_105	methylchloride ... krypton
+099.01_110	methylchloride ... krypton
+099.01_115	methylchloride ... krypton
+099.01_125	methylchloride ... krypton
+099.02_100	krypton ... cyanogen chloride
+099.02_105	krypton ... cyanogen chloride
+099.02_110	krypton ... cyanogen chloride
+099.02_115	krypton ... cyanogen chloride
+099.02_125	krypton ... cyanogen chloride
+100.01_100	krypton ... cyanogen bromide
+100.01_105	krypton ... cyanogen bromide
+100.01_110	krypton ... cyanogen bromide
+100.01_115	krypton ... cyanogen bromide
+100.01_125	krypton ... cyanogen bromide
+100.02_100	methylbromide ... krypton
+100.02_105	methylbromide ... krypton
+100.02_110	methylbromide ... krypton
+100.02_115	methylbromide ... krypton
+100.02_125	methylbromide ... krypton
+101.01_100	krypton ... cyanogen iodide
+101.01_105	krypton ... cyanogen iodide
+101.01_110	krypton ... cyanogen iodide
+101.01_115	krypton ... cyanogen iodide
+101.01_125	krypton ... cyanogen iodide
+101.02_100	methyliodide ... krypton
+101.02_105	methyliodide ... krypton
+101.02_110	methyliodide ... krypton
+101.02_115	methyliodide ... krypton
+101.02_125	methyliodide ... krypton
+102.01_100	krypton ... helium
+102.01_105	krypton ... helium
+102.01_110	krypton ... helium
+102.01_115	krypton ... helium
+102.01_125	krypton ... helium
+103.01_100	neon ... krypton
+103.01_105	neon ... krypton
+103.01_110	neon ... krypton
+103.01_115	neon ... krypton
+103.01_125	neon ... krypton
+104.01_100	krypton ... argon
+104.01_105	krypton ... argon
+104.01_110	krypton ... argon
+104.01_115	krypton ... argon
+104.01_125	krypton ... argon
+105.01_100	krypton ... krypton
+105.01_105	krypton ... krypton
+105.01_110	krypton ... krypton
+105.01_115	krypton ... krypton
+105.01_125	krypton ... krypton
+106.01_100	xenon ... borane(H)
+106.01_105	xenon ... borane(H)
+106.01_110	xenon ... borane(H)
+106.01_115	xenon ... borane(H)
+106.01_125	xenon ... borane(H)
+106.02_100	xenon ... dihydrogen
+106.02_105	xenon ... dihydrogen
+106.02_110	xenon ... dihydrogen
+106.02_115	xenon ... dihydrogen
+106.02_125	xenon ... dihydrogen
+106.03_100	xenon ... ethyne(H)
+106.03_105	xenon ... ethyne(H)
+106.03_110	xenon ... ethyne(H)
+106.03_115	xenon ... ethyne(H)
+106.03_125	xenon ... ethyne(H)
+106.04_100	xenon ... hydrogen fluoride
+106.04_105	xenon ... hydrogen fluoride
+106.04_110	xenon ... hydrogen fluoride
+106.04_115	xenon ... hydrogen fluoride
+106.04_125	xenon ... hydrogen fluoride
+106.05_100	xenon ... methane(H)
+106.05_105	xenon ... methane(H)
+106.05_110	xenon ... methane(H)
+106.05_115	xenon ... methane(H)
+106.05_125	xenon ... methane(H)
+107.01_100	xenon ... benzene
+107.01_105	xenon ... benzene
+107.01_110	xenon ... benzene
+107.01_115	xenon ... benzene
+107.01_125	xenon ... benzene
+107.02_100	xenon ... ethene
+107.02_105	xenon ... ethene
+107.02_110	xenon ... ethene
+107.02_115	xenon ... ethene
+107.02_125	xenon ... ethene
+107.03_100	xenon ... ethyne(C)
+107.03_105	xenon ... ethyne(C)
+107.03_110	xenon ... ethyne(C)
+107.03_115	xenon ... ethyne(C)
+107.03_125	xenon ... ethyne(C)
+107.04_100	xenon ... methane(C)
+107.04_105	xenon ... methane(C)
+107.04_110	xenon ... methane(C)
+107.04_115	xenon ... methane(C)
+107.04_125	xenon ... methane(C)
+108.01_100	xenon ... ammonia
+108.01_105	xenon ... ammonia
+108.01_110	xenon ... ammonia
+108.01_115	xenon ... ammonia
+108.01_125	xenon ... ammonia
+108.02_100	xenon ... hydrogen cyanide
+108.02_105	xenon ... hydrogen cyanide
+108.02_110	xenon ... hydrogen cyanide
+108.02_115	xenon ... hydrogen cyanide
+108.02_125	xenon ... hydrogen cyanide
+108.03_100	xenon ... methylamine
+108.03_105	xenon ... methylamine
+108.03_110	xenon ... methylamine
+108.03_115	xenon ... methylamine
+108.03_125	xenon ... methylamine
+108.04_100	xenon ... nitromethane
+108.04_105	xenon ... nitromethane
+108.04_110	xenon ... nitromethane
+108.04_115	xenon ... nitromethane
+108.04_125	xenon ... nitromethane
+108.05_100	xenon ... pyridine
+108.05_105	xenon ... pyridine
+108.05_110	xenon ... pyridine
+108.05_115	xenon ... pyridine
+108.05_125	xenon ... pyridine
+109.01_100	xenon ... acetone
+109.01_105	xenon ... acetone
+109.01_110	xenon ... acetone
+109.01_115	xenon ... acetone
+109.01_125	xenon ... acetone
+109.02_100	xenon ... furan
+109.02_105	xenon ... furan
+109.02_110	xenon ... furan
+109.02_115	xenon ... furan
+109.02_125	xenon ... furan
+109.03_100	xenon ... methanol
+109.03_105	xenon ... methanol
+109.03_110	xenon ... methanol
+109.03_115	xenon ... methanol
+109.03_125	xenon ... methanol
+109.04_100	xenon ... water
+109.04_105	xenon ... water
+109.04_110	xenon ... water
+109.04_115	xenon ... water
+109.04_125	xenon ... water
+110.01_100	xenon ... CH3PCH2
+110.01_105	xenon ... CH3PCH2
+110.01_110	xenon ... CH3PCH2
+110.01_115	xenon ... CH3PCH2
+110.01_125	xenon ... CH3PCH2
+110.02_100	xenon ... phosphine
+110.02_105	xenon ... phosphine
+110.02_110	xenon ... phosphine
+110.02_115	xenon ... phosphine
+110.02_125	xenon ... phosphine
+110.03_100	xenon ... trimethylphosphine
+110.03_105	xenon ... trimethylphosphine
+110.03_110	xenon ... trimethylphosphine
+110.03_115	xenon ... trimethylphosphine
+110.03_125	xenon ... trimethylphosphine
+111.01_100	xenon ... hydrogen sulfide
+111.01_105	xenon ... hydrogen sulfide
+111.01_110	xenon ... hydrogen sulfide
+111.01_115	xenon ... hydrogen sulfide
+111.01_125	xenon ... hydrogen sulfide
+111.02_100	xenon ... methanethiol
+111.02_105	xenon ... methanethiol
+111.02_110	xenon ... methanethiol
+111.02_115	xenon ... methanethiol
+111.02_125	xenon ... methanethiol
+111.03_100	xenon ... thioacetone
+111.03_105	xenon ... thioacetone
+111.03_110	xenon ... thioacetone
+111.03_115	xenon ... thioacetone
+111.03_125	xenon ... thioacetone
+111.04_100	xenon ... thiophene
+111.04_105	xenon ... thiophene
+111.04_110	xenon ... thiophene
+111.04_115	xenon ... thiophene
+111.04_125	xenon ... thiophene
+112.01_100	xenon ... cyanogen fluoride
+112.01_105	xenon ... cyanogen fluoride
+112.01_110	xenon ... cyanogen fluoride
+112.01_115	xenon ... cyanogen fluoride
+112.01_125	xenon ... cyanogen fluoride
+112.02_100	xenon ... methylfluoride
+112.02_105	xenon ... methylfluoride
+112.02_110	xenon ... methylfluoride
+112.02_115	xenon ... methylfluoride
+112.02_125	xenon ... methylfluoride
+113.01_100	xenon ... cyanogen chloride
+113.01_105	xenon ... cyanogen chloride
+113.01_110	xenon ... cyanogen chloride
+113.01_115	xenon ... cyanogen chloride
+113.01_125	xenon ... cyanogen chloride
+113.02_100	xenon ... methylchloride
+113.02_105	xenon ... methylchloride
+113.02_110	xenon ... methylchloride
+113.02_115	xenon ... methylchloride
+113.02_125	xenon ... methylchloride
+114.01_100	xenon ... cyanogen bromide
+114.01_105	xenon ... cyanogen bromide
+114.01_110	xenon ... cyanogen bromide
+114.01_115	xenon ... cyanogen bromide
+114.01_125	xenon ... cyanogen bromide
+114.02_100	xenon ... methylbromide
+114.02_105	xenon ... methylbromide
+114.02_110	xenon ... methylbromide
+114.02_115	xenon ... methylbromide
+114.02_125	xenon ... methylbromide
+115.01_100	xenon ... cyanogen iodide
+115.01_105	xenon ... cyanogen iodide
+115.01_110	xenon ... cyanogen iodide
+115.01_115	xenon ... cyanogen iodide
+115.01_125	xenon ... cyanogen iodide
+115.02_100	xenon ... methyliodide
+115.02_105	xenon ... methyliodide
+115.02_110	xenon ... methyliodide
+115.02_115	xenon ... methyliodide
+115.02_125	xenon ... methyliodide
+116.01_100	xenon ... helium
+116.01_105	xenon ... helium
+116.01_110	xenon ... helium
+116.01_115	xenon ... helium
+116.01_125	xenon ... helium
+117.01_100	xenon ... neon
+117.01_105	xenon ... neon
+117.01_110	xenon ... neon
+117.01_115	xenon ... neon
+117.01_125	xenon ... neon
+118.01_100	xenon ... argon
+118.01_105	xenon ... argon
+118.01_110	xenon ... argon
+118.01_115	xenon ... argon
+118.01_125	xenon ... argon
+119.01_100	xenon ... krypton
+119.01_105	xenon ... krypton
+119.01_110	xenon ... krypton
+119.01_115	xenon ... krypton
+119.01_125	xenon ... krypton
+120.01_100	xenon ... xenon
+120.01_105	xenon ... xenon
+120.01_110	xenon ... xenon
+120.01_115	xenon ... xenon
+120.01_125	xenon ... xenon

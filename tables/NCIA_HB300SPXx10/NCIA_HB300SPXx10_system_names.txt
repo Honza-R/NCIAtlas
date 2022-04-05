@@ -1,0 +1,3001 @@
+# system names
+1.01_080	phosphine ... ammonia
+1.01_085	phosphine ... ammonia
+1.01_090	phosphine ... ammonia
+1.01_095	phosphine ... ammonia
+1.01_100	phosphine ... ammonia
+1.01_105	phosphine ... ammonia
+1.01_110	phosphine ... ammonia
+1.01_125	phosphine ... ammonia
+1.01_150	phosphine ... ammonia
+1.01_200	phosphine ... ammonia
+1.02_080	phosphine ... methylamine
+1.02_085	phosphine ... methylamine
+1.02_090	phosphine ... methylamine
+1.02_095	phosphine ... methylamine
+1.02_100	phosphine ... methylamine
+1.02_105	phosphine ... methylamine
+1.02_110	phosphine ... methylamine
+1.02_125	phosphine ... methylamine
+1.02_150	phosphine ... methylamine
+1.02_200	phosphine ... methylamine
+1.03_080	phosphine ... pyridine
+1.03_085	phosphine ... pyridine
+1.03_090	phosphine ... pyridine
+1.03_095	phosphine ... pyridine
+1.03_100	phosphine ... pyridine
+1.03_105	phosphine ... pyridine
+1.03_110	phosphine ... pyridine
+1.03_125	phosphine ... pyridine
+1.03_150	phosphine ... pyridine
+1.03_200	phosphine ... pyridine
+1.04_080	phosphine ... trimethylamine
+1.04_085	phosphine ... trimethylamine
+1.04_090	phosphine ... trimethylamine
+1.04_095	phosphine ... trimethylamine
+1.04_100	phosphine ... trimethylamine
+1.04_105	phosphine ... trimethylamine
+1.04_110	phosphine ... trimethylamine
+1.04_125	phosphine ... trimethylamine
+1.04_150	phosphine ... trimethylamine
+1.04_200	phosphine ... trimethylamine
+1.05_080	methanethiol ... ammonia
+1.05_085	methanethiol ... ammonia
+1.05_090	methanethiol ... ammonia
+1.05_095	methanethiol ... ammonia
+1.05_100	methanethiol ... ammonia
+1.05_105	methanethiol ... ammonia
+1.05_110	methanethiol ... ammonia
+1.05_125	methanethiol ... ammonia
+1.05_150	methanethiol ... ammonia
+1.05_200	methanethiol ... ammonia
+1.06_080	methanethiol ... methylamine
+1.06_085	methanethiol ... methylamine
+1.06_090	methanethiol ... methylamine
+1.06_095	methanethiol ... methylamine
+1.06_100	methanethiol ... methylamine
+1.06_105	methanethiol ... methylamine
+1.06_110	methanethiol ... methylamine
+1.06_125	methanethiol ... methylamine
+1.06_150	methanethiol ... methylamine
+1.06_200	methanethiol ... methylamine
+1.07_080	methanethiol ... pyridine
+1.07_085	methanethiol ... pyridine
+1.07_090	methanethiol ... pyridine
+1.07_095	methanethiol ... pyridine
+1.07_100	methanethiol ... pyridine
+1.07_105	methanethiol ... pyridine
+1.07_110	methanethiol ... pyridine
+1.07_125	methanethiol ... pyridine
+1.07_150	methanethiol ... pyridine
+1.07_200	methanethiol ... pyridine
+1.08_080	methanethiol ... trimethylamine
+1.08_085	methanethiol ... trimethylamine
+1.08_090	methanethiol ... trimethylamine
+1.08_095	methanethiol ... trimethylamine
+1.08_100	methanethiol ... trimethylamine
+1.08_105	methanethiol ... trimethylamine
+1.08_110	methanethiol ... trimethylamine
+1.08_125	methanethiol ... trimethylamine
+1.08_150	methanethiol ... trimethylamine
+1.08_200	methanethiol ... trimethylamine
+1.09_080	sulfane ... ammonia
+1.09_085	sulfane ... ammonia
+1.09_090	sulfane ... ammonia
+1.09_095	sulfane ... ammonia
+1.09_100	sulfane ... ammonia
+1.09_105	sulfane ... ammonia
+1.09_110	sulfane ... ammonia
+1.09_125	sulfane ... ammonia
+1.09_150	sulfane ... ammonia
+1.09_200	sulfane ... ammonia
+1.10_080	sulfane ... methylamine
+1.10_085	sulfane ... methylamine
+1.10_090	sulfane ... methylamine
+1.10_095	sulfane ... methylamine
+1.10_100	sulfane ... methylamine
+1.10_105	sulfane ... methylamine
+1.10_110	sulfane ... methylamine
+1.10_125	sulfane ... methylamine
+1.10_150	sulfane ... methylamine
+1.10_200	sulfane ... methylamine
+1.11_080	sulfane ... methylazide
+1.11_085	sulfane ... methylazide
+1.11_090	sulfane ... methylazide
+1.11_095	sulfane ... methylazide
+1.11_100	sulfane ... methylazide
+1.11_105	sulfane ... methylazide
+1.11_110	sulfane ... methylazide
+1.11_125	sulfane ... methylazide
+1.11_150	sulfane ... methylazide
+1.11_200	sulfane ... methylazide
+1.12_080	sulfane ... methylcyanate
+1.12_085	sulfane ... methylcyanate
+1.12_090	sulfane ... methylcyanate
+1.12_095	sulfane ... methylcyanate
+1.12_100	sulfane ... methylcyanate
+1.12_105	sulfane ... methylcyanate
+1.12_110	sulfane ... methylcyanate
+1.12_125	sulfane ... methylcyanate
+1.12_150	sulfane ... methylcyanate
+1.12_200	sulfane ... methylcyanate
+1.13_080	sulfane ... pyridine
+1.13_085	sulfane ... pyridine
+1.13_090	sulfane ... pyridine
+1.13_095	sulfane ... pyridine
+1.13_100	sulfane ... pyridine
+1.13_105	sulfane ... pyridine
+1.13_110	sulfane ... pyridine
+1.13_125	sulfane ... pyridine
+1.13_150	sulfane ... pyridine
+1.13_200	sulfane ... pyridine
+1.14_080	sulfane ... trimethylamine
+1.14_085	sulfane ... trimethylamine
+1.14_090	sulfane ... trimethylamine
+1.14_095	sulfane ... trimethylamine
+1.14_100	sulfane ... trimethylamine
+1.14_105	sulfane ... trimethylamine
+1.14_110	sulfane ... trimethylamine
+1.14_125	sulfane ... trimethylamine
+1.14_150	sulfane ... trimethylamine
+1.14_200	sulfane ... trimethylamine
+1.15_080	hydrogenfluoride ... ammonia
+1.15_085	hydrogenfluoride ... ammonia
+1.15_090	hydrogenfluoride ... ammonia
+1.15_095	hydrogenfluoride ... ammonia
+1.15_100	hydrogenfluoride ... ammonia
+1.15_105	hydrogenfluoride ... ammonia
+1.15_110	hydrogenfluoride ... ammonia
+1.15_125	hydrogenfluoride ... ammonia
+1.15_150	hydrogenfluoride ... ammonia
+1.15_200	hydrogenfluoride ... ammonia
+1.16_080	hydrogenfluoride ... methylamine
+1.16_085	hydrogenfluoride ... methylamine
+1.16_090	hydrogenfluoride ... methylamine
+1.16_095	hydrogenfluoride ... methylamine
+1.16_100	hydrogenfluoride ... methylamine
+1.16_105	hydrogenfluoride ... methylamine
+1.16_110	hydrogenfluoride ... methylamine
+1.16_125	hydrogenfluoride ... methylamine
+1.16_150	hydrogenfluoride ... methylamine
+1.16_200	hydrogenfluoride ... methylamine
+1.17_080	hydrogenfluoride ... methylazide
+1.17_085	hydrogenfluoride ... methylazide
+1.17_090	hydrogenfluoride ... methylazide
+1.17_095	hydrogenfluoride ... methylazide
+1.17_100	hydrogenfluoride ... methylazide
+1.17_105	hydrogenfluoride ... methylazide
+1.17_110	hydrogenfluoride ... methylazide
+1.17_125	hydrogenfluoride ... methylazide
+1.17_150	hydrogenfluoride ... methylazide
+1.17_200	hydrogenfluoride ... methylazide
+1.18_080	hydrogenfluoride ... methylcyanate
+1.18_085	hydrogenfluoride ... methylcyanate
+1.18_090	hydrogenfluoride ... methylcyanate
+1.18_095	hydrogenfluoride ... methylcyanate
+1.18_100	hydrogenfluoride ... methylcyanate
+1.18_105	hydrogenfluoride ... methylcyanate
+1.18_110	hydrogenfluoride ... methylcyanate
+1.18_125	hydrogenfluoride ... methylcyanate
+1.18_150	hydrogenfluoride ... methylcyanate
+1.18_200	hydrogenfluoride ... methylcyanate
+1.19_080	hydrogenfluoride ... N-methylacetamide
+1.19_085	hydrogenfluoride ... N-methylacetamide
+1.19_090	hydrogenfluoride ... N-methylacetamide
+1.19_095	hydrogenfluoride ... N-methylacetamide
+1.19_100	hydrogenfluoride ... N-methylacetamide
+1.19_105	hydrogenfluoride ... N-methylacetamide
+1.19_110	hydrogenfluoride ... N-methylacetamide
+1.19_125	hydrogenfluoride ... N-methylacetamide
+1.19_150	hydrogenfluoride ... N-methylacetamide
+1.19_200	hydrogenfluoride ... N-methylacetamide
+1.20_080	hydrogenfluoride ... pyridine
+1.20_085	hydrogenfluoride ... pyridine
+1.20_090	hydrogenfluoride ... pyridine
+1.20_095	hydrogenfluoride ... pyridine
+1.20_100	hydrogenfluoride ... pyridine
+1.20_105	hydrogenfluoride ... pyridine
+1.20_110	hydrogenfluoride ... pyridine
+1.20_125	hydrogenfluoride ... pyridine
+1.20_150	hydrogenfluoride ... pyridine
+1.20_200	hydrogenfluoride ... pyridine
+1.21_080	hydrogenfluoride ... trimethylamine
+1.21_085	hydrogenfluoride ... trimethylamine
+1.21_090	hydrogenfluoride ... trimethylamine
+1.21_095	hydrogenfluoride ... trimethylamine
+1.21_100	hydrogenfluoride ... trimethylamine
+1.21_105	hydrogenfluoride ... trimethylamine
+1.21_110	hydrogenfluoride ... trimethylamine
+1.21_125	hydrogenfluoride ... trimethylamine
+1.21_150	hydrogenfluoride ... trimethylamine
+1.21_200	hydrogenfluoride ... trimethylamine
+1.22_080	hydrogenchloride ... ammonia
+1.22_085	hydrogenchloride ... ammonia
+1.22_090	hydrogenchloride ... ammonia
+1.22_095	hydrogenchloride ... ammonia
+1.22_100	hydrogenchloride ... ammonia
+1.22_105	hydrogenchloride ... ammonia
+1.22_110	hydrogenchloride ... ammonia
+1.22_125	hydrogenchloride ... ammonia
+1.22_150	hydrogenchloride ... ammonia
+1.22_200	hydrogenchloride ... ammonia
+1.23_080	hydrogenchloride ... methylamine
+1.23_085	hydrogenchloride ... methylamine
+1.23_090	hydrogenchloride ... methylamine
+1.23_095	hydrogenchloride ... methylamine
+1.23_100	hydrogenchloride ... methylamine
+1.23_105	hydrogenchloride ... methylamine
+1.23_110	hydrogenchloride ... methylamine
+1.23_125	hydrogenchloride ... methylamine
+1.23_150	hydrogenchloride ... methylamine
+1.23_200	hydrogenchloride ... methylamine
+1.24_080	hydrogenchloride ... methylazide
+1.24_085	hydrogenchloride ... methylazide
+1.24_090	hydrogenchloride ... methylazide
+1.24_095	hydrogenchloride ... methylazide
+1.24_100	hydrogenchloride ... methylazide
+1.24_105	hydrogenchloride ... methylazide
+1.24_110	hydrogenchloride ... methylazide
+1.24_125	hydrogenchloride ... methylazide
+1.24_150	hydrogenchloride ... methylazide
+1.24_200	hydrogenchloride ... methylazide
+1.25_080	hydrogenchloride ... methylcyanate
+1.25_085	hydrogenchloride ... methylcyanate
+1.25_090	hydrogenchloride ... methylcyanate
+1.25_095	hydrogenchloride ... methylcyanate
+1.25_100	hydrogenchloride ... methylcyanate
+1.25_105	hydrogenchloride ... methylcyanate
+1.25_110	hydrogenchloride ... methylcyanate
+1.25_125	hydrogenchloride ... methylcyanate
+1.25_150	hydrogenchloride ... methylcyanate
+1.25_200	hydrogenchloride ... methylcyanate
+1.26_080	hydrogenchloride ... N-methylacetamide
+1.26_085	hydrogenchloride ... N-methylacetamide
+1.26_090	hydrogenchloride ... N-methylacetamide
+1.26_095	hydrogenchloride ... N-methylacetamide
+1.26_100	hydrogenchloride ... N-methylacetamide
+1.26_105	hydrogenchloride ... N-methylacetamide
+1.26_110	hydrogenchloride ... N-methylacetamide
+1.26_125	hydrogenchloride ... N-methylacetamide
+1.26_150	hydrogenchloride ... N-methylacetamide
+1.26_200	hydrogenchloride ... N-methylacetamide
+1.27_080	hydrogenchloride ... pyridine
+1.27_085	hydrogenchloride ... pyridine
+1.27_090	hydrogenchloride ... pyridine
+1.27_095	hydrogenchloride ... pyridine
+1.27_100	hydrogenchloride ... pyridine
+1.27_105	hydrogenchloride ... pyridine
+1.27_110	hydrogenchloride ... pyridine
+1.27_125	hydrogenchloride ... pyridine
+1.27_150	hydrogenchloride ... pyridine
+1.27_200	hydrogenchloride ... pyridine
+1.28_080	hydrogenbromide ... ammonia
+1.28_085	hydrogenbromide ... ammonia
+1.28_090	hydrogenbromide ... ammonia
+1.28_095	hydrogenbromide ... ammonia
+1.28_100	hydrogenbromide ... ammonia
+1.28_105	hydrogenbromide ... ammonia
+1.28_110	hydrogenbromide ... ammonia
+1.28_125	hydrogenbromide ... ammonia
+1.28_150	hydrogenbromide ... ammonia
+1.28_200	hydrogenbromide ... ammonia
+1.29_080	hydrogenbromide ... methylazide
+1.29_085	hydrogenbromide ... methylazide
+1.29_090	hydrogenbromide ... methylazide
+1.29_095	hydrogenbromide ... methylazide
+1.29_100	hydrogenbromide ... methylazide
+1.29_105	hydrogenbromide ... methylazide
+1.29_110	hydrogenbromide ... methylazide
+1.29_125	hydrogenbromide ... methylazide
+1.29_150	hydrogenbromide ... methylazide
+1.29_200	hydrogenbromide ... methylazide
+1.30_080	hydrogenbromide ... methylcyanate
+1.30_085	hydrogenbromide ... methylcyanate
+1.30_090	hydrogenbromide ... methylcyanate
+1.30_095	hydrogenbromide ... methylcyanate
+1.30_100	hydrogenbromide ... methylcyanate
+1.30_105	hydrogenbromide ... methylcyanate
+1.30_110	hydrogenbromide ... methylcyanate
+1.30_125	hydrogenbromide ... methylcyanate
+1.30_150	hydrogenbromide ... methylcyanate
+1.30_200	hydrogenbromide ... methylcyanate
+1.31_080	hydrogenbromide ... N-methylacetamide
+1.31_085	hydrogenbromide ... N-methylacetamide
+1.31_090	hydrogenbromide ... N-methylacetamide
+1.31_095	hydrogenbromide ... N-methylacetamide
+1.31_100	hydrogenbromide ... N-methylacetamide
+1.31_105	hydrogenbromide ... N-methylacetamide
+1.31_110	hydrogenbromide ... N-methylacetamide
+1.31_125	hydrogenbromide ... N-methylacetamide
+1.31_150	hydrogenbromide ... N-methylacetamide
+1.31_200	hydrogenbromide ... N-methylacetamide
+1.32_080	hydrogeniodide ... ammonia
+1.32_085	hydrogeniodide ... ammonia
+1.32_090	hydrogeniodide ... ammonia
+1.32_095	hydrogeniodide ... ammonia
+1.32_100	hydrogeniodide ... ammonia
+1.32_105	hydrogeniodide ... ammonia
+1.32_110	hydrogeniodide ... ammonia
+1.32_125	hydrogeniodide ... ammonia
+1.32_150	hydrogeniodide ... ammonia
+1.32_200	hydrogeniodide ... ammonia
+1.33_080	hydrogeniodide ... methylazide
+1.33_085	hydrogeniodide ... methylazide
+1.33_090	hydrogeniodide ... methylazide
+1.33_095	hydrogeniodide ... methylazide
+1.33_100	hydrogeniodide ... methylazide
+1.33_105	hydrogeniodide ... methylazide
+1.33_110	hydrogeniodide ... methylazide
+1.33_125	hydrogeniodide ... methylazide
+1.33_150	hydrogeniodide ... methylazide
+1.33_200	hydrogeniodide ... methylazide
+1.34_080	hydrogeniodide ... methylcyanate
+1.34_085	hydrogeniodide ... methylcyanate
+1.34_090	hydrogeniodide ... methylcyanate
+1.34_095	hydrogeniodide ... methylcyanate
+1.34_100	hydrogeniodide ... methylcyanate
+1.34_105	hydrogeniodide ... methylcyanate
+1.34_110	hydrogeniodide ... methylcyanate
+1.34_125	hydrogeniodide ... methylcyanate
+1.34_150	hydrogeniodide ... methylcyanate
+1.34_200	hydrogeniodide ... methylcyanate
+2.01_080	difluorophosphine ... acetone
+2.01_085	difluorophosphine ... acetone
+2.01_090	difluorophosphine ... acetone
+2.01_095	difluorophosphine ... acetone
+2.01_100	difluorophosphine ... acetone
+2.01_105	difluorophosphine ... acetone
+2.01_110	difluorophosphine ... acetone
+2.01_125	difluorophosphine ... acetone
+2.01_150	difluorophosphine ... acetone
+2.01_200	difluorophosphine ... acetone
+2.02_080	methanethiol ... acetic acid
+2.02_085	methanethiol ... acetic acid
+2.02_090	methanethiol ... acetic acid
+2.02_095	methanethiol ... acetic acid
+2.02_100	methanethiol ... acetic acid
+2.02_105	methanethiol ... acetic acid
+2.02_110	methanethiol ... acetic acid
+2.02_125	methanethiol ... acetic acid
+2.02_150	methanethiol ... acetic acid
+2.02_200	methanethiol ... acetic acid
+2.03_080	methanethiol ... methanol
+2.03_085	methanethiol ... methanol
+2.03_090	methanethiol ... methanol
+2.03_095	methanethiol ... methanol
+2.03_100	methanethiol ... methanol
+2.03_105	methanethiol ... methanol
+2.03_110	methanethiol ... methanol
+2.03_125	methanethiol ... methanol
+2.03_150	methanethiol ... methanol
+2.03_200	methanethiol ... methanol
+2.04_080	sulfane ... acetamide
+2.04_085	sulfane ... acetamide
+2.04_090	sulfane ... acetamide
+2.04_095	sulfane ... acetamide
+2.04_100	sulfane ... acetamide
+2.04_105	sulfane ... acetamide
+2.04_110	sulfane ... acetamide
+2.04_125	sulfane ... acetamide
+2.04_150	sulfane ... acetamide
+2.04_200	sulfane ... acetamide
+2.05_080	sulfane ... acetic acid
+2.05_085	sulfane ... acetic acid
+2.05_090	sulfane ... acetic acid
+2.05_095	sulfane ... acetic acid
+2.05_100	sulfane ... acetic acid
+2.05_105	sulfane ... acetic acid
+2.05_110	sulfane ... acetic acid
+2.05_125	sulfane ... acetic acid
+2.05_150	sulfane ... acetic acid
+2.05_200	sulfane ... acetic acid
+2.06_080	sulfane ... dimethylether
+2.06_085	sulfane ... dimethylether
+2.06_090	sulfane ... dimethylether
+2.06_095	sulfane ... dimethylether
+2.06_100	sulfane ... dimethylether
+2.06_105	sulfane ... dimethylether
+2.06_110	sulfane ... dimethylether
+2.06_125	sulfane ... dimethylether
+2.06_150	sulfane ... dimethylether
+2.06_200	sulfane ... dimethylether
+2.07_080	sulfane ... dimethylsulfoxide
+2.07_085	sulfane ... dimethylsulfoxide
+2.07_090	sulfane ... dimethylsulfoxide
+2.07_095	sulfane ... dimethylsulfoxide
+2.07_100	sulfane ... dimethylsulfoxide
+2.07_105	sulfane ... dimethylsulfoxide
+2.07_110	sulfane ... dimethylsulfoxide
+2.07_125	sulfane ... dimethylsulfoxide
+2.07_150	sulfane ... dimethylsulfoxide
+2.07_200	sulfane ... dimethylsulfoxide
+2.08_080	sulfane ... methanol
+2.08_085	sulfane ... methanol
+2.08_090	sulfane ... methanol
+2.08_095	sulfane ... methanol
+2.08_100	sulfane ... methanol
+2.08_105	sulfane ... methanol
+2.08_110	sulfane ... methanol
+2.08_125	sulfane ... methanol
+2.08_150	sulfane ... methanol
+2.08_200	sulfane ... methanol
+2.09_080	sulfane ... N-methylacetamide
+2.09_085	sulfane ... N-methylacetamide
+2.09_090	sulfane ... N-methylacetamide
+2.09_095	sulfane ... N-methylacetamide
+2.09_100	sulfane ... N-methylacetamide
+2.09_105	sulfane ... N-methylacetamide
+2.09_110	sulfane ... N-methylacetamide
+2.09_125	sulfane ... N-methylacetamide
+2.09_150	sulfane ... N-methylacetamide
+2.09_200	sulfane ... N-methylacetamide
+2.10_080	sulfane ... phosphoryl chloride
+2.10_085	sulfane ... phosphoryl chloride
+2.10_090	sulfane ... phosphoryl chloride
+2.10_095	sulfane ... phosphoryl chloride
+2.10_100	sulfane ... phosphoryl chloride
+2.10_105	sulfane ... phosphoryl chloride
+2.10_110	sulfane ... phosphoryl chloride
+2.10_125	sulfane ... phosphoryl chloride
+2.10_150	sulfane ... phosphoryl chloride
+2.10_200	sulfane ... phosphoryl chloride
+2.11_080	sulfane ... trimethylphosphite
+2.11_085	sulfane ... trimethylphosphite
+2.11_090	sulfane ... trimethylphosphite
+2.11_095	sulfane ... trimethylphosphite
+2.11_100	sulfane ... trimethylphosphite
+2.11_105	sulfane ... trimethylphosphite
+2.11_110	sulfane ... trimethylphosphite
+2.11_125	sulfane ... trimethylphosphite
+2.11_150	sulfane ... trimethylphosphite
+2.11_200	sulfane ... trimethylphosphite
+2.12_080	hydrogenfluoride ... acetamide
+2.12_085	hydrogenfluoride ... acetamide
+2.12_090	hydrogenfluoride ... acetamide
+2.12_095	hydrogenfluoride ... acetamide
+2.12_100	hydrogenfluoride ... acetamide
+2.12_105	hydrogenfluoride ... acetamide
+2.12_110	hydrogenfluoride ... acetamide
+2.12_125	hydrogenfluoride ... acetamide
+2.12_150	hydrogenfluoride ... acetamide
+2.12_200	hydrogenfluoride ... acetamide
+2.13_080	hydrogenfluoride ... acetic acid
+2.13_085	hydrogenfluoride ... acetic acid
+2.13_090	hydrogenfluoride ... acetic acid
+2.13_095	hydrogenfluoride ... acetic acid
+2.13_100	hydrogenfluoride ... acetic acid
+2.13_105	hydrogenfluoride ... acetic acid
+2.13_110	hydrogenfluoride ... acetic acid
+2.13_125	hydrogenfluoride ... acetic acid
+2.13_150	hydrogenfluoride ... acetic acid
+2.13_200	hydrogenfluoride ... acetic acid
+2.14_080	hydrogenfluoride ... acetone
+2.14_085	hydrogenfluoride ... acetone
+2.14_090	hydrogenfluoride ... acetone
+2.14_095	hydrogenfluoride ... acetone
+2.14_100	hydrogenfluoride ... acetone
+2.14_105	hydrogenfluoride ... acetone
+2.14_110	hydrogenfluoride ... acetone
+2.14_125	hydrogenfluoride ... acetone
+2.14_150	hydrogenfluoride ... acetone
+2.14_200	hydrogenfluoride ... acetone
+2.15_080	hydrogenfluoride ... bromic acid
+2.15_085	hydrogenfluoride ... bromic acid
+2.15_090	hydrogenfluoride ... bromic acid
+2.15_095	hydrogenfluoride ... bromic acid
+2.15_100	hydrogenfluoride ... bromic acid
+2.15_105	hydrogenfluoride ... bromic acid
+2.15_110	hydrogenfluoride ... bromic acid
+2.15_125	hydrogenfluoride ... bromic acid
+2.15_150	hydrogenfluoride ... bromic acid
+2.15_200	hydrogenfluoride ... bromic acid
+2.16_080	hydrogenfluoride ... dimethylsulfone
+2.16_085	hydrogenfluoride ... dimethylsulfone
+2.16_090	hydrogenfluoride ... dimethylsulfone
+2.16_095	hydrogenfluoride ... dimethylsulfone
+2.16_100	hydrogenfluoride ... dimethylsulfone
+2.16_105	hydrogenfluoride ... dimethylsulfone
+2.16_110	hydrogenfluoride ... dimethylsulfone
+2.16_125	hydrogenfluoride ... dimethylsulfone
+2.16_150	hydrogenfluoride ... dimethylsulfone
+2.16_200	hydrogenfluoride ... dimethylsulfone
+2.17_080	hydrogenfluoride ... nitromethane
+2.17_085	hydrogenfluoride ... nitromethane
+2.17_090	hydrogenfluoride ... nitromethane
+2.17_095	hydrogenfluoride ... nitromethane
+2.17_100	hydrogenfluoride ... nitromethane
+2.17_105	hydrogenfluoride ... nitromethane
+2.17_110	hydrogenfluoride ... nitromethane
+2.17_125	hydrogenfluoride ... nitromethane
+2.17_150	hydrogenfluoride ... nitromethane
+2.17_200	hydrogenfluoride ... nitromethane
+2.18_080	hydrogenfluoride ... N-methylacetamide
+2.18_085	hydrogenfluoride ... N-methylacetamide
+2.18_090	hydrogenfluoride ... N-methylacetamide
+2.18_095	hydrogenfluoride ... N-methylacetamide
+2.18_100	hydrogenfluoride ... N-methylacetamide
+2.18_105	hydrogenfluoride ... N-methylacetamide
+2.18_110	hydrogenfluoride ... N-methylacetamide
+2.18_125	hydrogenfluoride ... N-methylacetamide
+2.18_150	hydrogenfluoride ... N-methylacetamide
+2.18_200	hydrogenfluoride ... N-methylacetamide
+2.19_080	hydrogenfluoride ... phosphoric acid
+2.19_085	hydrogenfluoride ... phosphoric acid
+2.19_090	hydrogenfluoride ... phosphoric acid
+2.19_095	hydrogenfluoride ... phosphoric acid
+2.19_100	hydrogenfluoride ... phosphoric acid
+2.19_105	hydrogenfluoride ... phosphoric acid
+2.19_110	hydrogenfluoride ... phosphoric acid
+2.19_125	hydrogenfluoride ... phosphoric acid
+2.19_150	hydrogenfluoride ... phosphoric acid
+2.19_200	hydrogenfluoride ... phosphoric acid
+2.20_080	hydrogenfluoride ... sulfur dioxide
+2.20_085	hydrogenfluoride ... sulfur dioxide
+2.20_090	hydrogenfluoride ... sulfur dioxide
+2.20_095	hydrogenfluoride ... sulfur dioxide
+2.20_100	hydrogenfluoride ... sulfur dioxide
+2.20_105	hydrogenfluoride ... sulfur dioxide
+2.20_110	hydrogenfluoride ... sulfur dioxide
+2.20_125	hydrogenfluoride ... sulfur dioxide
+2.20_150	hydrogenfluoride ... sulfur dioxide
+2.20_200	hydrogenfluoride ... sulfur dioxide
+2.21_080	hydrogenfluoride ... trimethylphosphate
+2.21_085	hydrogenfluoride ... trimethylphosphate
+2.21_090	hydrogenfluoride ... trimethylphosphate
+2.21_095	hydrogenfluoride ... trimethylphosphate
+2.21_100	hydrogenfluoride ... trimethylphosphate
+2.21_105	hydrogenfluoride ... trimethylphosphate
+2.21_110	hydrogenfluoride ... trimethylphosphate
+2.21_125	hydrogenfluoride ... trimethylphosphate
+2.21_150	hydrogenfluoride ... trimethylphosphate
+2.21_200	hydrogenfluoride ... trimethylphosphate
+2.22_080	hydrogenchloride ... acetamide
+2.22_085	hydrogenchloride ... acetamide
+2.22_090	hydrogenchloride ... acetamide
+2.22_095	hydrogenchloride ... acetamide
+2.22_100	hydrogenchloride ... acetamide
+2.22_105	hydrogenchloride ... acetamide
+2.22_110	hydrogenchloride ... acetamide
+2.22_125	hydrogenchloride ... acetamide
+2.22_150	hydrogenchloride ... acetamide
+2.22_200	hydrogenchloride ... acetamide
+2.23_080	hydrogenchloride ... dimethylether
+2.23_085	hydrogenchloride ... dimethylether
+2.23_090	hydrogenchloride ... dimethylether
+2.23_095	hydrogenchloride ... dimethylether
+2.23_100	hydrogenchloride ... dimethylether
+2.23_105	hydrogenchloride ... dimethylether
+2.23_110	hydrogenchloride ... dimethylether
+2.23_125	hydrogenchloride ... dimethylether
+2.23_150	hydrogenchloride ... dimethylether
+2.23_200	hydrogenchloride ... dimethylether
+2.24_080	hydrogenchloride ... dimethylsulfone
+2.24_085	hydrogenchloride ... dimethylsulfone
+2.24_090	hydrogenchloride ... dimethylsulfone
+2.24_095	hydrogenchloride ... dimethylsulfone
+2.24_100	hydrogenchloride ... dimethylsulfone
+2.24_105	hydrogenchloride ... dimethylsulfone
+2.24_110	hydrogenchloride ... dimethylsulfone
+2.24_125	hydrogenchloride ... dimethylsulfone
+2.24_150	hydrogenchloride ... dimethylsulfone
+2.24_200	hydrogenchloride ... dimethylsulfone
+2.25_080	hydrogenchloride ... dimethylsulfoxide
+2.25_085	hydrogenchloride ... dimethylsulfoxide
+2.25_090	hydrogenchloride ... dimethylsulfoxide
+2.25_095	hydrogenchloride ... dimethylsulfoxide
+2.25_100	hydrogenchloride ... dimethylsulfoxide
+2.25_105	hydrogenchloride ... dimethylsulfoxide
+2.25_110	hydrogenchloride ... dimethylsulfoxide
+2.25_125	hydrogenchloride ... dimethylsulfoxide
+2.25_150	hydrogenchloride ... dimethylsulfoxide
+2.25_200	hydrogenchloride ... dimethylsulfoxide
+2.26_080	hydrogenchloride ... methanol
+2.26_085	hydrogenchloride ... methanol
+2.26_090	hydrogenchloride ... methanol
+2.26_095	hydrogenchloride ... methanol
+2.26_100	hydrogenchloride ... methanol
+2.26_105	hydrogenchloride ... methanol
+2.26_110	hydrogenchloride ... methanol
+2.26_125	hydrogenchloride ... methanol
+2.26_150	hydrogenchloride ... methanol
+2.26_200	hydrogenchloride ... methanol
+2.27_080	hydrogenchloride ... phosphoric acid
+2.27_085	hydrogenchloride ... phosphoric acid
+2.27_090	hydrogenchloride ... phosphoric acid
+2.27_095	hydrogenchloride ... phosphoric acid
+2.27_100	hydrogenchloride ... phosphoric acid
+2.27_105	hydrogenchloride ... phosphoric acid
+2.27_110	hydrogenchloride ... phosphoric acid
+2.27_125	hydrogenchloride ... phosphoric acid
+2.27_150	hydrogenchloride ... phosphoric acid
+2.27_200	hydrogenchloride ... phosphoric acid
+2.28_080	hydrogenchloride ... phosphoryl chloride
+2.28_085	hydrogenchloride ... phosphoryl chloride
+2.28_090	hydrogenchloride ... phosphoryl chloride
+2.28_095	hydrogenchloride ... phosphoryl chloride
+2.28_100	hydrogenchloride ... phosphoryl chloride
+2.28_105	hydrogenchloride ... phosphoryl chloride
+2.28_110	hydrogenchloride ... phosphoryl chloride
+2.28_125	hydrogenchloride ... phosphoryl chloride
+2.28_150	hydrogenchloride ... phosphoryl chloride
+2.28_200	hydrogenchloride ... phosphoryl chloride
+2.29_080	hydrogenchloride ... sulfur dioxide
+2.29_085	hydrogenchloride ... sulfur dioxide
+2.29_090	hydrogenchloride ... sulfur dioxide
+2.29_095	hydrogenchloride ... sulfur dioxide
+2.29_100	hydrogenchloride ... sulfur dioxide
+2.29_105	hydrogenchloride ... sulfur dioxide
+2.29_110	hydrogenchloride ... sulfur dioxide
+2.29_125	hydrogenchloride ... sulfur dioxide
+2.29_150	hydrogenchloride ... sulfur dioxide
+2.29_200	hydrogenchloride ... sulfur dioxide
+2.30_080	hydrogenchloride ... trimethylphosphate
+2.30_085	hydrogenchloride ... trimethylphosphate
+2.30_090	hydrogenchloride ... trimethylphosphate
+2.30_095	hydrogenchloride ... trimethylphosphate
+2.30_100	hydrogenchloride ... trimethylphosphate
+2.30_105	hydrogenchloride ... trimethylphosphate
+2.30_110	hydrogenchloride ... trimethylphosphate
+2.30_125	hydrogenchloride ... trimethylphosphate
+2.30_150	hydrogenchloride ... trimethylphosphate
+2.30_200	hydrogenchloride ... trimethylphosphate
+2.31_080	hydrogenchloride ... water
+2.31_085	hydrogenchloride ... water
+2.31_090	hydrogenchloride ... water
+2.31_095	hydrogenchloride ... water
+2.31_100	hydrogenchloride ... water
+2.31_105	hydrogenchloride ... water
+2.31_110	hydrogenchloride ... water
+2.31_125	hydrogenchloride ... water
+2.31_150	hydrogenchloride ... water
+2.31_200	hydrogenchloride ... water
+2.32_080	hydrogenbromide ... acetone
+2.32_085	hydrogenbromide ... acetone
+2.32_090	hydrogenbromide ... acetone
+2.32_095	hydrogenbromide ... acetone
+2.32_100	hydrogenbromide ... acetone
+2.32_105	hydrogenbromide ... acetone
+2.32_110	hydrogenbromide ... acetone
+2.32_125	hydrogenbromide ... acetone
+2.32_150	hydrogenbromide ... acetone
+2.32_200	hydrogenbromide ... acetone
+2.33_080	hydrogenbromide ... chloric acid
+2.33_085	hydrogenbromide ... chloric acid
+2.33_090	hydrogenbromide ... chloric acid
+2.33_095	hydrogenbromide ... chloric acid
+2.33_100	hydrogenbromide ... chloric acid
+2.33_105	hydrogenbromide ... chloric acid
+2.33_110	hydrogenbromide ... chloric acid
+2.33_125	hydrogenbromide ... chloric acid
+2.33_150	hydrogenbromide ... chloric acid
+2.33_200	hydrogenbromide ... chloric acid
+2.34_080	hydrogenbromide ... dimethylsulfone
+2.34_085	hydrogenbromide ... dimethylsulfone
+2.34_090	hydrogenbromide ... dimethylsulfone
+2.34_095	hydrogenbromide ... dimethylsulfone
+2.34_100	hydrogenbromide ... dimethylsulfone
+2.34_105	hydrogenbromide ... dimethylsulfone
+2.34_110	hydrogenbromide ... dimethylsulfone
+2.34_125	hydrogenbromide ... dimethylsulfone
+2.34_150	hydrogenbromide ... dimethylsulfone
+2.34_200	hydrogenbromide ... dimethylsulfone
+2.35_080	hydrogenbromide ... dimethylsulfoxide
+2.35_085	hydrogenbromide ... dimethylsulfoxide
+2.35_090	hydrogenbromide ... dimethylsulfoxide
+2.35_095	hydrogenbromide ... dimethylsulfoxide
+2.35_100	hydrogenbromide ... dimethylsulfoxide
+2.35_105	hydrogenbromide ... dimethylsulfoxide
+2.35_110	hydrogenbromide ... dimethylsulfoxide
+2.35_125	hydrogenbromide ... dimethylsulfoxide
+2.35_150	hydrogenbromide ... dimethylsulfoxide
+2.35_200	hydrogenbromide ... dimethylsulfoxide
+2.36_080	hydrogenbromide ... methanol
+2.36_085	hydrogenbromide ... methanol
+2.36_090	hydrogenbromide ... methanol
+2.36_095	hydrogenbromide ... methanol
+2.36_100	hydrogenbromide ... methanol
+2.36_105	hydrogenbromide ... methanol
+2.36_110	hydrogenbromide ... methanol
+2.36_125	hydrogenbromide ... methanol
+2.36_150	hydrogenbromide ... methanol
+2.36_200	hydrogenbromide ... methanol
+2.37_080	hydrogenbromide ... N-methylacetamide
+2.37_085	hydrogenbromide ... N-methylacetamide
+2.37_090	hydrogenbromide ... N-methylacetamide
+2.37_095	hydrogenbromide ... N-methylacetamide
+2.37_100	hydrogenbromide ... N-methylacetamide
+2.37_105	hydrogenbromide ... N-methylacetamide
+2.37_110	hydrogenbromide ... N-methylacetamide
+2.37_125	hydrogenbromide ... N-methylacetamide
+2.37_150	hydrogenbromide ... N-methylacetamide
+2.37_200	hydrogenbromide ... N-methylacetamide
+2.38_080	hydrogenbromide ... phosphoric acid
+2.38_085	hydrogenbromide ... phosphoric acid
+2.38_090	hydrogenbromide ... phosphoric acid
+2.38_095	hydrogenbromide ... phosphoric acid
+2.38_100	hydrogenbromide ... phosphoric acid
+2.38_105	hydrogenbromide ... phosphoric acid
+2.38_110	hydrogenbromide ... phosphoric acid
+2.38_125	hydrogenbromide ... phosphoric acid
+2.38_150	hydrogenbromide ... phosphoric acid
+2.38_200	hydrogenbromide ... phosphoric acid
+2.39_080	hydrogenbromide ... sulfur dioxide
+2.39_085	hydrogenbromide ... sulfur dioxide
+2.39_090	hydrogenbromide ... sulfur dioxide
+2.39_095	hydrogenbromide ... sulfur dioxide
+2.39_100	hydrogenbromide ... sulfur dioxide
+2.39_105	hydrogenbromide ... sulfur dioxide
+2.39_110	hydrogenbromide ... sulfur dioxide
+2.39_125	hydrogenbromide ... sulfur dioxide
+2.39_150	hydrogenbromide ... sulfur dioxide
+2.39_200	hydrogenbromide ... sulfur dioxide
+2.40_080	hydrogenbromide ... trimethylphosphate
+2.40_085	hydrogenbromide ... trimethylphosphate
+2.40_090	hydrogenbromide ... trimethylphosphate
+2.40_095	hydrogenbromide ... trimethylphosphate
+2.40_100	hydrogenbromide ... trimethylphosphate
+2.40_105	hydrogenbromide ... trimethylphosphate
+2.40_110	hydrogenbromide ... trimethylphosphate
+2.40_125	hydrogenbromide ... trimethylphosphate
+2.40_150	hydrogenbromide ... trimethylphosphate
+2.40_200	hydrogenbromide ... trimethylphosphate
+2.41_080	hydrogenbromide ... water
+2.41_085	hydrogenbromide ... water
+2.41_090	hydrogenbromide ... water
+2.41_095	hydrogenbromide ... water
+2.41_100	hydrogenbromide ... water
+2.41_105	hydrogenbromide ... water
+2.41_110	hydrogenbromide ... water
+2.41_125	hydrogenbromide ... water
+2.41_150	hydrogenbromide ... water
+2.41_200	hydrogenbromide ... water
+2.42_080	hydrogeniodide ... acetic acid
+2.42_085	hydrogeniodide ... acetic acid
+2.42_090	hydrogeniodide ... acetic acid
+2.42_095	hydrogeniodide ... acetic acid
+2.42_100	hydrogeniodide ... acetic acid
+2.42_105	hydrogeniodide ... acetic acid
+2.42_110	hydrogeniodide ... acetic acid
+2.42_125	hydrogeniodide ... acetic acid
+2.42_150	hydrogeniodide ... acetic acid
+2.42_200	hydrogeniodide ... acetic acid
+2.43_080	hydrogeniodide ... acetone
+2.43_085	hydrogeniodide ... acetone
+2.43_090	hydrogeniodide ... acetone
+2.43_095	hydrogeniodide ... acetone
+2.43_100	hydrogeniodide ... acetone
+2.43_105	hydrogeniodide ... acetone
+2.43_110	hydrogeniodide ... acetone
+2.43_125	hydrogeniodide ... acetone
+2.43_150	hydrogeniodide ... acetone
+2.43_200	hydrogeniodide ... acetone
+2.44_080	hydrogeniodide ... bromic acid
+2.44_085	hydrogeniodide ... bromic acid
+2.44_090	hydrogeniodide ... bromic acid
+2.44_095	hydrogeniodide ... bromic acid
+2.44_100	hydrogeniodide ... bromic acid
+2.44_105	hydrogeniodide ... bromic acid
+2.44_110	hydrogeniodide ... bromic acid
+2.44_125	hydrogeniodide ... bromic acid
+2.44_150	hydrogeniodide ... bromic acid
+2.44_200	hydrogeniodide ... bromic acid
+2.45_080	hydrogeniodide ... dimethylsulfone
+2.45_085	hydrogeniodide ... dimethylsulfone
+2.45_090	hydrogeniodide ... dimethylsulfone
+2.45_095	hydrogeniodide ... dimethylsulfone
+2.45_100	hydrogeniodide ... dimethylsulfone
+2.45_105	hydrogeniodide ... dimethylsulfone
+2.45_110	hydrogeniodide ... dimethylsulfone
+2.45_125	hydrogeniodide ... dimethylsulfone
+2.45_150	hydrogeniodide ... dimethylsulfone
+2.45_200	hydrogeniodide ... dimethylsulfone
+2.46_080	hydrogeniodide ... methanol
+2.46_085	hydrogeniodide ... methanol
+2.46_090	hydrogeniodide ... methanol
+2.46_095	hydrogeniodide ... methanol
+2.46_100	hydrogeniodide ... methanol
+2.46_105	hydrogeniodide ... methanol
+2.46_110	hydrogeniodide ... methanol
+2.46_125	hydrogeniodide ... methanol
+2.46_150	hydrogeniodide ... methanol
+2.46_200	hydrogeniodide ... methanol
+2.47_080	hydrogeniodide ... N-methylacetamide
+2.47_085	hydrogeniodide ... N-methylacetamide
+2.47_090	hydrogeniodide ... N-methylacetamide
+2.47_095	hydrogeniodide ... N-methylacetamide
+2.47_100	hydrogeniodide ... N-methylacetamide
+2.47_105	hydrogeniodide ... N-methylacetamide
+2.47_110	hydrogeniodide ... N-methylacetamide
+2.47_125	hydrogeniodide ... N-methylacetamide
+2.47_150	hydrogeniodide ... N-methylacetamide
+2.47_200	hydrogeniodide ... N-methylacetamide
+2.48_080	hydrogeniodide ... phosphoryl chloride
+2.48_085	hydrogeniodide ... phosphoryl chloride
+2.48_090	hydrogeniodide ... phosphoryl chloride
+2.48_095	hydrogeniodide ... phosphoryl chloride
+2.48_100	hydrogeniodide ... phosphoryl chloride
+2.48_105	hydrogeniodide ... phosphoryl chloride
+2.48_110	hydrogeniodide ... phosphoryl chloride
+2.48_125	hydrogeniodide ... phosphoryl chloride
+2.48_150	hydrogeniodide ... phosphoryl chloride
+2.48_200	hydrogeniodide ... phosphoryl chloride
+2.49_080	hydrogeniodide ... trimethylphosphate
+2.49_085	hydrogeniodide ... trimethylphosphate
+2.49_090	hydrogeniodide ... trimethylphosphate
+2.49_095	hydrogeniodide ... trimethylphosphate
+2.49_100	hydrogeniodide ... trimethylphosphate
+2.49_105	hydrogeniodide ... trimethylphosphate
+2.49_110	hydrogeniodide ... trimethylphosphate
+2.49_125	hydrogeniodide ... trimethylphosphate
+2.49_150	hydrogeniodide ... trimethylphosphate
+2.49_200	hydrogeniodide ... trimethylphosphate
+2.50_080	hydrogeniodide ... trimethylphosphite
+2.50_085	hydrogeniodide ... trimethylphosphite
+2.50_090	hydrogeniodide ... trimethylphosphite
+2.50_095	hydrogeniodide ... trimethylphosphite
+2.50_100	hydrogeniodide ... trimethylphosphite
+2.50_105	hydrogeniodide ... trimethylphosphite
+2.50_110	hydrogeniodide ... trimethylphosphite
+2.50_125	hydrogeniodide ... trimethylphosphite
+2.50_150	hydrogeniodide ... trimethylphosphite
+2.50_200	hydrogeniodide ... trimethylphosphite
+2.51_080	hydrogeniodide ... water
+2.51_085	hydrogeniodide ... water
+2.51_090	hydrogeniodide ... water
+2.51_095	hydrogeniodide ... water
+2.51_100	hydrogeniodide ... water
+2.51_105	hydrogeniodide ... water
+2.51_110	hydrogeniodide ... water
+2.51_125	hydrogeniodide ... water
+2.51_150	hydrogeniodide ... water
+2.51_200	hydrogeniodide ... water
+3.01_080	ethyne ... phosphaalkene
+3.01_085	ethyne ... phosphaalkene
+3.01_090	ethyne ... phosphaalkene
+3.01_095	ethyne ... phosphaalkene
+3.01_100	ethyne ... phosphaalkene
+3.01_105	ethyne ... phosphaalkene
+3.01_110	ethyne ... phosphaalkene
+3.01_125	ethyne ... phosphaalkene
+3.01_150	ethyne ... phosphaalkene
+3.01_200	ethyne ... phosphaalkene
+3.02_080	ethyne ... phosphine
+3.02_085	ethyne ... phosphine
+3.02_090	ethyne ... phosphine
+3.02_095	ethyne ... phosphine
+3.02_100	ethyne ... phosphine
+3.02_105	ethyne ... phosphine
+3.02_110	ethyne ... phosphine
+3.02_125	ethyne ... phosphine
+3.02_150	ethyne ... phosphine
+3.02_200	ethyne ... phosphine
+3.03_080	ethyne ... phosphorine
+3.03_085	ethyne ... phosphorine
+3.03_090	ethyne ... phosphorine
+3.03_095	ethyne ... phosphorine
+3.03_100	ethyne ... phosphorine
+3.03_105	ethyne ... phosphorine
+3.03_110	ethyne ... phosphorine
+3.03_125	ethyne ... phosphorine
+3.03_150	ethyne ... phosphorine
+3.03_200	ethyne ... phosphorine
+3.04_080	ethyne ... trimethylphosphine
+3.04_085	ethyne ... trimethylphosphine
+3.04_090	ethyne ... trimethylphosphine
+3.04_095	ethyne ... trimethylphosphine
+3.04_100	ethyne ... trimethylphosphine
+3.04_105	ethyne ... trimethylphosphine
+3.04_110	ethyne ... trimethylphosphine
+3.04_125	ethyne ... trimethylphosphine
+3.04_150	ethyne ... trimethylphosphine
+3.04_200	ethyne ... trimethylphosphine
+3.05_080	ethyne ... trimethylphosphite
+3.05_085	ethyne ... trimethylphosphite
+3.05_090	ethyne ... trimethylphosphite
+3.05_095	ethyne ... trimethylphosphite
+3.05_100	ethyne ... trimethylphosphite
+3.05_105	ethyne ... trimethylphosphite
+3.05_110	ethyne ... trimethylphosphite
+3.05_125	ethyne ... trimethylphosphite
+3.05_150	ethyne ... trimethylphosphite
+3.05_200	ethyne ... trimethylphosphite
+3.06_080	ammonia ... phosphaalkene
+3.06_085	ammonia ... phosphaalkene
+3.06_090	ammonia ... phosphaalkene
+3.06_095	ammonia ... phosphaalkene
+3.06_100	ammonia ... phosphaalkene
+3.06_105	ammonia ... phosphaalkene
+3.06_110	ammonia ... phosphaalkene
+3.06_125	ammonia ... phosphaalkene
+3.06_150	ammonia ... phosphaalkene
+3.06_200	ammonia ... phosphaalkene
+3.07_080	ammonia ... trimethylphosphine
+3.07_085	ammonia ... trimethylphosphine
+3.07_090	ammonia ... trimethylphosphine
+3.07_095	ammonia ... trimethylphosphine
+3.07_100	ammonia ... trimethylphosphine
+3.07_105	ammonia ... trimethylphosphine
+3.07_110	ammonia ... trimethylphosphine
+3.07_125	ammonia ... trimethylphosphine
+3.07_150	ammonia ... trimethylphosphine
+3.07_200	ammonia ... trimethylphosphine
+3.08_080	ammonia ... trimethylphosphite
+3.08_085	ammonia ... trimethylphosphite
+3.08_090	ammonia ... trimethylphosphite
+3.08_095	ammonia ... trimethylphosphite
+3.08_100	ammonia ... trimethylphosphite
+3.08_105	ammonia ... trimethylphosphite
+3.08_110	ammonia ... trimethylphosphite
+3.08_125	ammonia ... trimethylphosphite
+3.08_150	ammonia ... trimethylphosphite
+3.08_200	ammonia ... trimethylphosphite
+3.09_080	methylamine ... trimethylphosphine
+3.09_085	methylamine ... trimethylphosphine
+3.09_090	methylamine ... trimethylphosphine
+3.09_095	methylamine ... trimethylphosphine
+3.09_100	methylamine ... trimethylphosphine
+3.09_105	methylamine ... trimethylphosphine
+3.09_110	methylamine ... trimethylphosphine
+3.09_125	methylamine ... trimethylphosphine
+3.09_150	methylamine ... trimethylphosphine
+3.09_200	methylamine ... trimethylphosphine
+3.10_080	N-methylacetamide ... phosphaalkene
+3.10_085	N-methylacetamide ... phosphaalkene
+3.10_090	N-methylacetamide ... phosphaalkene
+3.10_095	N-methylacetamide ... phosphaalkene
+3.10_100	N-methylacetamide ... phosphaalkene
+3.10_105	N-methylacetamide ... phosphaalkene
+3.10_110	N-methylacetamide ... phosphaalkene
+3.10_125	N-methylacetamide ... phosphaalkene
+3.10_150	N-methylacetamide ... phosphaalkene
+3.10_200	N-methylacetamide ... phosphaalkene
+3.11_080	N-methylacetamide ... phosphaalkyne
+3.11_085	N-methylacetamide ... phosphaalkyne
+3.11_090	N-methylacetamide ... phosphaalkyne
+3.11_095	N-methylacetamide ... phosphaalkyne
+3.11_100	N-methylacetamide ... phosphaalkyne
+3.11_105	N-methylacetamide ... phosphaalkyne
+3.11_110	N-methylacetamide ... phosphaalkyne
+3.11_125	N-methylacetamide ... phosphaalkyne
+3.11_150	N-methylacetamide ... phosphaalkyne
+3.11_200	N-methylacetamide ... phosphaalkyne
+3.12_080	N-methylacetamide ... phosphine
+3.12_085	N-methylacetamide ... phosphine
+3.12_090	N-methylacetamide ... phosphine
+3.12_095	N-methylacetamide ... phosphine
+3.12_100	N-methylacetamide ... phosphine
+3.12_105	N-methylacetamide ... phosphine
+3.12_110	N-methylacetamide ... phosphine
+3.12_125	N-methylacetamide ... phosphine
+3.12_150	N-methylacetamide ... phosphine
+3.12_200	N-methylacetamide ... phosphine
+3.13_080	N-methylacetamide ... trimethylphosphite
+3.13_085	N-methylacetamide ... trimethylphosphite
+3.13_090	N-methylacetamide ... trimethylphosphite
+3.13_095	N-methylacetamide ... trimethylphosphite
+3.13_100	N-methylacetamide ... trimethylphosphite
+3.13_105	N-methylacetamide ... trimethylphosphite
+3.13_110	N-methylacetamide ... trimethylphosphite
+3.13_125	N-methylacetamide ... trimethylphosphite
+3.13_150	N-methylacetamide ... trimethylphosphite
+3.13_200	N-methylacetamide ... trimethylphosphite
+3.14_080	acetic acid ... phosphine
+3.14_085	acetic acid ... phosphine
+3.14_090	acetic acid ... phosphine
+3.14_095	acetic acid ... phosphine
+3.14_100	acetic acid ... phosphine
+3.14_105	acetic acid ... phosphine
+3.14_110	acetic acid ... phosphine
+3.14_125	acetic acid ... phosphine
+3.14_150	acetic acid ... phosphine
+3.14_200	acetic acid ... phosphine
+3.15_080	methanol ... phosphaalkyne
+3.15_085	methanol ... phosphaalkyne
+3.15_090	methanol ... phosphaalkyne
+3.15_095	methanol ... phosphaalkyne
+3.15_100	methanol ... phosphaalkyne
+3.15_105	methanol ... phosphaalkyne
+3.15_110	methanol ... phosphaalkyne
+3.15_125	methanol ... phosphaalkyne
+3.15_150	methanol ... phosphaalkyne
+3.15_200	methanol ... phosphaalkyne
+3.16_080	methanol ... phosphorine
+3.16_085	methanol ... phosphorine
+3.16_090	methanol ... phosphorine
+3.16_095	methanol ... phosphorine
+3.16_100	methanol ... phosphorine
+3.16_105	methanol ... phosphorine
+3.16_110	methanol ... phosphorine
+3.16_125	methanol ... phosphorine
+3.16_150	methanol ... phosphorine
+3.16_200	methanol ... phosphorine
+3.17_080	methanol ... trimethylphosphite
+3.17_085	methanol ... trimethylphosphite
+3.17_090	methanol ... trimethylphosphite
+3.17_095	methanol ... trimethylphosphite
+3.17_100	methanol ... trimethylphosphite
+3.17_105	methanol ... trimethylphosphite
+3.17_110	methanol ... trimethylphosphite
+3.17_125	methanol ... trimethylphosphite
+3.17_150	methanol ... trimethylphosphite
+3.17_200	methanol ... trimethylphosphite
+3.18_080	acetic acid ... phosphorus
+3.18_085	acetic acid ... phosphorus
+3.18_090	acetic acid ... phosphorus
+3.18_095	acetic acid ... phosphorus
+3.18_100	acetic acid ... phosphorus
+3.18_105	acetic acid ... phosphorus
+3.18_110	acetic acid ... phosphorus
+3.18_125	acetic acid ... phosphorus
+3.18_150	acetic acid ... phosphorus
+3.18_200	acetic acid ... phosphorus
+3.19_080	methanol ... phosphorus
+3.19_085	methanol ... phosphorus
+3.19_090	methanol ... phosphorus
+3.19_095	methanol ... phosphorus
+3.19_100	methanol ... phosphorus
+3.19_105	methanol ... phosphorus
+3.19_110	methanol ... phosphorus
+3.19_125	methanol ... phosphorus
+3.19_150	methanol ... phosphorus
+3.19_200	methanol ... phosphorus
+3.20_080	water ... phosphorus
+3.20_085	water ... phosphorus
+3.20_090	water ... phosphorus
+3.20_095	water ... phosphorus
+3.20_100	water ... phosphorus
+3.20_105	water ... phosphorus
+3.20_110	water ... phosphorus
+3.20_125	water ... phosphorus
+3.20_150	water ... phosphorus
+3.20_200	water ... phosphorus
+3.21_080	difluorophosphine ... phosphorus
+3.21_085	difluorophosphine ... phosphorus
+3.21_090	difluorophosphine ... phosphorus
+3.21_095	difluorophosphine ... phosphorus
+3.21_100	difluorophosphine ... phosphorus
+3.21_105	difluorophosphine ... phosphorus
+3.21_110	difluorophosphine ... phosphorus
+3.21_125	difluorophosphine ... phosphorus
+3.21_150	difluorophosphine ... phosphorus
+3.21_200	difluorophosphine ... phosphorus
+3.22_080	methanethiol ... phosphorine
+3.22_085	methanethiol ... phosphorine
+3.22_090	methanethiol ... phosphorine
+3.22_095	methanethiol ... phosphorine
+3.22_100	methanethiol ... phosphorine
+3.22_105	methanethiol ... phosphorine
+3.22_110	methanethiol ... phosphorine
+3.22_125	methanethiol ... phosphorine
+3.22_150	methanethiol ... phosphorine
+3.22_200	methanethiol ... phosphorine
+3.23_080	methanethiol ... trimethylphosphine
+3.23_085	methanethiol ... trimethylphosphine
+3.23_090	methanethiol ... trimethylphosphine
+3.23_095	methanethiol ... trimethylphosphine
+3.23_100	methanethiol ... trimethylphosphine
+3.23_105	methanethiol ... trimethylphosphine
+3.23_110	methanethiol ... trimethylphosphine
+3.23_125	methanethiol ... trimethylphosphine
+3.23_150	methanethiol ... trimethylphosphine
+3.23_200	methanethiol ... trimethylphosphine
+3.24_080	sulfane ... phosphaalkyne
+3.24_085	sulfane ... phosphaalkyne
+3.24_090	sulfane ... phosphaalkyne
+3.24_095	sulfane ... phosphaalkyne
+3.24_100	sulfane ... phosphaalkyne
+3.24_105	sulfane ... phosphaalkyne
+3.24_110	sulfane ... phosphaalkyne
+3.24_125	sulfane ... phosphaalkyne
+3.24_150	sulfane ... phosphaalkyne
+3.24_200	sulfane ... phosphaalkyne
+3.25_080	sulfane ... phosphine
+3.25_085	sulfane ... phosphine
+3.25_090	sulfane ... phosphine
+3.25_095	sulfane ... phosphine
+3.25_100	sulfane ... phosphine
+3.25_105	sulfane ... phosphine
+3.25_110	sulfane ... phosphine
+3.25_125	sulfane ... phosphine
+3.25_150	sulfane ... phosphine
+3.25_200	sulfane ... phosphine
+3.26_080	sulfane ... phosphorine
+3.26_085	sulfane ... phosphorine
+3.26_090	sulfane ... phosphorine
+3.26_095	sulfane ... phosphorine
+3.26_100	sulfane ... phosphorine
+3.26_105	sulfane ... phosphorine
+3.26_110	sulfane ... phosphorine
+3.26_125	sulfane ... phosphorine
+3.26_150	sulfane ... phosphorine
+3.26_200	sulfane ... phosphorine
+3.27_080	sulfane ... trimethylphosphine
+3.27_085	sulfane ... trimethylphosphine
+3.27_090	sulfane ... trimethylphosphine
+3.27_095	sulfane ... trimethylphosphine
+3.27_100	sulfane ... trimethylphosphine
+3.27_105	sulfane ... trimethylphosphine
+3.27_110	sulfane ... trimethylphosphine
+3.27_125	sulfane ... trimethylphosphine
+3.27_150	sulfane ... trimethylphosphine
+3.27_200	sulfane ... trimethylphosphine
+3.28_080	hydrogenfluoride ... phosphaalkene
+3.28_085	hydrogenfluoride ... phosphaalkene
+3.28_090	hydrogenfluoride ... phosphaalkene
+3.28_095	hydrogenfluoride ... phosphaalkene
+3.28_100	hydrogenfluoride ... phosphaalkene
+3.28_105	hydrogenfluoride ... phosphaalkene
+3.28_110	hydrogenfluoride ... phosphaalkene
+3.28_125	hydrogenfluoride ... phosphaalkene
+3.28_150	hydrogenfluoride ... phosphaalkene
+3.28_200	hydrogenfluoride ... phosphaalkene
+3.29_080	hydrogenfluoride ... phosphaalkyne
+3.29_085	hydrogenfluoride ... phosphaalkyne
+3.29_090	hydrogenfluoride ... phosphaalkyne
+3.29_095	hydrogenfluoride ... phosphaalkyne
+3.29_100	hydrogenfluoride ... phosphaalkyne
+3.29_105	hydrogenfluoride ... phosphaalkyne
+3.29_110	hydrogenfluoride ... phosphaalkyne
+3.29_125	hydrogenfluoride ... phosphaalkyne
+3.29_150	hydrogenfluoride ... phosphaalkyne
+3.29_200	hydrogenfluoride ... phosphaalkyne
+3.30_080	hydrogenfluoride ... phosphine
+3.30_085	hydrogenfluoride ... phosphine
+3.30_090	hydrogenfluoride ... phosphine
+3.30_095	hydrogenfluoride ... phosphine
+3.30_100	hydrogenfluoride ... phosphine
+3.30_105	hydrogenfluoride ... phosphine
+3.30_110	hydrogenfluoride ... phosphine
+3.30_125	hydrogenfluoride ... phosphine
+3.30_150	hydrogenfluoride ... phosphine
+3.30_200	hydrogenfluoride ... phosphine
+3.31_080	hydrogenfluoride ... phosphorine
+3.31_085	hydrogenfluoride ... phosphorine
+3.31_090	hydrogenfluoride ... phosphorine
+3.31_095	hydrogenfluoride ... phosphorine
+3.31_100	hydrogenfluoride ... phosphorine
+3.31_105	hydrogenfluoride ... phosphorine
+3.31_110	hydrogenfluoride ... phosphorine
+3.31_125	hydrogenfluoride ... phosphorine
+3.31_150	hydrogenfluoride ... phosphorine
+3.31_200	hydrogenfluoride ... phosphorine
+3.32_080	hydrogenfluoride ... trimethylphosphine
+3.32_085	hydrogenfluoride ... trimethylphosphine
+3.32_090	hydrogenfluoride ... trimethylphosphine
+3.32_095	hydrogenfluoride ... trimethylphosphine
+3.32_100	hydrogenfluoride ... trimethylphosphine
+3.32_105	hydrogenfluoride ... trimethylphosphine
+3.32_110	hydrogenfluoride ... trimethylphosphine
+3.32_125	hydrogenfluoride ... trimethylphosphine
+3.32_150	hydrogenfluoride ... trimethylphosphine
+3.32_200	hydrogenfluoride ... trimethylphosphine
+3.33_080	hydrogenfluoride ... trimethylphosphite
+3.33_085	hydrogenfluoride ... trimethylphosphite
+3.33_090	hydrogenfluoride ... trimethylphosphite
+3.33_095	hydrogenfluoride ... trimethylphosphite
+3.33_100	hydrogenfluoride ... trimethylphosphite
+3.33_105	hydrogenfluoride ... trimethylphosphite
+3.33_110	hydrogenfluoride ... trimethylphosphite
+3.33_125	hydrogenfluoride ... trimethylphosphite
+3.33_150	hydrogenfluoride ... trimethylphosphite
+3.33_200	hydrogenfluoride ... trimethylphosphite
+3.34_080	hydrogenchloride ... phosphaalkene
+3.34_085	hydrogenchloride ... phosphaalkene
+3.34_090	hydrogenchloride ... phosphaalkene
+3.34_095	hydrogenchloride ... phosphaalkene
+3.34_100	hydrogenchloride ... phosphaalkene
+3.34_105	hydrogenchloride ... phosphaalkene
+3.34_110	hydrogenchloride ... phosphaalkene
+3.34_125	hydrogenchloride ... phosphaalkene
+3.34_150	hydrogenchloride ... phosphaalkene
+3.34_200	hydrogenchloride ... phosphaalkene
+3.35_080	hydrogenchloride ... phosphaalkyne
+3.35_085	hydrogenchloride ... phosphaalkyne
+3.35_090	hydrogenchloride ... phosphaalkyne
+3.35_095	hydrogenchloride ... phosphaalkyne
+3.35_100	hydrogenchloride ... phosphaalkyne
+3.35_105	hydrogenchloride ... phosphaalkyne
+3.35_110	hydrogenchloride ... phosphaalkyne
+3.35_125	hydrogenchloride ... phosphaalkyne
+3.35_150	hydrogenchloride ... phosphaalkyne
+3.35_200	hydrogenchloride ... phosphaalkyne
+3.36_080	hydrogenchloride ... phosphine
+3.36_085	hydrogenchloride ... phosphine
+3.36_090	hydrogenchloride ... phosphine
+3.36_095	hydrogenchloride ... phosphine
+3.36_100	hydrogenchloride ... phosphine
+3.36_105	hydrogenchloride ... phosphine
+3.36_110	hydrogenchloride ... phosphine
+3.36_125	hydrogenchloride ... phosphine
+3.36_150	hydrogenchloride ... phosphine
+3.36_200	hydrogenchloride ... phosphine
+3.37_080	hydrogenchloride ... phosphorine
+3.37_085	hydrogenchloride ... phosphorine
+3.37_090	hydrogenchloride ... phosphorine
+3.37_095	hydrogenchloride ... phosphorine
+3.37_100	hydrogenchloride ... phosphorine
+3.37_105	hydrogenchloride ... phosphorine
+3.37_110	hydrogenchloride ... phosphorine
+3.37_125	hydrogenchloride ... phosphorine
+3.37_150	hydrogenchloride ... phosphorine
+3.37_200	hydrogenchloride ... phosphorine
+3.38_080	hydrogenchloride ... trimethylphosphine
+3.38_085	hydrogenchloride ... trimethylphosphine
+3.38_090	hydrogenchloride ... trimethylphosphine
+3.38_095	hydrogenchloride ... trimethylphosphine
+3.38_100	hydrogenchloride ... trimethylphosphine
+3.38_105	hydrogenchloride ... trimethylphosphine
+3.38_110	hydrogenchloride ... trimethylphosphine
+3.38_125	hydrogenchloride ... trimethylphosphine
+3.38_150	hydrogenchloride ... trimethylphosphine
+3.38_200	hydrogenchloride ... trimethylphosphine
+3.39_080	hydrogenchloride ... trimethylphosphite
+3.39_085	hydrogenchloride ... trimethylphosphite
+3.39_090	hydrogenchloride ... trimethylphosphite
+3.39_095	hydrogenchloride ... trimethylphosphite
+3.39_100	hydrogenchloride ... trimethylphosphite
+3.39_105	hydrogenchloride ... trimethylphosphite
+3.39_110	hydrogenchloride ... trimethylphosphite
+3.39_125	hydrogenchloride ... trimethylphosphite
+3.39_150	hydrogenchloride ... trimethylphosphite
+3.39_200	hydrogenchloride ... trimethylphosphite
+3.40_080	hydrogenchloride ... phosphorus
+3.40_085	hydrogenchloride ... phosphorus
+3.40_090	hydrogenchloride ... phosphorus
+3.40_095	hydrogenchloride ... phosphorus
+3.40_100	hydrogenchloride ... phosphorus
+3.40_105	hydrogenchloride ... phosphorus
+3.40_110	hydrogenchloride ... phosphorus
+3.40_125	hydrogenchloride ... phosphorus
+3.40_150	hydrogenchloride ... phosphorus
+3.40_200	hydrogenchloride ... phosphorus
+3.41_080	hydrogenbromide ... phosphaalkene
+3.41_085	hydrogenbromide ... phosphaalkene
+3.41_090	hydrogenbromide ... phosphaalkene
+3.41_095	hydrogenbromide ... phosphaalkene
+3.41_100	hydrogenbromide ... phosphaalkene
+3.41_105	hydrogenbromide ... phosphaalkene
+3.41_110	hydrogenbromide ... phosphaalkene
+3.41_125	hydrogenbromide ... phosphaalkene
+3.41_150	hydrogenbromide ... phosphaalkene
+3.41_200	hydrogenbromide ... phosphaalkene
+3.42_080	hydrogenbromide ... phosphaalkyne
+3.42_085	hydrogenbromide ... phosphaalkyne
+3.42_090	hydrogenbromide ... phosphaalkyne
+3.42_095	hydrogenbromide ... phosphaalkyne
+3.42_100	hydrogenbromide ... phosphaalkyne
+3.42_105	hydrogenbromide ... phosphaalkyne
+3.42_110	hydrogenbromide ... phosphaalkyne
+3.42_125	hydrogenbromide ... phosphaalkyne
+3.42_150	hydrogenbromide ... phosphaalkyne
+3.42_200	hydrogenbromide ... phosphaalkyne
+3.43_080	hydrogenbromide ... phosphine
+3.43_085	hydrogenbromide ... phosphine
+3.43_090	hydrogenbromide ... phosphine
+3.43_095	hydrogenbromide ... phosphine
+3.43_100	hydrogenbromide ... phosphine
+3.43_105	hydrogenbromide ... phosphine
+3.43_110	hydrogenbromide ... phosphine
+3.43_125	hydrogenbromide ... phosphine
+3.43_150	hydrogenbromide ... phosphine
+3.43_200	hydrogenbromide ... phosphine
+3.44_080	hydrogenbromide ... phosphorine
+3.44_085	hydrogenbromide ... phosphorine
+3.44_090	hydrogenbromide ... phosphorine
+3.44_095	hydrogenbromide ... phosphorine
+3.44_100	hydrogenbromide ... phosphorine
+3.44_105	hydrogenbromide ... phosphorine
+3.44_110	hydrogenbromide ... phosphorine
+3.44_125	hydrogenbromide ... phosphorine
+3.44_150	hydrogenbromide ... phosphorine
+3.44_200	hydrogenbromide ... phosphorine
+3.45_080	hydrogenbromide ... trimethylphosphine
+3.45_085	hydrogenbromide ... trimethylphosphine
+3.45_090	hydrogenbromide ... trimethylphosphine
+3.45_095	hydrogenbromide ... trimethylphosphine
+3.45_100	hydrogenbromide ... trimethylphosphine
+3.45_105	hydrogenbromide ... trimethylphosphine
+3.45_110	hydrogenbromide ... trimethylphosphine
+3.45_125	hydrogenbromide ... trimethylphosphine
+3.45_150	hydrogenbromide ... trimethylphosphine
+3.45_200	hydrogenbromide ... trimethylphosphine
+3.46_080	hydrogenbromide ... trimethylphosphite
+3.46_085	hydrogenbromide ... trimethylphosphite
+3.46_090	hydrogenbromide ... trimethylphosphite
+3.46_095	hydrogenbromide ... trimethylphosphite
+3.46_100	hydrogenbromide ... trimethylphosphite
+3.46_105	hydrogenbromide ... trimethylphosphite
+3.46_110	hydrogenbromide ... trimethylphosphite
+3.46_125	hydrogenbromide ... trimethylphosphite
+3.46_150	hydrogenbromide ... trimethylphosphite
+3.46_200	hydrogenbromide ... trimethylphosphite
+3.47_080	hydrogenbromide ... phosphorus
+3.47_085	hydrogenbromide ... phosphorus
+3.47_090	hydrogenbromide ... phosphorus
+3.47_095	hydrogenbromide ... phosphorus
+3.47_100	hydrogenbromide ... phosphorus
+3.47_105	hydrogenbromide ... phosphorus
+3.47_110	hydrogenbromide ... phosphorus
+3.47_125	hydrogenbromide ... phosphorus
+3.47_150	hydrogenbromide ... phosphorus
+3.47_200	hydrogenbromide ... phosphorus
+3.48_080	hydrogeniodide ... phosphaalkene
+3.48_085	hydrogeniodide ... phosphaalkene
+3.48_090	hydrogeniodide ... phosphaalkene
+3.48_095	hydrogeniodide ... phosphaalkene
+3.48_100	hydrogeniodide ... phosphaalkene
+3.48_105	hydrogeniodide ... phosphaalkene
+3.48_110	hydrogeniodide ... phosphaalkene
+3.48_125	hydrogeniodide ... phosphaalkene
+3.48_150	hydrogeniodide ... phosphaalkene
+3.48_200	hydrogeniodide ... phosphaalkene
+3.49_080	hydrogeniodide ... phosphaalkyne
+3.49_085	hydrogeniodide ... phosphaalkyne
+3.49_090	hydrogeniodide ... phosphaalkyne
+3.49_095	hydrogeniodide ... phosphaalkyne
+3.49_100	hydrogeniodide ... phosphaalkyne
+3.49_105	hydrogeniodide ... phosphaalkyne
+3.49_110	hydrogeniodide ... phosphaalkyne
+3.49_125	hydrogeniodide ... phosphaalkyne
+3.49_150	hydrogeniodide ... phosphaalkyne
+3.49_200	hydrogeniodide ... phosphaalkyne
+3.50_080	hydrogeniodide ... phosphine
+3.50_085	hydrogeniodide ... phosphine
+3.50_090	hydrogeniodide ... phosphine
+3.50_095	hydrogeniodide ... phosphine
+3.50_100	hydrogeniodide ... phosphine
+3.50_105	hydrogeniodide ... phosphine
+3.50_110	hydrogeniodide ... phosphine
+3.50_125	hydrogeniodide ... phosphine
+3.50_150	hydrogeniodide ... phosphine
+3.50_200	hydrogeniodide ... phosphine
+3.51_080	hydrogeniodide ... phosphorine
+3.51_085	hydrogeniodide ... phosphorine
+3.51_090	hydrogeniodide ... phosphorine
+3.51_095	hydrogeniodide ... phosphorine
+3.51_100	hydrogeniodide ... phosphorine
+3.51_105	hydrogeniodide ... phosphorine
+3.51_110	hydrogeniodide ... phosphorine
+3.51_125	hydrogeniodide ... phosphorine
+3.51_150	hydrogeniodide ... phosphorine
+3.51_200	hydrogeniodide ... phosphorine
+3.52_080	hydrogeniodide ... phosphorus
+3.52_085	hydrogeniodide ... phosphorus
+3.52_090	hydrogeniodide ... phosphorus
+3.52_095	hydrogeniodide ... phosphorus
+3.52_100	hydrogeniodide ... phosphorus
+3.52_105	hydrogeniodide ... phosphorus
+3.52_110	hydrogeniodide ... phosphorus
+3.52_125	hydrogeniodide ... phosphorus
+3.52_150	hydrogeniodide ... phosphorus
+3.52_200	hydrogeniodide ... phosphorus
+4.01_080	ethyne ... dimethylsulfide
+4.01_085	ethyne ... dimethylsulfide
+4.01_090	ethyne ... dimethylsulfide
+4.01_095	ethyne ... dimethylsulfide
+4.01_100	ethyne ... dimethylsulfide
+4.01_105	ethyne ... dimethylsulfide
+4.01_110	ethyne ... dimethylsulfide
+4.01_125	ethyne ... dimethylsulfide
+4.01_150	ethyne ... dimethylsulfide
+4.01_200	ethyne ... dimethylsulfide
+4.02_080	ethyne ... methanethiol
+4.02_085	ethyne ... methanethiol
+4.02_090	ethyne ... methanethiol
+4.02_095	ethyne ... methanethiol
+4.02_100	ethyne ... methanethiol
+4.02_105	ethyne ... methanethiol
+4.02_110	ethyne ... methanethiol
+4.02_125	ethyne ... methanethiol
+4.02_150	ethyne ... methanethiol
+4.02_200	ethyne ... methanethiol
+4.03_080	ethyne ... sulfane
+4.03_085	ethyne ... sulfane
+4.03_090	ethyne ... sulfane
+4.03_095	ethyne ... sulfane
+4.03_100	ethyne ... sulfane
+4.03_105	ethyne ... sulfane
+4.03_110	ethyne ... sulfane
+4.03_125	ethyne ... sulfane
+4.03_150	ethyne ... sulfane
+4.03_200	ethyne ... sulfane
+4.04_080	ethyne ... tetrahydrothiophene
+4.04_085	ethyne ... tetrahydrothiophene
+4.04_090	ethyne ... tetrahydrothiophene
+4.04_095	ethyne ... tetrahydrothiophene
+4.04_100	ethyne ... tetrahydrothiophene
+4.04_105	ethyne ... tetrahydrothiophene
+4.04_110	ethyne ... tetrahydrothiophene
+4.04_125	ethyne ... tetrahydrothiophene
+4.04_150	ethyne ... tetrahydrothiophene
+4.04_200	ethyne ... tetrahydrothiophene
+4.05_080	ethyne ... thioacetone
+4.05_085	ethyne ... thioacetone
+4.05_090	ethyne ... thioacetone
+4.05_095	ethyne ... thioacetone
+4.05_100	ethyne ... thioacetone
+4.05_105	ethyne ... thioacetone
+4.05_110	ethyne ... thioacetone
+4.05_125	ethyne ... thioacetone
+4.05_150	ethyne ... thioacetone
+4.05_200	ethyne ... thioacetone
+4.06_080	methanethiol ... thioacetone
+4.06_085	methanethiol ... thioacetone
+4.06_090	methanethiol ... thioacetone
+4.06_095	methanethiol ... thioacetone
+4.06_100	methanethiol ... thioacetone
+4.06_105	methanethiol ... thioacetone
+4.06_110	methanethiol ... thioacetone
+4.06_125	methanethiol ... thioacetone
+4.06_150	methanethiol ... thioacetone
+4.06_200	methanethiol ... thioacetone
+4.07_080	phosphaalkyne ... methanethiol
+4.07_085	phosphaalkyne ... methanethiol
+4.07_090	phosphaalkyne ... methanethiol
+4.07_095	phosphaalkyne ... methanethiol
+4.07_100	phosphaalkyne ... methanethiol
+4.07_105	phosphaalkyne ... methanethiol
+4.07_110	phosphaalkyne ... methanethiol
+4.07_125	phosphaalkyne ... methanethiol
+4.07_150	phosphaalkyne ... methanethiol
+4.07_200	phosphaalkyne ... methanethiol
+4.08_080	ammonia ... dimethylsulfide
+4.08_085	ammonia ... dimethylsulfide
+4.08_090	ammonia ... dimethylsulfide
+4.08_095	ammonia ... dimethylsulfide
+4.08_100	ammonia ... dimethylsulfide
+4.08_105	ammonia ... dimethylsulfide
+4.08_110	ammonia ... dimethylsulfide
+4.08_125	ammonia ... dimethylsulfide
+4.08_150	ammonia ... dimethylsulfide
+4.08_200	ammonia ... dimethylsulfide
+4.09_080	ammonia ... tetrahydrothiophene
+4.09_085	ammonia ... tetrahydrothiophene
+4.09_090	ammonia ... tetrahydrothiophene
+4.09_095	ammonia ... tetrahydrothiophene
+4.09_100	ammonia ... tetrahydrothiophene
+4.09_105	ammonia ... tetrahydrothiophene
+4.09_110	ammonia ... tetrahydrothiophene
+4.09_125	ammonia ... tetrahydrothiophene
+4.09_150	ammonia ... tetrahydrothiophene
+4.09_200	ammonia ... tetrahydrothiophene
+4.10_080	methylamine ... dimethyldisulfide
+4.10_085	methylamine ... dimethyldisulfide
+4.10_090	methylamine ... dimethyldisulfide
+4.10_095	methylamine ... dimethyldisulfide
+4.10_100	methylamine ... dimethyldisulfide
+4.10_105	methylamine ... dimethyldisulfide
+4.10_110	methylamine ... dimethyldisulfide
+4.10_125	methylamine ... dimethyldisulfide
+4.10_150	methylamine ... dimethyldisulfide
+4.10_200	methylamine ... dimethyldisulfide
+4.11_080	methylamine ... dimethylsulfide
+4.11_085	methylamine ... dimethylsulfide
+4.11_090	methylamine ... dimethylsulfide
+4.11_095	methylamine ... dimethylsulfide
+4.11_100	methylamine ... dimethylsulfide
+4.11_105	methylamine ... dimethylsulfide
+4.11_110	methylamine ... dimethylsulfide
+4.11_125	methylamine ... dimethylsulfide
+4.11_150	methylamine ... dimethylsulfide
+4.11_200	methylamine ... dimethylsulfide
+4.12_080	methylamine ... tetrahydrothiophene
+4.12_085	methylamine ... tetrahydrothiophene
+4.12_090	methylamine ... tetrahydrothiophene
+4.12_095	methylamine ... tetrahydrothiophene
+4.12_100	methylamine ... tetrahydrothiophene
+4.12_105	methylamine ... tetrahydrothiophene
+4.12_110	methylamine ... tetrahydrothiophene
+4.12_125	methylamine ... tetrahydrothiophene
+4.12_150	methylamine ... tetrahydrothiophene
+4.12_200	methylamine ... tetrahydrothiophene
+4.13_080	N-methylacetamide ... dimethyldisulfide
+4.13_085	N-methylacetamide ... dimethyldisulfide
+4.13_090	N-methylacetamide ... dimethyldisulfide
+4.13_095	N-methylacetamide ... dimethyldisulfide
+4.13_100	N-methylacetamide ... dimethyldisulfide
+4.13_105	N-methylacetamide ... dimethyldisulfide
+4.13_110	N-methylacetamide ... dimethyldisulfide
+4.13_125	N-methylacetamide ... dimethyldisulfide
+4.13_150	N-methylacetamide ... dimethyldisulfide
+4.13_200	N-methylacetamide ... dimethyldisulfide
+4.14_080	N-methylacetamide ... tetrahydrothiophene
+4.14_085	N-methylacetamide ... tetrahydrothiophene
+4.14_090	N-methylacetamide ... tetrahydrothiophene
+4.14_095	N-methylacetamide ... tetrahydrothiophene
+4.14_100	N-methylacetamide ... tetrahydrothiophene
+4.14_105	N-methylacetamide ... tetrahydrothiophene
+4.14_110	N-methylacetamide ... tetrahydrothiophene
+4.14_125	N-methylacetamide ... tetrahydrothiophene
+4.14_150	N-methylacetamide ... tetrahydrothiophene
+4.14_200	N-methylacetamide ... tetrahydrothiophene
+4.15_080	acetic acid ... dimethyldisulfide
+4.15_085	acetic acid ... dimethyldisulfide
+4.15_090	acetic acid ... dimethyldisulfide
+4.15_095	acetic acid ... dimethyldisulfide
+4.15_100	acetic acid ... dimethyldisulfide
+4.15_105	acetic acid ... dimethyldisulfide
+4.15_110	acetic acid ... dimethyldisulfide
+4.15_125	acetic acid ... dimethyldisulfide
+4.15_150	acetic acid ... dimethyldisulfide
+4.15_200	acetic acid ... dimethyldisulfide
+4.16_080	acetic acid ... dimethylsulfide
+4.16_085	acetic acid ... dimethylsulfide
+4.16_090	acetic acid ... dimethylsulfide
+4.16_095	acetic acid ... dimethylsulfide
+4.16_100	acetic acid ... dimethylsulfide
+4.16_105	acetic acid ... dimethylsulfide
+4.16_110	acetic acid ... dimethylsulfide
+4.16_125	acetic acid ... dimethylsulfide
+4.16_150	acetic acid ... dimethylsulfide
+4.16_200	acetic acid ... dimethylsulfide
+4.17_080	acetic acid ... thioacetone
+4.17_085	acetic acid ... thioacetone
+4.17_090	acetic acid ... thioacetone
+4.17_095	acetic acid ... thioacetone
+4.17_100	acetic acid ... thioacetone
+4.17_105	acetic acid ... thioacetone
+4.17_110	acetic acid ... thioacetone
+4.17_125	acetic acid ... thioacetone
+4.17_150	acetic acid ... thioacetone
+4.17_200	acetic acid ... thioacetone
+4.18_080	bromic acid ... sulfane
+4.18_085	bromic acid ... sulfane
+4.18_090	bromic acid ... sulfane
+4.18_095	bromic acid ... sulfane
+4.18_100	bromic acid ... sulfane
+4.18_105	bromic acid ... sulfane
+4.18_110	bromic acid ... sulfane
+4.18_125	bromic acid ... sulfane
+4.18_150	bromic acid ... sulfane
+4.18_200	bromic acid ... sulfane
+4.19_080	methanol ... dimethyldisulfide
+4.19_085	methanol ... dimethyldisulfide
+4.19_090	methanol ... dimethyldisulfide
+4.19_095	methanol ... dimethyldisulfide
+4.19_100	methanol ... dimethyldisulfide
+4.19_105	methanol ... dimethyldisulfide
+4.19_110	methanol ... dimethyldisulfide
+4.19_125	methanol ... dimethyldisulfide
+4.19_150	methanol ... dimethyldisulfide
+4.19_200	methanol ... dimethyldisulfide
+4.20_080	methanol ... methanethiol
+4.20_085	methanol ... methanethiol
+4.20_090	methanol ... methanethiol
+4.20_095	methanol ... methanethiol
+4.20_100	methanol ... methanethiol
+4.20_105	methanol ... methanethiol
+4.20_110	methanol ... methanethiol
+4.20_125	methanol ... methanethiol
+4.20_150	methanol ... methanethiol
+4.20_200	methanol ... methanethiol
+4.21_080	water ... methanethiol
+4.21_085	water ... methanethiol
+4.21_090	water ... methanethiol
+4.21_095	water ... methanethiol
+4.21_100	water ... methanethiol
+4.21_105	water ... methanethiol
+4.21_110	water ... methanethiol
+4.21_125	water ... methanethiol
+4.21_150	water ... methanethiol
+4.21_200	water ... methanethiol
+4.22_080	methanethiol ... dimethyldisulfide
+4.22_085	methanethiol ... dimethyldisulfide
+4.22_090	methanethiol ... dimethyldisulfide
+4.22_095	methanethiol ... dimethyldisulfide
+4.22_100	methanethiol ... dimethyldisulfide
+4.22_105	methanethiol ... dimethyldisulfide
+4.22_110	methanethiol ... dimethyldisulfide
+4.22_125	methanethiol ... dimethyldisulfide
+4.22_150	methanethiol ... dimethyldisulfide
+4.22_200	methanethiol ... dimethyldisulfide
+4.23_080	methanethiol ... dimethylsulfide
+4.23_085	methanethiol ... dimethylsulfide
+4.23_090	methanethiol ... dimethylsulfide
+4.23_095	methanethiol ... dimethylsulfide
+4.23_100	methanethiol ... dimethylsulfide
+4.23_105	methanethiol ... dimethylsulfide
+4.23_110	methanethiol ... dimethylsulfide
+4.23_125	methanethiol ... dimethylsulfide
+4.23_150	methanethiol ... dimethylsulfide
+4.23_200	methanethiol ... dimethylsulfide
+4.24_080	methanethiol ... methanethiol
+4.24_085	methanethiol ... methanethiol
+4.24_090	methanethiol ... methanethiol
+4.24_095	methanethiol ... methanethiol
+4.24_100	methanethiol ... methanethiol
+4.24_105	methanethiol ... methanethiol
+4.24_110	methanethiol ... methanethiol
+4.24_125	methanethiol ... methanethiol
+4.24_150	methanethiol ... methanethiol
+4.24_200	methanethiol ... methanethiol
+4.25_080	methanethiol ... tetrahydrothiophene
+4.25_085	methanethiol ... tetrahydrothiophene
+4.25_090	methanethiol ... tetrahydrothiophene
+4.25_095	methanethiol ... tetrahydrothiophene
+4.25_100	methanethiol ... tetrahydrothiophene
+4.25_105	methanethiol ... tetrahydrothiophene
+4.25_110	methanethiol ... tetrahydrothiophene
+4.25_125	methanethiol ... tetrahydrothiophene
+4.25_150	methanethiol ... tetrahydrothiophene
+4.25_200	methanethiol ... tetrahydrothiophene
+4.26_080	sulfane ... dimethylsulfide
+4.26_085	sulfane ... dimethylsulfide
+4.26_090	sulfane ... dimethylsulfide
+4.26_095	sulfane ... dimethylsulfide
+4.26_100	sulfane ... dimethylsulfide
+4.26_105	sulfane ... dimethylsulfide
+4.26_110	sulfane ... dimethylsulfide
+4.26_125	sulfane ... dimethylsulfide
+4.26_150	sulfane ... dimethylsulfide
+4.26_200	sulfane ... dimethylsulfide
+4.27_080	sulfane ... sulfane
+4.27_085	sulfane ... sulfane
+4.27_090	sulfane ... sulfane
+4.27_095	sulfane ... sulfane
+4.27_100	sulfane ... sulfane
+4.27_105	sulfane ... sulfane
+4.27_110	sulfane ... sulfane
+4.27_125	sulfane ... sulfane
+4.27_150	sulfane ... sulfane
+4.27_200	sulfane ... sulfane
+4.28_080	sulfane ... tetrahydrothiophene
+4.28_085	sulfane ... tetrahydrothiophene
+4.28_090	sulfane ... tetrahydrothiophene
+4.28_095	sulfane ... tetrahydrothiophene
+4.28_100	sulfane ... tetrahydrothiophene
+4.28_105	sulfane ... tetrahydrothiophene
+4.28_110	sulfane ... tetrahydrothiophene
+4.28_125	sulfane ... tetrahydrothiophene
+4.28_150	sulfane ... tetrahydrothiophene
+4.28_200	sulfane ... tetrahydrothiophene
+4.29_080	hydrogenfluoride ... dimethyldisulfide
+4.29_085	hydrogenfluoride ... dimethyldisulfide
+4.29_090	hydrogenfluoride ... dimethyldisulfide
+4.29_095	hydrogenfluoride ... dimethyldisulfide
+4.29_100	hydrogenfluoride ... dimethyldisulfide
+4.29_105	hydrogenfluoride ... dimethyldisulfide
+4.29_110	hydrogenfluoride ... dimethyldisulfide
+4.29_125	hydrogenfluoride ... dimethyldisulfide
+4.29_150	hydrogenfluoride ... dimethyldisulfide
+4.29_200	hydrogenfluoride ... dimethyldisulfide
+4.30_080	hydrogenfluoride ... dimethylsulfide
+4.30_085	hydrogenfluoride ... dimethylsulfide
+4.30_090	hydrogenfluoride ... dimethylsulfide
+4.30_095	hydrogenfluoride ... dimethylsulfide
+4.30_100	hydrogenfluoride ... dimethylsulfide
+4.30_105	hydrogenfluoride ... dimethylsulfide
+4.30_110	hydrogenfluoride ... dimethylsulfide
+4.30_125	hydrogenfluoride ... dimethylsulfide
+4.30_150	hydrogenfluoride ... dimethylsulfide
+4.30_200	hydrogenfluoride ... dimethylsulfide
+4.31_080	hydrogenfluoride ... methanethiol
+4.31_085	hydrogenfluoride ... methanethiol
+4.31_090	hydrogenfluoride ... methanethiol
+4.31_095	hydrogenfluoride ... methanethiol
+4.31_100	hydrogenfluoride ... methanethiol
+4.31_105	hydrogenfluoride ... methanethiol
+4.31_110	hydrogenfluoride ... methanethiol
+4.31_125	hydrogenfluoride ... methanethiol
+4.31_150	hydrogenfluoride ... methanethiol
+4.31_200	hydrogenfluoride ... methanethiol
+4.32_080	hydrogenfluoride ... P4S3
+4.32_085	hydrogenfluoride ... P4S3
+4.32_090	hydrogenfluoride ... P4S3
+4.32_095	hydrogenfluoride ... P4S3
+4.32_100	hydrogenfluoride ... P4S3
+4.32_105	hydrogenfluoride ... P4S3
+4.32_110	hydrogenfluoride ... P4S3
+4.32_125	hydrogenfluoride ... P4S3
+4.32_150	hydrogenfluoride ... P4S3
+4.32_200	hydrogenfluoride ... P4S3
+4.33_080	hydrogenfluoride ... sulfane
+4.33_085	hydrogenfluoride ... sulfane
+4.33_090	hydrogenfluoride ... sulfane
+4.33_095	hydrogenfluoride ... sulfane
+4.33_100	hydrogenfluoride ... sulfane
+4.33_105	hydrogenfluoride ... sulfane
+4.33_110	hydrogenfluoride ... sulfane
+4.33_125	hydrogenfluoride ... sulfane
+4.33_150	hydrogenfluoride ... sulfane
+4.33_200	hydrogenfluoride ... sulfane
+4.34_080	hydrogenfluoride ... tetrahydrothiophene
+4.34_085	hydrogenfluoride ... tetrahydrothiophene
+4.34_090	hydrogenfluoride ... tetrahydrothiophene
+4.34_095	hydrogenfluoride ... tetrahydrothiophene
+4.34_100	hydrogenfluoride ... tetrahydrothiophene
+4.34_105	hydrogenfluoride ... tetrahydrothiophene
+4.34_110	hydrogenfluoride ... tetrahydrothiophene
+4.34_125	hydrogenfluoride ... tetrahydrothiophene
+4.34_150	hydrogenfluoride ... tetrahydrothiophene
+4.34_200	hydrogenfluoride ... tetrahydrothiophene
+4.35_080	hydrogenfluoride ... thioacetone
+4.35_085	hydrogenfluoride ... thioacetone
+4.35_090	hydrogenfluoride ... thioacetone
+4.35_095	hydrogenfluoride ... thioacetone
+4.35_100	hydrogenfluoride ... thioacetone
+4.35_105	hydrogenfluoride ... thioacetone
+4.35_110	hydrogenfluoride ... thioacetone
+4.35_125	hydrogenfluoride ... thioacetone
+4.35_150	hydrogenfluoride ... thioacetone
+4.35_200	hydrogenfluoride ... thioacetone
+4.36_080	hydrogenchloride ... dimethyldisulfide
+4.36_085	hydrogenchloride ... dimethyldisulfide
+4.36_090	hydrogenchloride ... dimethyldisulfide
+4.36_095	hydrogenchloride ... dimethyldisulfide
+4.36_100	hydrogenchloride ... dimethyldisulfide
+4.36_105	hydrogenchloride ... dimethyldisulfide
+4.36_110	hydrogenchloride ... dimethyldisulfide
+4.36_125	hydrogenchloride ... dimethyldisulfide
+4.36_150	hydrogenchloride ... dimethyldisulfide
+4.36_200	hydrogenchloride ... dimethyldisulfide
+4.37_080	hydrogenchloride ... dimethylsulfide
+4.37_085	hydrogenchloride ... dimethylsulfide
+4.37_090	hydrogenchloride ... dimethylsulfide
+4.37_095	hydrogenchloride ... dimethylsulfide
+4.37_100	hydrogenchloride ... dimethylsulfide
+4.37_105	hydrogenchloride ... dimethylsulfide
+4.37_110	hydrogenchloride ... dimethylsulfide
+4.37_125	hydrogenchloride ... dimethylsulfide
+4.37_150	hydrogenchloride ... dimethylsulfide
+4.37_200	hydrogenchloride ... dimethylsulfide
+4.38_080	hydrogenchloride ... methanethiol
+4.38_085	hydrogenchloride ... methanethiol
+4.38_090	hydrogenchloride ... methanethiol
+4.38_095	hydrogenchloride ... methanethiol
+4.38_100	hydrogenchloride ... methanethiol
+4.38_105	hydrogenchloride ... methanethiol
+4.38_110	hydrogenchloride ... methanethiol
+4.38_125	hydrogenchloride ... methanethiol
+4.38_150	hydrogenchloride ... methanethiol
+4.38_200	hydrogenchloride ... methanethiol
+4.39_080	hydrogenchloride ... P4S3
+4.39_085	hydrogenchloride ... P4S3
+4.39_090	hydrogenchloride ... P4S3
+4.39_095	hydrogenchloride ... P4S3
+4.39_100	hydrogenchloride ... P4S3
+4.39_105	hydrogenchloride ... P4S3
+4.39_110	hydrogenchloride ... P4S3
+4.39_125	hydrogenchloride ... P4S3
+4.39_150	hydrogenchloride ... P4S3
+4.39_200	hydrogenchloride ... P4S3
+4.40_080	hydrogenchloride ... sulfane
+4.40_085	hydrogenchloride ... sulfane
+4.40_090	hydrogenchloride ... sulfane
+4.40_095	hydrogenchloride ... sulfane
+4.40_100	hydrogenchloride ... sulfane
+4.40_105	hydrogenchloride ... sulfane
+4.40_110	hydrogenchloride ... sulfane
+4.40_125	hydrogenchloride ... sulfane
+4.40_150	hydrogenchloride ... sulfane
+4.40_200	hydrogenchloride ... sulfane
+4.41_080	hydrogenchloride ... tetrahydrothiophene
+4.41_085	hydrogenchloride ... tetrahydrothiophene
+4.41_090	hydrogenchloride ... tetrahydrothiophene
+4.41_095	hydrogenchloride ... tetrahydrothiophene
+4.41_100	hydrogenchloride ... tetrahydrothiophene
+4.41_105	hydrogenchloride ... tetrahydrothiophene
+4.41_110	hydrogenchloride ... tetrahydrothiophene
+4.41_125	hydrogenchloride ... tetrahydrothiophene
+4.41_150	hydrogenchloride ... tetrahydrothiophene
+4.41_200	hydrogenchloride ... tetrahydrothiophene
+4.42_080	hydrogenchloride ... thioacetone
+4.42_085	hydrogenchloride ... thioacetone
+4.42_090	hydrogenchloride ... thioacetone
+4.42_095	hydrogenchloride ... thioacetone
+4.42_100	hydrogenchloride ... thioacetone
+4.42_105	hydrogenchloride ... thioacetone
+4.42_110	hydrogenchloride ... thioacetone
+4.42_125	hydrogenchloride ... thioacetone
+4.42_150	hydrogenchloride ... thioacetone
+4.42_200	hydrogenchloride ... thioacetone
+4.43_080	hydrogenbromide ... dimethyldisulfide
+4.43_085	hydrogenbromide ... dimethyldisulfide
+4.43_090	hydrogenbromide ... dimethyldisulfide
+4.43_095	hydrogenbromide ... dimethyldisulfide
+4.43_100	hydrogenbromide ... dimethyldisulfide
+4.43_105	hydrogenbromide ... dimethyldisulfide
+4.43_110	hydrogenbromide ... dimethyldisulfide
+4.43_125	hydrogenbromide ... dimethyldisulfide
+4.43_150	hydrogenbromide ... dimethyldisulfide
+4.43_200	hydrogenbromide ... dimethyldisulfide
+4.44_080	hydrogenbromide ... dimethylsulfide
+4.44_085	hydrogenbromide ... dimethylsulfide
+4.44_090	hydrogenbromide ... dimethylsulfide
+4.44_095	hydrogenbromide ... dimethylsulfide
+4.44_100	hydrogenbromide ... dimethylsulfide
+4.44_105	hydrogenbromide ... dimethylsulfide
+4.44_110	hydrogenbromide ... dimethylsulfide
+4.44_125	hydrogenbromide ... dimethylsulfide
+4.44_150	hydrogenbromide ... dimethylsulfide
+4.44_200	hydrogenbromide ... dimethylsulfide
+4.45_080	hydrogenbromide ... methanethiol
+4.45_085	hydrogenbromide ... methanethiol
+4.45_090	hydrogenbromide ... methanethiol
+4.45_095	hydrogenbromide ... methanethiol
+4.45_100	hydrogenbromide ... methanethiol
+4.45_105	hydrogenbromide ... methanethiol
+4.45_110	hydrogenbromide ... methanethiol
+4.45_125	hydrogenbromide ... methanethiol
+4.45_150	hydrogenbromide ... methanethiol
+4.45_200	hydrogenbromide ... methanethiol
+4.46_080	hydrogenbromide ... P4S3
+4.46_085	hydrogenbromide ... P4S3
+4.46_090	hydrogenbromide ... P4S3
+4.46_095	hydrogenbromide ... P4S3
+4.46_100	hydrogenbromide ... P4S3
+4.46_105	hydrogenbromide ... P4S3
+4.46_110	hydrogenbromide ... P4S3
+4.46_125	hydrogenbromide ... P4S3
+4.46_150	hydrogenbromide ... P4S3
+4.46_200	hydrogenbromide ... P4S3
+4.47_080	hydrogenbromide ... sulfane
+4.47_085	hydrogenbromide ... sulfane
+4.47_090	hydrogenbromide ... sulfane
+4.47_095	hydrogenbromide ... sulfane
+4.47_100	hydrogenbromide ... sulfane
+4.47_105	hydrogenbromide ... sulfane
+4.47_110	hydrogenbromide ... sulfane
+4.47_125	hydrogenbromide ... sulfane
+4.47_150	hydrogenbromide ... sulfane
+4.47_200	hydrogenbromide ... sulfane
+4.48_080	hydrogenbromide ... thioacetone
+4.48_085	hydrogenbromide ... thioacetone
+4.48_090	hydrogenbromide ... thioacetone
+4.48_095	hydrogenbromide ... thioacetone
+4.48_100	hydrogenbromide ... thioacetone
+4.48_105	hydrogenbromide ... thioacetone
+4.48_110	hydrogenbromide ... thioacetone
+4.48_125	hydrogenbromide ... thioacetone
+4.48_150	hydrogenbromide ... thioacetone
+4.48_200	hydrogenbromide ... thioacetone
+4.49_080	hydrogeniodide ... dimethyldisulfide
+4.49_085	hydrogeniodide ... dimethyldisulfide
+4.49_090	hydrogeniodide ... dimethyldisulfide
+4.49_095	hydrogeniodide ... dimethyldisulfide
+4.49_100	hydrogeniodide ... dimethyldisulfide
+4.49_105	hydrogeniodide ... dimethyldisulfide
+4.49_110	hydrogeniodide ... dimethyldisulfide
+4.49_125	hydrogeniodide ... dimethyldisulfide
+4.49_150	hydrogeniodide ... dimethyldisulfide
+4.49_200	hydrogeniodide ... dimethyldisulfide
+4.50_080	hydrogeniodide ... dimethylsulfide
+4.50_085	hydrogeniodide ... dimethylsulfide
+4.50_090	hydrogeniodide ... dimethylsulfide
+4.50_095	hydrogeniodide ... dimethylsulfide
+4.50_100	hydrogeniodide ... dimethylsulfide
+4.50_105	hydrogeniodide ... dimethylsulfide
+4.50_110	hydrogeniodide ... dimethylsulfide
+4.50_125	hydrogeniodide ... dimethylsulfide
+4.50_150	hydrogeniodide ... dimethylsulfide
+4.50_200	hydrogeniodide ... dimethylsulfide
+4.51_080	hydrogeniodide ... methanethiol
+4.51_085	hydrogeniodide ... methanethiol
+4.51_090	hydrogeniodide ... methanethiol
+4.51_095	hydrogeniodide ... methanethiol
+4.51_100	hydrogeniodide ... methanethiol
+4.51_105	hydrogeniodide ... methanethiol
+4.51_110	hydrogeniodide ... methanethiol
+4.51_125	hydrogeniodide ... methanethiol
+4.51_150	hydrogeniodide ... methanethiol
+4.51_200	hydrogeniodide ... methanethiol
+4.52_080	hydrogeniodide ... P4S3
+4.52_085	hydrogeniodide ... P4S3
+4.52_090	hydrogeniodide ... P4S3
+4.52_095	hydrogeniodide ... P4S3
+4.52_100	hydrogeniodide ... P4S3
+4.52_105	hydrogeniodide ... P4S3
+4.52_110	hydrogeniodide ... P4S3
+4.52_125	hydrogeniodide ... P4S3
+4.52_150	hydrogeniodide ... P4S3
+4.52_200	hydrogeniodide ... P4S3
+4.53_080	hydrogeniodide ... tetrahydrothiophene
+4.53_085	hydrogeniodide ... tetrahydrothiophene
+4.53_090	hydrogeniodide ... tetrahydrothiophene
+4.53_095	hydrogeniodide ... tetrahydrothiophene
+4.53_100	hydrogeniodide ... tetrahydrothiophene
+4.53_105	hydrogeniodide ... tetrahydrothiophene
+4.53_110	hydrogeniodide ... tetrahydrothiophene
+4.53_125	hydrogeniodide ... tetrahydrothiophene
+4.53_150	hydrogeniodide ... tetrahydrothiophene
+4.53_200	hydrogeniodide ... tetrahydrothiophene
+4.54_080	hydrogeniodide ... thioacetone
+4.54_085	hydrogeniodide ... thioacetone
+4.54_090	hydrogeniodide ... thioacetone
+4.54_095	hydrogeniodide ... thioacetone
+4.54_100	hydrogeniodide ... thioacetone
+4.54_105	hydrogeniodide ... thioacetone
+4.54_110	hydrogeniodide ... thioacetone
+4.54_125	hydrogeniodide ... thioacetone
+4.54_150	hydrogeniodide ... thioacetone
+4.54_200	hydrogeniodide ... thioacetone
+5.01_080	dimethylsulfide ... difluorophosphine
+5.01_085	dimethylsulfide ... difluorophosphine
+5.01_090	dimethylsulfide ... difluorophosphine
+5.01_095	dimethylsulfide ... difluorophosphine
+5.01_100	dimethylsulfide ... difluorophosphine
+5.01_105	dimethylsulfide ... difluorophosphine
+5.01_110	dimethylsulfide ... difluorophosphine
+5.01_125	dimethylsulfide ... difluorophosphine
+5.01_150	dimethylsulfide ... difluorophosphine
+5.01_200	dimethylsulfide ... difluorophosphine
+5.02_080	dimethylsulfone ... difluorophosphine
+5.02_085	dimethylsulfone ... difluorophosphine
+5.02_090	dimethylsulfone ... difluorophosphine
+5.02_095	dimethylsulfone ... difluorophosphine
+5.02_100	dimethylsulfone ... difluorophosphine
+5.02_105	dimethylsulfone ... difluorophosphine
+5.02_110	dimethylsulfone ... difluorophosphine
+5.02_125	dimethylsulfone ... difluorophosphine
+5.02_150	dimethylsulfone ... difluorophosphine
+5.02_200	dimethylsulfone ... difluorophosphine
+5.03_080	dimethylsulfoxide ... difluorophosphine
+5.03_085	dimethylsulfoxide ... difluorophosphine
+5.03_090	dimethylsulfoxide ... difluorophosphine
+5.03_095	dimethylsulfoxide ... difluorophosphine
+5.03_100	dimethylsulfoxide ... difluorophosphine
+5.03_105	dimethylsulfoxide ... difluorophosphine
+5.03_110	dimethylsulfoxide ... difluorophosphine
+5.03_125	dimethylsulfoxide ... difluorophosphine
+5.03_150	dimethylsulfoxide ... difluorophosphine
+5.03_200	dimethylsulfoxide ... difluorophosphine
+5.04_080	ethyne ... methylfluoride
+5.04_085	ethyne ... methylfluoride
+5.04_090	ethyne ... methylfluoride
+5.04_095	ethyne ... methylfluoride
+5.04_100	ethyne ... methylfluoride
+5.04_105	ethyne ... methylfluoride
+5.04_110	ethyne ... methylfluoride
+5.04_125	ethyne ... methylfluoride
+5.04_150	ethyne ... methylfluoride
+5.04_200	ethyne ... methylfluoride
+5.05_080	methane ... methylfluoride
+5.05_085	methane ... methylfluoride
+5.05_090	methane ... methylfluoride
+5.05_095	methane ... methylfluoride
+5.05_100	methane ... methylfluoride
+5.05_105	methane ... methylfluoride
+5.05_110	methane ... methylfluoride
+5.05_125	methane ... methylfluoride
+5.05_150	methane ... methylfluoride
+5.05_200	methane ... methylfluoride
+5.06_080	methanethiol ... methylfluoride
+5.06_085	methanethiol ... methylfluoride
+5.06_090	methanethiol ... methylfluoride
+5.06_095	methanethiol ... methylfluoride
+5.06_100	methanethiol ... methylfluoride
+5.06_105	methanethiol ... methylfluoride
+5.06_110	methanethiol ... methylfluoride
+5.06_125	methanethiol ... methylfluoride
+5.06_150	methanethiol ... methylfluoride
+5.06_200	methanethiol ... methylfluoride
+5.07_080	methanethiol ... difluorophosphine
+5.07_085	methanethiol ... difluorophosphine
+5.07_090	methanethiol ... difluorophosphine
+5.07_095	methanethiol ... difluorophosphine
+5.07_100	methanethiol ... difluorophosphine
+5.07_105	methanethiol ... difluorophosphine
+5.07_110	methanethiol ... difluorophosphine
+5.07_125	methanethiol ... difluorophosphine
+5.07_150	methanethiol ... difluorophosphine
+5.07_200	methanethiol ... difluorophosphine
+5.08_080	methylcyanate ... difluorophosphine
+5.08_085	methylcyanate ... difluorophosphine
+5.08_090	methylcyanate ... difluorophosphine
+5.08_095	methylcyanate ... difluorophosphine
+5.08_100	methylcyanate ... difluorophosphine
+5.08_105	methylcyanate ... difluorophosphine
+5.08_110	methylcyanate ... difluorophosphine
+5.08_125	methylcyanate ... difluorophosphine
+5.08_150	methylcyanate ... difluorophosphine
+5.08_200	methylcyanate ... difluorophosphine
+5.09_080	nitromethane ... difluorophosphine
+5.09_085	nitromethane ... difluorophosphine
+5.09_090	nitromethane ... difluorophosphine
+5.09_095	nitromethane ... difluorophosphine
+5.09_100	nitromethane ... difluorophosphine
+5.09_105	nitromethane ... difluorophosphine
+5.09_110	nitromethane ... difluorophosphine
+5.09_125	nitromethane ... difluorophosphine
+5.09_150	nitromethane ... difluorophosphine
+5.09_200	nitromethane ... difluorophosphine
+5.10_080	phosphaalkene ... difluorophosphine
+5.10_085	phosphaalkene ... difluorophosphine
+5.10_090	phosphaalkene ... difluorophosphine
+5.10_095	phosphaalkene ... difluorophosphine
+5.10_100	phosphaalkene ... difluorophosphine
+5.10_105	phosphaalkene ... difluorophosphine
+5.10_110	phosphaalkene ... difluorophosphine
+5.10_125	phosphaalkene ... difluorophosphine
+5.10_150	phosphaalkene ... difluorophosphine
+5.10_200	phosphaalkene ... difluorophosphine
+5.11_080	thioacetone ... difluorophosphine
+5.11_085	thioacetone ... difluorophosphine
+5.11_090	thioacetone ... difluorophosphine
+5.11_095	thioacetone ... difluorophosphine
+5.11_100	thioacetone ... difluorophosphine
+5.11_105	thioacetone ... difluorophosphine
+5.11_110	thioacetone ... difluorophosphine
+5.11_125	thioacetone ... difluorophosphine
+5.11_150	thioacetone ... difluorophosphine
+5.11_200	thioacetone ... difluorophosphine
+5.12_080	trimethylphosphite ... difluorophosphine
+5.12_085	trimethylphosphite ... difluorophosphine
+5.12_090	trimethylphosphite ... difluorophosphine
+5.12_095	trimethylphosphite ... difluorophosphine
+5.12_100	trimethylphosphite ... difluorophosphine
+5.12_105	trimethylphosphite ... difluorophosphine
+5.12_110	trimethylphosphite ... difluorophosphine
+5.12_125	trimethylphosphite ... difluorophosphine
+5.12_150	trimethylphosphite ... difluorophosphine
+5.12_200	trimethylphosphite ... difluorophosphine
+5.13_080	acetamide ... difluorophosphine
+5.13_085	acetamide ... difluorophosphine
+5.13_090	acetamide ... difluorophosphine
+5.13_095	acetamide ... difluorophosphine
+5.13_100	acetamide ... difluorophosphine
+5.13_105	acetamide ... difluorophosphine
+5.13_110	acetamide ... difluorophosphine
+5.13_125	acetamide ... difluorophosphine
+5.13_150	acetamide ... difluorophosphine
+5.13_200	acetamide ... difluorophosphine
+5.14_080	ammonia ... methylfluoride
+5.14_085	ammonia ... methylfluoride
+5.14_090	ammonia ... methylfluoride
+5.14_095	ammonia ... methylfluoride
+5.14_100	ammonia ... methylfluoride
+5.14_105	ammonia ... methylfluoride
+5.14_110	ammonia ... methylfluoride
+5.14_125	ammonia ... methylfluoride
+5.14_150	ammonia ... methylfluoride
+5.14_200	ammonia ... methylfluoride
+5.15_080	methylamine ... methylfluoride
+5.15_085	methylamine ... methylfluoride
+5.15_090	methylamine ... methylfluoride
+5.15_095	methylamine ... methylfluoride
+5.15_100	methylamine ... methylfluoride
+5.15_105	methylamine ... methylfluoride
+5.15_110	methylamine ... methylfluoride
+5.15_125	methylamine ... methylfluoride
+5.15_150	methylamine ... methylfluoride
+5.15_200	methylamine ... methylfluoride
+5.16_080	N-methylacetamide ... fluorine
+5.16_085	N-methylacetamide ... fluorine
+5.16_090	N-methylacetamide ... fluorine
+5.16_095	N-methylacetamide ... fluorine
+5.16_100	N-methylacetamide ... fluorine
+5.16_105	N-methylacetamide ... fluorine
+5.16_110	N-methylacetamide ... fluorine
+5.16_125	N-methylacetamide ... fluorine
+5.16_150	N-methylacetamide ... fluorine
+5.16_200	N-methylacetamide ... fluorine
+5.17_080	N-methylacetamide ... methylfluoride
+5.17_085	N-methylacetamide ... methylfluoride
+5.17_090	N-methylacetamide ... methylfluoride
+5.17_095	N-methylacetamide ... methylfluoride
+5.17_100	N-methylacetamide ... methylfluoride
+5.17_105	N-methylacetamide ... methylfluoride
+5.17_110	N-methylacetamide ... methylfluoride
+5.17_125	N-methylacetamide ... methylfluoride
+5.17_150	N-methylacetamide ... methylfluoride
+5.17_200	N-methylacetamide ... methylfluoride
+5.18_080	acetic acid ... fluorine
+5.18_085	acetic acid ... fluorine
+5.18_090	acetic acid ... fluorine
+5.18_095	acetic acid ... fluorine
+5.18_100	acetic acid ... fluorine
+5.18_105	acetic acid ... fluorine
+5.18_110	acetic acid ... fluorine
+5.18_125	acetic acid ... fluorine
+5.18_150	acetic acid ... fluorine
+5.18_200	acetic acid ... fluorine
+5.19_080	acetic acid ... methylfluoride
+5.19_085	acetic acid ... methylfluoride
+5.19_090	acetic acid ... methylfluoride
+5.19_095	acetic acid ... methylfluoride
+5.19_100	acetic acid ... methylfluoride
+5.19_105	acetic acid ... methylfluoride
+5.19_110	acetic acid ... methylfluoride
+5.19_125	acetic acid ... methylfluoride
+5.19_150	acetic acid ... methylfluoride
+5.19_200	acetic acid ... methylfluoride
+5.20_080	acetic acid ... difluorophosphine
+5.20_085	acetic acid ... difluorophosphine
+5.20_090	acetic acid ... difluorophosphine
+5.20_095	acetic acid ... difluorophosphine
+5.20_100	acetic acid ... difluorophosphine
+5.20_105	acetic acid ... difluorophosphine
+5.20_110	acetic acid ... difluorophosphine
+5.20_125	acetic acid ... difluorophosphine
+5.20_150	acetic acid ... difluorophosphine
+5.20_200	acetic acid ... difluorophosphine
+5.21_080	acetic acid ... tetrafluoromethane
+5.21_085	acetic acid ... tetrafluoromethane
+5.21_090	acetic acid ... tetrafluoromethane
+5.21_095	acetic acid ... tetrafluoromethane
+5.21_100	acetic acid ... tetrafluoromethane
+5.21_105	acetic acid ... tetrafluoromethane
+5.21_110	acetic acid ... tetrafluoromethane
+5.21_125	acetic acid ... tetrafluoromethane
+5.21_150	acetic acid ... tetrafluoromethane
+5.21_200	acetic acid ... tetrafluoromethane
+5.22_080	methanol ... fluorine
+5.22_085	methanol ... fluorine
+5.22_090	methanol ... fluorine
+5.22_095	methanol ... fluorine
+5.22_100	methanol ... fluorine
+5.22_105	methanol ... fluorine
+5.22_110	methanol ... fluorine
+5.22_125	methanol ... fluorine
+5.22_150	methanol ... fluorine
+5.22_200	methanol ... fluorine
+5.23_080	methanol ... methylfluoride
+5.23_085	methanol ... methylfluoride
+5.23_090	methanol ... methylfluoride
+5.23_095	methanol ... methylfluoride
+5.23_100	methanol ... methylfluoride
+5.23_105	methanol ... methylfluoride
+5.23_110	methanol ... methylfluoride
+5.23_125	methanol ... methylfluoride
+5.23_150	methanol ... methylfluoride
+5.23_200	methanol ... methylfluoride
+5.24_080	methanol ... tetrafluoromethane
+5.24_085	methanol ... tetrafluoromethane
+5.24_090	methanol ... tetrafluoromethane
+5.24_095	methanol ... tetrafluoromethane
+5.24_100	methanol ... tetrafluoromethane
+5.24_105	methanol ... tetrafluoromethane
+5.24_110	methanol ... tetrafluoromethane
+5.24_125	methanol ... tetrafluoromethane
+5.24_150	methanol ... tetrafluoromethane
+5.24_200	methanol ... tetrafluoromethane
+5.25_080	phosphoric acid ... difluorophosphine
+5.25_085	phosphoric acid ... difluorophosphine
+5.25_090	phosphoric acid ... difluorophosphine
+5.25_095	phosphoric acid ... difluorophosphine
+5.25_100	phosphoric acid ... difluorophosphine
+5.25_105	phosphoric acid ... difluorophosphine
+5.25_110	phosphoric acid ... difluorophosphine
+5.25_125	phosphoric acid ... difluorophosphine
+5.25_150	phosphoric acid ... difluorophosphine
+5.25_200	phosphoric acid ... difluorophosphine
+5.26_080	water ... methylfluoride
+5.26_085	water ... methylfluoride
+5.26_090	water ... methylfluoride
+5.26_095	water ... methylfluoride
+5.26_100	water ... methylfluoride
+5.26_105	water ... methylfluoride
+5.26_110	water ... methylfluoride
+5.26_125	water ... methylfluoride
+5.26_150	water ... methylfluoride
+5.26_200	water ... methylfluoride
+5.27_080	difluorophosphine ... fluorine
+5.27_085	difluorophosphine ... fluorine
+5.27_090	difluorophosphine ... fluorine
+5.27_095	difluorophosphine ... fluorine
+5.27_100	difluorophosphine ... fluorine
+5.27_105	difluorophosphine ... fluorine
+5.27_110	difluorophosphine ... fluorine
+5.27_125	difluorophosphine ... fluorine
+5.27_150	difluorophosphine ... fluorine
+5.27_200	difluorophosphine ... fluorine
+5.28_080	sulfane ... methylfluoride
+5.28_085	sulfane ... methylfluoride
+5.28_090	sulfane ... methylfluoride
+5.28_095	sulfane ... methylfluoride
+5.28_100	sulfane ... methylfluoride
+5.28_105	sulfane ... methylfluoride
+5.28_110	sulfane ... methylfluoride
+5.28_125	sulfane ... methylfluoride
+5.28_150	sulfane ... methylfluoride
+5.28_200	sulfane ... methylfluoride
+5.29_080	fluorine ... phosphine
+5.29_085	fluorine ... phosphine
+5.29_090	fluorine ... phosphine
+5.29_095	fluorine ... phosphine
+5.29_100	fluorine ... phosphine
+5.29_105	fluorine ... phosphine
+5.29_110	fluorine ... phosphine
+5.29_125	fluorine ... phosphine
+5.29_150	fluorine ... phosphine
+5.29_200	fluorine ... phosphine
+5.30_080	hydrogenfluoride ... hydrogenfluoride
+5.30_085	hydrogenfluoride ... hydrogenfluoride
+5.30_090	hydrogenfluoride ... hydrogenfluoride
+5.30_095	hydrogenfluoride ... hydrogenfluoride
+5.30_100	hydrogenfluoride ... hydrogenfluoride
+5.30_105	hydrogenfluoride ... hydrogenfluoride
+5.30_110	hydrogenfluoride ... hydrogenfluoride
+5.30_125	hydrogenfluoride ... hydrogenfluoride
+5.30_150	hydrogenfluoride ... hydrogenfluoride
+5.30_200	hydrogenfluoride ... hydrogenfluoride
+5.31_080	hydrogenfluoride ... methylfluoride
+5.31_085	hydrogenfluoride ... methylfluoride
+5.31_090	hydrogenfluoride ... methylfluoride
+5.31_095	hydrogenfluoride ... methylfluoride
+5.31_100	hydrogenfluoride ... methylfluoride
+5.31_105	hydrogenfluoride ... methylfluoride
+5.31_110	hydrogenfluoride ... methylfluoride
+5.31_125	hydrogenfluoride ... methylfluoride
+5.31_150	hydrogenfluoride ... methylfluoride
+5.31_200	hydrogenfluoride ... methylfluoride
+5.32_080	hydrogenfluoride ... difluorophosphine
+5.32_085	hydrogenfluoride ... difluorophosphine
+5.32_090	hydrogenfluoride ... difluorophosphine
+5.32_095	hydrogenfluoride ... difluorophosphine
+5.32_100	hydrogenfluoride ... difluorophosphine
+5.32_105	hydrogenfluoride ... difluorophosphine
+5.32_110	hydrogenfluoride ... difluorophosphine
+5.32_125	hydrogenfluoride ... difluorophosphine
+5.32_150	hydrogenfluoride ... difluorophosphine
+5.32_200	hydrogenfluoride ... difluorophosphine
+5.33_080	hydrogenfluoride ... tetrafluoromethane
+5.33_085	hydrogenfluoride ... tetrafluoromethane
+5.33_090	hydrogenfluoride ... tetrafluoromethane
+5.33_095	hydrogenfluoride ... tetrafluoromethane
+5.33_100	hydrogenfluoride ... tetrafluoromethane
+5.33_105	hydrogenfluoride ... tetrafluoromethane
+5.33_110	hydrogenfluoride ... tetrafluoromethane
+5.33_125	hydrogenfluoride ... tetrafluoromethane
+5.33_150	hydrogenfluoride ... tetrafluoromethane
+5.33_200	hydrogenfluoride ... tetrafluoromethane
+5.34_080	hydrogenchloride ... hydrogenfluoride
+5.34_085	hydrogenchloride ... hydrogenfluoride
+5.34_090	hydrogenchloride ... hydrogenfluoride
+5.34_095	hydrogenchloride ... hydrogenfluoride
+5.34_100	hydrogenchloride ... hydrogenfluoride
+5.34_105	hydrogenchloride ... hydrogenfluoride
+5.34_110	hydrogenchloride ... hydrogenfluoride
+5.34_125	hydrogenchloride ... hydrogenfluoride
+5.34_150	hydrogenchloride ... hydrogenfluoride
+5.34_200	hydrogenchloride ... hydrogenfluoride
+5.35_080	hydrogenchloride ... methylfluoride
+5.35_085	hydrogenchloride ... methylfluoride
+5.35_090	hydrogenchloride ... methylfluoride
+5.35_095	hydrogenchloride ... methylfluoride
+5.35_100	hydrogenchloride ... methylfluoride
+5.35_105	hydrogenchloride ... methylfluoride
+5.35_110	hydrogenchloride ... methylfluoride
+5.35_125	hydrogenchloride ... methylfluoride
+5.35_150	hydrogenchloride ... methylfluoride
+5.35_200	hydrogenchloride ... methylfluoride
+5.36_080	hydrogenchloride ... tetrafluoromethane
+5.36_085	hydrogenchloride ... tetrafluoromethane
+5.36_090	hydrogenchloride ... tetrafluoromethane
+5.36_095	hydrogenchloride ... tetrafluoromethane
+5.36_100	hydrogenchloride ... tetrafluoromethane
+5.36_105	hydrogenchloride ... tetrafluoromethane
+5.36_110	hydrogenchloride ... tetrafluoromethane
+5.36_125	hydrogenchloride ... tetrafluoromethane
+5.36_150	hydrogenchloride ... tetrafluoromethane
+5.36_200	hydrogenchloride ... tetrafluoromethane
+5.37_080	hydrogenbromide ... hydrogenfluoride
+5.37_085	hydrogenbromide ... hydrogenfluoride
+5.37_090	hydrogenbromide ... hydrogenfluoride
+5.37_095	hydrogenbromide ... hydrogenfluoride
+5.37_100	hydrogenbromide ... hydrogenfluoride
+5.37_105	hydrogenbromide ... hydrogenfluoride
+5.37_110	hydrogenbromide ... hydrogenfluoride
+5.37_125	hydrogenbromide ... hydrogenfluoride
+5.37_150	hydrogenbromide ... hydrogenfluoride
+5.37_200	hydrogenbromide ... hydrogenfluoride
+5.38_080	hydrogenbromide ... methylfluoride
+5.38_085	hydrogenbromide ... methylfluoride
+5.38_090	hydrogenbromide ... methylfluoride
+5.38_095	hydrogenbromide ... methylfluoride
+5.38_100	hydrogenbromide ... methylfluoride
+5.38_105	hydrogenbromide ... methylfluoride
+5.38_110	hydrogenbromide ... methylfluoride
+5.38_125	hydrogenbromide ... methylfluoride
+5.38_150	hydrogenbromide ... methylfluoride
+5.38_200	hydrogenbromide ... methylfluoride
+5.39_080	hydrogeniodide ... fluorine
+5.39_085	hydrogeniodide ... fluorine
+5.39_090	hydrogeniodide ... fluorine
+5.39_095	hydrogeniodide ... fluorine
+5.39_100	hydrogeniodide ... fluorine
+5.39_105	hydrogeniodide ... fluorine
+5.39_110	hydrogeniodide ... fluorine
+5.39_125	hydrogeniodide ... fluorine
+5.39_150	hydrogeniodide ... fluorine
+5.39_200	hydrogeniodide ... fluorine
+5.40_080	hydrogeniodide ... hydrogenfluoride
+5.40_085	hydrogeniodide ... hydrogenfluoride
+5.40_090	hydrogeniodide ... hydrogenfluoride
+5.40_095	hydrogeniodide ... hydrogenfluoride
+5.40_100	hydrogeniodide ... hydrogenfluoride
+5.40_105	hydrogeniodide ... hydrogenfluoride
+5.40_110	hydrogeniodide ... hydrogenfluoride
+5.40_125	hydrogeniodide ... hydrogenfluoride
+5.40_150	hydrogeniodide ... hydrogenfluoride
+5.40_200	hydrogeniodide ... hydrogenfluoride
+5.41_080	hydrogeniodide ... methylfluoride
+5.41_085	hydrogeniodide ... methylfluoride
+5.41_090	hydrogeniodide ... methylfluoride
+5.41_095	hydrogeniodide ... methylfluoride
+5.41_100	hydrogeniodide ... methylfluoride
+5.41_105	hydrogeniodide ... methylfluoride
+5.41_110	hydrogeniodide ... methylfluoride
+5.41_125	hydrogeniodide ... methylfluoride
+5.41_150	hydrogeniodide ... methylfluoride
+5.41_200	hydrogeniodide ... methylfluoride
+6.01_080	ethyne ... methylchloride
+6.01_085	ethyne ... methylchloride
+6.01_090	ethyne ... methylchloride
+6.01_095	ethyne ... methylchloride
+6.01_100	ethyne ... methylchloride
+6.01_105	ethyne ... methylchloride
+6.01_110	ethyne ... methylchloride
+6.01_125	ethyne ... methylchloride
+6.01_150	ethyne ... methylchloride
+6.01_200	ethyne ... methylchloride
+6.02_080	ethyne ... phosphorus trichloride
+6.02_085	ethyne ... phosphorus trichloride
+6.02_090	ethyne ... phosphorus trichloride
+6.02_095	ethyne ... phosphorus trichloride
+6.02_100	ethyne ... phosphorus trichloride
+6.02_105	ethyne ... phosphorus trichloride
+6.02_110	ethyne ... phosphorus trichloride
+6.02_125	ethyne ... phosphorus trichloride
+6.02_150	ethyne ... phosphorus trichloride
+6.02_200	ethyne ... phosphorus trichloride
+6.03_080	ethyne ... disulfur dichloride
+6.03_085	ethyne ... disulfur dichloride
+6.03_090	ethyne ... disulfur dichloride
+6.03_095	ethyne ... disulfur dichloride
+6.03_100	ethyne ... disulfur dichloride
+6.03_105	ethyne ... disulfur dichloride
+6.03_110	ethyne ... disulfur dichloride
+6.03_125	ethyne ... disulfur dichloride
+6.03_150	ethyne ... disulfur dichloride
+6.03_200	ethyne ... disulfur dichloride
+6.04_080	N-methylacetamide ... methylchloride
+6.04_085	N-methylacetamide ... methylchloride
+6.04_090	N-methylacetamide ... methylchloride
+6.04_095	N-methylacetamide ... methylchloride
+6.04_100	N-methylacetamide ... methylchloride
+6.04_105	N-methylacetamide ... methylchloride
+6.04_110	N-methylacetamide ... methylchloride
+6.04_125	N-methylacetamide ... methylchloride
+6.04_150	N-methylacetamide ... methylchloride
+6.04_200	N-methylacetamide ... methylchloride
+6.05_080	acetic acid ... chlorine
+6.05_085	acetic acid ... chlorine
+6.05_090	acetic acid ... chlorine
+6.05_095	acetic acid ... chlorine
+6.05_100	acetic acid ... chlorine
+6.05_105	acetic acid ... chlorine
+6.05_110	acetic acid ... chlorine
+6.05_125	acetic acid ... chlorine
+6.05_150	acetic acid ... chlorine
+6.05_200	acetic acid ... chlorine
+6.06_080	acetic acid ... hydrogenchloride
+6.06_085	acetic acid ... hydrogenchloride
+6.06_090	acetic acid ... hydrogenchloride
+6.06_095	acetic acid ... hydrogenchloride
+6.06_100	acetic acid ... hydrogenchloride
+6.06_105	acetic acid ... hydrogenchloride
+6.06_110	acetic acid ... hydrogenchloride
+6.06_125	acetic acid ... hydrogenchloride
+6.06_150	acetic acid ... hydrogenchloride
+6.06_200	acetic acid ... hydrogenchloride
+6.07_080	acetic acid ... methylchloride
+6.07_085	acetic acid ... methylchloride
+6.07_090	acetic acid ... methylchloride
+6.07_095	acetic acid ... methylchloride
+6.07_100	acetic acid ... methylchloride
+6.07_105	acetic acid ... methylchloride
+6.07_110	acetic acid ... methylchloride
+6.07_125	acetic acid ... methylchloride
+6.07_150	acetic acid ... methylchloride
+6.07_200	acetic acid ... methylchloride
+6.08_080	acetic acid ... phosphorus trichloride
+6.08_085	acetic acid ... phosphorus trichloride
+6.08_090	acetic acid ... phosphorus trichloride
+6.08_095	acetic acid ... phosphorus trichloride
+6.08_100	acetic acid ... phosphorus trichloride
+6.08_105	acetic acid ... phosphorus trichloride
+6.08_110	acetic acid ... phosphorus trichloride
+6.08_125	acetic acid ... phosphorus trichloride
+6.08_150	acetic acid ... phosphorus trichloride
+6.08_200	acetic acid ... phosphorus trichloride
+6.09_080	acetic acid ... disulfur dichloride
+6.09_085	acetic acid ... disulfur dichloride
+6.09_090	acetic acid ... disulfur dichloride
+6.09_095	acetic acid ... disulfur dichloride
+6.09_100	acetic acid ... disulfur dichloride
+6.09_105	acetic acid ... disulfur dichloride
+6.09_110	acetic acid ... disulfur dichloride
+6.09_125	acetic acid ... disulfur dichloride
+6.09_150	acetic acid ... disulfur dichloride
+6.09_200	acetic acid ... disulfur dichloride
+6.10_080	methanol ... methylchloride
+6.10_085	methanol ... methylchloride
+6.10_090	methanol ... methylchloride
+6.10_095	methanol ... methylchloride
+6.10_100	methanol ... methylchloride
+6.10_105	methanol ... methylchloride
+6.10_110	methanol ... methylchloride
+6.10_125	methanol ... methylchloride
+6.10_150	methanol ... methylchloride
+6.10_200	methanol ... methylchloride
+6.11_080	methanol ... phosphorus trichloride
+6.11_085	methanol ... phosphorus trichloride
+6.11_090	methanol ... phosphorus trichloride
+6.11_095	methanol ... phosphorus trichloride
+6.11_100	methanol ... phosphorus trichloride
+6.11_105	methanol ... phosphorus trichloride
+6.11_110	methanol ... phosphorus trichloride
+6.11_125	methanol ... phosphorus trichloride
+6.11_150	methanol ... phosphorus trichloride
+6.11_200	methanol ... phosphorus trichloride
+6.12_080	water ... methylchloride
+6.12_085	water ... methylchloride
+6.12_090	water ... methylchloride
+6.12_095	water ... methylchloride
+6.12_100	water ... methylchloride
+6.12_105	water ... methylchloride
+6.12_110	water ... methylchloride
+6.12_125	water ... methylchloride
+6.12_150	water ... methylchloride
+6.12_200	water ... methylchloride
+6.13_080	water ... phosphorus trichloride
+6.13_085	water ... phosphorus trichloride
+6.13_090	water ... phosphorus trichloride
+6.13_095	water ... phosphorus trichloride
+6.13_100	water ... phosphorus trichloride
+6.13_105	water ... phosphorus trichloride
+6.13_110	water ... phosphorus trichloride
+6.13_125	water ... phosphorus trichloride
+6.13_150	water ... phosphorus trichloride
+6.13_200	water ... phosphorus trichloride
+6.14_080	difluorophosphine ... chlorine
+6.14_085	difluorophosphine ... chlorine
+6.14_090	difluorophosphine ... chlorine
+6.14_095	difluorophosphine ... chlorine
+6.14_100	difluorophosphine ... chlorine
+6.14_105	difluorophosphine ... chlorine
+6.14_110	difluorophosphine ... chlorine
+6.14_125	difluorophosphine ... chlorine
+6.14_150	difluorophosphine ... chlorine
+6.14_200	difluorophosphine ... chlorine
+6.15_080	sulfane ... methylchloride
+6.15_085	sulfane ... methylchloride
+6.15_090	sulfane ... methylchloride
+6.15_095	sulfane ... methylchloride
+6.15_100	sulfane ... methylchloride
+6.15_105	sulfane ... methylchloride
+6.15_110	sulfane ... methylchloride
+6.15_125	sulfane ... methylchloride
+6.15_150	sulfane ... methylchloride
+6.15_200	sulfane ... methylchloride
+6.16_080	hydrogenfluoride ... hydrogenchloride
+6.16_085	hydrogenfluoride ... hydrogenchloride
+6.16_090	hydrogenfluoride ... hydrogenchloride
+6.16_095	hydrogenfluoride ... hydrogenchloride
+6.16_100	hydrogenfluoride ... hydrogenchloride
+6.16_105	hydrogenfluoride ... hydrogenchloride
+6.16_110	hydrogenfluoride ... hydrogenchloride
+6.16_125	hydrogenfluoride ... hydrogenchloride
+6.16_150	hydrogenfluoride ... hydrogenchloride
+6.16_200	hydrogenfluoride ... hydrogenchloride
+6.17_080	hydrogenfluoride ... methylchloride
+6.17_085	hydrogenfluoride ... methylchloride
+6.17_090	hydrogenfluoride ... methylchloride
+6.17_095	hydrogenfluoride ... methylchloride
+6.17_100	hydrogenfluoride ... methylchloride
+6.17_105	hydrogenfluoride ... methylchloride
+6.17_110	hydrogenfluoride ... methylchloride
+6.17_125	hydrogenfluoride ... methylchloride
+6.17_150	hydrogenfluoride ... methylchloride
+6.17_200	hydrogenfluoride ... methylchloride
+6.18_080	hydrogenfluoride ... phosphorus trichloride
+6.18_085	hydrogenfluoride ... phosphorus trichloride
+6.18_090	hydrogenfluoride ... phosphorus trichloride
+6.18_095	hydrogenfluoride ... phosphorus trichloride
+6.18_100	hydrogenfluoride ... phosphorus trichloride
+6.18_105	hydrogenfluoride ... phosphorus trichloride
+6.18_110	hydrogenfluoride ... phosphorus trichloride
+6.18_125	hydrogenfluoride ... phosphorus trichloride
+6.18_150	hydrogenfluoride ... phosphorus trichloride
+6.18_200	hydrogenfluoride ... phosphorus trichloride
+6.19_080	hydrogenfluoride ... disulfur dichloride
+6.19_085	hydrogenfluoride ... disulfur dichloride
+6.19_090	hydrogenfluoride ... disulfur dichloride
+6.19_095	hydrogenfluoride ... disulfur dichloride
+6.19_100	hydrogenfluoride ... disulfur dichloride
+6.19_105	hydrogenfluoride ... disulfur dichloride
+6.19_110	hydrogenfluoride ... disulfur dichloride
+6.19_125	hydrogenfluoride ... disulfur dichloride
+6.19_150	hydrogenfluoride ... disulfur dichloride
+6.19_200	hydrogenfluoride ... disulfur dichloride
+6.20_080	hydrogenchloride ... chlorine
+6.20_085	hydrogenchloride ... chlorine
+6.20_090	hydrogenchloride ... chlorine
+6.20_095	hydrogenchloride ... chlorine
+6.20_100	hydrogenchloride ... chlorine
+6.20_105	hydrogenchloride ... chlorine
+6.20_110	hydrogenchloride ... chlorine
+6.20_125	hydrogenchloride ... chlorine
+6.20_150	hydrogenchloride ... chlorine
+6.20_200	hydrogenchloride ... chlorine
+6.21_080	hydrogenchloride ... hydrogenchloride
+6.21_085	hydrogenchloride ... hydrogenchloride
+6.21_090	hydrogenchloride ... hydrogenchloride
+6.21_095	hydrogenchloride ... hydrogenchloride
+6.21_100	hydrogenchloride ... hydrogenchloride
+6.21_105	hydrogenchloride ... hydrogenchloride
+6.21_110	hydrogenchloride ... hydrogenchloride
+6.21_125	hydrogenchloride ... hydrogenchloride
+6.21_150	hydrogenchloride ... hydrogenchloride
+6.21_200	hydrogenchloride ... hydrogenchloride
+6.22_080	hydrogenchloride ... methylchloride
+6.22_085	hydrogenchloride ... methylchloride
+6.22_090	hydrogenchloride ... methylchloride
+6.22_095	hydrogenchloride ... methylchloride
+6.22_100	hydrogenchloride ... methylchloride
+6.22_105	hydrogenchloride ... methylchloride
+6.22_110	hydrogenchloride ... methylchloride
+6.22_125	hydrogenchloride ... methylchloride
+6.22_150	hydrogenchloride ... methylchloride
+6.22_200	hydrogenchloride ... methylchloride
+6.23_080	hydrogenchloride ... phosphorus trichloride
+6.23_085	hydrogenchloride ... phosphorus trichloride
+6.23_090	hydrogenchloride ... phosphorus trichloride
+6.23_095	hydrogenchloride ... phosphorus trichloride
+6.23_100	hydrogenchloride ... phosphorus trichloride
+6.23_105	hydrogenchloride ... phosphorus trichloride
+6.23_110	hydrogenchloride ... phosphorus trichloride
+6.23_125	hydrogenchloride ... phosphorus trichloride
+6.23_150	hydrogenchloride ... phosphorus trichloride
+6.23_200	hydrogenchloride ... phosphorus trichloride
+6.24_080	hydrogenchloride ... disulfur dichloride
+6.24_085	hydrogenchloride ... disulfur dichloride
+6.24_090	hydrogenchloride ... disulfur dichloride
+6.24_095	hydrogenchloride ... disulfur dichloride
+6.24_100	hydrogenchloride ... disulfur dichloride
+6.24_105	hydrogenchloride ... disulfur dichloride
+6.24_110	hydrogenchloride ... disulfur dichloride
+6.24_125	hydrogenchloride ... disulfur dichloride
+6.24_150	hydrogenchloride ... disulfur dichloride
+6.24_200	hydrogenchloride ... disulfur dichloride
+6.25_080	hydrogenbromide ... hydrogenchloride
+6.25_085	hydrogenbromide ... hydrogenchloride
+6.25_090	hydrogenbromide ... hydrogenchloride
+6.25_095	hydrogenbromide ... hydrogenchloride
+6.25_100	hydrogenbromide ... hydrogenchloride
+6.25_105	hydrogenbromide ... hydrogenchloride
+6.25_110	hydrogenbromide ... hydrogenchloride
+6.25_125	hydrogenbromide ... hydrogenchloride
+6.25_150	hydrogenbromide ... hydrogenchloride
+6.25_200	hydrogenbromide ... hydrogenchloride
+6.26_080	hydrogenbromide ... methylchloride
+6.26_085	hydrogenbromide ... methylchloride
+6.26_090	hydrogenbromide ... methylchloride
+6.26_095	hydrogenbromide ... methylchloride
+6.26_100	hydrogenbromide ... methylchloride
+6.26_105	hydrogenbromide ... methylchloride
+6.26_110	hydrogenbromide ... methylchloride
+6.26_125	hydrogenbromide ... methylchloride
+6.26_150	hydrogenbromide ... methylchloride
+6.26_200	hydrogenbromide ... methylchloride
+6.27_080	hydrogenbromide ... phosphorus trichloride
+6.27_085	hydrogenbromide ... phosphorus trichloride
+6.27_090	hydrogenbromide ... phosphorus trichloride
+6.27_095	hydrogenbromide ... phosphorus trichloride
+6.27_100	hydrogenbromide ... phosphorus trichloride
+6.27_105	hydrogenbromide ... phosphorus trichloride
+6.27_110	hydrogenbromide ... phosphorus trichloride
+6.27_125	hydrogenbromide ... phosphorus trichloride
+6.27_150	hydrogenbromide ... phosphorus trichloride
+6.27_200	hydrogenbromide ... phosphorus trichloride
+6.28_080	hydrogenbromide ... disulfur dichloride
+6.28_085	hydrogenbromide ... disulfur dichloride
+6.28_090	hydrogenbromide ... disulfur dichloride
+6.28_095	hydrogenbromide ... disulfur dichloride
+6.28_100	hydrogenbromide ... disulfur dichloride
+6.28_105	hydrogenbromide ... disulfur dichloride
+6.28_110	hydrogenbromide ... disulfur dichloride
+6.28_125	hydrogenbromide ... disulfur dichloride
+6.28_150	hydrogenbromide ... disulfur dichloride
+6.28_200	hydrogenbromide ... disulfur dichloride
+6.29_080	hydrogeniodide ... chlorine
+6.29_085	hydrogeniodide ... chlorine
+6.29_090	hydrogeniodide ... chlorine
+6.29_095	hydrogeniodide ... chlorine
+6.29_100	hydrogeniodide ... chlorine
+6.29_105	hydrogeniodide ... chlorine
+6.29_110	hydrogeniodide ... chlorine
+6.29_125	hydrogeniodide ... chlorine
+6.29_150	hydrogeniodide ... chlorine
+6.29_200	hydrogeniodide ... chlorine
+6.30_080	hydrogeniodide ... methylchloride
+6.30_085	hydrogeniodide ... methylchloride
+6.30_090	hydrogeniodide ... methylchloride
+6.30_095	hydrogeniodide ... methylchloride
+6.30_100	hydrogeniodide ... methylchloride
+6.30_105	hydrogeniodide ... methylchloride
+6.30_110	hydrogeniodide ... methylchloride
+6.30_125	hydrogeniodide ... methylchloride
+6.30_150	hydrogeniodide ... methylchloride
+6.30_200	hydrogeniodide ... methylchloride
+6.31_080	hydrogeniodide ... phosphorus trichloride
+6.31_085	hydrogeniodide ... phosphorus trichloride
+6.31_090	hydrogeniodide ... phosphorus trichloride
+6.31_095	hydrogeniodide ... phosphorus trichloride
+6.31_100	hydrogeniodide ... phosphorus trichloride
+6.31_105	hydrogeniodide ... phosphorus trichloride
+6.31_110	hydrogeniodide ... phosphorus trichloride
+6.31_125	hydrogeniodide ... phosphorus trichloride
+6.31_150	hydrogeniodide ... phosphorus trichloride
+6.31_200	hydrogeniodide ... phosphorus trichloride
+6.32_080	hydrogeniodide ... disulfur dichloride
+6.32_085	hydrogeniodide ... disulfur dichloride
+6.32_090	hydrogeniodide ... disulfur dichloride
+6.32_095	hydrogeniodide ... disulfur dichloride
+6.32_100	hydrogeniodide ... disulfur dichloride
+6.32_105	hydrogeniodide ... disulfur dichloride
+6.32_110	hydrogeniodide ... disulfur dichloride
+6.32_125	hydrogeniodide ... disulfur dichloride
+6.32_150	hydrogeniodide ... disulfur dichloride
+6.32_200	hydrogeniodide ... disulfur dichloride
+7.01_080	N-methylacetamide ... methylbromide
+7.01_085	N-methylacetamide ... methylbromide
+7.01_090	N-methylacetamide ... methylbromide
+7.01_095	N-methylacetamide ... methylbromide
+7.01_100	N-methylacetamide ... methylbromide
+7.01_105	N-methylacetamide ... methylbromide
+7.01_110	N-methylacetamide ... methylbromide
+7.01_125	N-methylacetamide ... methylbromide
+7.01_150	N-methylacetamide ... methylbromide
+7.01_200	N-methylacetamide ... methylbromide
+7.02_080	acetic acid ... bromine
+7.02_085	acetic acid ... bromine
+7.02_090	acetic acid ... bromine
+7.02_095	acetic acid ... bromine
+7.02_100	acetic acid ... bromine
+7.02_105	acetic acid ... bromine
+7.02_110	acetic acid ... bromine
+7.02_125	acetic acid ... bromine
+7.02_150	acetic acid ... bromine
+7.02_200	acetic acid ... bromine
+7.03_080	acetic acid ... hydrogenbromide
+7.03_085	acetic acid ... hydrogenbromide
+7.03_090	acetic acid ... hydrogenbromide
+7.03_095	acetic acid ... hydrogenbromide
+7.03_100	acetic acid ... hydrogenbromide
+7.03_105	acetic acid ... hydrogenbromide
+7.03_110	acetic acid ... hydrogenbromide
+7.03_125	acetic acid ... hydrogenbromide
+7.03_150	acetic acid ... hydrogenbromide
+7.03_200	acetic acid ... hydrogenbromide
+7.04_080	acetic acid ... methylbromide
+7.04_085	acetic acid ... methylbromide
+7.04_090	acetic acid ... methylbromide
+7.04_095	acetic acid ... methylbromide
+7.04_100	acetic acid ... methylbromide
+7.04_105	acetic acid ... methylbromide
+7.04_110	acetic acid ... methylbromide
+7.04_125	acetic acid ... methylbromide
+7.04_150	acetic acid ... methylbromide
+7.04_200	acetic acid ... methylbromide
+7.05_080	methanol ... methylbromide
+7.05_085	methanol ... methylbromide
+7.05_090	methanol ... methylbromide
+7.05_095	methanol ... methylbromide
+7.05_100	methanol ... methylbromide
+7.05_105	methanol ... methylbromide
+7.05_110	methanol ... methylbromide
+7.05_125	methanol ... methylbromide
+7.05_150	methanol ... methylbromide
+7.05_200	methanol ... methylbromide
+7.06_080	water ... methylbromide
+7.06_085	water ... methylbromide
+7.06_090	water ... methylbromide
+7.06_095	water ... methylbromide
+7.06_100	water ... methylbromide
+7.06_105	water ... methylbromide
+7.06_110	water ... methylbromide
+7.06_125	water ... methylbromide
+7.06_150	water ... methylbromide
+7.06_200	water ... methylbromide
+7.07_080	difluorophosphine ... bromine
+7.07_085	difluorophosphine ... bromine
+7.07_090	difluorophosphine ... bromine
+7.07_095	difluorophosphine ... bromine
+7.07_100	difluorophosphine ... bromine
+7.07_105	difluorophosphine ... bromine
+7.07_110	difluorophosphine ... bromine
+7.07_125	difluorophosphine ... bromine
+7.07_150	difluorophosphine ... bromine
+7.07_200	difluorophosphine ... bromine
+7.08_080	sulfane ... methylbromide
+7.08_085	sulfane ... methylbromide
+7.08_090	sulfane ... methylbromide
+7.08_095	sulfane ... methylbromide
+7.08_100	sulfane ... methylbromide
+7.08_105	sulfane ... methylbromide
+7.08_110	sulfane ... methylbromide
+7.08_125	sulfane ... methylbromide
+7.08_150	sulfane ... methylbromide
+7.08_200	sulfane ... methylbromide
+7.09_080	hydrogenfluoride ... hydrogenbromide
+7.09_085	hydrogenfluoride ... hydrogenbromide
+7.09_090	hydrogenfluoride ... hydrogenbromide
+7.09_095	hydrogenfluoride ... hydrogenbromide
+7.09_100	hydrogenfluoride ... hydrogenbromide
+7.09_105	hydrogenfluoride ... hydrogenbromide
+7.09_110	hydrogenfluoride ... hydrogenbromide
+7.09_125	hydrogenfluoride ... hydrogenbromide
+7.09_150	hydrogenfluoride ... hydrogenbromide
+7.09_200	hydrogenfluoride ... hydrogenbromide
+7.10_080	hydrogenfluoride ... methylbromide
+7.10_085	hydrogenfluoride ... methylbromide
+7.10_090	hydrogenfluoride ... methylbromide
+7.10_095	hydrogenfluoride ... methylbromide
+7.10_100	hydrogenfluoride ... methylbromide
+7.10_105	hydrogenfluoride ... methylbromide
+7.10_110	hydrogenfluoride ... methylbromide
+7.10_125	hydrogenfluoride ... methylbromide
+7.10_150	hydrogenfluoride ... methylbromide
+7.10_200	hydrogenfluoride ... methylbromide
+7.11_080	hydrogenchloride ... hydrogenbromide
+7.11_085	hydrogenchloride ... hydrogenbromide
+7.11_090	hydrogenchloride ... hydrogenbromide
+7.11_095	hydrogenchloride ... hydrogenbromide
+7.11_100	hydrogenchloride ... hydrogenbromide
+7.11_105	hydrogenchloride ... hydrogenbromide
+7.11_110	hydrogenchloride ... hydrogenbromide
+7.11_125	hydrogenchloride ... hydrogenbromide
+7.11_150	hydrogenchloride ... hydrogenbromide
+7.11_200	hydrogenchloride ... hydrogenbromide
+7.12_080	hydrogenchloride ... methylbromide
+7.12_085	hydrogenchloride ... methylbromide
+7.12_090	hydrogenchloride ... methylbromide
+7.12_095	hydrogenchloride ... methylbromide
+7.12_100	hydrogenchloride ... methylbromide
+7.12_105	hydrogenchloride ... methylbromide
+7.12_110	hydrogenchloride ... methylbromide
+7.12_125	hydrogenchloride ... methylbromide
+7.12_150	hydrogenchloride ... methylbromide
+7.12_200	hydrogenchloride ... methylbromide
+7.13_080	hydrogenbromide ... hydrogenbromide
+7.13_085	hydrogenbromide ... hydrogenbromide
+7.13_090	hydrogenbromide ... hydrogenbromide
+7.13_095	hydrogenbromide ... hydrogenbromide
+7.13_100	hydrogenbromide ... hydrogenbromide
+7.13_105	hydrogenbromide ... hydrogenbromide
+7.13_110	hydrogenbromide ... hydrogenbromide
+7.13_125	hydrogenbromide ... hydrogenbromide
+7.13_150	hydrogenbromide ... hydrogenbromide
+7.13_200	hydrogenbromide ... hydrogenbromide
+7.14_080	hydrogenbromide ... methylbromide
+7.14_085	hydrogenbromide ... methylbromide
+7.14_090	hydrogenbromide ... methylbromide
+7.14_095	hydrogenbromide ... methylbromide
+7.14_100	hydrogenbromide ... methylbromide
+7.14_105	hydrogenbromide ... methylbromide
+7.14_110	hydrogenbromide ... methylbromide
+7.14_125	hydrogenbromide ... methylbromide
+7.14_150	hydrogenbromide ... methylbromide
+7.14_200	hydrogenbromide ... methylbromide
+7.15_080	hydrogeniodide ... bromine
+7.15_085	hydrogeniodide ... bromine
+7.15_090	hydrogeniodide ... bromine
+7.15_095	hydrogeniodide ... bromine
+7.15_100	hydrogeniodide ... bromine
+7.15_105	hydrogeniodide ... bromine
+7.15_110	hydrogeniodide ... bromine
+7.15_125	hydrogeniodide ... bromine
+7.15_150	hydrogeniodide ... bromine
+7.15_200	hydrogeniodide ... bromine
+7.16_080	hydrogeniodide ... hydrogenbromide
+7.16_085	hydrogeniodide ... hydrogenbromide
+7.16_090	hydrogeniodide ... hydrogenbromide
+7.16_095	hydrogeniodide ... hydrogenbromide
+7.16_100	hydrogeniodide ... hydrogenbromide
+7.16_105	hydrogeniodide ... hydrogenbromide
+7.16_110	hydrogeniodide ... hydrogenbromide
+7.16_125	hydrogeniodide ... hydrogenbromide
+7.16_150	hydrogeniodide ... hydrogenbromide
+7.16_200	hydrogeniodide ... hydrogenbromide
+7.33_080	ethyne ... methylbromide
+7.33_085	ethyne ... methylbromide
+7.33_090	ethyne ... methylbromide
+7.33_095	ethyne ... methylbromide
+7.33_100	ethyne ... methylbromide
+7.33_105	ethyne ... methylbromide
+7.33_110	ethyne ... methylbromide
+7.33_125	ethyne ... methylbromide
+7.33_150	ethyne ... methylbromide
+7.33_200	ethyne ... methylbromide
+8.01_080	ethyne ... iodine
+8.01_085	ethyne ... iodine
+8.01_090	ethyne ... iodine
+8.01_095	ethyne ... iodine
+8.01_100	ethyne ... iodine
+8.01_105	ethyne ... iodine
+8.01_110	ethyne ... iodine
+8.01_125	ethyne ... iodine
+8.01_150	ethyne ... iodine
+8.01_200	ethyne ... iodine
+8.02_080	acetic acid ... iodine
+8.02_085	acetic acid ... iodine
+8.02_090	acetic acid ... iodine
+8.02_095	acetic acid ... iodine
+8.02_100	acetic acid ... iodine
+8.02_105	acetic acid ... iodine
+8.02_110	acetic acid ... iodine
+8.02_125	acetic acid ... iodine
+8.02_150	acetic acid ... iodine
+8.02_200	acetic acid ... iodine
+8.03_080	acetic acid ... methyliodide
+8.03_085	acetic acid ... methyliodide
+8.03_090	acetic acid ... methyliodide
+8.03_095	acetic acid ... methyliodide
+8.03_100	acetic acid ... methyliodide
+8.03_105	acetic acid ... methyliodide
+8.03_110	acetic acid ... methyliodide
+8.03_125	acetic acid ... methyliodide
+8.03_150	acetic acid ... methyliodide
+8.03_200	acetic acid ... methyliodide
+8.04_080	chloric acid ... hydrogeniodide
+8.04_085	chloric acid ... hydrogeniodide
+8.04_090	chloric acid ... hydrogeniodide
+8.04_095	chloric acid ... hydrogeniodide
+8.04_100	chloric acid ... hydrogeniodide
+8.04_105	chloric acid ... hydrogeniodide
+8.04_110	chloric acid ... hydrogeniodide
+8.04_125	chloric acid ... hydrogeniodide
+8.04_150	chloric acid ... hydrogeniodide
+8.04_200	chloric acid ... hydrogeniodide
+8.05_080	methanol ... iodine
+8.05_085	methanol ... iodine
+8.05_090	methanol ... iodine
+8.05_095	methanol ... iodine
+8.05_100	methanol ... iodine
+8.05_105	methanol ... iodine
+8.05_110	methanol ... iodine
+8.05_125	methanol ... iodine
+8.05_150	methanol ... iodine
+8.05_200	methanol ... iodine
+8.06_080	phosphoric acid ... hydrogeniodide
+8.06_085	phosphoric acid ... hydrogeniodide
+8.06_090	phosphoric acid ... hydrogeniodide
+8.06_095	phosphoric acid ... hydrogeniodide
+8.06_100	phosphoric acid ... hydrogeniodide
+8.06_105	phosphoric acid ... hydrogeniodide
+8.06_110	phosphoric acid ... hydrogeniodide
+8.06_125	phosphoric acid ... hydrogeniodide
+8.06_150	phosphoric acid ... hydrogeniodide
+8.06_200	phosphoric acid ... hydrogeniodide
+8.07_080	water ... methyliodide
+8.07_085	water ... methyliodide
+8.07_090	water ... methyliodide
+8.07_095	water ... methyliodide
+8.07_100	water ... methyliodide
+8.07_105	water ... methyliodide
+8.07_110	water ... methyliodide
+8.07_125	water ... methyliodide
+8.07_150	water ... methyliodide
+8.07_200	water ... methyliodide
+8.08_080	water ... iodine
+8.08_085	water ... iodine
+8.08_090	water ... iodine
+8.08_095	water ... iodine
+8.08_100	water ... iodine
+8.08_105	water ... iodine
+8.08_110	water ... iodine
+8.08_125	water ... iodine
+8.08_150	water ... iodine
+8.08_200	water ... iodine
+8.09_080	difluorophosphine ... iodine
+8.09_085	difluorophosphine ... iodine
+8.09_090	difluorophosphine ... iodine
+8.09_095	difluorophosphine ... iodine
+8.09_100	difluorophosphine ... iodine
+8.09_105	difluorophosphine ... iodine
+8.09_110	difluorophosphine ... iodine
+8.09_125	difluorophosphine ... iodine
+8.09_150	difluorophosphine ... iodine
+8.09_200	difluorophosphine ... iodine
+8.10_080	hydrogenfluoride ... hydrogeniodide
+8.10_085	hydrogenfluoride ... hydrogeniodide
+8.10_090	hydrogenfluoride ... hydrogeniodide
+8.10_095	hydrogenfluoride ... hydrogeniodide
+8.10_100	hydrogenfluoride ... hydrogeniodide
+8.10_105	hydrogenfluoride ... hydrogeniodide
+8.10_110	hydrogenfluoride ... hydrogeniodide
+8.10_125	hydrogenfluoride ... hydrogeniodide
+8.10_150	hydrogenfluoride ... hydrogeniodide
+8.10_200	hydrogenfluoride ... hydrogeniodide
+8.11_080	hydrogenfluoride ... iodine
+8.11_085	hydrogenfluoride ... iodine
+8.11_090	hydrogenfluoride ... iodine
+8.11_095	hydrogenfluoride ... iodine
+8.11_100	hydrogenfluoride ... iodine
+8.11_105	hydrogenfluoride ... iodine
+8.11_110	hydrogenfluoride ... iodine
+8.11_125	hydrogenfluoride ... iodine
+8.11_150	hydrogenfluoride ... iodine
+8.11_200	hydrogenfluoride ... iodine
+8.12_080	hydrogenfluoride ... methyliodide
+8.12_085	hydrogenfluoride ... methyliodide
+8.12_090	hydrogenfluoride ... methyliodide
+8.12_095	hydrogenfluoride ... methyliodide
+8.12_100	hydrogenfluoride ... methyliodide
+8.12_105	hydrogenfluoride ... methyliodide
+8.12_110	hydrogenfluoride ... methyliodide
+8.12_125	hydrogenfluoride ... methyliodide
+8.12_150	hydrogenfluoride ... methyliodide
+8.12_200	hydrogenfluoride ... methyliodide
+8.13_080	hydrogenchloride ... hydrogeniodide
+8.13_085	hydrogenchloride ... hydrogeniodide
+8.13_090	hydrogenchloride ... hydrogeniodide
+8.13_095	hydrogenchloride ... hydrogeniodide
+8.13_100	hydrogenchloride ... hydrogeniodide
+8.13_105	hydrogenchloride ... hydrogeniodide
+8.13_110	hydrogenchloride ... hydrogeniodide
+8.13_125	hydrogenchloride ... hydrogeniodide
+8.13_150	hydrogenchloride ... hydrogeniodide
+8.13_200	hydrogenchloride ... hydrogeniodide
+8.14_080	hydrogenchloride ... iodine
+8.14_085	hydrogenchloride ... iodine
+8.14_090	hydrogenchloride ... iodine
+8.14_095	hydrogenchloride ... iodine
+8.14_100	hydrogenchloride ... iodine
+8.14_105	hydrogenchloride ... iodine
+8.14_110	hydrogenchloride ... iodine
+8.14_125	hydrogenchloride ... iodine
+8.14_150	hydrogenchloride ... iodine
+8.14_200	hydrogenchloride ... iodine
+8.15_080	hydrogenchloride ... methyliodide
+8.15_085	hydrogenchloride ... methyliodide
+8.15_090	hydrogenchloride ... methyliodide
+8.15_095	hydrogenchloride ... methyliodide
+8.15_100	hydrogenchloride ... methyliodide
+8.15_105	hydrogenchloride ... methyliodide
+8.15_110	hydrogenchloride ... methyliodide
+8.15_125	hydrogenchloride ... methyliodide
+8.15_150	hydrogenchloride ... methyliodide
+8.15_200	hydrogenchloride ... methyliodide
+8.16_080	hydrogenbromide ... iodine
+8.16_085	hydrogenbromide ... iodine
+8.16_090	hydrogenbromide ... iodine
+8.16_095	hydrogenbromide ... iodine
+8.16_100	hydrogenbromide ... iodine
+8.16_105	hydrogenbromide ... iodine
+8.16_110	hydrogenbromide ... iodine
+8.16_125	hydrogenbromide ... iodine
+8.16_150	hydrogenbromide ... iodine
+8.16_200	hydrogenbromide ... iodine
+8.17_080	hydrogenbromide ... methyliodide
+8.17_085	hydrogenbromide ... methyliodide
+8.17_090	hydrogenbromide ... methyliodide
+8.17_095	hydrogenbromide ... methyliodide
+8.17_100	hydrogenbromide ... methyliodide
+8.17_105	hydrogenbromide ... methyliodide
+8.17_110	hydrogenbromide ... methyliodide
+8.17_125	hydrogenbromide ... methyliodide
+8.17_150	hydrogenbromide ... methyliodide
+8.17_200	hydrogenbromide ... methyliodide
+8.18_080	hydrogeniodide ... iodine
+8.18_085	hydrogeniodide ... iodine
+8.18_090	hydrogeniodide ... iodine
+8.18_095	hydrogeniodide ... iodine
+8.18_100	hydrogeniodide ... iodine
+8.18_105	hydrogeniodide ... iodine
+8.18_110	hydrogeniodide ... iodine
+8.18_125	hydrogeniodide ... iodine
+8.18_150	hydrogeniodide ... iodine
+8.18_200	hydrogeniodide ... iodine
+8.19_080	hydrogeniodide ... methyliodide
+8.19_085	hydrogeniodide ... methyliodide
+8.19_090	hydrogeniodide ... methyliodide
+8.19_095	hydrogeniodide ... methyliodide
+8.19_100	hydrogeniodide ... methyliodide
+8.19_105	hydrogeniodide ... methyliodide
+8.19_110	hydrogeniodide ... methyliodide
+8.19_125	hydrogeniodide ... methyliodide
+8.19_150	hydrogeniodide ... methyliodide
+8.19_200	hydrogeniodide ... methyliodide

@@ -1,0 +1,3751 @@
+# system names
+1.001_080	acetic acid ... acetaldehyde
+1.001_085	acetic acid ... acetaldehyde
+1.001_090	acetic acid ... acetaldehyde
+1.001_095	acetic acid ... acetaldehyde
+1.001_100	acetic acid ... acetaldehyde
+1.001_105	acetic acid ... acetaldehyde
+1.001_110	acetic acid ... acetaldehyde
+1.001_125	acetic acid ... acetaldehyde
+1.001_150	acetic acid ... acetaldehyde
+1.001_200	acetic acid ... acetaldehyde
+1.002_080	acetic acid ... acetamide
+1.002_085	acetic acid ... acetamide
+1.002_090	acetic acid ... acetamide
+1.002_095	acetic acid ... acetamide
+1.002_100	acetic acid ... acetamide
+1.002_105	acetic acid ... acetamide
+1.002_110	acetic acid ... acetamide
+1.002_125	acetic acid ... acetamide
+1.002_150	acetic acid ... acetamide
+1.002_200	acetic acid ... acetamide
+1.003_080	acetic acid ... acetone
+1.003_085	acetic acid ... acetone
+1.003_090	acetic acid ... acetone
+1.003_095	acetic acid ... acetone
+1.003_100	acetic acid ... acetone
+1.003_105	acetic acid ... acetone
+1.003_110	acetic acid ... acetone
+1.003_125	acetic acid ... acetone
+1.003_150	acetic acid ... acetone
+1.003_200	acetic acid ... acetone
+1.004_080	acetic acid ... dimethylcarbonate
+1.004_085	acetic acid ... dimethylcarbonate
+1.004_090	acetic acid ... dimethylcarbonate
+1.004_095	acetic acid ... dimethylcarbonate
+1.004_100	acetic acid ... dimethylcarbonate
+1.004_105	acetic acid ... dimethylcarbonate
+1.004_110	acetic acid ... dimethylcarbonate
+1.004_125	acetic acid ... dimethylcarbonate
+1.004_150	acetic acid ... dimethylcarbonate
+1.004_200	acetic acid ... dimethylcarbonate
+1.005_080	acetic acid ... dimethylether
+1.005_085	acetic acid ... dimethylether
+1.005_090	acetic acid ... dimethylether
+1.005_095	acetic acid ... dimethylether
+1.005_100	acetic acid ... dimethylether
+1.005_105	acetic acid ... dimethylether
+1.005_110	acetic acid ... dimethylether
+1.005_125	acetic acid ... dimethylether
+1.005_150	acetic acid ... dimethylether
+1.005_200	acetic acid ... dimethylether
+1.006_080	acetic acid ... dimethylperoxide
+1.006_085	acetic acid ... dimethylperoxide
+1.006_090	acetic acid ... dimethylperoxide
+1.006_095	acetic acid ... dimethylperoxide
+1.006_100	acetic acid ... dimethylperoxide
+1.006_105	acetic acid ... dimethylperoxide
+1.006_110	acetic acid ... dimethylperoxide
+1.006_125	acetic acid ... dimethylperoxide
+1.006_150	acetic acid ... dimethylperoxide
+1.006_200	acetic acid ... dimethylperoxide
+1.007_080	acetic acid ... furan
+1.007_085	acetic acid ... furan
+1.007_090	acetic acid ... furan
+1.007_095	acetic acid ... furan
+1.007_100	acetic acid ... furan
+1.007_105	acetic acid ... furan
+1.007_110	acetic acid ... furan
+1.007_125	acetic acid ... furan
+1.007_150	acetic acid ... furan
+1.007_200	acetic acid ... furan
+1.008_080	acetic acid ... methanol
+1.008_085	acetic acid ... methanol
+1.008_090	acetic acid ... methanol
+1.008_095	acetic acid ... methanol
+1.008_100	acetic acid ... methanol
+1.008_105	acetic acid ... methanol
+1.008_110	acetic acid ... methanol
+1.008_125	acetic acid ... methanol
+1.008_150	acetic acid ... methanol
+1.008_200	acetic acid ... methanol
+1.009_080	acetic acid ... methylacetate
+1.009_085	acetic acid ... methylacetate
+1.009_090	acetic acid ... methylacetate
+1.009_095	acetic acid ... methylacetate
+1.009_100	acetic acid ... methylacetate
+1.009_105	acetic acid ... methylacetate
+1.009_110	acetic acid ... methylacetate
+1.009_125	acetic acid ... methylacetate
+1.009_150	acetic acid ... methylacetate
+1.009_200	acetic acid ... methylacetate
+1.010_080	acetic acid ... methylcyanate
+1.010_085	acetic acid ... methylcyanate
+1.010_090	acetic acid ... methylcyanate
+1.010_095	acetic acid ... methylcyanate
+1.010_100	acetic acid ... methylcyanate
+1.010_105	acetic acid ... methylcyanate
+1.010_110	acetic acid ... methylcyanate
+1.010_125	acetic acid ... methylcyanate
+1.010_150	acetic acid ... methylcyanate
+1.010_200	acetic acid ... methylcyanate
+1.011_080	acetic acid ... nitromethane
+1.011_085	acetic acid ... nitromethane
+1.011_090	acetic acid ... nitromethane
+1.011_095	acetic acid ... nitromethane
+1.011_100	acetic acid ... nitromethane
+1.011_105	acetic acid ... nitromethane
+1.011_110	acetic acid ... nitromethane
+1.011_125	acetic acid ... nitromethane
+1.011_150	acetic acid ... nitromethane
+1.011_200	acetic acid ... nitromethane
+1.012_080	acetic acid ... nitrosomethane
+1.012_085	acetic acid ... nitrosomethane
+1.012_090	acetic acid ... nitrosomethane
+1.012_095	acetic acid ... nitrosomethane
+1.012_100	acetic acid ... nitrosomethane
+1.012_105	acetic acid ... nitrosomethane
+1.012_110	acetic acid ... nitrosomethane
+1.012_125	acetic acid ... nitrosomethane
+1.012_150	acetic acid ... nitrosomethane
+1.012_200	acetic acid ... nitrosomethane
+1.013_080	acetic acid ... N-methylacetamide
+1.013_085	acetic acid ... N-methylacetamide
+1.013_090	acetic acid ... N-methylacetamide
+1.013_095	acetic acid ... N-methylacetamide
+1.013_100	acetic acid ... N-methylacetamide
+1.013_105	acetic acid ... N-methylacetamide
+1.013_110	acetic acid ... N-methylacetamide
+1.013_125	acetic acid ... N-methylacetamide
+1.013_150	acetic acid ... N-methylacetamide
+1.013_200	acetic acid ... N-methylacetamide
+1.014_080	acetic acid ... water
+1.014_085	acetic acid ... water
+1.014_090	acetic acid ... water
+1.014_095	acetic acid ... water
+1.014_100	acetic acid ... water
+1.014_105	acetic acid ... water
+1.014_110	acetic acid ... water
+1.014_125	acetic acid ... water
+1.014_150	acetic acid ... water
+1.014_200	acetic acid ... water
+1.015_080	methanol ... acetaldehyde
+1.015_085	methanol ... acetaldehyde
+1.015_090	methanol ... acetaldehyde
+1.015_095	methanol ... acetaldehyde
+1.015_100	methanol ... acetaldehyde
+1.015_105	methanol ... acetaldehyde
+1.015_110	methanol ... acetaldehyde
+1.015_125	methanol ... acetaldehyde
+1.015_150	methanol ... acetaldehyde
+1.015_200	methanol ... acetaldehyde
+1.016_080	methanol ... acetamide
+1.016_085	methanol ... acetamide
+1.016_090	methanol ... acetamide
+1.016_095	methanol ... acetamide
+1.016_100	methanol ... acetamide
+1.016_105	methanol ... acetamide
+1.016_110	methanol ... acetamide
+1.016_125	methanol ... acetamide
+1.016_150	methanol ... acetamide
+1.016_200	methanol ... acetamide
+1.017_080	methanol ... acetic acid
+1.017_085	methanol ... acetic acid
+1.017_090	methanol ... acetic acid
+1.017_095	methanol ... acetic acid
+1.017_100	methanol ... acetic acid
+1.017_105	methanol ... acetic acid
+1.017_110	methanol ... acetic acid
+1.017_125	methanol ... acetic acid
+1.017_150	methanol ... acetic acid
+1.017_200	methanol ... acetic acid
+1.018_080	methanol ... acetone
+1.018_085	methanol ... acetone
+1.018_090	methanol ... acetone
+1.018_095	methanol ... acetone
+1.018_100	methanol ... acetone
+1.018_105	methanol ... acetone
+1.018_110	methanol ... acetone
+1.018_125	methanol ... acetone
+1.018_150	methanol ... acetone
+1.018_200	methanol ... acetone
+1.019_080	methanol ... dimethylcarbonate
+1.019_085	methanol ... dimethylcarbonate
+1.019_090	methanol ... dimethylcarbonate
+1.019_095	methanol ... dimethylcarbonate
+1.019_100	methanol ... dimethylcarbonate
+1.019_105	methanol ... dimethylcarbonate
+1.019_110	methanol ... dimethylcarbonate
+1.019_125	methanol ... dimethylcarbonate
+1.019_150	methanol ... dimethylcarbonate
+1.019_200	methanol ... dimethylcarbonate
+1.020_080	methanol ... dimethylether
+1.020_085	methanol ... dimethylether
+1.020_090	methanol ... dimethylether
+1.020_095	methanol ... dimethylether
+1.020_100	methanol ... dimethylether
+1.020_105	methanol ... dimethylether
+1.020_110	methanol ... dimethylether
+1.020_125	methanol ... dimethylether
+1.020_150	methanol ... dimethylether
+1.020_200	methanol ... dimethylether
+1.021_080	methanol ... dimethylperoxide
+1.021_085	methanol ... dimethylperoxide
+1.021_090	methanol ... dimethylperoxide
+1.021_095	methanol ... dimethylperoxide
+1.021_100	methanol ... dimethylperoxide
+1.021_105	methanol ... dimethylperoxide
+1.021_110	methanol ... dimethylperoxide
+1.021_125	methanol ... dimethylperoxide
+1.021_150	methanol ... dimethylperoxide
+1.021_200	methanol ... dimethylperoxide
+1.022_080	methanol ... furan
+1.022_085	methanol ... furan
+1.022_090	methanol ... furan
+1.022_095	methanol ... furan
+1.022_100	methanol ... furan
+1.022_105	methanol ... furan
+1.022_110	methanol ... furan
+1.022_125	methanol ... furan
+1.022_150	methanol ... furan
+1.022_200	methanol ... furan
+1.023_080	methanol ... methanol
+1.023_085	methanol ... methanol
+1.023_090	methanol ... methanol
+1.023_095	methanol ... methanol
+1.023_100	methanol ... methanol
+1.023_105	methanol ... methanol
+1.023_110	methanol ... methanol
+1.023_125	methanol ... methanol
+1.023_150	methanol ... methanol
+1.023_200	methanol ... methanol
+1.024_080	methanol ... methylacetate
+1.024_085	methanol ... methylacetate
+1.024_090	methanol ... methylacetate
+1.024_095	methanol ... methylacetate
+1.024_100	methanol ... methylacetate
+1.024_105	methanol ... methylacetate
+1.024_110	methanol ... methylacetate
+1.024_125	methanol ... methylacetate
+1.024_150	methanol ... methylacetate
+1.024_200	methanol ... methylacetate
+1.025_080	methanol ... nitromethane
+1.025_085	methanol ... nitromethane
+1.025_090	methanol ... nitromethane
+1.025_095	methanol ... nitromethane
+1.025_100	methanol ... nitromethane
+1.025_105	methanol ... nitromethane
+1.025_110	methanol ... nitromethane
+1.025_125	methanol ... nitromethane
+1.025_150	methanol ... nitromethane
+1.025_200	methanol ... nitromethane
+1.026_080	methanol ... nitrosomethane
+1.026_085	methanol ... nitrosomethane
+1.026_090	methanol ... nitrosomethane
+1.026_095	methanol ... nitrosomethane
+1.026_100	methanol ... nitrosomethane
+1.026_105	methanol ... nitrosomethane
+1.026_110	methanol ... nitrosomethane
+1.026_125	methanol ... nitrosomethane
+1.026_150	methanol ... nitrosomethane
+1.026_200	methanol ... nitrosomethane
+1.027_080	methanol ... N-methylacetamide
+1.027_085	methanol ... N-methylacetamide
+1.027_090	methanol ... N-methylacetamide
+1.027_095	methanol ... N-methylacetamide
+1.027_100	methanol ... N-methylacetamide
+1.027_105	methanol ... N-methylacetamide
+1.027_110	methanol ... N-methylacetamide
+1.027_125	methanol ... N-methylacetamide
+1.027_150	methanol ... N-methylacetamide
+1.027_200	methanol ... N-methylacetamide
+1.028_080	methanol ... phenol
+1.028_085	methanol ... phenol
+1.028_090	methanol ... phenol
+1.028_095	methanol ... phenol
+1.028_100	methanol ... phenol
+1.028_105	methanol ... phenol
+1.028_110	methanol ... phenol
+1.028_125	methanol ... phenol
+1.028_150	methanol ... phenol
+1.028_200	methanol ... phenol
+1.029_080	methanol ... water
+1.029_085	methanol ... water
+1.029_090	methanol ... water
+1.029_095	methanol ... water
+1.029_100	methanol ... water
+1.029_105	methanol ... water
+1.029_110	methanol ... water
+1.029_125	methanol ... water
+1.029_150	methanol ... water
+1.029_200	methanol ... water
+1.030_080	phenol ... acetaldehyde
+1.030_085	phenol ... acetaldehyde
+1.030_090	phenol ... acetaldehyde
+1.030_095	phenol ... acetaldehyde
+1.030_100	phenol ... acetaldehyde
+1.030_105	phenol ... acetaldehyde
+1.030_110	phenol ... acetaldehyde
+1.030_125	phenol ... acetaldehyde
+1.030_150	phenol ... acetaldehyde
+1.030_200	phenol ... acetaldehyde
+1.031_080	phenol ... acetamide
+1.031_085	phenol ... acetamide
+1.031_090	phenol ... acetamide
+1.031_095	phenol ... acetamide
+1.031_100	phenol ... acetamide
+1.031_105	phenol ... acetamide
+1.031_110	phenol ... acetamide
+1.031_125	phenol ... acetamide
+1.031_150	phenol ... acetamide
+1.031_200	phenol ... acetamide
+1.032_080	phenol ... acetone
+1.032_085	phenol ... acetone
+1.032_090	phenol ... acetone
+1.032_095	phenol ... acetone
+1.032_100	phenol ... acetone
+1.032_105	phenol ... acetone
+1.032_110	phenol ... acetone
+1.032_125	phenol ... acetone
+1.032_150	phenol ... acetone
+1.032_200	phenol ... acetone
+1.033_080	phenol ... dimethylcarbonate
+1.033_085	phenol ... dimethylcarbonate
+1.033_090	phenol ... dimethylcarbonate
+1.033_095	phenol ... dimethylcarbonate
+1.033_100	phenol ... dimethylcarbonate
+1.033_105	phenol ... dimethylcarbonate
+1.033_110	phenol ... dimethylcarbonate
+1.033_125	phenol ... dimethylcarbonate
+1.033_150	phenol ... dimethylcarbonate
+1.033_200	phenol ... dimethylcarbonate
+1.034_080	phenol ... dimethylether
+1.034_085	phenol ... dimethylether
+1.034_090	phenol ... dimethylether
+1.034_095	phenol ... dimethylether
+1.034_100	phenol ... dimethylether
+1.034_105	phenol ... dimethylether
+1.034_110	phenol ... dimethylether
+1.034_125	phenol ... dimethylether
+1.034_150	phenol ... dimethylether
+1.034_200	phenol ... dimethylether
+1.035_080	phenol ... dimethylperoxide
+1.035_085	phenol ... dimethylperoxide
+1.035_090	phenol ... dimethylperoxide
+1.035_095	phenol ... dimethylperoxide
+1.035_100	phenol ... dimethylperoxide
+1.035_105	phenol ... dimethylperoxide
+1.035_110	phenol ... dimethylperoxide
+1.035_125	phenol ... dimethylperoxide
+1.035_150	phenol ... dimethylperoxide
+1.035_200	phenol ... dimethylperoxide
+1.036_080	phenol ... furan
+1.036_085	phenol ... furan
+1.036_090	phenol ... furan
+1.036_095	phenol ... furan
+1.036_100	phenol ... furan
+1.036_105	phenol ... furan
+1.036_110	phenol ... furan
+1.036_125	phenol ... furan
+1.036_150	phenol ... furan
+1.036_200	phenol ... furan
+1.037_080	phenol ... methanol
+1.037_085	phenol ... methanol
+1.037_090	phenol ... methanol
+1.037_095	phenol ... methanol
+1.037_100	phenol ... methanol
+1.037_105	phenol ... methanol
+1.037_110	phenol ... methanol
+1.037_125	phenol ... methanol
+1.037_150	phenol ... methanol
+1.037_200	phenol ... methanol
+1.038_080	phenol ... methylacetate
+1.038_085	phenol ... methylacetate
+1.038_090	phenol ... methylacetate
+1.038_095	phenol ... methylacetate
+1.038_100	phenol ... methylacetate
+1.038_105	phenol ... methylacetate
+1.038_110	phenol ... methylacetate
+1.038_125	phenol ... methylacetate
+1.038_150	phenol ... methylacetate
+1.038_200	phenol ... methylacetate
+1.039_080	phenol ... nitromethane
+1.039_085	phenol ... nitromethane
+1.039_090	phenol ... nitromethane
+1.039_095	phenol ... nitromethane
+1.039_100	phenol ... nitromethane
+1.039_105	phenol ... nitromethane
+1.039_110	phenol ... nitromethane
+1.039_125	phenol ... nitromethane
+1.039_150	phenol ... nitromethane
+1.039_200	phenol ... nitromethane
+1.040_080	phenol ... nitrosomethane
+1.040_085	phenol ... nitrosomethane
+1.040_090	phenol ... nitrosomethane
+1.040_095	phenol ... nitrosomethane
+1.040_100	phenol ... nitrosomethane
+1.040_105	phenol ... nitrosomethane
+1.040_110	phenol ... nitrosomethane
+1.040_125	phenol ... nitrosomethane
+1.040_150	phenol ... nitrosomethane
+1.040_200	phenol ... nitrosomethane
+1.041_080	phenol ... N-methylacetamide
+1.041_085	phenol ... N-methylacetamide
+1.041_090	phenol ... N-methylacetamide
+1.041_095	phenol ... N-methylacetamide
+1.041_100	phenol ... N-methylacetamide
+1.041_105	phenol ... N-methylacetamide
+1.041_110	phenol ... N-methylacetamide
+1.041_125	phenol ... N-methylacetamide
+1.041_150	phenol ... N-methylacetamide
+1.041_200	phenol ... N-methylacetamide
+1.042_080	phenol ... phenol
+1.042_085	phenol ... phenol
+1.042_090	phenol ... phenol
+1.042_095	phenol ... phenol
+1.042_100	phenol ... phenol
+1.042_105	phenol ... phenol
+1.042_110	phenol ... phenol
+1.042_125	phenol ... phenol
+1.042_150	phenol ... phenol
+1.042_200	phenol ... phenol
+1.043_080	phenol ... water
+1.043_085	phenol ... water
+1.043_090	phenol ... water
+1.043_095	phenol ... water
+1.043_100	phenol ... water
+1.043_105	phenol ... water
+1.043_110	phenol ... water
+1.043_125	phenol ... water
+1.043_150	phenol ... water
+1.043_200	phenol ... water
+1.044_080	water ... acetaldehyde
+1.044_085	water ... acetaldehyde
+1.044_090	water ... acetaldehyde
+1.044_095	water ... acetaldehyde
+1.044_100	water ... acetaldehyde
+1.044_105	water ... acetaldehyde
+1.044_110	water ... acetaldehyde
+1.044_125	water ... acetaldehyde
+1.044_150	water ... acetaldehyde
+1.044_200	water ... acetaldehyde
+1.045_080	water ... acetamide
+1.045_085	water ... acetamide
+1.045_090	water ... acetamide
+1.045_095	water ... acetamide
+1.045_100	water ... acetamide
+1.045_105	water ... acetamide
+1.045_110	water ... acetamide
+1.045_125	water ... acetamide
+1.045_150	water ... acetamide
+1.045_200	water ... acetamide
+1.046_080	water ... acetic acid
+1.046_085	water ... acetic acid
+1.046_090	water ... acetic acid
+1.046_095	water ... acetic acid
+1.046_100	water ... acetic acid
+1.046_105	water ... acetic acid
+1.046_110	water ... acetic acid
+1.046_125	water ... acetic acid
+1.046_150	water ... acetic acid
+1.046_200	water ... acetic acid
+1.047_080	water ... acetone
+1.047_085	water ... acetone
+1.047_090	water ... acetone
+1.047_095	water ... acetone
+1.047_100	water ... acetone
+1.047_105	water ... acetone
+1.047_110	water ... acetone
+1.047_125	water ... acetone
+1.047_150	water ... acetone
+1.047_200	water ... acetone
+1.048_080	water ... dimethylcarbonate
+1.048_085	water ... dimethylcarbonate
+1.048_090	water ... dimethylcarbonate
+1.048_095	water ... dimethylcarbonate
+1.048_100	water ... dimethylcarbonate
+1.048_105	water ... dimethylcarbonate
+1.048_110	water ... dimethylcarbonate
+1.048_125	water ... dimethylcarbonate
+1.048_150	water ... dimethylcarbonate
+1.048_200	water ... dimethylcarbonate
+1.049_080	water ... dimethylether
+1.049_085	water ... dimethylether
+1.049_090	water ... dimethylether
+1.049_095	water ... dimethylether
+1.049_100	water ... dimethylether
+1.049_105	water ... dimethylether
+1.049_110	water ... dimethylether
+1.049_125	water ... dimethylether
+1.049_150	water ... dimethylether
+1.049_200	water ... dimethylether
+1.050_080	water ... dimethylperoxide
+1.050_085	water ... dimethylperoxide
+1.050_090	water ... dimethylperoxide
+1.050_095	water ... dimethylperoxide
+1.050_100	water ... dimethylperoxide
+1.050_105	water ... dimethylperoxide
+1.050_110	water ... dimethylperoxide
+1.050_125	water ... dimethylperoxide
+1.050_150	water ... dimethylperoxide
+1.050_200	water ... dimethylperoxide
+1.051_080	water ... furan
+1.051_085	water ... furan
+1.051_090	water ... furan
+1.051_095	water ... furan
+1.051_100	water ... furan
+1.051_105	water ... furan
+1.051_110	water ... furan
+1.051_125	water ... furan
+1.051_150	water ... furan
+1.051_200	water ... furan
+1.052_080	water ... methanol
+1.052_085	water ... methanol
+1.052_090	water ... methanol
+1.052_095	water ... methanol
+1.052_100	water ... methanol
+1.052_105	water ... methanol
+1.052_110	water ... methanol
+1.052_125	water ... methanol
+1.052_150	water ... methanol
+1.052_200	water ... methanol
+1.053_080	water ... methylacetate
+1.053_085	water ... methylacetate
+1.053_090	water ... methylacetate
+1.053_095	water ... methylacetate
+1.053_100	water ... methylacetate
+1.053_105	water ... methylacetate
+1.053_110	water ... methylacetate
+1.053_125	water ... methylacetate
+1.053_150	water ... methylacetate
+1.053_200	water ... methylacetate
+1.054_080	water ... nitromethane
+1.054_085	water ... nitromethane
+1.054_090	water ... nitromethane
+1.054_095	water ... nitromethane
+1.054_100	water ... nitromethane
+1.054_105	water ... nitromethane
+1.054_110	water ... nitromethane
+1.054_125	water ... nitromethane
+1.054_150	water ... nitromethane
+1.054_200	water ... nitromethane
+1.055_080	water ... nitrosomethane
+1.055_085	water ... nitrosomethane
+1.055_090	water ... nitrosomethane
+1.055_095	water ... nitrosomethane
+1.055_100	water ... nitrosomethane
+1.055_105	water ... nitrosomethane
+1.055_110	water ... nitrosomethane
+1.055_125	water ... nitrosomethane
+1.055_150	water ... nitrosomethane
+1.055_200	water ... nitrosomethane
+1.056_080	water ... N-methylacetamide
+1.056_085	water ... N-methylacetamide
+1.056_090	water ... N-methylacetamide
+1.056_095	water ... N-methylacetamide
+1.056_100	water ... N-methylacetamide
+1.056_105	water ... N-methylacetamide
+1.056_110	water ... N-methylacetamide
+1.056_125	water ... N-methylacetamide
+1.056_150	water ... N-methylacetamide
+1.056_200	water ... N-methylacetamide
+1.057_080	water ... phenol
+1.057_085	water ... phenol
+1.057_090	water ... phenol
+1.057_095	water ... phenol
+1.057_100	water ... phenol
+1.057_105	water ... phenol
+1.057_110	water ... phenol
+1.057_125	water ... phenol
+1.057_150	water ... phenol
+1.057_200	water ... phenol
+1.058_080	water ... water
+1.058_085	water ... water
+1.058_090	water ... water
+1.058_095	water ... water
+1.058_100	water ... water
+1.058_105	water ... water
+1.058_110	water ... water
+1.058_125	water ... water
+1.058_150	water ... water
+1.058_200	water ... water
+1.059_080	acetic acid ... acetic acid
+1.059_085	acetic acid ... acetic acid
+1.059_090	acetic acid ... acetic acid
+1.059_095	acetic acid ... acetic acid
+1.059_100	acetic acid ... acetic acid
+1.059_105	acetic acid ... acetic acid
+1.059_110	acetic acid ... acetic acid
+1.059_125	acetic acid ... acetic acid
+1.059_150	acetic acid ... acetic acid
+1.059_200	acetic acid ... acetic acid
+1.060_080	phenol ... acetic acid
+1.060_085	phenol ... acetic acid
+1.060_090	phenol ... acetic acid
+1.060_095	phenol ... acetic acid
+1.060_100	phenol ... acetic acid
+1.060_105	phenol ... acetic acid
+1.060_110	phenol ... acetic acid
+1.060_125	phenol ... acetic acid
+1.060_150	phenol ... acetic acid
+1.060_200	phenol ... acetic acid
+2.001_080	1H-pyrrole ... acetaldehyde
+2.001_085	1H-pyrrole ... acetaldehyde
+2.001_090	1H-pyrrole ... acetaldehyde
+2.001_095	1H-pyrrole ... acetaldehyde
+2.001_100	1H-pyrrole ... acetaldehyde
+2.001_105	1H-pyrrole ... acetaldehyde
+2.001_110	1H-pyrrole ... acetaldehyde
+2.001_125	1H-pyrrole ... acetaldehyde
+2.001_150	1H-pyrrole ... acetaldehyde
+2.001_200	1H-pyrrole ... acetaldehyde
+2.002_080	1H-pyrrole ... acetamide
+2.002_085	1H-pyrrole ... acetamide
+2.002_090	1H-pyrrole ... acetamide
+2.002_095	1H-pyrrole ... acetamide
+2.002_100	1H-pyrrole ... acetamide
+2.002_105	1H-pyrrole ... acetamide
+2.002_110	1H-pyrrole ... acetamide
+2.002_125	1H-pyrrole ... acetamide
+2.002_150	1H-pyrrole ... acetamide
+2.002_200	1H-pyrrole ... acetamide
+2.003_080	1H-pyrrole ... acetic acid
+2.003_085	1H-pyrrole ... acetic acid
+2.003_090	1H-pyrrole ... acetic acid
+2.003_095	1H-pyrrole ... acetic acid
+2.003_100	1H-pyrrole ... acetic acid
+2.003_105	1H-pyrrole ... acetic acid
+2.003_110	1H-pyrrole ... acetic acid
+2.003_125	1H-pyrrole ... acetic acid
+2.003_150	1H-pyrrole ... acetic acid
+2.003_200	1H-pyrrole ... acetic acid
+2.004_080	1H-pyrrole ... acetone
+2.004_085	1H-pyrrole ... acetone
+2.004_090	1H-pyrrole ... acetone
+2.004_095	1H-pyrrole ... acetone
+2.004_100	1H-pyrrole ... acetone
+2.004_105	1H-pyrrole ... acetone
+2.004_110	1H-pyrrole ... acetone
+2.004_125	1H-pyrrole ... acetone
+2.004_150	1H-pyrrole ... acetone
+2.004_200	1H-pyrrole ... acetone
+2.005_080	1H-pyrrole ... dimethylcarbonate
+2.005_085	1H-pyrrole ... dimethylcarbonate
+2.005_090	1H-pyrrole ... dimethylcarbonate
+2.005_095	1H-pyrrole ... dimethylcarbonate
+2.005_100	1H-pyrrole ... dimethylcarbonate
+2.005_105	1H-pyrrole ... dimethylcarbonate
+2.005_110	1H-pyrrole ... dimethylcarbonate
+2.005_125	1H-pyrrole ... dimethylcarbonate
+2.005_150	1H-pyrrole ... dimethylcarbonate
+2.005_200	1H-pyrrole ... dimethylcarbonate
+2.006_080	1H-pyrrole ... dimethylether
+2.006_085	1H-pyrrole ... dimethylether
+2.006_090	1H-pyrrole ... dimethylether
+2.006_095	1H-pyrrole ... dimethylether
+2.006_100	1H-pyrrole ... dimethylether
+2.006_105	1H-pyrrole ... dimethylether
+2.006_110	1H-pyrrole ... dimethylether
+2.006_125	1H-pyrrole ... dimethylether
+2.006_150	1H-pyrrole ... dimethylether
+2.006_200	1H-pyrrole ... dimethylether
+2.007_080	1H-pyrrole ... dimethylperoxide
+2.007_085	1H-pyrrole ... dimethylperoxide
+2.007_090	1H-pyrrole ... dimethylperoxide
+2.007_095	1H-pyrrole ... dimethylperoxide
+2.007_100	1H-pyrrole ... dimethylperoxide
+2.007_105	1H-pyrrole ... dimethylperoxide
+2.007_110	1H-pyrrole ... dimethylperoxide
+2.007_125	1H-pyrrole ... dimethylperoxide
+2.007_150	1H-pyrrole ... dimethylperoxide
+2.007_200	1H-pyrrole ... dimethylperoxide
+2.008_080	1H-pyrrole ... methanol
+2.008_085	1H-pyrrole ... methanol
+2.008_090	1H-pyrrole ... methanol
+2.008_095	1H-pyrrole ... methanol
+2.008_100	1H-pyrrole ... methanol
+2.008_105	1H-pyrrole ... methanol
+2.008_110	1H-pyrrole ... methanol
+2.008_125	1H-pyrrole ... methanol
+2.008_150	1H-pyrrole ... methanol
+2.008_200	1H-pyrrole ... methanol
+2.009_080	1H-pyrrole ... methylacetate
+2.009_085	1H-pyrrole ... methylacetate
+2.009_090	1H-pyrrole ... methylacetate
+2.009_095	1H-pyrrole ... methylacetate
+2.009_100	1H-pyrrole ... methylacetate
+2.009_105	1H-pyrrole ... methylacetate
+2.009_110	1H-pyrrole ... methylacetate
+2.009_125	1H-pyrrole ... methylacetate
+2.009_150	1H-pyrrole ... methylacetate
+2.009_200	1H-pyrrole ... methylacetate
+2.010_080	1H-pyrrole ... nitromethane
+2.010_085	1H-pyrrole ... nitromethane
+2.010_090	1H-pyrrole ... nitromethane
+2.010_095	1H-pyrrole ... nitromethane
+2.010_100	1H-pyrrole ... nitromethane
+2.010_105	1H-pyrrole ... nitromethane
+2.010_110	1H-pyrrole ... nitromethane
+2.010_125	1H-pyrrole ... nitromethane
+2.010_150	1H-pyrrole ... nitromethane
+2.010_200	1H-pyrrole ... nitromethane
+2.011_080	1H-pyrrole ... N-methylacetamide
+2.011_085	1H-pyrrole ... N-methylacetamide
+2.011_090	1H-pyrrole ... N-methylacetamide
+2.011_095	1H-pyrrole ... N-methylacetamide
+2.011_100	1H-pyrrole ... N-methylacetamide
+2.011_105	1H-pyrrole ... N-methylacetamide
+2.011_110	1H-pyrrole ... N-methylacetamide
+2.011_125	1H-pyrrole ... N-methylacetamide
+2.011_150	1H-pyrrole ... N-methylacetamide
+2.011_200	1H-pyrrole ... N-methylacetamide
+2.012_080	1H-pyrrole ... phenol
+2.012_085	1H-pyrrole ... phenol
+2.012_090	1H-pyrrole ... phenol
+2.012_095	1H-pyrrole ... phenol
+2.012_100	1H-pyrrole ... phenol
+2.012_105	1H-pyrrole ... phenol
+2.012_110	1H-pyrrole ... phenol
+2.012_125	1H-pyrrole ... phenol
+2.012_150	1H-pyrrole ... phenol
+2.012_200	1H-pyrrole ... phenol
+2.013_080	1H-pyrrole ... water
+2.013_085	1H-pyrrole ... water
+2.013_090	1H-pyrrole ... water
+2.013_095	1H-pyrrole ... water
+2.013_100	1H-pyrrole ... water
+2.013_105	1H-pyrrole ... water
+2.013_110	1H-pyrrole ... water
+2.013_125	1H-pyrrole ... water
+2.013_150	1H-pyrrole ... water
+2.013_200	1H-pyrrole ... water
+2.014_080	ammonia ... acetaldehyde
+2.014_085	ammonia ... acetaldehyde
+2.014_090	ammonia ... acetaldehyde
+2.014_095	ammonia ... acetaldehyde
+2.014_100	ammonia ... acetaldehyde
+2.014_105	ammonia ... acetaldehyde
+2.014_110	ammonia ... acetaldehyde
+2.014_125	ammonia ... acetaldehyde
+2.014_150	ammonia ... acetaldehyde
+2.014_200	ammonia ... acetaldehyde
+2.015_080	ammonia ... acetamide
+2.015_085	ammonia ... acetamide
+2.015_090	ammonia ... acetamide
+2.015_095	ammonia ... acetamide
+2.015_100	ammonia ... acetamide
+2.015_105	ammonia ... acetamide
+2.015_110	ammonia ... acetamide
+2.015_125	ammonia ... acetamide
+2.015_150	ammonia ... acetamide
+2.015_200	ammonia ... acetamide
+2.016_080	ammonia ... acetic acid
+2.016_085	ammonia ... acetic acid
+2.016_090	ammonia ... acetic acid
+2.016_095	ammonia ... acetic acid
+2.016_100	ammonia ... acetic acid
+2.016_105	ammonia ... acetic acid
+2.016_110	ammonia ... acetic acid
+2.016_125	ammonia ... acetic acid
+2.016_150	ammonia ... acetic acid
+2.016_200	ammonia ... acetic acid
+2.017_080	ammonia ... acetone
+2.017_085	ammonia ... acetone
+2.017_090	ammonia ... acetone
+2.017_095	ammonia ... acetone
+2.017_100	ammonia ... acetone
+2.017_105	ammonia ... acetone
+2.017_110	ammonia ... acetone
+2.017_125	ammonia ... acetone
+2.017_150	ammonia ... acetone
+2.017_200	ammonia ... acetone
+2.018_080	ammonia ... dimethylcarbonate
+2.018_085	ammonia ... dimethylcarbonate
+2.018_090	ammonia ... dimethylcarbonate
+2.018_095	ammonia ... dimethylcarbonate
+2.018_100	ammonia ... dimethylcarbonate
+2.018_105	ammonia ... dimethylcarbonate
+2.018_110	ammonia ... dimethylcarbonate
+2.018_125	ammonia ... dimethylcarbonate
+2.018_150	ammonia ... dimethylcarbonate
+2.018_200	ammonia ... dimethylcarbonate
+2.019_080	ammonia ... dimethylether
+2.019_085	ammonia ... dimethylether
+2.019_090	ammonia ... dimethylether
+2.019_095	ammonia ... dimethylether
+2.019_100	ammonia ... dimethylether
+2.019_105	ammonia ... dimethylether
+2.019_110	ammonia ... dimethylether
+2.019_125	ammonia ... dimethylether
+2.019_150	ammonia ... dimethylether
+2.019_200	ammonia ... dimethylether
+2.020_080	ammonia ... dimethylperoxide
+2.020_085	ammonia ... dimethylperoxide
+2.020_090	ammonia ... dimethylperoxide
+2.020_095	ammonia ... dimethylperoxide
+2.020_100	ammonia ... dimethylperoxide
+2.020_105	ammonia ... dimethylperoxide
+2.020_110	ammonia ... dimethylperoxide
+2.020_125	ammonia ... dimethylperoxide
+2.020_150	ammonia ... dimethylperoxide
+2.020_200	ammonia ... dimethylperoxide
+2.021_080	ammonia ... furan
+2.021_085	ammonia ... furan
+2.021_090	ammonia ... furan
+2.021_095	ammonia ... furan
+2.021_100	ammonia ... furan
+2.021_105	ammonia ... furan
+2.021_110	ammonia ... furan
+2.021_125	ammonia ... furan
+2.021_150	ammonia ... furan
+2.021_200	ammonia ... furan
+2.022_080	ammonia ... methylacetate
+2.022_085	ammonia ... methylacetate
+2.022_090	ammonia ... methylacetate
+2.022_095	ammonia ... methylacetate
+2.022_100	ammonia ... methylacetate
+2.022_105	ammonia ... methylacetate
+2.022_110	ammonia ... methylacetate
+2.022_125	ammonia ... methylacetate
+2.022_150	ammonia ... methylacetate
+2.022_200	ammonia ... methylacetate
+2.023_080	ammonia ... nitrosomethane
+2.023_085	ammonia ... nitrosomethane
+2.023_090	ammonia ... nitrosomethane
+2.023_095	ammonia ... nitrosomethane
+2.023_100	ammonia ... nitrosomethane
+2.023_105	ammonia ... nitrosomethane
+2.023_110	ammonia ... nitrosomethane
+2.023_125	ammonia ... nitrosomethane
+2.023_150	ammonia ... nitrosomethane
+2.023_200	ammonia ... nitrosomethane
+2.024_080	ammonia ... N-methylacetamide
+2.024_085	ammonia ... N-methylacetamide
+2.024_090	ammonia ... N-methylacetamide
+2.024_095	ammonia ... N-methylacetamide
+2.024_100	ammonia ... N-methylacetamide
+2.024_105	ammonia ... N-methylacetamide
+2.024_110	ammonia ... N-methylacetamide
+2.024_125	ammonia ... N-methylacetamide
+2.024_150	ammonia ... N-methylacetamide
+2.024_200	ammonia ... N-methylacetamide
+2.025_080	ammonia ... phenol
+2.025_085	ammonia ... phenol
+2.025_090	ammonia ... phenol
+2.025_095	ammonia ... phenol
+2.025_100	ammonia ... phenol
+2.025_105	ammonia ... phenol
+2.025_110	ammonia ... phenol
+2.025_125	ammonia ... phenol
+2.025_150	ammonia ... phenol
+2.025_200	ammonia ... phenol
+2.026_080	aniline ... acetaldehyde
+2.026_085	aniline ... acetaldehyde
+2.026_090	aniline ... acetaldehyde
+2.026_095	aniline ... acetaldehyde
+2.026_100	aniline ... acetaldehyde
+2.026_105	aniline ... acetaldehyde
+2.026_110	aniline ... acetaldehyde
+2.026_125	aniline ... acetaldehyde
+2.026_150	aniline ... acetaldehyde
+2.026_200	aniline ... acetaldehyde
+2.027_080	aniline ... acetamide
+2.027_085	aniline ... acetamide
+2.027_090	aniline ... acetamide
+2.027_095	aniline ... acetamide
+2.027_100	aniline ... acetamide
+2.027_105	aniline ... acetamide
+2.027_110	aniline ... acetamide
+2.027_125	aniline ... acetamide
+2.027_150	aniline ... acetamide
+2.027_200	aniline ... acetamide
+2.028_080	aniline ... acetic acid
+2.028_085	aniline ... acetic acid
+2.028_090	aniline ... acetic acid
+2.028_095	aniline ... acetic acid
+2.028_100	aniline ... acetic acid
+2.028_105	aniline ... acetic acid
+2.028_110	aniline ... acetic acid
+2.028_125	aniline ... acetic acid
+2.028_150	aniline ... acetic acid
+2.028_200	aniline ... acetic acid
+2.029_080	aniline ... acetone
+2.029_085	aniline ... acetone
+2.029_090	aniline ... acetone
+2.029_095	aniline ... acetone
+2.029_100	aniline ... acetone
+2.029_105	aniline ... acetone
+2.029_110	aniline ... acetone
+2.029_125	aniline ... acetone
+2.029_150	aniline ... acetone
+2.029_200	aniline ... acetone
+2.030_080	aniline ... dimethylcarbonate
+2.030_085	aniline ... dimethylcarbonate
+2.030_090	aniline ... dimethylcarbonate
+2.030_095	aniline ... dimethylcarbonate
+2.030_100	aniline ... dimethylcarbonate
+2.030_105	aniline ... dimethylcarbonate
+2.030_110	aniline ... dimethylcarbonate
+2.030_125	aniline ... dimethylcarbonate
+2.030_150	aniline ... dimethylcarbonate
+2.030_200	aniline ... dimethylcarbonate
+2.031_080	aniline ... dimethylether
+2.031_085	aniline ... dimethylether
+2.031_090	aniline ... dimethylether
+2.031_095	aniline ... dimethylether
+2.031_100	aniline ... dimethylether
+2.031_105	aniline ... dimethylether
+2.031_110	aniline ... dimethylether
+2.031_125	aniline ... dimethylether
+2.031_150	aniline ... dimethylether
+2.031_200	aniline ... dimethylether
+2.032_080	aniline ... dimethylperoxide
+2.032_085	aniline ... dimethylperoxide
+2.032_090	aniline ... dimethylperoxide
+2.032_095	aniline ... dimethylperoxide
+2.032_100	aniline ... dimethylperoxide
+2.032_105	aniline ... dimethylperoxide
+2.032_110	aniline ... dimethylperoxide
+2.032_125	aniline ... dimethylperoxide
+2.032_150	aniline ... dimethylperoxide
+2.032_200	aniline ... dimethylperoxide
+2.033_080	aniline ... methanol
+2.033_085	aniline ... methanol
+2.033_090	aniline ... methanol
+2.033_095	aniline ... methanol
+2.033_100	aniline ... methanol
+2.033_105	aniline ... methanol
+2.033_110	aniline ... methanol
+2.033_125	aniline ... methanol
+2.033_150	aniline ... methanol
+2.033_200	aniline ... methanol
+2.034_080	aniline ... methylacetate
+2.034_085	aniline ... methylacetate
+2.034_090	aniline ... methylacetate
+2.034_095	aniline ... methylacetate
+2.034_100	aniline ... methylacetate
+2.034_105	aniline ... methylacetate
+2.034_110	aniline ... methylacetate
+2.034_125	aniline ... methylacetate
+2.034_150	aniline ... methylacetate
+2.034_200	aniline ... methylacetate
+2.035_080	aniline ... N-methylacetamide
+2.035_085	aniline ... N-methylacetamide
+2.035_090	aniline ... N-methylacetamide
+2.035_095	aniline ... N-methylacetamide
+2.035_100	aniline ... N-methylacetamide
+2.035_105	aniline ... N-methylacetamide
+2.035_110	aniline ... N-methylacetamide
+2.035_125	aniline ... N-methylacetamide
+2.035_150	aniline ... N-methylacetamide
+2.035_200	aniline ... N-methylacetamide
+2.036_080	aniline ... water
+2.036_085	aniline ... water
+2.036_090	aniline ... water
+2.036_095	aniline ... water
+2.036_100	aniline ... water
+2.036_105	aniline ... water
+2.036_110	aniline ... water
+2.036_125	aniline ... water
+2.036_150	aniline ... water
+2.036_200	aniline ... water
+2.037_080	dimethylamine ... acetaldehyde
+2.037_085	dimethylamine ... acetaldehyde
+2.037_090	dimethylamine ... acetaldehyde
+2.037_095	dimethylamine ... acetaldehyde
+2.037_100	dimethylamine ... acetaldehyde
+2.037_105	dimethylamine ... acetaldehyde
+2.037_110	dimethylamine ... acetaldehyde
+2.037_125	dimethylamine ... acetaldehyde
+2.037_150	dimethylamine ... acetaldehyde
+2.037_200	dimethylamine ... acetaldehyde
+2.038_080	dimethylamine ... acetamide
+2.038_085	dimethylamine ... acetamide
+2.038_090	dimethylamine ... acetamide
+2.038_095	dimethylamine ... acetamide
+2.038_100	dimethylamine ... acetamide
+2.038_105	dimethylamine ... acetamide
+2.038_110	dimethylamine ... acetamide
+2.038_125	dimethylamine ... acetamide
+2.038_150	dimethylamine ... acetamide
+2.038_200	dimethylamine ... acetamide
+2.039_080	dimethylamine ... acetic acid
+2.039_085	dimethylamine ... acetic acid
+2.039_090	dimethylamine ... acetic acid
+2.039_095	dimethylamine ... acetic acid
+2.039_100	dimethylamine ... acetic acid
+2.039_105	dimethylamine ... acetic acid
+2.039_110	dimethylamine ... acetic acid
+2.039_125	dimethylamine ... acetic acid
+2.039_150	dimethylamine ... acetic acid
+2.039_200	dimethylamine ... acetic acid
+2.040_080	dimethylamine ... acetone
+2.040_085	dimethylamine ... acetone
+2.040_090	dimethylamine ... acetone
+2.040_095	dimethylamine ... acetone
+2.040_100	dimethylamine ... acetone
+2.040_105	dimethylamine ... acetone
+2.040_110	dimethylamine ... acetone
+2.040_125	dimethylamine ... acetone
+2.040_150	dimethylamine ... acetone
+2.040_200	dimethylamine ... acetone
+2.041_080	dimethylamine ... dimethylcarbonate
+2.041_085	dimethylamine ... dimethylcarbonate
+2.041_090	dimethylamine ... dimethylcarbonate
+2.041_095	dimethylamine ... dimethylcarbonate
+2.041_100	dimethylamine ... dimethylcarbonate
+2.041_105	dimethylamine ... dimethylcarbonate
+2.041_110	dimethylamine ... dimethylcarbonate
+2.041_125	dimethylamine ... dimethylcarbonate
+2.041_150	dimethylamine ... dimethylcarbonate
+2.041_200	dimethylamine ... dimethylcarbonate
+2.042_080	dimethylamine ... dimethylether
+2.042_085	dimethylamine ... dimethylether
+2.042_090	dimethylamine ... dimethylether
+2.042_095	dimethylamine ... dimethylether
+2.042_100	dimethylamine ... dimethylether
+2.042_105	dimethylamine ... dimethylether
+2.042_110	dimethylamine ... dimethylether
+2.042_125	dimethylamine ... dimethylether
+2.042_150	dimethylamine ... dimethylether
+2.042_200	dimethylamine ... dimethylether
+2.043_080	dimethylamine ... dimethylperoxide
+2.043_085	dimethylamine ... dimethylperoxide
+2.043_090	dimethylamine ... dimethylperoxide
+2.043_095	dimethylamine ... dimethylperoxide
+2.043_100	dimethylamine ... dimethylperoxide
+2.043_105	dimethylamine ... dimethylperoxide
+2.043_110	dimethylamine ... dimethylperoxide
+2.043_125	dimethylamine ... dimethylperoxide
+2.043_150	dimethylamine ... dimethylperoxide
+2.043_200	dimethylamine ... dimethylperoxide
+2.044_080	dimethylamine ... methanol
+2.044_085	dimethylamine ... methanol
+2.044_090	dimethylamine ... methanol
+2.044_095	dimethylamine ... methanol
+2.044_100	dimethylamine ... methanol
+2.044_105	dimethylamine ... methanol
+2.044_110	dimethylamine ... methanol
+2.044_125	dimethylamine ... methanol
+2.044_150	dimethylamine ... methanol
+2.044_200	dimethylamine ... methanol
+2.045_080	dimethylamine ... methylacetate
+2.045_085	dimethylamine ... methylacetate
+2.045_090	dimethylamine ... methylacetate
+2.045_095	dimethylamine ... methylacetate
+2.045_100	dimethylamine ... methylacetate
+2.045_105	dimethylamine ... methylacetate
+2.045_110	dimethylamine ... methylacetate
+2.045_125	dimethylamine ... methylacetate
+2.045_150	dimethylamine ... methylacetate
+2.045_200	dimethylamine ... methylacetate
+2.046_080	dimethylamine ... N-methylacetamide
+2.046_085	dimethylamine ... N-methylacetamide
+2.046_090	dimethylamine ... N-methylacetamide
+2.046_095	dimethylamine ... N-methylacetamide
+2.046_100	dimethylamine ... N-methylacetamide
+2.046_105	dimethylamine ... N-methylacetamide
+2.046_110	dimethylamine ... N-methylacetamide
+2.046_125	dimethylamine ... N-methylacetamide
+2.046_150	dimethylamine ... N-methylacetamide
+2.046_200	dimethylamine ... N-methylacetamide
+2.047_080	dimethylamine ... phenol
+2.047_085	dimethylamine ... phenol
+2.047_090	dimethylamine ... phenol
+2.047_095	dimethylamine ... phenol
+2.047_100	dimethylamine ... phenol
+2.047_105	dimethylamine ... phenol
+2.047_110	dimethylamine ... phenol
+2.047_125	dimethylamine ... phenol
+2.047_150	dimethylamine ... phenol
+2.047_200	dimethylamine ... phenol
+2.048_080	methylamine ... acetaldehyde
+2.048_085	methylamine ... acetaldehyde
+2.048_090	methylamine ... acetaldehyde
+2.048_095	methylamine ... acetaldehyde
+2.048_100	methylamine ... acetaldehyde
+2.048_105	methylamine ... acetaldehyde
+2.048_110	methylamine ... acetaldehyde
+2.048_125	methylamine ... acetaldehyde
+2.048_150	methylamine ... acetaldehyde
+2.048_200	methylamine ... acetaldehyde
+2.049_080	methylamine ... acetamide
+2.049_085	methylamine ... acetamide
+2.049_090	methylamine ... acetamide
+2.049_095	methylamine ... acetamide
+2.049_100	methylamine ... acetamide
+2.049_105	methylamine ... acetamide
+2.049_110	methylamine ... acetamide
+2.049_125	methylamine ... acetamide
+2.049_150	methylamine ... acetamide
+2.049_200	methylamine ... acetamide
+2.050_080	methylamine ... acetic acid
+2.050_085	methylamine ... acetic acid
+2.050_090	methylamine ... acetic acid
+2.050_095	methylamine ... acetic acid
+2.050_100	methylamine ... acetic acid
+2.050_105	methylamine ... acetic acid
+2.050_110	methylamine ... acetic acid
+2.050_125	methylamine ... acetic acid
+2.050_150	methylamine ... acetic acid
+2.050_200	methylamine ... acetic acid
+2.051_080	methylamine ... acetone
+2.051_085	methylamine ... acetone
+2.051_090	methylamine ... acetone
+2.051_095	methylamine ... acetone
+2.051_100	methylamine ... acetone
+2.051_105	methylamine ... acetone
+2.051_110	methylamine ... acetone
+2.051_125	methylamine ... acetone
+2.051_150	methylamine ... acetone
+2.051_200	methylamine ... acetone
+2.052_080	methylamine ... dimethylcarbonate
+2.052_085	methylamine ... dimethylcarbonate
+2.052_090	methylamine ... dimethylcarbonate
+2.052_095	methylamine ... dimethylcarbonate
+2.052_100	methylamine ... dimethylcarbonate
+2.052_105	methylamine ... dimethylcarbonate
+2.052_110	methylamine ... dimethylcarbonate
+2.052_125	methylamine ... dimethylcarbonate
+2.052_150	methylamine ... dimethylcarbonate
+2.052_200	methylamine ... dimethylcarbonate
+2.053_080	methylamine ... dimethylether
+2.053_085	methylamine ... dimethylether
+2.053_090	methylamine ... dimethylether
+2.053_095	methylamine ... dimethylether
+2.053_100	methylamine ... dimethylether
+2.053_105	methylamine ... dimethylether
+2.053_110	methylamine ... dimethylether
+2.053_125	methylamine ... dimethylether
+2.053_150	methylamine ... dimethylether
+2.053_200	methylamine ... dimethylether
+2.054_080	methylamine ... dimethylperoxide
+2.054_085	methylamine ... dimethylperoxide
+2.054_090	methylamine ... dimethylperoxide
+2.054_095	methylamine ... dimethylperoxide
+2.054_100	methylamine ... dimethylperoxide
+2.054_105	methylamine ... dimethylperoxide
+2.054_110	methylamine ... dimethylperoxide
+2.054_125	methylamine ... dimethylperoxide
+2.054_150	methylamine ... dimethylperoxide
+2.054_200	methylamine ... dimethylperoxide
+2.055_080	methylamine ... methylacetate
+2.055_085	methylamine ... methylacetate
+2.055_090	methylamine ... methylacetate
+2.055_095	methylamine ... methylacetate
+2.055_100	methylamine ... methylacetate
+2.055_105	methylamine ... methylacetate
+2.055_110	methylamine ... methylacetate
+2.055_125	methylamine ... methylacetate
+2.055_150	methylamine ... methylacetate
+2.055_200	methylamine ... methylacetate
+2.056_080	methylamine ... N-methylacetamide
+2.056_085	methylamine ... N-methylacetamide
+2.056_090	methylamine ... N-methylacetamide
+2.056_095	methylamine ... N-methylacetamide
+2.056_100	methylamine ... N-methylacetamide
+2.056_105	methylamine ... N-methylacetamide
+2.056_110	methylamine ... N-methylacetamide
+2.056_125	methylamine ... N-methylacetamide
+2.056_150	methylamine ... N-methylacetamide
+2.056_200	methylamine ... N-methylacetamide
+2.057_080	N-methylacetamide ... acetamide
+2.057_085	N-methylacetamide ... acetamide
+2.057_090	N-methylacetamide ... acetamide
+2.057_095	N-methylacetamide ... acetamide
+2.057_100	N-methylacetamide ... acetamide
+2.057_105	N-methylacetamide ... acetamide
+2.057_110	N-methylacetamide ... acetamide
+2.057_125	N-methylacetamide ... acetamide
+2.057_150	N-methylacetamide ... acetamide
+2.057_200	N-methylacetamide ... acetamide
+2.058_080	N-methylacetamide ... acetic acid
+2.058_085	N-methylacetamide ... acetic acid
+2.058_090	N-methylacetamide ... acetic acid
+2.058_095	N-methylacetamide ... acetic acid
+2.058_100	N-methylacetamide ... acetic acid
+2.058_105	N-methylacetamide ... acetic acid
+2.058_110	N-methylacetamide ... acetic acid
+2.058_125	N-methylacetamide ... acetic acid
+2.058_150	N-methylacetamide ... acetic acid
+2.058_200	N-methylacetamide ... acetic acid
+2.059_080	N-methylacetamide ... dimethylcarbonate
+2.059_085	N-methylacetamide ... dimethylcarbonate
+2.059_090	N-methylacetamide ... dimethylcarbonate
+2.059_095	N-methylacetamide ... dimethylcarbonate
+2.059_100	N-methylacetamide ... dimethylcarbonate
+2.059_105	N-methylacetamide ... dimethylcarbonate
+2.059_110	N-methylacetamide ... dimethylcarbonate
+2.059_125	N-methylacetamide ... dimethylcarbonate
+2.059_150	N-methylacetamide ... dimethylcarbonate
+2.059_200	N-methylacetamide ... dimethylcarbonate
+2.060_080	N-methylacetamide ... dimethylether
+2.060_085	N-methylacetamide ... dimethylether
+2.060_090	N-methylacetamide ... dimethylether
+2.060_095	N-methylacetamide ... dimethylether
+2.060_100	N-methylacetamide ... dimethylether
+2.060_105	N-methylacetamide ... dimethylether
+2.060_110	N-methylacetamide ... dimethylether
+2.060_125	N-methylacetamide ... dimethylether
+2.060_150	N-methylacetamide ... dimethylether
+2.060_200	N-methylacetamide ... dimethylether
+2.061_080	N-methylacetamide ... dimethylperoxide
+2.061_085	N-methylacetamide ... dimethylperoxide
+2.061_090	N-methylacetamide ... dimethylperoxide
+2.061_095	N-methylacetamide ... dimethylperoxide
+2.061_100	N-methylacetamide ... dimethylperoxide
+2.061_105	N-methylacetamide ... dimethylperoxide
+2.061_110	N-methylacetamide ... dimethylperoxide
+2.061_125	N-methylacetamide ... dimethylperoxide
+2.061_150	N-methylacetamide ... dimethylperoxide
+2.061_200	N-methylacetamide ... dimethylperoxide
+2.062_080	N-methylacetamide ... methanol
+2.062_085	N-methylacetamide ... methanol
+2.062_090	N-methylacetamide ... methanol
+2.062_095	N-methylacetamide ... methanol
+2.062_100	N-methylacetamide ... methanol
+2.062_105	N-methylacetamide ... methanol
+2.062_110	N-methylacetamide ... methanol
+2.062_125	N-methylacetamide ... methanol
+2.062_150	N-methylacetamide ... methanol
+2.062_200	N-methylacetamide ... methanol
+2.063_080	N-methylacetamide ... N-methylacetamide
+2.063_085	N-methylacetamide ... N-methylacetamide
+2.063_090	N-methylacetamide ... N-methylacetamide
+2.063_095	N-methylacetamide ... N-methylacetamide
+2.063_100	N-methylacetamide ... N-methylacetamide
+2.063_105	N-methylacetamide ... N-methylacetamide
+2.063_110	N-methylacetamide ... N-methylacetamide
+2.063_125	N-methylacetamide ... N-methylacetamide
+2.063_150	N-methylacetamide ... N-methylacetamide
+2.063_200	N-methylacetamide ... N-methylacetamide
+2.064_080	N-methylacetamide ... phenol
+2.064_085	N-methylacetamide ... phenol
+2.064_090	N-methylacetamide ... phenol
+2.064_095	N-methylacetamide ... phenol
+2.064_100	N-methylacetamide ... phenol
+2.064_105	N-methylacetamide ... phenol
+2.064_110	N-methylacetamide ... phenol
+2.064_125	N-methylacetamide ... phenol
+2.064_150	N-methylacetamide ... phenol
+2.064_200	N-methylacetamide ... phenol
+2.065_080	N-methylacetamide ... water
+2.065_085	N-methylacetamide ... water
+2.065_090	N-methylacetamide ... water
+2.065_095	N-methylacetamide ... water
+2.065_100	N-methylacetamide ... water
+2.065_105	N-methylacetamide ... water
+2.065_110	N-methylacetamide ... water
+2.065_125	N-methylacetamide ... water
+2.065_150	N-methylacetamide ... water
+2.065_200	N-methylacetamide ... water
+3.001_080	acetic acid ... acetonitrile
+3.001_085	acetic acid ... acetonitrile
+3.001_090	acetic acid ... acetonitrile
+3.001_095	acetic acid ... acetonitrile
+3.001_100	acetic acid ... acetonitrile
+3.001_105	acetic acid ... acetonitrile
+3.001_110	acetic acid ... acetonitrile
+3.001_125	acetic acid ... acetonitrile
+3.001_150	acetic acid ... acetonitrile
+3.001_200	acetic acid ... acetonitrile
+3.002_080	acetic acid ... ammonia
+3.002_085	acetic acid ... ammonia
+3.002_090	acetic acid ... ammonia
+3.002_095	acetic acid ... ammonia
+3.002_100	acetic acid ... ammonia
+3.002_105	acetic acid ... ammonia
+3.002_110	acetic acid ... ammonia
+3.002_125	acetic acid ... ammonia
+3.002_150	acetic acid ... ammonia
+3.002_200	acetic acid ... ammonia
+3.003_080	acetic acid ... aniline
+3.003_085	acetic acid ... aniline
+3.003_090	acetic acid ... aniline
+3.003_095	acetic acid ... aniline
+3.003_100	acetic acid ... aniline
+3.003_105	acetic acid ... aniline
+3.003_110	acetic acid ... aniline
+3.003_125	acetic acid ... aniline
+3.003_150	acetic acid ... aniline
+3.003_200	acetic acid ... aniline
+3.004_080	acetic acid ... dimethylamine
+3.004_085	acetic acid ... dimethylamine
+3.004_090	acetic acid ... dimethylamine
+3.004_095	acetic acid ... dimethylamine
+3.004_100	acetic acid ... dimethylamine
+3.004_105	acetic acid ... dimethylamine
+3.004_110	acetic acid ... dimethylamine
+3.004_125	acetic acid ... dimethylamine
+3.004_150	acetic acid ... dimethylamine
+3.004_200	acetic acid ... dimethylamine
+3.005_080	acetic acid ... dimethyldiazene
+3.005_085	acetic acid ... dimethyldiazene
+3.005_090	acetic acid ... dimethyldiazene
+3.005_095	acetic acid ... dimethyldiazene
+3.005_100	acetic acid ... dimethyldiazene
+3.005_105	acetic acid ... dimethyldiazene
+3.005_110	acetic acid ... dimethyldiazene
+3.005_125	acetic acid ... dimethyldiazene
+3.005_150	acetic acid ... dimethyldiazene
+3.005_200	acetic acid ... dimethyldiazene
+3.006_080	acetic acid ... methylamine
+3.006_085	acetic acid ... methylamine
+3.006_090	acetic acid ... methylamine
+3.006_095	acetic acid ... methylamine
+3.006_100	acetic acid ... methylamine
+3.006_105	acetic acid ... methylamine
+3.006_110	acetic acid ... methylamine
+3.006_125	acetic acid ... methylamine
+3.006_150	acetic acid ... methylamine
+3.006_200	acetic acid ... methylamine
+3.007_080	acetic acid ... methylazide
+3.007_085	acetic acid ... methylazide
+3.007_090	acetic acid ... methylazide
+3.007_095	acetic acid ... methylazide
+3.007_100	acetic acid ... methylazide
+3.007_105	acetic acid ... methylazide
+3.007_110	acetic acid ... methylazide
+3.007_125	acetic acid ... methylazide
+3.007_150	acetic acid ... methylazide
+3.007_200	acetic acid ... methylazide
+3.008_080	acetic acid ... methylcyanate
+3.008_085	acetic acid ... methylcyanate
+3.008_090	acetic acid ... methylcyanate
+3.008_095	acetic acid ... methylcyanate
+3.008_100	acetic acid ... methylcyanate
+3.008_105	acetic acid ... methylcyanate
+3.008_110	acetic acid ... methylcyanate
+3.008_125	acetic acid ... methylcyanate
+3.008_150	acetic acid ... methylcyanate
+3.008_200	acetic acid ... methylcyanate
+3.009_080	acetic acid ... nitrosomethane
+3.009_085	acetic acid ... nitrosomethane
+3.009_090	acetic acid ... nitrosomethane
+3.009_095	acetic acid ... nitrosomethane
+3.009_100	acetic acid ... nitrosomethane
+3.009_105	acetic acid ... nitrosomethane
+3.009_110	acetic acid ... nitrosomethane
+3.009_125	acetic acid ... nitrosomethane
+3.009_150	acetic acid ... nitrosomethane
+3.009_200	acetic acid ... nitrosomethane
+3.010_080	acetic acid ... N-methyl-2-propanimine
+3.010_085	acetic acid ... N-methyl-2-propanimine
+3.010_090	acetic acid ... N-methyl-2-propanimine
+3.010_095	acetic acid ... N-methyl-2-propanimine
+3.010_100	acetic acid ... N-methyl-2-propanimine
+3.010_105	acetic acid ... N-methyl-2-propanimine
+3.010_110	acetic acid ... N-methyl-2-propanimine
+3.010_125	acetic acid ... N-methyl-2-propanimine
+3.010_150	acetic acid ... N-methyl-2-propanimine
+3.010_200	acetic acid ... N-methyl-2-propanimine
+3.011_080	acetic acid ... pyridine
+3.011_085	acetic acid ... pyridine
+3.011_090	acetic acid ... pyridine
+3.011_095	acetic acid ... pyridine
+3.011_100	acetic acid ... pyridine
+3.011_105	acetic acid ... pyridine
+3.011_110	acetic acid ... pyridine
+3.011_125	acetic acid ... pyridine
+3.011_150	acetic acid ... pyridine
+3.011_200	acetic acid ... pyridine
+3.012_080	acetic acid ... trimethylamine
+3.012_085	acetic acid ... trimethylamine
+3.012_090	acetic acid ... trimethylamine
+3.012_095	acetic acid ... trimethylamine
+3.012_100	acetic acid ... trimethylamine
+3.012_105	acetic acid ... trimethylamine
+3.012_110	acetic acid ... trimethylamine
+3.012_125	acetic acid ... trimethylamine
+3.012_150	acetic acid ... trimethylamine
+3.012_200	acetic acid ... trimethylamine
+3.013_080	methanol ... acetonitrile
+3.013_085	methanol ... acetonitrile
+3.013_090	methanol ... acetonitrile
+3.013_095	methanol ... acetonitrile
+3.013_100	methanol ... acetonitrile
+3.013_105	methanol ... acetonitrile
+3.013_110	methanol ... acetonitrile
+3.013_125	methanol ... acetonitrile
+3.013_150	methanol ... acetonitrile
+3.013_200	methanol ... acetonitrile
+3.014_080	methanol ... ammonia
+3.014_085	methanol ... ammonia
+3.014_090	methanol ... ammonia
+3.014_095	methanol ... ammonia
+3.014_100	methanol ... ammonia
+3.014_105	methanol ... ammonia
+3.014_110	methanol ... ammonia
+3.014_125	methanol ... ammonia
+3.014_150	methanol ... ammonia
+3.014_200	methanol ... ammonia
+3.015_080	methanol ... aniline
+3.015_085	methanol ... aniline
+3.015_090	methanol ... aniline
+3.015_095	methanol ... aniline
+3.015_100	methanol ... aniline
+3.015_105	methanol ... aniline
+3.015_110	methanol ... aniline
+3.015_125	methanol ... aniline
+3.015_150	methanol ... aniline
+3.015_200	methanol ... aniline
+3.016_080	methanol ... dimethylamine
+3.016_085	methanol ... dimethylamine
+3.016_090	methanol ... dimethylamine
+3.016_095	methanol ... dimethylamine
+3.016_100	methanol ... dimethylamine
+3.016_105	methanol ... dimethylamine
+3.016_110	methanol ... dimethylamine
+3.016_125	methanol ... dimethylamine
+3.016_150	methanol ... dimethylamine
+3.016_200	methanol ... dimethylamine
+3.017_080	methanol ... dimethyldiazene
+3.017_085	methanol ... dimethyldiazene
+3.017_090	methanol ... dimethyldiazene
+3.017_095	methanol ... dimethyldiazene
+3.017_100	methanol ... dimethyldiazene
+3.017_105	methanol ... dimethyldiazene
+3.017_110	methanol ... dimethyldiazene
+3.017_125	methanol ... dimethyldiazene
+3.017_150	methanol ... dimethyldiazene
+3.017_200	methanol ... dimethyldiazene
+3.018_080	methanol ... methylamine
+3.018_085	methanol ... methylamine
+3.018_090	methanol ... methylamine
+3.018_095	methanol ... methylamine
+3.018_100	methanol ... methylamine
+3.018_105	methanol ... methylamine
+3.018_110	methanol ... methylamine
+3.018_125	methanol ... methylamine
+3.018_150	methanol ... methylamine
+3.018_200	methanol ... methylamine
+3.019_080	methanol ... methylazide
+3.019_085	methanol ... methylazide
+3.019_090	methanol ... methylazide
+3.019_095	methanol ... methylazide
+3.019_100	methanol ... methylazide
+3.019_105	methanol ... methylazide
+3.019_110	methanol ... methylazide
+3.019_125	methanol ... methylazide
+3.019_150	methanol ... methylazide
+3.019_200	methanol ... methylazide
+3.020_080	methanol ... methylcyanate
+3.020_085	methanol ... methylcyanate
+3.020_090	methanol ... methylcyanate
+3.020_095	methanol ... methylcyanate
+3.020_100	methanol ... methylcyanate
+3.020_105	methanol ... methylcyanate
+3.020_110	methanol ... methylcyanate
+3.020_125	methanol ... methylcyanate
+3.020_150	methanol ... methylcyanate
+3.020_200	methanol ... methylcyanate
+3.021_080	methanol ... N-methyl-2-propanimine
+3.021_085	methanol ... N-methyl-2-propanimine
+3.021_090	methanol ... N-methyl-2-propanimine
+3.021_095	methanol ... N-methyl-2-propanimine
+3.021_100	methanol ... N-methyl-2-propanimine
+3.021_105	methanol ... N-methyl-2-propanimine
+3.021_110	methanol ... N-methyl-2-propanimine
+3.021_125	methanol ... N-methyl-2-propanimine
+3.021_150	methanol ... N-methyl-2-propanimine
+3.021_200	methanol ... N-methyl-2-propanimine
+3.022_080	methanol ... pyridine
+3.022_085	methanol ... pyridine
+3.022_090	methanol ... pyridine
+3.022_095	methanol ... pyridine
+3.022_100	methanol ... pyridine
+3.022_105	methanol ... pyridine
+3.022_110	methanol ... pyridine
+3.022_125	methanol ... pyridine
+3.022_150	methanol ... pyridine
+3.022_200	methanol ... pyridine
+3.023_080	methanol ... trimethylamine
+3.023_085	methanol ... trimethylamine
+3.023_090	methanol ... trimethylamine
+3.023_095	methanol ... trimethylamine
+3.023_100	methanol ... trimethylamine
+3.023_105	methanol ... trimethylamine
+3.023_110	methanol ... trimethylamine
+3.023_125	methanol ... trimethylamine
+3.023_150	methanol ... trimethylamine
+3.023_200	methanol ... trimethylamine
+3.024_080	phenol ... acetonitrile
+3.024_085	phenol ... acetonitrile
+3.024_090	phenol ... acetonitrile
+3.024_095	phenol ... acetonitrile
+3.024_100	phenol ... acetonitrile
+3.024_105	phenol ... acetonitrile
+3.024_110	phenol ... acetonitrile
+3.024_125	phenol ... acetonitrile
+3.024_150	phenol ... acetonitrile
+3.024_200	phenol ... acetonitrile
+3.025_080	phenol ... ammonia
+3.025_085	phenol ... ammonia
+3.025_090	phenol ... ammonia
+3.025_095	phenol ... ammonia
+3.025_100	phenol ... ammonia
+3.025_105	phenol ... ammonia
+3.025_110	phenol ... ammonia
+3.025_125	phenol ... ammonia
+3.025_150	phenol ... ammonia
+3.025_200	phenol ... ammonia
+3.026_080	phenol ... aniline
+3.026_085	phenol ... aniline
+3.026_090	phenol ... aniline
+3.026_095	phenol ... aniline
+3.026_100	phenol ... aniline
+3.026_105	phenol ... aniline
+3.026_110	phenol ... aniline
+3.026_125	phenol ... aniline
+3.026_150	phenol ... aniline
+3.026_200	phenol ... aniline
+3.027_080	phenol ... dimethylamine
+3.027_085	phenol ... dimethylamine
+3.027_090	phenol ... dimethylamine
+3.027_095	phenol ... dimethylamine
+3.027_100	phenol ... dimethylamine
+3.027_105	phenol ... dimethylamine
+3.027_110	phenol ... dimethylamine
+3.027_125	phenol ... dimethylamine
+3.027_150	phenol ... dimethylamine
+3.027_200	phenol ... dimethylamine
+3.028_080	phenol ... dimethyldiazene
+3.028_085	phenol ... dimethyldiazene
+3.028_090	phenol ... dimethyldiazene
+3.028_095	phenol ... dimethyldiazene
+3.028_100	phenol ... dimethyldiazene
+3.028_105	phenol ... dimethyldiazene
+3.028_110	phenol ... dimethyldiazene
+3.028_125	phenol ... dimethyldiazene
+3.028_150	phenol ... dimethyldiazene
+3.028_200	phenol ... dimethyldiazene
+3.029_080	phenol ... methylamine
+3.029_085	phenol ... methylamine
+3.029_090	phenol ... methylamine
+3.029_095	phenol ... methylamine
+3.029_100	phenol ... methylamine
+3.029_105	phenol ... methylamine
+3.029_110	phenol ... methylamine
+3.029_125	phenol ... methylamine
+3.029_150	phenol ... methylamine
+3.029_200	phenol ... methylamine
+3.030_080	phenol ... methylazide
+3.030_085	phenol ... methylazide
+3.030_090	phenol ... methylazide
+3.030_095	phenol ... methylazide
+3.030_100	phenol ... methylazide
+3.030_105	phenol ... methylazide
+3.030_110	phenol ... methylazide
+3.030_125	phenol ... methylazide
+3.030_150	phenol ... methylazide
+3.030_200	phenol ... methylazide
+3.031_080	phenol ... methylcyanate
+3.031_085	phenol ... methylcyanate
+3.031_090	phenol ... methylcyanate
+3.031_095	phenol ... methylcyanate
+3.031_100	phenol ... methylcyanate
+3.031_105	phenol ... methylcyanate
+3.031_110	phenol ... methylcyanate
+3.031_125	phenol ... methylcyanate
+3.031_150	phenol ... methylcyanate
+3.031_200	phenol ... methylcyanate
+3.032_080	phenol ... N-methyl-2-propanimine
+3.032_085	phenol ... N-methyl-2-propanimine
+3.032_090	phenol ... N-methyl-2-propanimine
+3.032_095	phenol ... N-methyl-2-propanimine
+3.032_100	phenol ... N-methyl-2-propanimine
+3.032_105	phenol ... N-methyl-2-propanimine
+3.032_110	phenol ... N-methyl-2-propanimine
+3.032_125	phenol ... N-methyl-2-propanimine
+3.032_150	phenol ... N-methyl-2-propanimine
+3.032_200	phenol ... N-methyl-2-propanimine
+3.033_080	phenol ... pyridine
+3.033_085	phenol ... pyridine
+3.033_090	phenol ... pyridine
+3.033_095	phenol ... pyridine
+3.033_100	phenol ... pyridine
+3.033_105	phenol ... pyridine
+3.033_110	phenol ... pyridine
+3.033_125	phenol ... pyridine
+3.033_150	phenol ... pyridine
+3.033_200	phenol ... pyridine
+3.034_080	phenol ... trimethylamine
+3.034_085	phenol ... trimethylamine
+3.034_090	phenol ... trimethylamine
+3.034_095	phenol ... trimethylamine
+3.034_100	phenol ... trimethylamine
+3.034_105	phenol ... trimethylamine
+3.034_110	phenol ... trimethylamine
+3.034_125	phenol ... trimethylamine
+3.034_150	phenol ... trimethylamine
+3.034_200	phenol ... trimethylamine
+3.035_080	water ... acetonitrile
+3.035_085	water ... acetonitrile
+3.035_090	water ... acetonitrile
+3.035_095	water ... acetonitrile
+3.035_100	water ... acetonitrile
+3.035_105	water ... acetonitrile
+3.035_110	water ... acetonitrile
+3.035_125	water ... acetonitrile
+3.035_150	water ... acetonitrile
+3.035_200	water ... acetonitrile
+3.036_080	water ... ammonia
+3.036_085	water ... ammonia
+3.036_090	water ... ammonia
+3.036_095	water ... ammonia
+3.036_100	water ... ammonia
+3.036_105	water ... ammonia
+3.036_110	water ... ammonia
+3.036_125	water ... ammonia
+3.036_150	water ... ammonia
+3.036_200	water ... ammonia
+3.037_080	water ... aniline
+3.037_085	water ... aniline
+3.037_090	water ... aniline
+3.037_095	water ... aniline
+3.037_100	water ... aniline
+3.037_105	water ... aniline
+3.037_110	water ... aniline
+3.037_125	water ... aniline
+3.037_150	water ... aniline
+3.037_200	water ... aniline
+3.038_080	water ... dimethylamine
+3.038_085	water ... dimethylamine
+3.038_090	water ... dimethylamine
+3.038_095	water ... dimethylamine
+3.038_100	water ... dimethylamine
+3.038_105	water ... dimethylamine
+3.038_110	water ... dimethylamine
+3.038_125	water ... dimethylamine
+3.038_150	water ... dimethylamine
+3.038_200	water ... dimethylamine
+3.039_080	water ... dimethyldiazene
+3.039_085	water ... dimethyldiazene
+3.039_090	water ... dimethyldiazene
+3.039_095	water ... dimethyldiazene
+3.039_100	water ... dimethyldiazene
+3.039_105	water ... dimethyldiazene
+3.039_110	water ... dimethyldiazene
+3.039_125	water ... dimethyldiazene
+3.039_150	water ... dimethyldiazene
+3.039_200	water ... dimethyldiazene
+3.040_080	water ... methylamine
+3.040_085	water ... methylamine
+3.040_090	water ... methylamine
+3.040_095	water ... methylamine
+3.040_100	water ... methylamine
+3.040_105	water ... methylamine
+3.040_110	water ... methylamine
+3.040_125	water ... methylamine
+3.040_150	water ... methylamine
+3.040_200	water ... methylamine
+3.041_080	water ... methylazide
+3.041_085	water ... methylazide
+3.041_090	water ... methylazide
+3.041_095	water ... methylazide
+3.041_100	water ... methylazide
+3.041_105	water ... methylazide
+3.041_110	water ... methylazide
+3.041_125	water ... methylazide
+3.041_150	water ... methylazide
+3.041_200	water ... methylazide
+3.042_080	water ... methylcyanate
+3.042_085	water ... methylcyanate
+3.042_090	water ... methylcyanate
+3.042_095	water ... methylcyanate
+3.042_100	water ... methylcyanate
+3.042_105	water ... methylcyanate
+3.042_110	water ... methylcyanate
+3.042_125	water ... methylcyanate
+3.042_150	water ... methylcyanate
+3.042_200	water ... methylcyanate
+3.043_080	water ... N-methyl-2-propanimine
+3.043_085	water ... N-methyl-2-propanimine
+3.043_090	water ... N-methyl-2-propanimine
+3.043_095	water ... N-methyl-2-propanimine
+3.043_100	water ... N-methyl-2-propanimine
+3.043_105	water ... N-methyl-2-propanimine
+3.043_110	water ... N-methyl-2-propanimine
+3.043_125	water ... N-methyl-2-propanimine
+3.043_150	water ... N-methyl-2-propanimine
+3.043_200	water ... N-methyl-2-propanimine
+3.044_080	water ... pyridine
+3.044_085	water ... pyridine
+3.044_090	water ... pyridine
+3.044_095	water ... pyridine
+3.044_100	water ... pyridine
+3.044_105	water ... pyridine
+3.044_110	water ... pyridine
+3.044_125	water ... pyridine
+3.044_150	water ... pyridine
+3.044_200	water ... pyridine
+3.045_080	water ... trimethylamine
+3.045_085	water ... trimethylamine
+3.045_090	water ... trimethylamine
+3.045_095	water ... trimethylamine
+3.045_100	water ... trimethylamine
+3.045_105	water ... trimethylamine
+3.045_110	water ... trimethylamine
+3.045_125	water ... trimethylamine
+3.045_150	water ... trimethylamine
+3.045_200	water ... trimethylamine
+4.001_080	1H-pyrrole ... acetonitrile
+4.001_085	1H-pyrrole ... acetonitrile
+4.001_090	1H-pyrrole ... acetonitrile
+4.001_095	1H-pyrrole ... acetonitrile
+4.001_100	1H-pyrrole ... acetonitrile
+4.001_105	1H-pyrrole ... acetonitrile
+4.001_110	1H-pyrrole ... acetonitrile
+4.001_125	1H-pyrrole ... acetonitrile
+4.001_150	1H-pyrrole ... acetonitrile
+4.001_200	1H-pyrrole ... acetonitrile
+4.002_080	1H-pyrrole ... ammonia
+4.002_085	1H-pyrrole ... ammonia
+4.002_090	1H-pyrrole ... ammonia
+4.002_095	1H-pyrrole ... ammonia
+4.002_100	1H-pyrrole ... ammonia
+4.002_105	1H-pyrrole ... ammonia
+4.002_110	1H-pyrrole ... ammonia
+4.002_125	1H-pyrrole ... ammonia
+4.002_150	1H-pyrrole ... ammonia
+4.002_200	1H-pyrrole ... ammonia
+4.003_080	1H-pyrrole ... aniline
+4.003_085	1H-pyrrole ... aniline
+4.003_090	1H-pyrrole ... aniline
+4.003_095	1H-pyrrole ... aniline
+4.003_100	1H-pyrrole ... aniline
+4.003_105	1H-pyrrole ... aniline
+4.003_110	1H-pyrrole ... aniline
+4.003_125	1H-pyrrole ... aniline
+4.003_150	1H-pyrrole ... aniline
+4.003_200	1H-pyrrole ... aniline
+4.004_080	1H-pyrrole ... dimethylamine
+4.004_085	1H-pyrrole ... dimethylamine
+4.004_090	1H-pyrrole ... dimethylamine
+4.004_095	1H-pyrrole ... dimethylamine
+4.004_100	1H-pyrrole ... dimethylamine
+4.004_105	1H-pyrrole ... dimethylamine
+4.004_110	1H-pyrrole ... dimethylamine
+4.004_125	1H-pyrrole ... dimethylamine
+4.004_150	1H-pyrrole ... dimethylamine
+4.004_200	1H-pyrrole ... dimethylamine
+4.005_080	1H-pyrrole ... dimethyldiazene
+4.005_085	1H-pyrrole ... dimethyldiazene
+4.005_090	1H-pyrrole ... dimethyldiazene
+4.005_095	1H-pyrrole ... dimethyldiazene
+4.005_100	1H-pyrrole ... dimethyldiazene
+4.005_105	1H-pyrrole ... dimethyldiazene
+4.005_110	1H-pyrrole ... dimethyldiazene
+4.005_125	1H-pyrrole ... dimethyldiazene
+4.005_150	1H-pyrrole ... dimethyldiazene
+4.005_200	1H-pyrrole ... dimethyldiazene
+4.006_080	1H-pyrrole ... methylamine
+4.006_085	1H-pyrrole ... methylamine
+4.006_090	1H-pyrrole ... methylamine
+4.006_095	1H-pyrrole ... methylamine
+4.006_100	1H-pyrrole ... methylamine
+4.006_105	1H-pyrrole ... methylamine
+4.006_110	1H-pyrrole ... methylamine
+4.006_125	1H-pyrrole ... methylamine
+4.006_150	1H-pyrrole ... methylamine
+4.006_200	1H-pyrrole ... methylamine
+4.007_080	1H-pyrrole ... methylcyanate
+4.007_085	1H-pyrrole ... methylcyanate
+4.007_090	1H-pyrrole ... methylcyanate
+4.007_095	1H-pyrrole ... methylcyanate
+4.007_100	1H-pyrrole ... methylcyanate
+4.007_105	1H-pyrrole ... methylcyanate
+4.007_110	1H-pyrrole ... methylcyanate
+4.007_125	1H-pyrrole ... methylcyanate
+4.007_150	1H-pyrrole ... methylcyanate
+4.007_200	1H-pyrrole ... methylcyanate
+4.008_080	1H-pyrrole ... N-methyl-2-propanimine
+4.008_085	1H-pyrrole ... N-methyl-2-propanimine
+4.008_090	1H-pyrrole ... N-methyl-2-propanimine
+4.008_095	1H-pyrrole ... N-methyl-2-propanimine
+4.008_100	1H-pyrrole ... N-methyl-2-propanimine
+4.008_105	1H-pyrrole ... N-methyl-2-propanimine
+4.008_110	1H-pyrrole ... N-methyl-2-propanimine
+4.008_125	1H-pyrrole ... N-methyl-2-propanimine
+4.008_150	1H-pyrrole ... N-methyl-2-propanimine
+4.008_200	1H-pyrrole ... N-methyl-2-propanimine
+4.009_080	1H-pyrrole ... pyridine
+4.009_085	1H-pyrrole ... pyridine
+4.009_090	1H-pyrrole ... pyridine
+4.009_095	1H-pyrrole ... pyridine
+4.009_100	1H-pyrrole ... pyridine
+4.009_105	1H-pyrrole ... pyridine
+4.009_110	1H-pyrrole ... pyridine
+4.009_125	1H-pyrrole ... pyridine
+4.009_150	1H-pyrrole ... pyridine
+4.009_200	1H-pyrrole ... pyridine
+4.010_080	1H-pyrrole ... trimethylamine
+4.010_085	1H-pyrrole ... trimethylamine
+4.010_090	1H-pyrrole ... trimethylamine
+4.010_095	1H-pyrrole ... trimethylamine
+4.010_100	1H-pyrrole ... trimethylamine
+4.010_105	1H-pyrrole ... trimethylamine
+4.010_110	1H-pyrrole ... trimethylamine
+4.010_125	1H-pyrrole ... trimethylamine
+4.010_150	1H-pyrrole ... trimethylamine
+4.010_200	1H-pyrrole ... trimethylamine
+4.011_080	ammonia ... ammonia
+4.011_085	ammonia ... ammonia
+4.011_090	ammonia ... ammonia
+4.011_095	ammonia ... ammonia
+4.011_100	ammonia ... ammonia
+4.011_105	ammonia ... ammonia
+4.011_110	ammonia ... ammonia
+4.011_125	ammonia ... ammonia
+4.011_150	ammonia ... ammonia
+4.011_200	ammonia ... ammonia
+4.012_080	ammonia ... dimethylamine
+4.012_085	ammonia ... dimethylamine
+4.012_090	ammonia ... dimethylamine
+4.012_095	ammonia ... dimethylamine
+4.012_100	ammonia ... dimethylamine
+4.012_105	ammonia ... dimethylamine
+4.012_110	ammonia ... dimethylamine
+4.012_125	ammonia ... dimethylamine
+4.012_150	ammonia ... dimethylamine
+4.012_200	ammonia ... dimethylamine
+4.013_080	ammonia ... dimethyldiazene
+4.013_085	ammonia ... dimethyldiazene
+4.013_090	ammonia ... dimethyldiazene
+4.013_095	ammonia ... dimethyldiazene
+4.013_100	ammonia ... dimethyldiazene
+4.013_105	ammonia ... dimethyldiazene
+4.013_110	ammonia ... dimethyldiazene
+4.013_125	ammonia ... dimethyldiazene
+4.013_150	ammonia ... dimethyldiazene
+4.013_200	ammonia ... dimethyldiazene
+4.014_080	ammonia ... methylamine
+4.014_085	ammonia ... methylamine
+4.014_090	ammonia ... methylamine
+4.014_095	ammonia ... methylamine
+4.014_100	ammonia ... methylamine
+4.014_105	ammonia ... methylamine
+4.014_110	ammonia ... methylamine
+4.014_125	ammonia ... methylamine
+4.014_150	ammonia ... methylamine
+4.014_200	ammonia ... methylamine
+4.015_080	ammonia ... N-methyl-2-propanimine
+4.015_085	ammonia ... N-methyl-2-propanimine
+4.015_090	ammonia ... N-methyl-2-propanimine
+4.015_095	ammonia ... N-methyl-2-propanimine
+4.015_100	ammonia ... N-methyl-2-propanimine
+4.015_105	ammonia ... N-methyl-2-propanimine
+4.015_110	ammonia ... N-methyl-2-propanimine
+4.015_125	ammonia ... N-methyl-2-propanimine
+4.015_150	ammonia ... N-methyl-2-propanimine
+4.015_200	ammonia ... N-methyl-2-propanimine
+4.016_080	ammonia ... pyridine
+4.016_085	ammonia ... pyridine
+4.016_090	ammonia ... pyridine
+4.016_095	ammonia ... pyridine
+4.016_100	ammonia ... pyridine
+4.016_105	ammonia ... pyridine
+4.016_110	ammonia ... pyridine
+4.016_125	ammonia ... pyridine
+4.016_150	ammonia ... pyridine
+4.016_200	ammonia ... pyridine
+4.017_080	ammonia ... trimethylamine
+4.017_085	ammonia ... trimethylamine
+4.017_090	ammonia ... trimethylamine
+4.017_095	ammonia ... trimethylamine
+4.017_100	ammonia ... trimethylamine
+4.017_105	ammonia ... trimethylamine
+4.017_110	ammonia ... trimethylamine
+4.017_125	ammonia ... trimethylamine
+4.017_150	ammonia ... trimethylamine
+4.017_200	ammonia ... trimethylamine
+4.018_080	aniline ... ammonia
+4.018_085	aniline ... ammonia
+4.018_090	aniline ... ammonia
+4.018_095	aniline ... ammonia
+4.018_100	aniline ... ammonia
+4.018_105	aniline ... ammonia
+4.018_110	aniline ... ammonia
+4.018_125	aniline ... ammonia
+4.018_150	aniline ... ammonia
+4.018_200	aniline ... ammonia
+4.019_080	aniline ... aniline
+4.019_085	aniline ... aniline
+4.019_090	aniline ... aniline
+4.019_095	aniline ... aniline
+4.019_100	aniline ... aniline
+4.019_105	aniline ... aniline
+4.019_110	aniline ... aniline
+4.019_125	aniline ... aniline
+4.019_150	aniline ... aniline
+4.019_200	aniline ... aniline
+4.020_080	aniline ... dimethylamine
+4.020_085	aniline ... dimethylamine
+4.020_090	aniline ... dimethylamine
+4.020_095	aniline ... dimethylamine
+4.020_100	aniline ... dimethylamine
+4.020_105	aniline ... dimethylamine
+4.020_110	aniline ... dimethylamine
+4.020_125	aniline ... dimethylamine
+4.020_150	aniline ... dimethylamine
+4.020_200	aniline ... dimethylamine
+4.021_080	aniline ... dimethyldiazene
+4.021_085	aniline ... dimethyldiazene
+4.021_090	aniline ... dimethyldiazene
+4.021_095	aniline ... dimethyldiazene
+4.021_100	aniline ... dimethyldiazene
+4.021_105	aniline ... dimethyldiazene
+4.021_110	aniline ... dimethyldiazene
+4.021_125	aniline ... dimethyldiazene
+4.021_150	aniline ... dimethyldiazene
+4.021_200	aniline ... dimethyldiazene
+4.022_080	aniline ... methylamine
+4.022_085	aniline ... methylamine
+4.022_090	aniline ... methylamine
+4.022_095	aniline ... methylamine
+4.022_100	aniline ... methylamine
+4.022_105	aniline ... methylamine
+4.022_110	aniline ... methylamine
+4.022_125	aniline ... methylamine
+4.022_150	aniline ... methylamine
+4.022_200	aniline ... methylamine
+4.023_080	aniline ... methylcyanate
+4.023_085	aniline ... methylcyanate
+4.023_090	aniline ... methylcyanate
+4.023_095	aniline ... methylcyanate
+4.023_100	aniline ... methylcyanate
+4.023_105	aniline ... methylcyanate
+4.023_110	aniline ... methylcyanate
+4.023_125	aniline ... methylcyanate
+4.023_150	aniline ... methylcyanate
+4.023_200	aniline ... methylcyanate
+4.024_080	aniline ... N-methyl-2-propanimine
+4.024_085	aniline ... N-methyl-2-propanimine
+4.024_090	aniline ... N-methyl-2-propanimine
+4.024_095	aniline ... N-methyl-2-propanimine
+4.024_100	aniline ... N-methyl-2-propanimine
+4.024_105	aniline ... N-methyl-2-propanimine
+4.024_110	aniline ... N-methyl-2-propanimine
+4.024_125	aniline ... N-methyl-2-propanimine
+4.024_150	aniline ... N-methyl-2-propanimine
+4.024_200	aniline ... N-methyl-2-propanimine
+4.025_080	aniline ... pyridine
+4.025_085	aniline ... pyridine
+4.025_090	aniline ... pyridine
+4.025_095	aniline ... pyridine
+4.025_100	aniline ... pyridine
+4.025_105	aniline ... pyridine
+4.025_110	aniline ... pyridine
+4.025_125	aniline ... pyridine
+4.025_150	aniline ... pyridine
+4.025_200	aniline ... pyridine
+4.026_080	aniline ... trimethylamine
+4.026_085	aniline ... trimethylamine
+4.026_090	aniline ... trimethylamine
+4.026_095	aniline ... trimethylamine
+4.026_100	aniline ... trimethylamine
+4.026_105	aniline ... trimethylamine
+4.026_110	aniline ... trimethylamine
+4.026_125	aniline ... trimethylamine
+4.026_150	aniline ... trimethylamine
+4.026_200	aniline ... trimethylamine
+4.027_080	dimethylamine ... acetonitrile
+4.027_085	dimethylamine ... acetonitrile
+4.027_090	dimethylamine ... acetonitrile
+4.027_095	dimethylamine ... acetonitrile
+4.027_100	dimethylamine ... acetonitrile
+4.027_105	dimethylamine ... acetonitrile
+4.027_110	dimethylamine ... acetonitrile
+4.027_125	dimethylamine ... acetonitrile
+4.027_150	dimethylamine ... acetonitrile
+4.027_200	dimethylamine ... acetonitrile
+4.028_080	dimethylamine ... ammonia
+4.028_085	dimethylamine ... ammonia
+4.028_090	dimethylamine ... ammonia
+4.028_095	dimethylamine ... ammonia
+4.028_100	dimethylamine ... ammonia
+4.028_105	dimethylamine ... ammonia
+4.028_110	dimethylamine ... ammonia
+4.028_125	dimethylamine ... ammonia
+4.028_150	dimethylamine ... ammonia
+4.028_200	dimethylamine ... ammonia
+4.029_080	dimethylamine ... aniline
+4.029_085	dimethylamine ... aniline
+4.029_090	dimethylamine ... aniline
+4.029_095	dimethylamine ... aniline
+4.029_100	dimethylamine ... aniline
+4.029_105	dimethylamine ... aniline
+4.029_110	dimethylamine ... aniline
+4.029_125	dimethylamine ... aniline
+4.029_150	dimethylamine ... aniline
+4.029_200	dimethylamine ... aniline
+4.030_080	dimethylamine ... dimethylamine
+4.030_085	dimethylamine ... dimethylamine
+4.030_090	dimethylamine ... dimethylamine
+4.030_095	dimethylamine ... dimethylamine
+4.030_100	dimethylamine ... dimethylamine
+4.030_105	dimethylamine ... dimethylamine
+4.030_110	dimethylamine ... dimethylamine
+4.030_125	dimethylamine ... dimethylamine
+4.030_150	dimethylamine ... dimethylamine
+4.030_200	dimethylamine ... dimethylamine
+4.031_080	dimethylamine ... dimethyldiazene
+4.031_085	dimethylamine ... dimethyldiazene
+4.031_090	dimethylamine ... dimethyldiazene
+4.031_095	dimethylamine ... dimethyldiazene
+4.031_100	dimethylamine ... dimethyldiazene
+4.031_105	dimethylamine ... dimethyldiazene
+4.031_110	dimethylamine ... dimethyldiazene
+4.031_125	dimethylamine ... dimethyldiazene
+4.031_150	dimethylamine ... dimethyldiazene
+4.031_200	dimethylamine ... dimethyldiazene
+4.032_080	dimethylamine ... methylazide
+4.032_085	dimethylamine ... methylazide
+4.032_090	dimethylamine ... methylazide
+4.032_095	dimethylamine ... methylazide
+4.032_100	dimethylamine ... methylazide
+4.032_105	dimethylamine ... methylazide
+4.032_110	dimethylamine ... methylazide
+4.032_125	dimethylamine ... methylazide
+4.032_150	dimethylamine ... methylazide
+4.032_200	dimethylamine ... methylazide
+4.033_080	dimethylamine ... N-methyl-2-propanimine
+4.033_085	dimethylamine ... N-methyl-2-propanimine
+4.033_090	dimethylamine ... N-methyl-2-propanimine
+4.033_095	dimethylamine ... N-methyl-2-propanimine
+4.033_100	dimethylamine ... N-methyl-2-propanimine
+4.033_105	dimethylamine ... N-methyl-2-propanimine
+4.033_110	dimethylamine ... N-methyl-2-propanimine
+4.033_125	dimethylamine ... N-methyl-2-propanimine
+4.033_150	dimethylamine ... N-methyl-2-propanimine
+4.033_200	dimethylamine ... N-methyl-2-propanimine
+4.034_080	dimethylamine ... pyridine
+4.034_085	dimethylamine ... pyridine
+4.034_090	dimethylamine ... pyridine
+4.034_095	dimethylamine ... pyridine
+4.034_100	dimethylamine ... pyridine
+4.034_105	dimethylamine ... pyridine
+4.034_110	dimethylamine ... pyridine
+4.034_125	dimethylamine ... pyridine
+4.034_150	dimethylamine ... pyridine
+4.034_200	dimethylamine ... pyridine
+4.035_080	dimethylamine ... trimethylamine
+4.035_085	dimethylamine ... trimethylamine
+4.035_090	dimethylamine ... trimethylamine
+4.035_095	dimethylamine ... trimethylamine
+4.035_100	dimethylamine ... trimethylamine
+4.035_105	dimethylamine ... trimethylamine
+4.035_110	dimethylamine ... trimethylamine
+4.035_125	dimethylamine ... trimethylamine
+4.035_150	dimethylamine ... trimethylamine
+4.035_200	dimethylamine ... trimethylamine
+4.036_080	methylamine ... acetonitrile
+4.036_085	methylamine ... acetonitrile
+4.036_090	methylamine ... acetonitrile
+4.036_095	methylamine ... acetonitrile
+4.036_100	methylamine ... acetonitrile
+4.036_105	methylamine ... acetonitrile
+4.036_110	methylamine ... acetonitrile
+4.036_125	methylamine ... acetonitrile
+4.036_150	methylamine ... acetonitrile
+4.036_200	methylamine ... acetonitrile
+4.037_080	methylamine ... ammonia
+4.037_085	methylamine ... ammonia
+4.037_090	methylamine ... ammonia
+4.037_095	methylamine ... ammonia
+4.037_100	methylamine ... ammonia
+4.037_105	methylamine ... ammonia
+4.037_110	methylamine ... ammonia
+4.037_125	methylamine ... ammonia
+4.037_150	methylamine ... ammonia
+4.037_200	methylamine ... ammonia
+4.038_080	methylamine ... dimethylamine
+4.038_085	methylamine ... dimethylamine
+4.038_090	methylamine ... dimethylamine
+4.038_095	methylamine ... dimethylamine
+4.038_100	methylamine ... dimethylamine
+4.038_105	methylamine ... dimethylamine
+4.038_110	methylamine ... dimethylamine
+4.038_125	methylamine ... dimethylamine
+4.038_150	methylamine ... dimethylamine
+4.038_200	methylamine ... dimethylamine
+4.039_080	methylamine ... dimethyldiazene
+4.039_085	methylamine ... dimethyldiazene
+4.039_090	methylamine ... dimethyldiazene
+4.039_095	methylamine ... dimethyldiazene
+4.039_100	methylamine ... dimethyldiazene
+4.039_105	methylamine ... dimethyldiazene
+4.039_110	methylamine ... dimethyldiazene
+4.039_125	methylamine ... dimethyldiazene
+4.039_150	methylamine ... dimethyldiazene
+4.039_200	methylamine ... dimethyldiazene
+4.040_080	methylamine ... methylamine
+4.040_085	methylamine ... methylamine
+4.040_090	methylamine ... methylamine
+4.040_095	methylamine ... methylamine
+4.040_100	methylamine ... methylamine
+4.040_105	methylamine ... methylamine
+4.040_110	methylamine ... methylamine
+4.040_125	methylamine ... methylamine
+4.040_150	methylamine ... methylamine
+4.040_200	methylamine ... methylamine
+4.041_080	methylamine ... N-methyl-2-propanimine
+4.041_085	methylamine ... N-methyl-2-propanimine
+4.041_090	methylamine ... N-methyl-2-propanimine
+4.041_095	methylamine ... N-methyl-2-propanimine
+4.041_100	methylamine ... N-methyl-2-propanimine
+4.041_105	methylamine ... N-methyl-2-propanimine
+4.041_110	methylamine ... N-methyl-2-propanimine
+4.041_125	methylamine ... N-methyl-2-propanimine
+4.041_150	methylamine ... N-methyl-2-propanimine
+4.041_200	methylamine ... N-methyl-2-propanimine
+4.042_080	methylamine ... pyridine
+4.042_085	methylamine ... pyridine
+4.042_090	methylamine ... pyridine
+4.042_095	methylamine ... pyridine
+4.042_100	methylamine ... pyridine
+4.042_105	methylamine ... pyridine
+4.042_110	methylamine ... pyridine
+4.042_125	methylamine ... pyridine
+4.042_150	methylamine ... pyridine
+4.042_200	methylamine ... pyridine
+4.043_080	methylamine ... trimethylamine
+4.043_085	methylamine ... trimethylamine
+4.043_090	methylamine ... trimethylamine
+4.043_095	methylamine ... trimethylamine
+4.043_100	methylamine ... trimethylamine
+4.043_105	methylamine ... trimethylamine
+4.043_110	methylamine ... trimethylamine
+4.043_125	methylamine ... trimethylamine
+4.043_150	methylamine ... trimethylamine
+4.043_200	methylamine ... trimethylamine
+4.044_080	N-methylacetamide ... acetonitrile
+4.044_085	N-methylacetamide ... acetonitrile
+4.044_090	N-methylacetamide ... acetonitrile
+4.044_095	N-methylacetamide ... acetonitrile
+4.044_100	N-methylacetamide ... acetonitrile
+4.044_105	N-methylacetamide ... acetonitrile
+4.044_110	N-methylacetamide ... acetonitrile
+4.044_125	N-methylacetamide ... acetonitrile
+4.044_150	N-methylacetamide ... acetonitrile
+4.044_200	N-methylacetamide ... acetonitrile
+4.045_080	N-methylacetamide ... ammonia
+4.045_085	N-methylacetamide ... ammonia
+4.045_090	N-methylacetamide ... ammonia
+4.045_095	N-methylacetamide ... ammonia
+4.045_100	N-methylacetamide ... ammonia
+4.045_105	N-methylacetamide ... ammonia
+4.045_110	N-methylacetamide ... ammonia
+4.045_125	N-methylacetamide ... ammonia
+4.045_150	N-methylacetamide ... ammonia
+4.045_200	N-methylacetamide ... ammonia
+4.046_080	N-methylacetamide ... aniline
+4.046_085	N-methylacetamide ... aniline
+4.046_090	N-methylacetamide ... aniline
+4.046_095	N-methylacetamide ... aniline
+4.046_100	N-methylacetamide ... aniline
+4.046_105	N-methylacetamide ... aniline
+4.046_110	N-methylacetamide ... aniline
+4.046_125	N-methylacetamide ... aniline
+4.046_150	N-methylacetamide ... aniline
+4.046_200	N-methylacetamide ... aniline
+4.047_080	N-methylacetamide ... dimethylamine
+4.047_085	N-methylacetamide ... dimethylamine
+4.047_090	N-methylacetamide ... dimethylamine
+4.047_095	N-methylacetamide ... dimethylamine
+4.047_100	N-methylacetamide ... dimethylamine
+4.047_105	N-methylacetamide ... dimethylamine
+4.047_110	N-methylacetamide ... dimethylamine
+4.047_125	N-methylacetamide ... dimethylamine
+4.047_150	N-methylacetamide ... dimethylamine
+4.047_200	N-methylacetamide ... dimethylamine
+4.048_080	N-methylacetamide ... dimethyldiazene
+4.048_085	N-methylacetamide ... dimethyldiazene
+4.048_090	N-methylacetamide ... dimethyldiazene
+4.048_095	N-methylacetamide ... dimethyldiazene
+4.048_100	N-methylacetamide ... dimethyldiazene
+4.048_105	N-methylacetamide ... dimethyldiazene
+4.048_110	N-methylacetamide ... dimethyldiazene
+4.048_125	N-methylacetamide ... dimethyldiazene
+4.048_150	N-methylacetamide ... dimethyldiazene
+4.048_200	N-methylacetamide ... dimethyldiazene
+4.049_080	N-methylacetamide ... methylamine
+4.049_085	N-methylacetamide ... methylamine
+4.049_090	N-methylacetamide ... methylamine
+4.049_095	N-methylacetamide ... methylamine
+4.049_100	N-methylacetamide ... methylamine
+4.049_105	N-methylacetamide ... methylamine
+4.049_110	N-methylacetamide ... methylamine
+4.049_125	N-methylacetamide ... methylamine
+4.049_150	N-methylacetamide ... methylamine
+4.049_200	N-methylacetamide ... methylamine
+4.050_080	N-methylacetamide ... methylazide
+4.050_085	N-methylacetamide ... methylazide
+4.050_090	N-methylacetamide ... methylazide
+4.050_095	N-methylacetamide ... methylazide
+4.050_100	N-methylacetamide ... methylazide
+4.050_105	N-methylacetamide ... methylazide
+4.050_110	N-methylacetamide ... methylazide
+4.050_125	N-methylacetamide ... methylazide
+4.050_150	N-methylacetamide ... methylazide
+4.050_200	N-methylacetamide ... methylazide
+4.051_080	N-methylacetamide ... N-methyl-2-propanimine
+4.051_085	N-methylacetamide ... N-methyl-2-propanimine
+4.051_090	N-methylacetamide ... N-methyl-2-propanimine
+4.051_095	N-methylacetamide ... N-methyl-2-propanimine
+4.051_100	N-methylacetamide ... N-methyl-2-propanimine
+4.051_105	N-methylacetamide ... N-methyl-2-propanimine
+4.051_110	N-methylacetamide ... N-methyl-2-propanimine
+4.051_125	N-methylacetamide ... N-methyl-2-propanimine
+4.051_150	N-methylacetamide ... N-methyl-2-propanimine
+4.051_200	N-methylacetamide ... N-methyl-2-propanimine
+4.052_080	N-methylacetamide ... pyridine
+4.052_085	N-methylacetamide ... pyridine
+4.052_090	N-methylacetamide ... pyridine
+4.052_095	N-methylacetamide ... pyridine
+4.052_100	N-methylacetamide ... pyridine
+4.052_105	N-methylacetamide ... pyridine
+4.052_110	N-methylacetamide ... pyridine
+4.052_125	N-methylacetamide ... pyridine
+4.052_150	N-methylacetamide ... pyridine
+4.052_200	N-methylacetamide ... pyridine
+4.053_080	N-methylacetamide ... trimethylamine
+4.053_085	N-methylacetamide ... trimethylamine
+4.053_090	N-methylacetamide ... trimethylamine
+4.053_095	N-methylacetamide ... trimethylamine
+4.053_100	N-methylacetamide ... trimethylamine
+4.053_105	N-methylacetamide ... trimethylamine
+4.053_110	N-methylacetamide ... trimethylamine
+4.053_125	N-methylacetamide ... trimethylamine
+4.053_150	N-methylacetamide ... trimethylamine
+4.053_200	N-methylacetamide ... trimethylamine
+5.001_080	ethyne ... acetaldehyde
+5.001_085	ethyne ... acetaldehyde
+5.001_090	ethyne ... acetaldehyde
+5.001_095	ethyne ... acetaldehyde
+5.001_100	ethyne ... acetaldehyde
+5.001_105	ethyne ... acetaldehyde
+5.001_110	ethyne ... acetaldehyde
+5.001_125	ethyne ... acetaldehyde
+5.001_150	ethyne ... acetaldehyde
+5.001_200	ethyne ... acetaldehyde
+5.002_080	ethyne ... acetamide
+5.002_085	ethyne ... acetamide
+5.002_090	ethyne ... acetamide
+5.002_095	ethyne ... acetamide
+5.002_100	ethyne ... acetamide
+5.002_105	ethyne ... acetamide
+5.002_110	ethyne ... acetamide
+5.002_125	ethyne ... acetamide
+5.002_150	ethyne ... acetamide
+5.002_200	ethyne ... acetamide
+5.003_080	ethyne ... acetic acid
+5.003_085	ethyne ... acetic acid
+5.003_090	ethyne ... acetic acid
+5.003_095	ethyne ... acetic acid
+5.003_100	ethyne ... acetic acid
+5.003_105	ethyne ... acetic acid
+5.003_110	ethyne ... acetic acid
+5.003_125	ethyne ... acetic acid
+5.003_150	ethyne ... acetic acid
+5.003_200	ethyne ... acetic acid
+5.004_080	ethyne ... acetone
+5.004_085	ethyne ... acetone
+5.004_090	ethyne ... acetone
+5.004_095	ethyne ... acetone
+5.004_100	ethyne ... acetone
+5.004_105	ethyne ... acetone
+5.004_110	ethyne ... acetone
+5.004_125	ethyne ... acetone
+5.004_150	ethyne ... acetone
+5.004_200	ethyne ... acetone
+5.005_080	ethyne ... dimethylcarbonate
+5.005_085	ethyne ... dimethylcarbonate
+5.005_090	ethyne ... dimethylcarbonate
+5.005_095	ethyne ... dimethylcarbonate
+5.005_100	ethyne ... dimethylcarbonate
+5.005_105	ethyne ... dimethylcarbonate
+5.005_110	ethyne ... dimethylcarbonate
+5.005_125	ethyne ... dimethylcarbonate
+5.005_150	ethyne ... dimethylcarbonate
+5.005_200	ethyne ... dimethylcarbonate
+5.006_080	ethyne ... dimethylether
+5.006_085	ethyne ... dimethylether
+5.006_090	ethyne ... dimethylether
+5.006_095	ethyne ... dimethylether
+5.006_100	ethyne ... dimethylether
+5.006_105	ethyne ... dimethylether
+5.006_110	ethyne ... dimethylether
+5.006_125	ethyne ... dimethylether
+5.006_150	ethyne ... dimethylether
+5.006_200	ethyne ... dimethylether
+5.007_080	ethyne ... dimethylperoxide
+5.007_085	ethyne ... dimethylperoxide
+5.007_090	ethyne ... dimethylperoxide
+5.007_095	ethyne ... dimethylperoxide
+5.007_100	ethyne ... dimethylperoxide
+5.007_105	ethyne ... dimethylperoxide
+5.007_110	ethyne ... dimethylperoxide
+5.007_125	ethyne ... dimethylperoxide
+5.007_150	ethyne ... dimethylperoxide
+5.007_200	ethyne ... dimethylperoxide
+5.008_080	ethyne ... methanol
+5.008_085	ethyne ... methanol
+5.008_090	ethyne ... methanol
+5.008_095	ethyne ... methanol
+5.008_100	ethyne ... methanol
+5.008_105	ethyne ... methanol
+5.008_110	ethyne ... methanol
+5.008_125	ethyne ... methanol
+5.008_150	ethyne ... methanol
+5.008_200	ethyne ... methanol
+5.009_080	ethyne ... methylacetate
+5.009_085	ethyne ... methylacetate
+5.009_090	ethyne ... methylacetate
+5.009_095	ethyne ... methylacetate
+5.009_100	ethyne ... methylacetate
+5.009_105	ethyne ... methylacetate
+5.009_110	ethyne ... methylacetate
+5.009_125	ethyne ... methylacetate
+5.009_150	ethyne ... methylacetate
+5.009_200	ethyne ... methylacetate
+5.010_080	ethyne ... nitromethane
+5.010_085	ethyne ... nitromethane
+5.010_090	ethyne ... nitromethane
+5.010_095	ethyne ... nitromethane
+5.010_100	ethyne ... nitromethane
+5.010_105	ethyne ... nitromethane
+5.010_110	ethyne ... nitromethane
+5.010_125	ethyne ... nitromethane
+5.010_150	ethyne ... nitromethane
+5.010_200	ethyne ... nitromethane
+5.011_080	ethyne ... nitrosomethane
+5.011_085	ethyne ... nitrosomethane
+5.011_090	ethyne ... nitrosomethane
+5.011_095	ethyne ... nitrosomethane
+5.011_100	ethyne ... nitrosomethane
+5.011_105	ethyne ... nitrosomethane
+5.011_110	ethyne ... nitrosomethane
+5.011_125	ethyne ... nitrosomethane
+5.011_150	ethyne ... nitrosomethane
+5.011_200	ethyne ... nitrosomethane
+5.012_080	ethyne ... N-methylacetamide
+5.012_085	ethyne ... N-methylacetamide
+5.012_090	ethyne ... N-methylacetamide
+5.012_095	ethyne ... N-methylacetamide
+5.012_100	ethyne ... N-methylacetamide
+5.012_105	ethyne ... N-methylacetamide
+5.012_110	ethyne ... N-methylacetamide
+5.012_125	ethyne ... N-methylacetamide
+5.012_150	ethyne ... N-methylacetamide
+5.012_200	ethyne ... N-methylacetamide
+5.013_080	ethyne ... phenol
+5.013_085	ethyne ... phenol
+5.013_090	ethyne ... phenol
+5.013_095	ethyne ... phenol
+5.013_100	ethyne ... phenol
+5.013_105	ethyne ... phenol
+5.013_110	ethyne ... phenol
+5.013_125	ethyne ... phenol
+5.013_150	ethyne ... phenol
+5.013_200	ethyne ... phenol
+5.014_080	ethyne ... water
+5.014_085	ethyne ... water
+5.014_090	ethyne ... water
+5.014_095	ethyne ... water
+5.014_100	ethyne ... water
+5.014_105	ethyne ... water
+5.014_110	ethyne ... water
+5.014_125	ethyne ... water
+5.014_150	ethyne ... water
+5.014_200	ethyne ... water
+5.015_080	methylacetate ... N-methylacetamide
+5.015_085	methylacetate ... N-methylacetamide
+5.015_090	methylacetate ... N-methylacetamide
+5.015_095	methylacetate ... N-methylacetamide
+5.015_100	methylacetate ... N-methylacetamide
+5.015_105	methylacetate ... N-methylacetamide
+5.015_110	methylacetate ... N-methylacetamide
+5.015_125	methylacetate ... N-methylacetamide
+5.015_150	methylacetate ... N-methylacetamide
+5.015_200	methylacetate ... N-methylacetamide
+5.016_080	methylcyanate ... N-methylacetamide
+5.016_085	methylcyanate ... N-methylacetamide
+5.016_090	methylcyanate ... N-methylacetamide
+5.016_095	methylcyanate ... N-methylacetamide
+5.016_100	methylcyanate ... N-methylacetamide
+5.016_105	methylcyanate ... N-methylacetamide
+5.016_110	methylcyanate ... N-methylacetamide
+5.016_125	methylcyanate ... N-methylacetamide
+5.016_150	methylcyanate ... N-methylacetamide
+5.016_200	methylcyanate ... N-methylacetamide
+5.017_080	methylisocyanide ... N-methylacetamide
+5.017_085	methylisocyanide ... N-methylacetamide
+5.017_090	methylisocyanide ... N-methylacetamide
+5.017_095	methylisocyanide ... N-methylacetamide
+5.017_100	methylisocyanide ... N-methylacetamide
+5.017_105	methylisocyanide ... N-methylacetamide
+5.017_110	methylisocyanide ... N-methylacetamide
+5.017_125	methylisocyanide ... N-methylacetamide
+5.017_150	methylisocyanide ... N-methylacetamide
+5.017_200	methylisocyanide ... N-methylacetamide
+5.018_080	nitromethane ... N-methylacetamide
+5.018_085	nitromethane ... N-methylacetamide
+5.018_090	nitromethane ... N-methylacetamide
+5.018_095	nitromethane ... N-methylacetamide
+5.018_100	nitromethane ... N-methylacetamide
+5.018_105	nitromethane ... N-methylacetamide
+5.018_110	nitromethane ... N-methylacetamide
+5.018_125	nitromethane ... N-methylacetamide
+5.018_150	nitromethane ... N-methylacetamide
+5.018_200	nitromethane ... N-methylacetamide
+5.019_080	nitrosomethane ... N-methylacetamide
+5.019_085	nitrosomethane ... N-methylacetamide
+5.019_090	nitrosomethane ... N-methylacetamide
+5.019_095	nitrosomethane ... N-methylacetamide
+5.019_100	nitrosomethane ... N-methylacetamide
+5.019_105	nitrosomethane ... N-methylacetamide
+5.019_110	nitrosomethane ... N-methylacetamide
+5.019_125	nitrosomethane ... N-methylacetamide
+5.019_150	nitrosomethane ... N-methylacetamide
+5.019_200	nitrosomethane ... N-methylacetamide
+6.001_080	ethyne ... acetonitrile
+6.001_085	ethyne ... acetonitrile
+6.001_090	ethyne ... acetonitrile
+6.001_095	ethyne ... acetonitrile
+6.001_100	ethyne ... acetonitrile
+6.001_105	ethyne ... acetonitrile
+6.001_110	ethyne ... acetonitrile
+6.001_125	ethyne ... acetonitrile
+6.001_150	ethyne ... acetonitrile
+6.001_200	ethyne ... acetonitrile
+6.002_080	ethyne ... ammonia
+6.002_085	ethyne ... ammonia
+6.002_090	ethyne ... ammonia
+6.002_095	ethyne ... ammonia
+6.002_100	ethyne ... ammonia
+6.002_105	ethyne ... ammonia
+6.002_110	ethyne ... ammonia
+6.002_125	ethyne ... ammonia
+6.002_150	ethyne ... ammonia
+6.002_200	ethyne ... ammonia
+6.003_080	ethyne ... aniline
+6.003_085	ethyne ... aniline
+6.003_090	ethyne ... aniline
+6.003_095	ethyne ... aniline
+6.003_100	ethyne ... aniline
+6.003_105	ethyne ... aniline
+6.003_110	ethyne ... aniline
+6.003_125	ethyne ... aniline
+6.003_150	ethyne ... aniline
+6.003_200	ethyne ... aniline
+6.004_080	ethyne ... dimethylamine
+6.004_085	ethyne ... dimethylamine
+6.004_090	ethyne ... dimethylamine
+6.004_095	ethyne ... dimethylamine
+6.004_100	ethyne ... dimethylamine
+6.004_105	ethyne ... dimethylamine
+6.004_110	ethyne ... dimethylamine
+6.004_125	ethyne ... dimethylamine
+6.004_150	ethyne ... dimethylamine
+6.004_200	ethyne ... dimethylamine
+6.005_080	ethyne ... dimethyldiazene
+6.005_085	ethyne ... dimethyldiazene
+6.005_090	ethyne ... dimethyldiazene
+6.005_095	ethyne ... dimethyldiazene
+6.005_100	ethyne ... dimethyldiazene
+6.005_105	ethyne ... dimethyldiazene
+6.005_110	ethyne ... dimethyldiazene
+6.005_125	ethyne ... dimethyldiazene
+6.005_150	ethyne ... dimethyldiazene
+6.005_200	ethyne ... dimethyldiazene
+6.006_080	ethyne ... methylamine
+6.006_085	ethyne ... methylamine
+6.006_090	ethyne ... methylamine
+6.006_095	ethyne ... methylamine
+6.006_100	ethyne ... methylamine
+6.006_105	ethyne ... methylamine
+6.006_110	ethyne ... methylamine
+6.006_125	ethyne ... methylamine
+6.006_150	ethyne ... methylamine
+6.006_200	ethyne ... methylamine
+6.007_080	ethyne ... methylazide
+6.007_085	ethyne ... methylazide
+6.007_090	ethyne ... methylazide
+6.007_095	ethyne ... methylazide
+6.007_100	ethyne ... methylazide
+6.007_105	ethyne ... methylazide
+6.007_110	ethyne ... methylazide
+6.007_125	ethyne ... methylazide
+6.007_150	ethyne ... methylazide
+6.007_200	ethyne ... methylazide
+6.008_080	ethyne ... N-methyl-2-propanimine
+6.008_085	ethyne ... N-methyl-2-propanimine
+6.008_090	ethyne ... N-methyl-2-propanimine
+6.008_095	ethyne ... N-methyl-2-propanimine
+6.008_100	ethyne ... N-methyl-2-propanimine
+6.008_105	ethyne ... N-methyl-2-propanimine
+6.008_110	ethyne ... N-methyl-2-propanimine
+6.008_125	ethyne ... N-methyl-2-propanimine
+6.008_150	ethyne ... N-methyl-2-propanimine
+6.008_200	ethyne ... N-methyl-2-propanimine
+6.009_080	ethyne ... pyridine
+6.009_085	ethyne ... pyridine
+6.009_090	ethyne ... pyridine
+6.009_095	ethyne ... pyridine
+6.009_100	ethyne ... pyridine
+6.009_105	ethyne ... pyridine
+6.009_110	ethyne ... pyridine
+6.009_125	ethyne ... pyridine
+6.009_150	ethyne ... pyridine
+6.009_200	ethyne ... pyridine
+6.010_080	ethyne ... trimethylamine
+6.010_085	ethyne ... trimethylamine
+6.010_090	ethyne ... trimethylamine
+6.010_095	ethyne ... trimethylamine
+6.010_100	ethyne ... trimethylamine
+6.010_105	ethyne ... trimethylamine
+6.010_110	ethyne ... trimethylamine
+6.010_125	ethyne ... trimethylamine
+6.010_150	ethyne ... trimethylamine
+6.010_200	ethyne ... trimethylamine
+6.011_080	furan ... methylamine
+6.011_085	furan ... methylamine
+6.011_090	furan ... methylamine
+6.011_095	furan ... methylamine
+6.011_100	furan ... methylamine
+6.011_105	furan ... methylamine
+6.011_110	furan ... methylamine
+6.011_125	furan ... methylamine
+6.011_150	furan ... methylamine
+6.011_200	furan ... methylamine
+6.012_080	methylcyanate ... ammonia
+6.012_085	methylcyanate ... ammonia
+6.012_090	methylcyanate ... ammonia
+6.012_095	methylcyanate ... ammonia
+6.012_100	methylcyanate ... ammonia
+6.012_105	methylcyanate ... ammonia
+6.012_110	methylcyanate ... ammonia
+6.012_125	methylcyanate ... ammonia
+6.012_150	methylcyanate ... ammonia
+6.012_200	methylcyanate ... ammonia
+6.013_080	methylcyanate ... dimethylamine
+6.013_085	methylcyanate ... dimethylamine
+6.013_090	methylcyanate ... dimethylamine
+6.013_095	methylcyanate ... dimethylamine
+6.013_100	methylcyanate ... dimethylamine
+6.013_105	methylcyanate ... dimethylamine
+6.013_110	methylcyanate ... dimethylamine
+6.013_125	methylcyanate ... dimethylamine
+6.013_150	methylcyanate ... dimethylamine
+6.013_200	methylcyanate ... dimethylamine
+6.014_080	methylcyanate ... methylamine
+6.014_085	methylcyanate ... methylamine
+6.014_090	methylcyanate ... methylamine
+6.014_095	methylcyanate ... methylamine
+6.014_100	methylcyanate ... methylamine
+6.014_105	methylcyanate ... methylamine
+6.014_110	methylcyanate ... methylamine
+6.014_125	methylcyanate ... methylamine
+6.014_150	methylcyanate ... methylamine
+6.014_200	methylcyanate ... methylamine
+6.015_080	methylisocyanide ... dimethylamine
+6.015_085	methylisocyanide ... dimethylamine
+6.015_090	methylisocyanide ... dimethylamine
+6.015_095	methylisocyanide ... dimethylamine
+6.015_100	methylisocyanide ... dimethylamine
+6.015_105	methylisocyanide ... dimethylamine
+6.015_110	methylisocyanide ... dimethylamine
+6.015_125	methylisocyanide ... dimethylamine
+6.015_150	methylisocyanide ... dimethylamine
+6.015_200	methylisocyanide ... dimethylamine
+6.016_080	methylisocyanide ... methylamine
+6.016_085	methylisocyanide ... methylamine
+6.016_090	methylisocyanide ... methylamine
+6.016_095	methylisocyanide ... methylamine
+6.016_100	methylisocyanide ... methylamine
+6.016_105	methylisocyanide ... methylamine
+6.016_110	methylisocyanide ... methylamine
+6.016_125	methylisocyanide ... methylamine
+6.016_150	methylisocyanide ... methylamine
+6.016_200	methylisocyanide ... methylamine
+6.017_080	nitromethane ... dimethylamine
+6.017_085	nitromethane ... dimethylamine
+6.017_090	nitromethane ... dimethylamine
+6.017_095	nitromethane ... dimethylamine
+6.017_100	nitromethane ... dimethylamine
+6.017_105	nitromethane ... dimethylamine
+6.017_110	nitromethane ... dimethylamine
+6.017_125	nitromethane ... dimethylamine
+6.017_150	nitromethane ... dimethylamine
+6.017_200	nitromethane ... dimethylamine
+6.018_080	nitromethane ... methylamine
+6.018_085	nitromethane ... methylamine
+6.018_090	nitromethane ... methylamine
+6.018_095	nitromethane ... methylamine
+6.018_100	nitromethane ... methylamine
+6.018_105	nitromethane ... methylamine
+6.018_110	nitromethane ... methylamine
+6.018_125	nitromethane ... methylamine
+6.018_150	nitromethane ... methylamine
+6.018_200	nitromethane ... methylamine
+6.019_080	nitrosomethane ... dimethylamine
+6.019_085	nitrosomethane ... dimethylamine
+6.019_090	nitrosomethane ... dimethylamine
+6.019_095	nitrosomethane ... dimethylamine
+6.019_100	nitrosomethane ... dimethylamine
+6.019_105	nitrosomethane ... dimethylamine
+6.019_110	nitrosomethane ... dimethylamine
+6.019_125	nitrosomethane ... dimethylamine
+6.019_150	nitrosomethane ... dimethylamine
+6.019_200	nitrosomethane ... dimethylamine
+6.020_080	nitrosomethane ... methylamine
+6.020_085	nitrosomethane ... methylamine
+6.020_090	nitrosomethane ... methylamine
+6.020_095	nitrosomethane ... methylamine
+6.020_100	nitrosomethane ... methylamine
+6.020_105	nitrosomethane ... methylamine
+6.020_110	nitrosomethane ... methylamine
+6.020_125	nitrosomethane ... methylamine
+6.020_150	nitrosomethane ... methylamine
+6.020_200	nitrosomethane ... methylamine
+7.001_080	1H-pyrrole ... furan
+7.001_085	1H-pyrrole ... furan
+7.001_090	1H-pyrrole ... furan
+7.001_095	1H-pyrrole ... furan
+7.001_100	1H-pyrrole ... furan
+7.001_105	1H-pyrrole ... furan
+7.001_110	1H-pyrrole ... furan
+7.001_125	1H-pyrrole ... furan
+7.001_150	1H-pyrrole ... furan
+7.001_200	1H-pyrrole ... furan
+7.002_080	1H-pyrrole ... methylazide
+7.002_085	1H-pyrrole ... methylazide
+7.002_090	1H-pyrrole ... methylazide
+7.002_095	1H-pyrrole ... methylazide
+7.002_100	1H-pyrrole ... methylazide
+7.002_105	1H-pyrrole ... methylazide
+7.002_110	1H-pyrrole ... methylazide
+7.002_125	1H-pyrrole ... methylazide
+7.002_150	1H-pyrrole ... methylazide
+7.002_200	1H-pyrrole ... methylazide
+7.003_080	1H-pyrrole ... methylisocyanide
+7.003_085	1H-pyrrole ... methylisocyanide
+7.003_090	1H-pyrrole ... methylisocyanide
+7.003_095	1H-pyrrole ... methylisocyanide
+7.003_100	1H-pyrrole ... methylisocyanide
+7.003_105	1H-pyrrole ... methylisocyanide
+7.003_110	1H-pyrrole ... methylisocyanide
+7.003_125	1H-pyrrole ... methylisocyanide
+7.003_150	1H-pyrrole ... methylisocyanide
+7.003_200	1H-pyrrole ... methylisocyanide
+7.004_080	1H-pyrrole ... nitrosomethane
+7.004_085	1H-pyrrole ... nitrosomethane
+7.004_090	1H-pyrrole ... nitrosomethane
+7.004_095	1H-pyrrole ... nitrosomethane
+7.004_100	1H-pyrrole ... nitrosomethane
+7.004_105	1H-pyrrole ... nitrosomethane
+7.004_110	1H-pyrrole ... nitrosomethane
+7.004_125	1H-pyrrole ... nitrosomethane
+7.004_150	1H-pyrrole ... nitrosomethane
+7.004_200	1H-pyrrole ... nitrosomethane
+7.005_080	acetic acid ... methylisocyanide
+7.005_085	acetic acid ... methylisocyanide
+7.005_090	acetic acid ... methylisocyanide
+7.005_095	acetic acid ... methylisocyanide
+7.005_100	acetic acid ... methylisocyanide
+7.005_105	acetic acid ... methylisocyanide
+7.005_110	acetic acid ... methylisocyanide
+7.005_125	acetic acid ... methylisocyanide
+7.005_150	acetic acid ... methylisocyanide
+7.005_200	acetic acid ... methylisocyanide
+7.006_080	ammonia ... acetonitrile
+7.006_085	ammonia ... acetonitrile
+7.006_090	ammonia ... acetonitrile
+7.006_095	ammonia ... acetonitrile
+7.006_100	ammonia ... acetonitrile
+7.006_105	ammonia ... acetonitrile
+7.006_110	ammonia ... acetonitrile
+7.006_125	ammonia ... acetonitrile
+7.006_150	ammonia ... acetonitrile
+7.006_200	ammonia ... acetonitrile
+7.007_080	ammonia ... methylazide
+7.007_085	ammonia ... methylazide
+7.007_090	ammonia ... methylazide
+7.007_095	ammonia ... methylazide
+7.007_100	ammonia ... methylazide
+7.007_105	ammonia ... methylazide
+7.007_110	ammonia ... methylazide
+7.007_125	ammonia ... methylazide
+7.007_150	ammonia ... methylazide
+7.007_200	ammonia ... methylazide
+7.008_080	ammonia ... methylisocyanide
+7.008_085	ammonia ... methylisocyanide
+7.008_090	ammonia ... methylisocyanide
+7.008_095	ammonia ... methylisocyanide
+7.008_100	ammonia ... methylisocyanide
+7.008_105	ammonia ... methylisocyanide
+7.008_110	ammonia ... methylisocyanide
+7.008_125	ammonia ... methylisocyanide
+7.008_150	ammonia ... methylisocyanide
+7.008_200	ammonia ... methylisocyanide
+7.009_080	ammonia ... nitromethane
+7.009_085	ammonia ... nitromethane
+7.009_090	ammonia ... nitromethane
+7.009_095	ammonia ... nitromethane
+7.009_100	ammonia ... nitromethane
+7.009_105	ammonia ... nitromethane
+7.009_110	ammonia ... nitromethane
+7.009_125	ammonia ... nitromethane
+7.009_150	ammonia ... nitromethane
+7.009_200	ammonia ... nitromethane
+7.010_080	ammonia ... nitrosomethane
+7.010_085	ammonia ... nitrosomethane
+7.010_090	ammonia ... nitrosomethane
+7.010_095	ammonia ... nitrosomethane
+7.010_100	ammonia ... nitrosomethane
+7.010_105	ammonia ... nitrosomethane
+7.010_110	ammonia ... nitrosomethane
+7.010_125	ammonia ... nitrosomethane
+7.010_150	ammonia ... nitrosomethane
+7.010_200	ammonia ... nitrosomethane
+7.011_080	aniline ... acetonitrile
+7.011_085	aniline ... acetonitrile
+7.011_090	aniline ... acetonitrile
+7.011_095	aniline ... acetonitrile
+7.011_100	aniline ... acetonitrile
+7.011_105	aniline ... acetonitrile
+7.011_110	aniline ... acetonitrile
+7.011_125	aniline ... acetonitrile
+7.011_150	aniline ... acetonitrile
+7.011_200	aniline ... acetonitrile
+7.012_080	aniline ... furan
+7.012_085	aniline ... furan
+7.012_090	aniline ... furan
+7.012_095	aniline ... furan
+7.012_100	aniline ... furan
+7.012_105	aniline ... furan
+7.012_110	aniline ... furan
+7.012_125	aniline ... furan
+7.012_150	aniline ... furan
+7.012_200	aniline ... furan
+7.013_080	aniline ... methylazide
+7.013_085	aniline ... methylazide
+7.013_090	aniline ... methylazide
+7.013_095	aniline ... methylazide
+7.013_100	aniline ... methylazide
+7.013_105	aniline ... methylazide
+7.013_110	aniline ... methylazide
+7.013_125	aniline ... methylazide
+7.013_150	aniline ... methylazide
+7.013_200	aniline ... methylazide
+7.014_080	aniline ... methylisocyanide
+7.014_085	aniline ... methylisocyanide
+7.014_090	aniline ... methylisocyanide
+7.014_095	aniline ... methylisocyanide
+7.014_100	aniline ... methylisocyanide
+7.014_105	aniline ... methylisocyanide
+7.014_110	aniline ... methylisocyanide
+7.014_125	aniline ... methylisocyanide
+7.014_150	aniline ... methylisocyanide
+7.014_200	aniline ... methylisocyanide
+7.015_080	aniline ... nitromethane
+7.015_085	aniline ... nitromethane
+7.015_090	aniline ... nitromethane
+7.015_095	aniline ... nitromethane
+7.015_100	aniline ... nitromethane
+7.015_105	aniline ... nitromethane
+7.015_110	aniline ... nitromethane
+7.015_125	aniline ... nitromethane
+7.015_150	aniline ... nitromethane
+7.015_200	aniline ... nitromethane
+7.016_080	aniline ... nitrosomethane
+7.016_085	aniline ... nitrosomethane
+7.016_090	aniline ... nitrosomethane
+7.016_095	aniline ... nitrosomethane
+7.016_100	aniline ... nitrosomethane
+7.016_105	aniline ... nitrosomethane
+7.016_110	aniline ... nitrosomethane
+7.016_125	aniline ... nitrosomethane
+7.016_150	aniline ... nitrosomethane
+7.016_200	aniline ... nitrosomethane
+7.017_080	aniline ... phenol
+7.017_085	aniline ... phenol
+7.017_090	aniline ... phenol
+7.017_095	aniline ... phenol
+7.017_100	aniline ... phenol
+7.017_105	aniline ... phenol
+7.017_110	aniline ... phenol
+7.017_125	aniline ... phenol
+7.017_150	aniline ... phenol
+7.017_200	aniline ... phenol
+7.018_080	benzene ... acetaldehyde
+7.018_085	benzene ... acetaldehyde
+7.018_090	benzene ... acetaldehyde
+7.018_095	benzene ... acetaldehyde
+7.018_100	benzene ... acetaldehyde
+7.018_105	benzene ... acetaldehyde
+7.018_110	benzene ... acetaldehyde
+7.018_125	benzene ... acetaldehyde
+7.018_150	benzene ... acetaldehyde
+7.018_200	benzene ... acetaldehyde
+7.019_080	benzene ... acetamide
+7.019_085	benzene ... acetamide
+7.019_090	benzene ... acetamide
+7.019_095	benzene ... acetamide
+7.019_100	benzene ... acetamide
+7.019_105	benzene ... acetamide
+7.019_110	benzene ... acetamide
+7.019_125	benzene ... acetamide
+7.019_150	benzene ... acetamide
+7.019_200	benzene ... acetamide
+7.020_080	benzene ... acetic acid
+7.020_085	benzene ... acetic acid
+7.020_090	benzene ... acetic acid
+7.020_095	benzene ... acetic acid
+7.020_100	benzene ... acetic acid
+7.020_105	benzene ... acetic acid
+7.020_110	benzene ... acetic acid
+7.020_125	benzene ... acetic acid
+7.020_150	benzene ... acetic acid
+7.020_200	benzene ... acetic acid
+7.021_080	benzene ... acetone
+7.021_085	benzene ... acetone
+7.021_090	benzene ... acetone
+7.021_095	benzene ... acetone
+7.021_100	benzene ... acetone
+7.021_105	benzene ... acetone
+7.021_110	benzene ... acetone
+7.021_125	benzene ... acetone
+7.021_150	benzene ... acetone
+7.021_200	benzene ... acetone
+7.022_080	benzene ... acetonitrile
+7.022_085	benzene ... acetonitrile
+7.022_090	benzene ... acetonitrile
+7.022_095	benzene ... acetonitrile
+7.022_100	benzene ... acetonitrile
+7.022_105	benzene ... acetonitrile
+7.022_110	benzene ... acetonitrile
+7.022_125	benzene ... acetonitrile
+7.022_150	benzene ... acetonitrile
+7.022_200	benzene ... acetonitrile
+7.023_080	benzene ... ammonia
+7.023_085	benzene ... ammonia
+7.023_090	benzene ... ammonia
+7.023_095	benzene ... ammonia
+7.023_100	benzene ... ammonia
+7.023_105	benzene ... ammonia
+7.023_110	benzene ... ammonia
+7.023_125	benzene ... ammonia
+7.023_150	benzene ... ammonia
+7.023_200	benzene ... ammonia
+7.024_080	benzene ... aniline
+7.024_085	benzene ... aniline
+7.024_090	benzene ... aniline
+7.024_095	benzene ... aniline
+7.024_100	benzene ... aniline
+7.024_105	benzene ... aniline
+7.024_110	benzene ... aniline
+7.024_125	benzene ... aniline
+7.024_150	benzene ... aniline
+7.024_200	benzene ... aniline
+7.025_080	benzene ... dimethylamine
+7.025_085	benzene ... dimethylamine
+7.025_090	benzene ... dimethylamine
+7.025_095	benzene ... dimethylamine
+7.025_100	benzene ... dimethylamine
+7.025_105	benzene ... dimethylamine
+7.025_110	benzene ... dimethylamine
+7.025_125	benzene ... dimethylamine
+7.025_150	benzene ... dimethylamine
+7.025_200	benzene ... dimethylamine
+7.026_080	benzene ... dimethylcarbonate
+7.026_085	benzene ... dimethylcarbonate
+7.026_090	benzene ... dimethylcarbonate
+7.026_095	benzene ... dimethylcarbonate
+7.026_100	benzene ... dimethylcarbonate
+7.026_105	benzene ... dimethylcarbonate
+7.026_110	benzene ... dimethylcarbonate
+7.026_125	benzene ... dimethylcarbonate
+7.026_150	benzene ... dimethylcarbonate
+7.026_200	benzene ... dimethylcarbonate
+7.027_080	benzene ... dimethyldiazene
+7.027_085	benzene ... dimethyldiazene
+7.027_090	benzene ... dimethyldiazene
+7.027_095	benzene ... dimethyldiazene
+7.027_100	benzene ... dimethyldiazene
+7.027_105	benzene ... dimethyldiazene
+7.027_110	benzene ... dimethyldiazene
+7.027_125	benzene ... dimethyldiazene
+7.027_150	benzene ... dimethyldiazene
+7.027_200	benzene ... dimethyldiazene
+7.028_080	benzene ... dimethylether
+7.028_085	benzene ... dimethylether
+7.028_090	benzene ... dimethylether
+7.028_095	benzene ... dimethylether
+7.028_100	benzene ... dimethylether
+7.028_105	benzene ... dimethylether
+7.028_110	benzene ... dimethylether
+7.028_125	benzene ... dimethylether
+7.028_150	benzene ... dimethylether
+7.028_200	benzene ... dimethylether
+7.029_080	benzene ... dimethylperoxide
+7.029_085	benzene ... dimethylperoxide
+7.029_090	benzene ... dimethylperoxide
+7.029_095	benzene ... dimethylperoxide
+7.029_100	benzene ... dimethylperoxide
+7.029_105	benzene ... dimethylperoxide
+7.029_110	benzene ... dimethylperoxide
+7.029_125	benzene ... dimethylperoxide
+7.029_150	benzene ... dimethylperoxide
+7.029_200	benzene ... dimethylperoxide
+7.030_080	benzene ... furan
+7.030_085	benzene ... furan
+7.030_090	benzene ... furan
+7.030_095	benzene ... furan
+7.030_100	benzene ... furan
+7.030_105	benzene ... furan
+7.030_110	benzene ... furan
+7.030_125	benzene ... furan
+7.030_150	benzene ... furan
+7.030_200	benzene ... furan
+7.031_080	benzene ... methanol
+7.031_085	benzene ... methanol
+7.031_090	benzene ... methanol
+7.031_095	benzene ... methanol
+7.031_100	benzene ... methanol
+7.031_105	benzene ... methanol
+7.031_110	benzene ... methanol
+7.031_125	benzene ... methanol
+7.031_150	benzene ... methanol
+7.031_200	benzene ... methanol
+7.032_080	benzene ... methylacetate
+7.032_085	benzene ... methylacetate
+7.032_090	benzene ... methylacetate
+7.032_095	benzene ... methylacetate
+7.032_100	benzene ... methylacetate
+7.032_105	benzene ... methylacetate
+7.032_110	benzene ... methylacetate
+7.032_125	benzene ... methylacetate
+7.032_150	benzene ... methylacetate
+7.032_200	benzene ... methylacetate
+7.033_080	benzene ... methylamine
+7.033_085	benzene ... methylamine
+7.033_090	benzene ... methylamine
+7.033_095	benzene ... methylamine
+7.033_100	benzene ... methylamine
+7.033_105	benzene ... methylamine
+7.033_110	benzene ... methylamine
+7.033_125	benzene ... methylamine
+7.033_150	benzene ... methylamine
+7.033_200	benzene ... methylamine
+7.034_080	benzene ... methylazide
+7.034_085	benzene ... methylazide
+7.034_090	benzene ... methylazide
+7.034_095	benzene ... methylazide
+7.034_100	benzene ... methylazide
+7.034_105	benzene ... methylazide
+7.034_110	benzene ... methylazide
+7.034_125	benzene ... methylazide
+7.034_150	benzene ... methylazide
+7.034_200	benzene ... methylazide
+7.035_080	benzene ... methylcyanate
+7.035_085	benzene ... methylcyanate
+7.035_090	benzene ... methylcyanate
+7.035_095	benzene ... methylcyanate
+7.035_100	benzene ... methylcyanate
+7.035_105	benzene ... methylcyanate
+7.035_110	benzene ... methylcyanate
+7.035_125	benzene ... methylcyanate
+7.035_150	benzene ... methylcyanate
+7.035_200	benzene ... methylcyanate
+7.036_080	benzene ... methylisocyanide
+7.036_085	benzene ... methylisocyanide
+7.036_090	benzene ... methylisocyanide
+7.036_095	benzene ... methylisocyanide
+7.036_100	benzene ... methylisocyanide
+7.036_105	benzene ... methylisocyanide
+7.036_110	benzene ... methylisocyanide
+7.036_125	benzene ... methylisocyanide
+7.036_150	benzene ... methylisocyanide
+7.036_200	benzene ... methylisocyanide
+7.037_080	benzene ... nitromethane
+7.037_085	benzene ... nitromethane
+7.037_090	benzene ... nitromethane
+7.037_095	benzene ... nitromethane
+7.037_100	benzene ... nitromethane
+7.037_105	benzene ... nitromethane
+7.037_110	benzene ... nitromethane
+7.037_125	benzene ... nitromethane
+7.037_150	benzene ... nitromethane
+7.037_200	benzene ... nitromethane
+7.038_080	benzene ... nitrosomethane
+7.038_085	benzene ... nitrosomethane
+7.038_090	benzene ... nitrosomethane
+7.038_095	benzene ... nitrosomethane
+7.038_100	benzene ... nitrosomethane
+7.038_105	benzene ... nitrosomethane
+7.038_110	benzene ... nitrosomethane
+7.038_125	benzene ... nitrosomethane
+7.038_150	benzene ... nitrosomethane
+7.038_200	benzene ... nitrosomethane
+7.039_080	benzene ... N-methyl-2-propanimine
+7.039_085	benzene ... N-methyl-2-propanimine
+7.039_090	benzene ... N-methyl-2-propanimine
+7.039_095	benzene ... N-methyl-2-propanimine
+7.039_100	benzene ... N-methyl-2-propanimine
+7.039_105	benzene ... N-methyl-2-propanimine
+7.039_110	benzene ... N-methyl-2-propanimine
+7.039_125	benzene ... N-methyl-2-propanimine
+7.039_150	benzene ... N-methyl-2-propanimine
+7.039_200	benzene ... N-methyl-2-propanimine
+7.040_080	benzene ... N-methylacetamide
+7.040_085	benzene ... N-methylacetamide
+7.040_090	benzene ... N-methylacetamide
+7.040_095	benzene ... N-methylacetamide
+7.040_100	benzene ... N-methylacetamide
+7.040_105	benzene ... N-methylacetamide
+7.040_110	benzene ... N-methylacetamide
+7.040_125	benzene ... N-methylacetamide
+7.040_150	benzene ... N-methylacetamide
+7.040_200	benzene ... N-methylacetamide
+7.041_080	benzene ... phenol
+7.041_085	benzene ... phenol
+7.041_090	benzene ... phenol
+7.041_095	benzene ... phenol
+7.041_100	benzene ... phenol
+7.041_105	benzene ... phenol
+7.041_110	benzene ... phenol
+7.041_125	benzene ... phenol
+7.041_150	benzene ... phenol
+7.041_200	benzene ... phenol
+7.042_080	benzene ... pyridine
+7.042_085	benzene ... pyridine
+7.042_090	benzene ... pyridine
+7.042_095	benzene ... pyridine
+7.042_100	benzene ... pyridine
+7.042_105	benzene ... pyridine
+7.042_110	benzene ... pyridine
+7.042_125	benzene ... pyridine
+7.042_150	benzene ... pyridine
+7.042_200	benzene ... pyridine
+7.043_080	benzene ... trimethylamine
+7.043_085	benzene ... trimethylamine
+7.043_090	benzene ... trimethylamine
+7.043_095	benzene ... trimethylamine
+7.043_100	benzene ... trimethylamine
+7.043_105	benzene ... trimethylamine
+7.043_110	benzene ... trimethylamine
+7.043_125	benzene ... trimethylamine
+7.043_150	benzene ... trimethylamine
+7.043_200	benzene ... trimethylamine
+7.044_080	benzene ... water
+7.044_085	benzene ... water
+7.044_090	benzene ... water
+7.044_095	benzene ... water
+7.044_100	benzene ... water
+7.044_105	benzene ... water
+7.044_110	benzene ... water
+7.044_125	benzene ... water
+7.044_150	benzene ... water
+7.044_200	benzene ... water
+7.045_080	dimethylamine ... furan
+7.045_085	dimethylamine ... furan
+7.045_090	dimethylamine ... furan
+7.045_095	dimethylamine ... furan
+7.045_100	dimethylamine ... furan
+7.045_105	dimethylamine ... furan
+7.045_110	dimethylamine ... furan
+7.045_125	dimethylamine ... furan
+7.045_150	dimethylamine ... furan
+7.045_200	dimethylamine ... furan
+7.046_080	dimethylamine ... methylacetate
+7.046_085	dimethylamine ... methylacetate
+7.046_090	dimethylamine ... methylacetate
+7.046_095	dimethylamine ... methylacetate
+7.046_100	dimethylamine ... methylacetate
+7.046_105	dimethylamine ... methylacetate
+7.046_110	dimethylamine ... methylacetate
+7.046_125	dimethylamine ... methylacetate
+7.046_150	dimethylamine ... methylacetate
+7.046_200	dimethylamine ... methylacetate
+7.047_080	dimethylamine ... methylazide
+7.047_085	dimethylamine ... methylazide
+7.047_090	dimethylamine ... methylazide
+7.047_095	dimethylamine ... methylazide
+7.047_100	dimethylamine ... methylazide
+7.047_105	dimethylamine ... methylazide
+7.047_110	dimethylamine ... methylazide
+7.047_125	dimethylamine ... methylazide
+7.047_150	dimethylamine ... methylazide
+7.047_200	dimethylamine ... methylazide
+7.048_080	ethene ... acetaldehyde
+7.048_085	ethene ... acetaldehyde
+7.048_090	ethene ... acetaldehyde
+7.048_095	ethene ... acetaldehyde
+7.048_100	ethene ... acetaldehyde
+7.048_105	ethene ... acetaldehyde
+7.048_110	ethene ... acetaldehyde
+7.048_125	ethene ... acetaldehyde
+7.048_150	ethene ... acetaldehyde
+7.048_200	ethene ... acetaldehyde
+7.049_080	ethene ... acetamide
+7.049_085	ethene ... acetamide
+7.049_090	ethene ... acetamide
+7.049_095	ethene ... acetamide
+7.049_100	ethene ... acetamide
+7.049_105	ethene ... acetamide
+7.049_110	ethene ... acetamide
+7.049_125	ethene ... acetamide
+7.049_150	ethene ... acetamide
+7.049_200	ethene ... acetamide
+7.050_080	ethene ... acetic acid
+7.050_085	ethene ... acetic acid
+7.050_090	ethene ... acetic acid
+7.050_095	ethene ... acetic acid
+7.050_100	ethene ... acetic acid
+7.050_105	ethene ... acetic acid
+7.050_110	ethene ... acetic acid
+7.050_125	ethene ... acetic acid
+7.050_150	ethene ... acetic acid
+7.050_200	ethene ... acetic acid
+7.051_080	ethene ... acetone
+7.051_085	ethene ... acetone
+7.051_090	ethene ... acetone
+7.051_095	ethene ... acetone
+7.051_100	ethene ... acetone
+7.051_105	ethene ... acetone
+7.051_110	ethene ... acetone
+7.051_125	ethene ... acetone
+7.051_150	ethene ... acetone
+7.051_200	ethene ... acetone
+7.052_080	ethene ... acetonitrile
+7.052_085	ethene ... acetonitrile
+7.052_090	ethene ... acetonitrile
+7.052_095	ethene ... acetonitrile
+7.052_100	ethene ... acetonitrile
+7.052_105	ethene ... acetonitrile
+7.052_110	ethene ... acetonitrile
+7.052_125	ethene ... acetonitrile
+7.052_150	ethene ... acetonitrile
+7.052_200	ethene ... acetonitrile
+7.053_080	ethene ... ammonia
+7.053_085	ethene ... ammonia
+7.053_090	ethene ... ammonia
+7.053_095	ethene ... ammonia
+7.053_100	ethene ... ammonia
+7.053_105	ethene ... ammonia
+7.053_110	ethene ... ammonia
+7.053_125	ethene ... ammonia
+7.053_150	ethene ... ammonia
+7.053_200	ethene ... ammonia
+7.054_080	ethene ... aniline
+7.054_085	ethene ... aniline
+7.054_090	ethene ... aniline
+7.054_095	ethene ... aniline
+7.054_100	ethene ... aniline
+7.054_105	ethene ... aniline
+7.054_110	ethene ... aniline
+7.054_125	ethene ... aniline
+7.054_150	ethene ... aniline
+7.054_200	ethene ... aniline
+7.055_080	ethene ... dimethylamine
+7.055_085	ethene ... dimethylamine
+7.055_090	ethene ... dimethylamine
+7.055_095	ethene ... dimethylamine
+7.055_100	ethene ... dimethylamine
+7.055_105	ethene ... dimethylamine
+7.055_110	ethene ... dimethylamine
+7.055_125	ethene ... dimethylamine
+7.055_150	ethene ... dimethylamine
+7.055_200	ethene ... dimethylamine
+7.056_080	ethene ... dimethylcarbonate
+7.056_085	ethene ... dimethylcarbonate
+7.056_090	ethene ... dimethylcarbonate
+7.056_095	ethene ... dimethylcarbonate
+7.056_100	ethene ... dimethylcarbonate
+7.056_105	ethene ... dimethylcarbonate
+7.056_110	ethene ... dimethylcarbonate
+7.056_125	ethene ... dimethylcarbonate
+7.056_150	ethene ... dimethylcarbonate
+7.056_200	ethene ... dimethylcarbonate
+7.057_080	ethene ... dimethyldiazene
+7.057_085	ethene ... dimethyldiazene
+7.057_090	ethene ... dimethyldiazene
+7.057_095	ethene ... dimethyldiazene
+7.057_100	ethene ... dimethyldiazene
+7.057_105	ethene ... dimethyldiazene
+7.057_110	ethene ... dimethyldiazene
+7.057_125	ethene ... dimethyldiazene
+7.057_150	ethene ... dimethyldiazene
+7.057_200	ethene ... dimethyldiazene
+7.058_080	ethene ... dimethylether
+7.058_085	ethene ... dimethylether
+7.058_090	ethene ... dimethylether
+7.058_095	ethene ... dimethylether
+7.058_100	ethene ... dimethylether
+7.058_105	ethene ... dimethylether
+7.058_110	ethene ... dimethylether
+7.058_125	ethene ... dimethylether
+7.058_150	ethene ... dimethylether
+7.058_200	ethene ... dimethylether
+7.059_080	ethene ... dimethylperoxide
+7.059_085	ethene ... dimethylperoxide
+7.059_090	ethene ... dimethylperoxide
+7.059_095	ethene ... dimethylperoxide
+7.059_100	ethene ... dimethylperoxide
+7.059_105	ethene ... dimethylperoxide
+7.059_110	ethene ... dimethylperoxide
+7.059_125	ethene ... dimethylperoxide
+7.059_150	ethene ... dimethylperoxide
+7.059_200	ethene ... dimethylperoxide
+7.060_080	ethene ... furan
+7.060_085	ethene ... furan
+7.060_090	ethene ... furan
+7.060_095	ethene ... furan
+7.060_100	ethene ... furan
+7.060_105	ethene ... furan
+7.060_110	ethene ... furan
+7.060_125	ethene ... furan
+7.060_150	ethene ... furan
+7.060_200	ethene ... furan
+7.061_080	ethene ... methanol
+7.061_085	ethene ... methanol
+7.061_090	ethene ... methanol
+7.061_095	ethene ... methanol
+7.061_100	ethene ... methanol
+7.061_105	ethene ... methanol
+7.061_110	ethene ... methanol
+7.061_125	ethene ... methanol
+7.061_150	ethene ... methanol
+7.061_200	ethene ... methanol
+7.062_080	ethene ... methylacetate
+7.062_085	ethene ... methylacetate
+7.062_090	ethene ... methylacetate
+7.062_095	ethene ... methylacetate
+7.062_100	ethene ... methylacetate
+7.062_105	ethene ... methylacetate
+7.062_110	ethene ... methylacetate
+7.062_125	ethene ... methylacetate
+7.062_150	ethene ... methylacetate
+7.062_200	ethene ... methylacetate
+7.063_080	ethene ... methylamine
+7.063_085	ethene ... methylamine
+7.063_090	ethene ... methylamine
+7.063_095	ethene ... methylamine
+7.063_100	ethene ... methylamine
+7.063_105	ethene ... methylamine
+7.063_110	ethene ... methylamine
+7.063_125	ethene ... methylamine
+7.063_150	ethene ... methylamine
+7.063_200	ethene ... methylamine
+7.064_080	ethene ... methylazide
+7.064_085	ethene ... methylazide
+7.064_090	ethene ... methylazide
+7.064_095	ethene ... methylazide
+7.064_100	ethene ... methylazide
+7.064_105	ethene ... methylazide
+7.064_110	ethene ... methylazide
+7.064_125	ethene ... methylazide
+7.064_150	ethene ... methylazide
+7.064_200	ethene ... methylazide
+7.065_080	ethene ... methylcyanate
+7.065_085	ethene ... methylcyanate
+7.065_090	ethene ... methylcyanate
+7.065_095	ethene ... methylcyanate
+7.065_100	ethene ... methylcyanate
+7.065_105	ethene ... methylcyanate
+7.065_110	ethene ... methylcyanate
+7.065_125	ethene ... methylcyanate
+7.065_150	ethene ... methylcyanate
+7.065_200	ethene ... methylcyanate
+7.066_080	ethene ... methylisocyanide
+7.066_085	ethene ... methylisocyanide
+7.066_090	ethene ... methylisocyanide
+7.066_095	ethene ... methylisocyanide
+7.066_100	ethene ... methylisocyanide
+7.066_105	ethene ... methylisocyanide
+7.066_110	ethene ... methylisocyanide
+7.066_125	ethene ... methylisocyanide
+7.066_150	ethene ... methylisocyanide
+7.066_200	ethene ... methylisocyanide
+7.067_080	ethene ... nitromethane
+7.067_085	ethene ... nitromethane
+7.067_090	ethene ... nitromethane
+7.067_095	ethene ... nitromethane
+7.067_100	ethene ... nitromethane
+7.067_105	ethene ... nitromethane
+7.067_110	ethene ... nitromethane
+7.067_125	ethene ... nitromethane
+7.067_150	ethene ... nitromethane
+7.067_200	ethene ... nitromethane
+7.068_080	ethene ... nitrosomethane
+7.068_085	ethene ... nitrosomethane
+7.068_090	ethene ... nitrosomethane
+7.068_095	ethene ... nitrosomethane
+7.068_100	ethene ... nitrosomethane
+7.068_105	ethene ... nitrosomethane
+7.068_110	ethene ... nitrosomethane
+7.068_125	ethene ... nitrosomethane
+7.068_150	ethene ... nitrosomethane
+7.068_200	ethene ... nitrosomethane
+7.069_080	ethene ... N-methyl-2-propanimine
+7.069_085	ethene ... N-methyl-2-propanimine
+7.069_090	ethene ... N-methyl-2-propanimine
+7.069_095	ethene ... N-methyl-2-propanimine
+7.069_100	ethene ... N-methyl-2-propanimine
+7.069_105	ethene ... N-methyl-2-propanimine
+7.069_110	ethene ... N-methyl-2-propanimine
+7.069_125	ethene ... N-methyl-2-propanimine
+7.069_150	ethene ... N-methyl-2-propanimine
+7.069_200	ethene ... N-methyl-2-propanimine
+7.070_080	ethene ... N-methylacetamide
+7.070_085	ethene ... N-methylacetamide
+7.070_090	ethene ... N-methylacetamide
+7.070_095	ethene ... N-methylacetamide
+7.070_100	ethene ... N-methylacetamide
+7.070_105	ethene ... N-methylacetamide
+7.070_110	ethene ... N-methylacetamide
+7.070_125	ethene ... N-methylacetamide
+7.070_150	ethene ... N-methylacetamide
+7.070_200	ethene ... N-methylacetamide
+7.071_080	ethene ... phenol
+7.071_085	ethene ... phenol
+7.071_090	ethene ... phenol
+7.071_095	ethene ... phenol
+7.071_100	ethene ... phenol
+7.071_105	ethene ... phenol
+7.071_110	ethene ... phenol
+7.071_125	ethene ... phenol
+7.071_150	ethene ... phenol
+7.071_200	ethene ... phenol
+7.072_080	ethene ... pyridine
+7.072_085	ethene ... pyridine
+7.072_090	ethene ... pyridine
+7.072_095	ethene ... pyridine
+7.072_100	ethene ... pyridine
+7.072_105	ethene ... pyridine
+7.072_110	ethene ... pyridine
+7.072_125	ethene ... pyridine
+7.072_150	ethene ... pyridine
+7.072_200	ethene ... pyridine
+7.073_080	ethene ... trimethylamine
+7.073_085	ethene ... trimethylamine
+7.073_090	ethene ... trimethylamine
+7.073_095	ethene ... trimethylamine
+7.073_100	ethene ... trimethylamine
+7.073_105	ethene ... trimethylamine
+7.073_110	ethene ... trimethylamine
+7.073_125	ethene ... trimethylamine
+7.073_150	ethene ... trimethylamine
+7.073_200	ethene ... trimethylamine
+7.074_080	ethene ... water
+7.074_085	ethene ... water
+7.074_090	ethene ... water
+7.074_095	ethene ... water
+7.074_100	ethene ... water
+7.074_105	ethene ... water
+7.074_110	ethene ... water
+7.074_125	ethene ... water
+7.074_150	ethene ... water
+7.074_200	ethene ... water
+7.075_080	ethyne ... furan
+7.075_085	ethyne ... furan
+7.075_090	ethyne ... furan
+7.075_095	ethyne ... furan
+7.075_100	ethyne ... furan
+7.075_105	ethyne ... furan
+7.075_110	ethyne ... furan
+7.075_125	ethyne ... furan
+7.075_150	ethyne ... furan
+7.075_200	ethyne ... furan
+7.076_080	ethyne ... methylcyanate
+7.076_085	ethyne ... methylcyanate
+7.076_090	ethyne ... methylcyanate
+7.076_095	ethyne ... methylcyanate
+7.076_100	ethyne ... methylcyanate
+7.076_105	ethyne ... methylcyanate
+7.076_110	ethyne ... methylcyanate
+7.076_125	ethyne ... methylcyanate
+7.076_150	ethyne ... methylcyanate
+7.076_200	ethyne ... methylcyanate
+7.077_080	ethyne ... methylisocyanide
+7.077_085	ethyne ... methylisocyanide
+7.077_090	ethyne ... methylisocyanide
+7.077_095	ethyne ... methylisocyanide
+7.077_100	ethyne ... methylisocyanide
+7.077_105	ethyne ... methylisocyanide
+7.077_110	ethyne ... methylisocyanide
+7.077_125	ethyne ... methylisocyanide
+7.077_150	ethyne ... methylisocyanide
+7.077_200	ethyne ... methylisocyanide
+7.078_080	methane ... acetaldehyde
+7.078_085	methane ... acetaldehyde
+7.078_090	methane ... acetaldehyde
+7.078_095	methane ... acetaldehyde
+7.078_100	methane ... acetaldehyde
+7.078_105	methane ... acetaldehyde
+7.078_110	methane ... acetaldehyde
+7.078_125	methane ... acetaldehyde
+7.078_150	methane ... acetaldehyde
+7.078_200	methane ... acetaldehyde
+7.079_080	methane ... acetamide
+7.079_085	methane ... acetamide
+7.079_090	methane ... acetamide
+7.079_095	methane ... acetamide
+7.079_100	methane ... acetamide
+7.079_105	methane ... acetamide
+7.079_110	methane ... acetamide
+7.079_125	methane ... acetamide
+7.079_150	methane ... acetamide
+7.079_200	methane ... acetamide
+7.080_080	methane ... acetic acid
+7.080_085	methane ... acetic acid
+7.080_090	methane ... acetic acid
+7.080_095	methane ... acetic acid
+7.080_100	methane ... acetic acid
+7.080_105	methane ... acetic acid
+7.080_110	methane ... acetic acid
+7.080_125	methane ... acetic acid
+7.080_150	methane ... acetic acid
+7.080_200	methane ... acetic acid
+7.081_080	methane ... acetone
+7.081_085	methane ... acetone
+7.081_090	methane ... acetone
+7.081_095	methane ... acetone
+7.081_100	methane ... acetone
+7.081_105	methane ... acetone
+7.081_110	methane ... acetone
+7.081_125	methane ... acetone
+7.081_150	methane ... acetone
+7.081_200	methane ... acetone
+7.082_080	methane ... acetonitrile
+7.082_085	methane ... acetonitrile
+7.082_090	methane ... acetonitrile
+7.082_095	methane ... acetonitrile
+7.082_100	methane ... acetonitrile
+7.082_105	methane ... acetonitrile
+7.082_110	methane ... acetonitrile
+7.082_125	methane ... acetonitrile
+7.082_150	methane ... acetonitrile
+7.082_200	methane ... acetonitrile
+7.083_080	methane ... ammonia
+7.083_085	methane ... ammonia
+7.083_090	methane ... ammonia
+7.083_095	methane ... ammonia
+7.083_100	methane ... ammonia
+7.083_105	methane ... ammonia
+7.083_110	methane ... ammonia
+7.083_125	methane ... ammonia
+7.083_150	methane ... ammonia
+7.083_200	methane ... ammonia
+7.084_080	methane ... aniline
+7.084_085	methane ... aniline
+7.084_090	methane ... aniline
+7.084_095	methane ... aniline
+7.084_100	methane ... aniline
+7.084_105	methane ... aniline
+7.084_110	methane ... aniline
+7.084_125	methane ... aniline
+7.084_150	methane ... aniline
+7.084_200	methane ... aniline
+7.085_080	methane ... dimethylamine
+7.085_085	methane ... dimethylamine
+7.085_090	methane ... dimethylamine
+7.085_095	methane ... dimethylamine
+7.085_100	methane ... dimethylamine
+7.085_105	methane ... dimethylamine
+7.085_110	methane ... dimethylamine
+7.085_125	methane ... dimethylamine
+7.085_150	methane ... dimethylamine
+7.085_200	methane ... dimethylamine
+7.086_080	methane ... dimethylcarbonate
+7.086_085	methane ... dimethylcarbonate
+7.086_090	methane ... dimethylcarbonate
+7.086_095	methane ... dimethylcarbonate
+7.086_100	methane ... dimethylcarbonate
+7.086_105	methane ... dimethylcarbonate
+7.086_110	methane ... dimethylcarbonate
+7.086_125	methane ... dimethylcarbonate
+7.086_150	methane ... dimethylcarbonate
+7.086_200	methane ... dimethylcarbonate
+7.087_080	methane ... dimethyldiazene
+7.087_085	methane ... dimethyldiazene
+7.087_090	methane ... dimethyldiazene
+7.087_095	methane ... dimethyldiazene
+7.087_100	methane ... dimethyldiazene
+7.087_105	methane ... dimethyldiazene
+7.087_110	methane ... dimethyldiazene
+7.087_125	methane ... dimethyldiazene
+7.087_150	methane ... dimethyldiazene
+7.087_200	methane ... dimethyldiazene
+7.088_080	methane ... dimethylether
+7.088_085	methane ... dimethylether
+7.088_090	methane ... dimethylether
+7.088_095	methane ... dimethylether
+7.088_100	methane ... dimethylether
+7.088_105	methane ... dimethylether
+7.088_110	methane ... dimethylether
+7.088_125	methane ... dimethylether
+7.088_150	methane ... dimethylether
+7.088_200	methane ... dimethylether
+7.089_080	methane ... dimethylperoxide
+7.089_085	methane ... dimethylperoxide
+7.089_090	methane ... dimethylperoxide
+7.089_095	methane ... dimethylperoxide
+7.089_100	methane ... dimethylperoxide
+7.089_105	methane ... dimethylperoxide
+7.089_110	methane ... dimethylperoxide
+7.089_125	methane ... dimethylperoxide
+7.089_150	methane ... dimethylperoxide
+7.089_200	methane ... dimethylperoxide
+7.090_080	methane ... furan
+7.090_085	methane ... furan
+7.090_090	methane ... furan
+7.090_095	methane ... furan
+7.090_100	methane ... furan
+7.090_105	methane ... furan
+7.090_110	methane ... furan
+7.090_125	methane ... furan
+7.090_150	methane ... furan
+7.090_200	methane ... furan
+7.091_080	methane ... methanol
+7.091_085	methane ... methanol
+7.091_090	methane ... methanol
+7.091_095	methane ... methanol
+7.091_100	methane ... methanol
+7.091_105	methane ... methanol
+7.091_110	methane ... methanol
+7.091_125	methane ... methanol
+7.091_150	methane ... methanol
+7.091_200	methane ... methanol
+7.092_080	methane ... methylacetate
+7.092_085	methane ... methylacetate
+7.092_090	methane ... methylacetate
+7.092_095	methane ... methylacetate
+7.092_100	methane ... methylacetate
+7.092_105	methane ... methylacetate
+7.092_110	methane ... methylacetate
+7.092_125	methane ... methylacetate
+7.092_150	methane ... methylacetate
+7.092_200	methane ... methylacetate
+7.093_080	methane ... methylamine
+7.093_085	methane ... methylamine
+7.093_090	methane ... methylamine
+7.093_095	methane ... methylamine
+7.093_100	methane ... methylamine
+7.093_105	methane ... methylamine
+7.093_110	methane ... methylamine
+7.093_125	methane ... methylamine
+7.093_150	methane ... methylamine
+7.093_200	methane ... methylamine
+7.094_080	methane ... methylazide
+7.094_085	methane ... methylazide
+7.094_090	methane ... methylazide
+7.094_095	methane ... methylazide
+7.094_100	methane ... methylazide
+7.094_105	methane ... methylazide
+7.094_110	methane ... methylazide
+7.094_125	methane ... methylazide
+7.094_150	methane ... methylazide
+7.094_200	methane ... methylazide
+7.095_080	methane ... methylcyanate
+7.095_085	methane ... methylcyanate
+7.095_090	methane ... methylcyanate
+7.095_095	methane ... methylcyanate
+7.095_100	methane ... methylcyanate
+7.095_105	methane ... methylcyanate
+7.095_110	methane ... methylcyanate
+7.095_125	methane ... methylcyanate
+7.095_150	methane ... methylcyanate
+7.095_200	methane ... methylcyanate
+7.096_080	methane ... methylisocyanide
+7.096_085	methane ... methylisocyanide
+7.096_090	methane ... methylisocyanide
+7.096_095	methane ... methylisocyanide
+7.096_100	methane ... methylisocyanide
+7.096_105	methane ... methylisocyanide
+7.096_110	methane ... methylisocyanide
+7.096_125	methane ... methylisocyanide
+7.096_150	methane ... methylisocyanide
+7.096_200	methane ... methylisocyanide
+7.097_080	methane ... nitromethane
+7.097_085	methane ... nitromethane
+7.097_090	methane ... nitromethane
+7.097_095	methane ... nitromethane
+7.097_100	methane ... nitromethane
+7.097_105	methane ... nitromethane
+7.097_110	methane ... nitromethane
+7.097_125	methane ... nitromethane
+7.097_150	methane ... nitromethane
+7.097_200	methane ... nitromethane
+7.098_080	methane ... nitrosomethane
+7.098_085	methane ... nitrosomethane
+7.098_090	methane ... nitrosomethane
+7.098_095	methane ... nitrosomethane
+7.098_100	methane ... nitrosomethane
+7.098_105	methane ... nitrosomethane
+7.098_110	methane ... nitrosomethane
+7.098_125	methane ... nitrosomethane
+7.098_150	methane ... nitrosomethane
+7.098_200	methane ... nitrosomethane
+7.099_080	methane ... N-methyl-2-propanimine
+7.099_085	methane ... N-methyl-2-propanimine
+7.099_090	methane ... N-methyl-2-propanimine
+7.099_095	methane ... N-methyl-2-propanimine
+7.099_100	methane ... N-methyl-2-propanimine
+7.099_105	methane ... N-methyl-2-propanimine
+7.099_110	methane ... N-methyl-2-propanimine
+7.099_125	methane ... N-methyl-2-propanimine
+7.099_150	methane ... N-methyl-2-propanimine
+7.099_200	methane ... N-methyl-2-propanimine
+7.100_080	methane ... N-methylacetamide
+7.100_085	methane ... N-methylacetamide
+7.100_090	methane ... N-methylacetamide
+7.100_095	methane ... N-methylacetamide
+7.100_100	methane ... N-methylacetamide
+7.100_105	methane ... N-methylacetamide
+7.100_110	methane ... N-methylacetamide
+7.100_125	methane ... N-methylacetamide
+7.100_150	methane ... N-methylacetamide
+7.100_200	methane ... N-methylacetamide
+7.101_080	methane ... phenol
+7.101_085	methane ... phenol
+7.101_090	methane ... phenol
+7.101_095	methane ... phenol
+7.101_100	methane ... phenol
+7.101_105	methane ... phenol
+7.101_110	methane ... phenol
+7.101_125	methane ... phenol
+7.101_150	methane ... phenol
+7.101_200	methane ... phenol
+7.102_080	methane ... pyridine
+7.102_085	methane ... pyridine
+7.102_090	methane ... pyridine
+7.102_095	methane ... pyridine
+7.102_100	methane ... pyridine
+7.102_105	methane ... pyridine
+7.102_110	methane ... pyridine
+7.102_125	methane ... pyridine
+7.102_150	methane ... pyridine
+7.102_200	methane ... pyridine
+7.103_080	methane ... trimethylamine
+7.103_085	methane ... trimethylamine
+7.103_090	methane ... trimethylamine
+7.103_095	methane ... trimethylamine
+7.103_100	methane ... trimethylamine
+7.103_105	methane ... trimethylamine
+7.103_110	methane ... trimethylamine
+7.103_125	methane ... trimethylamine
+7.103_150	methane ... trimethylamine
+7.103_200	methane ... trimethylamine
+7.104_080	methane ... water
+7.104_085	methane ... water
+7.104_090	methane ... water
+7.104_095	methane ... water
+7.104_100	methane ... water
+7.104_105	methane ... water
+7.104_110	methane ... water
+7.104_125	methane ... water
+7.104_150	methane ... water
+7.104_200	methane ... water
+7.105_080	methanol ... methylisocyanide
+7.105_085	methanol ... methylisocyanide
+7.105_090	methanol ... methylisocyanide
+7.105_095	methanol ... methylisocyanide
+7.105_100	methanol ... methylisocyanide
+7.105_105	methanol ... methylisocyanide
+7.105_110	methanol ... methylisocyanide
+7.105_125	methanol ... methylisocyanide
+7.105_150	methanol ... methylisocyanide
+7.105_200	methanol ... methylisocyanide
+7.106_080	methylamine ... methylazide
+7.106_085	methylamine ... methylazide
+7.106_090	methylamine ... methylazide
+7.106_095	methylamine ... methylazide
+7.106_100	methylamine ... methylazide
+7.106_105	methylamine ... methylazide
+7.106_110	methylamine ... methylazide
+7.106_125	methylamine ... methylazide
+7.106_150	methylamine ... methylazide
+7.106_200	methylamine ... methylazide
+7.107_080	methylamine ... phenol
+7.107_085	methylamine ... phenol
+7.107_090	methylamine ... phenol
+7.107_095	methylamine ... phenol
+7.107_100	methylamine ... phenol
+7.107_105	methylamine ... phenol
+7.107_110	methylamine ... phenol
+7.107_125	methylamine ... phenol
+7.107_150	methylamine ... phenol
+7.107_200	methylamine ... phenol
+7.108_080	N-methylacetamide ... acetaldehyde
+7.108_085	N-methylacetamide ... acetaldehyde
+7.108_090	N-methylacetamide ... acetaldehyde
+7.108_095	N-methylacetamide ... acetaldehyde
+7.108_100	N-methylacetamide ... acetaldehyde
+7.108_105	N-methylacetamide ... acetaldehyde
+7.108_110	N-methylacetamide ... acetaldehyde
+7.108_125	N-methylacetamide ... acetaldehyde
+7.108_150	N-methylacetamide ... acetaldehyde
+7.108_200	N-methylacetamide ... acetaldehyde
+7.109_080	N-methylacetamide ... acetone
+7.109_085	N-methylacetamide ... acetone
+7.109_090	N-methylacetamide ... acetone
+7.109_095	N-methylacetamide ... acetone
+7.109_100	N-methylacetamide ... acetone
+7.109_105	N-methylacetamide ... acetone
+7.109_110	N-methylacetamide ... acetone
+7.109_125	N-methylacetamide ... acetone
+7.109_150	N-methylacetamide ... acetone
+7.109_200	N-methylacetamide ... acetone
+7.110_080	N-methylacetamide ... dimethylcarbonate
+7.110_085	N-methylacetamide ... dimethylcarbonate
+7.110_090	N-methylacetamide ... dimethylcarbonate
+7.110_095	N-methylacetamide ... dimethylcarbonate
+7.110_100	N-methylacetamide ... dimethylcarbonate
+7.110_105	N-methylacetamide ... dimethylcarbonate
+7.110_110	N-methylacetamide ... dimethylcarbonate
+7.110_125	N-methylacetamide ... dimethylcarbonate
+7.110_150	N-methylacetamide ... dimethylcarbonate
+7.110_200	N-methylacetamide ... dimethylcarbonate
+7.111_080	N-methylacetamide ... furan
+7.111_085	N-methylacetamide ... furan
+7.111_090	N-methylacetamide ... furan
+7.111_095	N-methylacetamide ... furan
+7.111_100	N-methylacetamide ... furan
+7.111_105	N-methylacetamide ... furan
+7.111_110	N-methylacetamide ... furan
+7.111_125	N-methylacetamide ... furan
+7.111_150	N-methylacetamide ... furan
+7.111_200	N-methylacetamide ... furan
+7.112_080	phenol ... methylisocyanide
+7.112_085	phenol ... methylisocyanide
+7.112_090	phenol ... methylisocyanide
+7.112_095	phenol ... methylisocyanide
+7.112_100	phenol ... methylisocyanide
+7.112_105	phenol ... methylisocyanide
+7.112_110	phenol ... methylisocyanide
+7.112_125	phenol ... methylisocyanide
+7.112_150	phenol ... methylisocyanide
+7.112_200	phenol ... methylisocyanide
+7.113_080	water ... methylisocyanide
+7.113_085	water ... methylisocyanide
+7.113_090	water ... methylisocyanide
+7.113_095	water ... methylisocyanide
+7.113_100	water ... methylisocyanide
+7.113_105	water ... methylisocyanide
+7.113_110	water ... methylisocyanide
+7.113_125	water ... methylisocyanide
+7.113_150	water ... methylisocyanide
+7.113_200	water ... methylisocyanide
