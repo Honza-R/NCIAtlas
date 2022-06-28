@@ -19,16 +19,16 @@ The data provided here are available also at the [NCIAtlas website](http://www.n
 ## References
 
 ### D1200 - London dispersion in an extended chemical space
-[J. Řezáč, ChemRxiv preprint, 2022](https://doi.org/10.26434/chemrxiv-2022-pl3r8)
+[J. Řezáč, Phys. Chem. Chem. Phys., 2022, 24, 14780–14793.](https://doi.org/10.1039/D2CP01602H)
 
 ### D442x10 - London dispersion in an extended chemical space, 10-point dissociation curves
-[J. Řezáč, ChemRxiv preprint, 2022](https://doi.org/10.26434/chemrxiv-2022-pl3r8)
+[J. Řezáč, Phys. Chem. Chem. Phys., 2022, 24, 14780–14793.](https://doi.org/10.1039/D2CP01602H)
 
 ### SH250x10 - Sigma-hole interactions
-[K. Kříž, J. Řezáč, ChemRxiv preprint, 2022](https://doi.org/10.26434/chemrxiv-2022-x72mz)
+[K. Kříž and J. Řezáč, Phys. Chem. Chem. Phys., 2022, 24, 14794–14804.](https://doi.org/10.1039/D2CP01600A)
 
 ### R739×5 - Repulsive contacts in an extended chemical space
-[K. Kříž, M. Nováček, J. Řezáč, J. Chem. Theory Comput., 2021, 17, 1548–1561.](https://pubs.acs.org/doi/full/10.1021/acs.jctc.0c01341)
+[K. Kříž, M. Nováček and J. Řezáč, J. Chem. Theory Comput., 2021, 17, 1548–1561.](https://pubs.acs.org/doi/full/10.1021/acs.jctc.0c01341)
 
 ### HB300SPX×10 - Hydrogen bonding extended to S, P and halogens
 [J. Řezáč, J. Chem. Theory Comput., 2020, 16, 6305–6316.](https://dx.doi.org/10.1021/acs.jctc.0c00715)
