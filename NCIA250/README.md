@@ -7,4 +7,5 @@ In benchmarking of DFT methods, the NCIA250 set had been show to reproduce the r
 
 ![Plot of DFT errors in the complete NCIA data sets and their smaller subsets](plot_NCIA250.png)
 
-
+### Download
+A package of geometries with benchmark interaction energies and additional metadata is available [here](NCIA250.zip).
