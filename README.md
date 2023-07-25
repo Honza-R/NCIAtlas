@@ -4,7 +4,7 @@ Non-Covalent Interactions Atlas is a collection of computational chemistry data 
 
 More information is available at the [NCIAtlas website](http://www.nciatlas.org).
 
-The repostory is also archived at Zenodo: [![DOI](https://zenodo.org/badge/444723462.svg)](https://zenodo.org/badge/latestdoi/444723462)
+The repository is also archived at Zenodo: [![DOI](https://zenodo.org/badge/444723462.svg)](https://zenodo.org/badge/latestdoi/444723462)
 
 
 ## Repository oganization
