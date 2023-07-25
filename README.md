@@ -4,6 +4,9 @@ Non-Covalent Interactions Atlas is a collection of computational chemistry data 
 
 More information is available at the [NCIAtlas website](http://www.nciatlas.org).
 
+The repostory is also archived at Zenodo: [![DOI](https://zenodo.org/badge/444723462.svg)](https://zenodo.org/badge/latestdoi/444723462)
+
+
 ## Repository oganization
 
 The core part are the geometries of the systems, in the widespread .xyz format. Each geometry also includes a header with all the information necessary for performing the calculations and the benchmark interaction energy. For many applications, these files are all what is needed. The geometries for each data set are in subdirectories of the [geometries directory](https://github.com/Honza-R/NCIAtlas/tree/main/geometries).
