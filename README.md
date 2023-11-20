@@ -19,6 +19,11 @@ All these data are also provided in a structured YAML file used by the [Cuby fra
 
 The data provided here are available also at the [NCIAtlas website](http://www.nciatlas.org) and as a supporting information of the individual papers. The data (molecular geometries, computed results) should be the same, but their organization, file names, etc. may differ. This repository aims to provide the data in a structure as consistent as possible across all the data sets.
 
+## DFT-SAPT results
+
+DFT-SAPT interaction energy decomposition data for the D442x10, HB300SPXx10, HB375x10, IHB100x10, R739x5 and SH250x10 data sets contributed by E. Masumian and A. D. Boese are available in the [tables directory](https://github.com/Honza-R/NCIAtlas/tree/main/tables). Two sets of results, computed with DFT-SAPT based on either B3LYP or PBE0 functional, are available for each data set.
+
+
 ## References
 
 ### D1200 - London dispersion in an extended chemical space
@@ -42,3 +47,5 @@ The data provided here are available also at the [NCIAtlas website](http://www.n
 ### IHB100×10 - Ionic hydrogen bonds in organic molecules
 [J. Řezáč, J. Chem. Theory Comput., 2020, 16, 2355–2368.](https://doi.org/10.1021/acs.jctc.9b01265)
 
+### DFT-SAPT results
+E. Masumian and A. D. Boese; *Paper in preparation*
