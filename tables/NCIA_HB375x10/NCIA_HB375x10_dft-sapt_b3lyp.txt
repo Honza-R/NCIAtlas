@@ -1,6 +1,6 @@
 # DFT-SAPT benchmark energies with the asymptotically corrected B3LYP potential for HB375x10
 # All energy units have been converted to kcal/mol
-# The DFT-SAPT calculations have been performed by E. Masumian and A. D. Boese (reference)
+# The DFT-SAPT calculations have been performed by E. Masumian and A. D. Boese (https://doi.org/10.1021/acs.jctc.3c00801)
 
 System             Elst         Exch          Ind        deltaHF        Disp           Total     
 1.001_080       -36.964        67.663       -12.470        -9.655       -12.769        -4.195

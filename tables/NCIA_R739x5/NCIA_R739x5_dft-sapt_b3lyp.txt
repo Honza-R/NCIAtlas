@@ -1,6 +1,6 @@
 # DFT-SAPT benchmark energies with the asymptotically corrected B3LYP potential for R739x5
 # All energy units have been converted to kcal/mol
-# The calculations have been performed by E. Masumian and A. D. Boese (reference)
+# The calculations have been performed by E. Masumian and A. D. Boese (https://doi.org/10.1021/acs.jctc.3c00801)
 
 System             Elst        Exch        Ind       deltaHF       Disp       Total    
 001.01_100      -1.940       7.585      -0.304      -0.732      -2.656       1.953

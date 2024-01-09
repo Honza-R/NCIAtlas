@@ -48,4 +48,4 @@ DFT-SAPT interaction energy decomposition data for the D442x10, HB300SPXx10, HB3
 [J. Řezáč, J. Chem. Theory Comput., 2020, 16, 2355–2368.](https://doi.org/10.1021/acs.jctc.9b01265)
 
 ### DFT-SAPT results
-E. Masumian and A. D. Boese; *Paper in preparation*
+[E. Masumian and A. D. Boese, J. Chem. Theory Comput. 2024, 20, 30–48](https://doi.org/10.1021/acs.jctc.3c00801)

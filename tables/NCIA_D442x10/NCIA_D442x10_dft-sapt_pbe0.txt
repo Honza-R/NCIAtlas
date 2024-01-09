@@ -1,6 +1,6 @@
 # DFT-SAPT benchmark energies with the asymptotically corrected PBE0 potential for D442x10
 # All energy units have been converted to kcal/mol
-# The calculations have been performed by E. Masumian and A. D. Boese (reference)
+# The calculations have been performed by E. Masumian and A. D. Boese (https://doi.org/10.1021/acs.jctc.3c00801)
 
 System             Elst        Exch        Ind       deltaHF       Disp       Total    
 1.01.01_080      -0.312       1.071      -0.039      -0.099      -0.613       0.008
