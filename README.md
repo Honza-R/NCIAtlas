@@ -25,6 +25,10 @@ The data provided here are available also at the [NCIAtlas website](http://www.n
 
 DFT-SAPT interaction energy decomposition data for the D442x10, HB300SPXx10, HB375x10, IHB100x10, R739x5 and SH250x10 data sets contributed by E. Masumian and A. D. Boese are available in the [tables directory](https://github.com/Honza-R/NCIAtlas/tree/main/tables). Two sets of results, computed with DFT-SAPT based on either B3LYP or PBE0 functional, are available for each data set.
 
+## License
+
+The data are provided under the [Creative Commons CC-BY license](https://creativecommons.org/licenses/by/4.0/).
+
 
 ## References
 
